@@ -1,9 +1,22 @@
-# 科幻小说作品集
-自己收集的科幻小说作品集。
 
-# 目前作品：
+<div align="center">
+<img src="https://socialify.git.ci/VeejaLiu/ScienceFictionCollection/image?description=1&descriptionEditable=%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E4%BD%9C%E5%93%81%E9%9B%86&font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark" alt="ScienceFictionCollection" width="640" height="320" />
+</div>
+
+# 科幻小说作品集
+> 自己收集的科幻小说作品集。
+## 目前作家
+- 001 - Cixin Liu
+- 002 - Frank Herbert
+- 003 - Isaac Asimov
+
+
+## 目前作品：
+<div style="color:gray">
 （此顺序只代表本仓库先后的添加顺序）
-## 001 - Cixin Liu
+</div>
+
+### 001 - Cixin Liu
 - 0-刘慈欣汇总.md
 - 2015-圆（人列计算机）（仅有链接）.txt
 - 1997-3-欢乐颂.txt
@@ -57,12 +70,12 @@
 - 2005-1-山.txt
 - 2001-4-纤 维.txt
 
-## 002 - Frank Herbert
+### 002 - Frank Herbert
 - 沙丘救世主.txt
 - 沙丘.txt
 - 沙丘之子.txt
 
-## 003 - Isaac Asimov
+### 003 - Isaac Asimov
 - 讣告.txt
 - 怪异的谋杀案.txt
 - 力量的感觉.txt
