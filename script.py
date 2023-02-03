@@ -34,12 +34,35 @@ markdown += f"""
 
 """
 
+SIZE_UNIT = [
+    "B",
+    "KB",
+    "MB",
+    "GB"
+]
+
+
+def get_file_size(file_path):
+    unit_level = 0
+    file_size = os.path.getsize(file_path)
+    for i in range(3):
+        if file_size > 1000:
+            unit_level += 1
+            file_size = file_size / 1000
+        else:
+            break
+    return str(round(file_size, 2)) + SIZE_UNIT[unit_level]
+
+
 for child_path_name in child_path_name_list:
     markdown += f"""### {child_path_name}\n"""
     child_path = "./" + child_path_name
     file_name_list = []
-    for file in os.scandir('./' + child_path_name):
-        file_name_list.append(file.name)
+    for file in os.scandir(child_path):
+        file_name = file.name
+        file_path = child_path + '/' + file_name
+        file_size = get_file_size(file_path)
+        file_name_list.append(file.name + f'     [{file_size}]')
 
     file_name_list.sort()
     for file_name in file_name_list:
