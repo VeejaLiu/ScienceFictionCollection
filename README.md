@@ -11,6 +11,7 @@
 - 001 - Cixin Liu
 - 002 - Frank Herbert
 - 003 - Isaac Asimov
+- 004 - Jules Gabriel Verne
 
 
 ## 目前作品：
@@ -145,4 +146,7 @@
 - 镜象.txt     [29.55KB]
 - 鬼扯.txt     [9.04KB]
 - 黑鳏夫酒家的聚会.txt     [33.14KB]
+
+### 004 - Jules Gabriel Verne
+- 格兰特船长的儿女.txt     [969.61KB]
 
