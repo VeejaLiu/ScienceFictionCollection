@@ -7,23 +7,26 @@ markdown = """
 
 # 科幻小说作品集
 > 自己收集的科幻小说作品集。
+> 
+> 本readme文件由仓库内script.py脚本自动生成。
 """
 
 excludePath = ['venv', '.git', '.idea']
 
-child_path_name_list = []
+author_path_name_list = []
 
+# 获取所有的作者目录
 for f in os.scandir():
     filename = f.name
     if f.is_dir() and filename not in excludePath:
         dirName = f.name
-        child_path_name_list.append(dirName)
+        author_path_name_list.append(dirName)
 
-child_path_name_list.sort()
+author_path_name_list.sort()
 
 markdown += f"""## 目前作家\n"""
-for child_path_name in child_path_name_list:
-    markdown += f"""- {child_path_name}\n"""
+for author_path_name in author_path_name_list:
+    markdown += f"""- {author_path_name}\n"""
 
 markdown += f"""\n"""
 markdown += f"""
@@ -54,18 +57,46 @@ def get_file_size(file_path):
     return str(round(file_size, 2)) + SIZE_UNIT[unit_level]
 
 
-for child_path_name in child_path_name_list:
-    markdown += f"""### {child_path_name}\n"""
-    child_path = "./" + child_path_name
-    file_name_list = []
-    for file in os.scandir(child_path):
+# 遍历所有的作者目录
+for author_path_name in author_path_name_list:
+    markdown += f"""### {author_path_name}\n"""
+    author_path = "./" + author_path_name
+    author_series_list = []
+    author_book_info_list = []
+    # 遍历一个作者下面的所有文件
+    for file in os.scandir(author_path):
         file_name = file.name
-        file_path = child_path + '/' + file_name
-        file_size = get_file_size(file_path)
-        file_name_list.append(file.name + f'     [{file_size}]')
+        file_path = author_path + '/' + file_name
+        # 如果是个目录，存入系列目录列表
+        if file.is_dir():
+            author_series_list.append({'file_path': file_path, 'file_name': file_name})
+        # 如果是个文件，存入书籍列表
+        else:
+            book_size = get_file_size(file_path)
+            author_book_info_list.append(file.name + f'     [{book_size}]')
 
-    file_name_list.sort()
-    for file_name in file_name_list:
+    # 如果该作者目录下面有系列目录
+    if len(author_series_list) > 0:
+        # TODO 排序没有做好
+        # author_series_list.sort()
+        # 遍历作者的每一个系列目录
+        for author_series in author_series_list:
+            series_name = author_series['file_name']
+            series_path = author_series['file_path']
+            markdown += f"""- {series_name}\n"""
+            book_info_list = []
+            for file in os.scandir(series_path):
+                book_name = file.name
+                book_path = series_path + '/' + book_name
+                book_size = get_file_size(book_path)
+                book_info_list.append(book_name + f'     [{book_size}]')
+            book_info_list.sort()
+            for book_info in book_info_list:
+                markdown += f"""  - {book_info}\n"""
+
+    # 遍历作者的每一本书
+    author_book_info_list.sort()
+    for file_name in author_book_info_list:
         markdown += f"""- {file_name}\n"""
     markdown += f"""\n"""
 
