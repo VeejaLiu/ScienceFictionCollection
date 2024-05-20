@@ -12,6 +12,7 @@
 - 002 - Frank Herbert
 - 003 - Isaac Asimov
 - 004 - Jules Gabriel Verne
+- 005 - 玛丽·雪莱
 
 
 ## 目前作品：
@@ -150,4 +151,7 @@
 ### 004 - Jules Gabriel Verne
 - 格兰特船长的儿女.txt     [969.61KB]
 - 海底两万里.txt     [739.86KB]
+
+### 005 - 玛丽·雪莱
+- 弗兰肯斯坦.txt     [445.06KB]
 
