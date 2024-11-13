@@ -13,6 +13,7 @@
 - 003 - Isaac Asimov
 - 004 - Jules Gabriel Verne
 - 005 - 玛丽·雪莱
+- 006 - Ray Douglas Bradbury
 
 
 ## 目前作品：
@@ -158,4 +159,7 @@
 
 ### 005 - 玛丽·雪莱
 - 弗兰肯斯坦.txt     _[445.06KB]_
+
+### 006 - Ray Douglas Bradbury
+- 《火星纪事》1950年.epub     _[227.94KB]_
 
