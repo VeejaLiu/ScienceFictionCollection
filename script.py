@@ -73,7 +73,7 @@ for author_path_name in author_path_name_list:
         # 如果是个文件，存入书籍列表
         else:
             book_size = get_file_size(file_path)
-            author_book_info_list.append(file.name + f'     [{book_size}]')
+            author_book_info_list.append(file.name + f'     _[{book_size}]_')
 
     # 如果该作者目录下面有系列目录
     if len(author_series_list) > 0:
@@ -89,7 +89,7 @@ for author_path_name in author_path_name_list:
                 book_name = file.name
                 book_path = series_path + '/' + book_name
                 book_size = get_file_size(book_path)
-                book_info_list.append(book_name + f'     [{book_size}]')
+                book_info_list.append(book_name + f'     _[{book_size}]_')
             book_info_list.sort()
             for book_info in book_info_list:
                 markdown += f"""  - {book_info}\n"""
