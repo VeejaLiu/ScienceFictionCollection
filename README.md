@@ -76,9 +76,9 @@
 - 2017-黄金原野.txt     _[32.69KB]_
 
 ### 002 - Frank Herbert
-- 沙丘.txt     _[1.07MB]_
-- 沙丘之子.txt     _[775.46KB]_
-- 沙丘救世主.txt     _[448.95KB]_
+- 《沙丘》（Dune，1965年）.txt     _[1.07MB]_
+- 《沙丘之子》（Children of Dune，1976年）.txt     _[775.46KB]_
+- 《沙丘救世主》（Dune Messiah，1969年）.txt     _[448.95KB]_
 
 ### 003 - Isaac Asimov
 - 银河帝国系列
