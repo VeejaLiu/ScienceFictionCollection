@@ -76,9 +76,9 @@
 - 2017-黄金原野.txt     _[32.69KB]_
 
 ### 002 - Frank Herbert
-- 《沙丘》（Dune，1965年）.txt     _[1.07MB]_
-- 《沙丘之子》（Children of Dune，1976年）.txt     _[775.46KB]_
-- 《沙丘救世主》（Dune Messiah，1969年）.txt     _[448.95KB]_
+- [1965]《沙丘》(Dune).txt     _[1.07MB]_
+- [1969]《沙丘救世主》(Dune Messiah).txt     _[448.95KB]_
+- [1976]《沙丘之子》(Children of Dune).txt     _[775.46KB]_
 
 ### 003 - Isaac Asimov
 - 银河帝国系列
@@ -86,21 +86,21 @@
   - 2.星空暗流.txt     _[399.83KB]_
   - 3.苍穹微石.txt     _[434.18KB]_
 - 基地系列
-  - 基地三部曲1：《基地》（Foundation，1951年）.txt     _[435.46KB]_
-  - 基地三部曲2：《基地与帝国》（Foundation and Empire，1952年） .txt     _[504.62KB]_
-  - 基地三部曲3：《第二基地》（Second Foundation，1953年） .txt     _[467.01KB]_
-  - 基地前传1：《基地前奏》（Prelude to Foundation，1988年） .txt     _[781.87KB]_
-  - 基地前传2：《迈向基地》（Forward the Foundation，1993年） .txt     _[675.66KB]_
-  - 基地后传1：《基地边缘》（Foundation's Edge，1982年） .txt     _[865.78KB]_
-  - 基地后传2：《基地与地球》（Foundation and Earth，1986年） .txt     _[852.57KB]_
+  - 基地三部曲1：[1951]《基地》(Foundation).txt     _[435.46KB]_
+  - 基地三部曲2：[1952]《基地与帝国》(Foundation and Empire).txt     _[504.62KB]_
+  - 基地三部曲3：[1953]《第二基地》(Second Foundation).txt     _[467.01KB]_
+  - 基地前传1：[1988]《基地前奏》(Prelude to Foundation).txt     _[781.87KB]_
+  - 基地前传2：[1993]《迈向基地》(Forward the Foundation).txt     _[675.66KB]_
+  - 基地后传1：[1982]《基地边缘》(Foundation's Edge).txt     _[865.78KB]_
+  - 基地后传2：[1986]《基地与地球》(Foundation and Earth).txt     _[852.57KB]_
 - 机器人系列
-  - 《曙光中的机器人》（1983年）.txt     _[209.53KB]_
-  - 《机器人与帝国》（1985年）.txt     _[233.38KB]_
-  - 《裸阳》（1957年）.txt     _[413.76KB]_
-  - 《钢穴》（1954年）.txt     _[435.06KB]_
+  - [1954]《钢穴》.txt     _[435.06KB]_
+  - [1957]《裸阳》.txt     _[413.76KB]_
+  - [1983]《曙光中的机器人》.txt     _[209.53KB]_
+  - [1985]《机器人与帝国》.txt     _[233.38KB]_
 - 0-IsaacAsimov.md     _[51.06KB]_
 - AL-76号走失记.txt     _[31.48KB]_
-- 《我，机器人》（I, Robot，1950年）.txt     _[259.91KB]_
+- [1950]《我，机器人》(I, Robot).txt     _[259.91KB]_
 - 一只下金蛋的鹅.txt     _[10.33KB]_
 - 不朽的诗人.txt     _[5.12KB]_
 - 九个明天.txt     _[452.51KB]_
@@ -152,14 +152,14 @@
 
 ### 004 - Jules Gabriel Verne
 - 01-三部曲
-  - 《格兰特船长的儿女》（1868年）.txt     _[969.61KB]_
-  - 《海底两万里》（Vingt mille lieues sous les mers，1870年）.txt     _[739.86KB]_
-  - 《神秘岛》（1875年）.txt     _[970.76KB]_
+  - [1868]《格兰特船长的儿女》.txt     _[969.61KB]_
+  - [1870]《海底两万里》(Vingt mille lieues sous les mers).txt     _[739.86KB]_
+  - [1875]《神秘岛》.txt     _[970.76KB]_
 - 02-大炮俱乐部三部曲
-  - 《从地球到月球》（De la Terre à la Lune，1865年）.txt     _[276.6KB]_
+  - [1865]《从地球到月球》(De la Terre à la Lune).txt     _[276.6KB]_
 
 ### 005 - 玛丽·雪莱
-- 《弗兰肯斯坦》（1818年）.txt     _[445.06KB]_
+- [1818]《弗兰肯斯坦》(Frankenstein).txt     _[445.06KB]_
 
 ### 006 - Ray Douglas Bradbury
 - 《图案人》1951年.epub     _[341.5KB]_
