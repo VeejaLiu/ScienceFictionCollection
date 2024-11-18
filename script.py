@@ -7,7 +7,7 @@ markdown = """
 
 # 科幻小说作品集
 > 自己收集的科幻小说作品集。
-> 
+>
 > 本readme文件由仓库内script.py脚本自动生成。
 """
 
@@ -19,30 +19,20 @@ author_path_name_list = []
 for f in os.scandir():
     filename = f.name
     if f.is_dir() and filename not in excludePath:
-        dirName = f.name
-        author_path_name_list.append(dirName)
+        author_path_name_list.append(f.name)
 
 author_path_name_list.sort()
 
 markdown += f"""## 目前作家\n"""
-for author_path_name in author_path_name_list:
-    markdown += f"""- {author_path_name}\n"""
+for author in author_path_name_list:
+    markdown += f"""- {author}\n"""
 
-markdown += f"""\n"""
-markdown += f"""
-## 目前作品：
-<div style="color:gray">
-（此顺序只代表本仓库先后的添加顺序）
-</div>
+markdown += f"""\n## 目前作品：
+<div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
 
 """
 
-SIZE_UNIT = [
-    "B",
-    "KB",
-    "MB",
-    "GB"
-]
+SIZE_UNIT = ["B", "KB", "MB", "GB"]
 
 
 def get_file_size(file_path):
@@ -57,48 +47,36 @@ def get_file_size(file_path):
     return str(round(file_size, 2)) + SIZE_UNIT[unit_level]
 
 
-# 遍历所有的作者目录
-for author_path_name in author_path_name_list:
-    markdown += f"""### {author_path_name}\n"""
-    author_path = "./" + author_path_name
-    author_series_list = []
-    author_book_info_list = []
-    # 遍历一个作者下面的所有文件
-    for file in os.scandir(author_path):
-        file_name = file.name
-        file_path = author_path + '/' + file_name
-        # 如果是个目录，存入系列目录列表
-        if file.is_dir():
-            author_series_list.append({'file_path': file_path, 'file_name': file_name})
-        # 如果是个文件，存入书籍列表
+def add_books_from_directory(path, indent_level=0):
+    """递归遍历目录，添加书籍和系列信息到 markdown。"""
+    global markdown
+    indent = " " * 2 * indent_level  # 生成缩进
+
+    directories = []
+    files = []
+
+    for entry in os.scandir(path):
+        if entry.is_dir():
+            directories.append(entry.name)
         else:
-            book_size = get_file_size(file_path)
-            author_book_info_list.append(file.name + f'     _[{book_size}]_')
+            files.append(entry.name)
 
-    # 如果该作者目录下面有系列目录
-    if len(author_series_list) > 0:
-        # TODO 排序没有做好
-        # author_series_list.sort()
-        # 遍历作者的每一个系列目录
-        for author_series in author_series_list:
-            series_name = author_series['file_name']
-            series_path = author_series['file_path']
-            markdown += f"""- {series_name}\n"""
-            book_info_list = []
-            for file in os.scandir(series_path):
-                book_name = file.name
-                book_path = series_path + '/' + book_name
-                book_size = get_file_size(book_path)
-                book_info_list.append(book_name + f'     _[{book_size}]_')
-            book_info_list.sort()
-            for book_info in book_info_list:
-                markdown += f"""  - {book_info}\n"""
+    # 先写目录，再写文件
+    for directory in sorted(directories):
+        markdown += f"{indent}- {directory}\n"
+        add_books_from_directory(os.path.join(path, directory), indent_level + 1)
+    for file in sorted(files):
+        book_size = get_file_size(os.path.join(path, file))
+        markdown += f"{indent}- {file} _[{book_size}]_\n"
 
-    # 遍历作者的每一本书
-    author_book_info_list.sort()
-    for file_name in author_book_info_list:
-        markdown += f"""- {file_name}\n"""
-    markdown += f"""\n"""
+
+# 遍历所有作者的目录
+for author in author_path_name_list:
+    markdown += f"""### {author}\n"""
+    author_path = os.path.join(".", author)
+    add_books_from_directory(author_path)
+
+markdown += f"""\n"""
 
 print(markdown)
 
