@@ -154,6 +154,7 @@
   - [1875]《神秘岛》.txt _[970.76KB]_
 - 02-大炮俱乐部三部曲
   - [1865]《从地球到月球》(De la Terre à la Lune).txt _[276.6KB]_
+  - [1870]《环绕月球》.txt _[331.29KB]_
 ### 005 - 玛丽·雪莱
 - [1818]《弗兰肯斯坦》(Frankenstein).txt _[445.06KB]_
 ### 006 - Ray Douglas Bradbury
