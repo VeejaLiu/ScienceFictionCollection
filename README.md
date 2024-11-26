@@ -8,17 +8,17 @@
 >
 > 本readme文件由仓库内script.py脚本自动生成。
 ## 目前作家
-- 001 - Cixin Liu
-- 002 - Frank Herbert
-- 003 - Isaac Asimov
-- 004 - Jules Gabriel Verne
-- 005 - 玛丽·雪莱
-- 006 - Ray Douglas Bradbury
+- 001 - 刘慈欣(Cixin Liu)
+- 002 - Frank Herbert(弗兰克·赫伯特)
+- 003 - Isaac Asimov(艾萨克·阿西莫夫)
+- 004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)
+- 005 - Mary Shelley(玛丽·雪莱)
+- 006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)
 
 ## 目前作品：
 <div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
 
-### 001 - Cixin Liu
+### 001 - 刘慈欣(Cixin Liu)
 - 0-刘慈欣汇总.md _[19.63KB]_
 - [1985]《宇宙坍缩》.txt _[19.91KB]_
 - [1987]《微观尽头》.txt _[12.54KB]_
@@ -71,11 +71,11 @@
 - [2015-7]《圆》（人列计算机）.txt _[28.85KB]_
 - [2016]《不能共存的节日》.txt _[10.4KB]_
 - [2017]《黄金原野》.txt _[32.69KB]_
-### 002 - Frank Herbert
+### 002 - Frank Herbert(弗兰克·赫伯特)
 - [1965]《沙丘》(Dune).txt _[1.07MB]_
 - [1969]《沙丘救世主》(Dune Messiah).txt _[448.95KB]_
 - [1976]《沙丘之子》(Children of Dune).txt _[775.46KB]_
-### 003 - Isaac Asimov
+### 003 - Isaac Asimov(艾萨克·阿西莫夫)
 - 基地系列
   - 1-基地三部曲
     - 基地三部曲1：[1951]《基地》(Foundation).txt _[435.46KB]_
@@ -147,7 +147,7 @@
 - 镜象.txt _[29.55KB]_
 - 鬼扯.txt _[9.04KB]_
 - 黑鳏夫酒家的聚会.txt _[33.14KB]_
-### 004 - Jules Gabriel Verne
+### 004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)
 - 01-三部曲
   - [1868]《格兰特船长的儿女》.txt _[969.61KB]_
   - [1870]《海底两万里》(Vingt mille lieues sous les mers).txt _[739.86KB]_
@@ -160,9 +160,9 @@
 - [1864]《地心游记》.txt _[344.58KB]_
 - [1873]《八十天环游地球》.txt _[427.08KB]_
 - [1877]《太阳系历险记》.txt _[615.4KB]_
-### 005 - 玛丽·雪莱
+### 005 - Mary Shelley(玛丽·雪莱)
 - [1818]《弗兰肯斯坦》(Frankenstein).txt _[445.06KB]_
-### 006 - Ray Douglas Bradbury
+### 006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)
 - [1950]《火星纪事》.epub _[227.94KB]_
 - [1951]《图案人》.epub _[341.5KB]_
 
