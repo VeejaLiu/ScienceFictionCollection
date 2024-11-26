@@ -14,6 +14,7 @@
 - 004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)
 - 005 - Mary Shelley(玛丽·雪莱)
 - 006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)
+- 007 - Orson Scott Card(奥森·斯科特·卡德)
 
 ## 目前作品：
 <div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
@@ -165,4 +166,6 @@
 ### 006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)
 - [1950]《火星纪事》.epub _[227.94KB]_
 - [1951]《图案人》.epub _[341.5KB]_
+### 007 - Orson Scott Card(奥森·斯科特·卡德)
+- [1985]《安德的游戏》.txt _[405.99KB]_
 
