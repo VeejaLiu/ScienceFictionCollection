@@ -78,6 +78,12 @@ for author in author_path_name_list:
 
 markdown += f"""\n"""
 
+markdown += f"""
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VeejaLiu/ScienceFictionCollection&type=Date)](https://star-history.com/#VeejaLiu/ScienceFictionCollection&Date)
+"""
+
 print(markdown)
 
 with open("README.md", "w") as file:

@@ -181,3 +181,7 @@
 - [1998]《你一生的故事》.txt _[115.38KB]_
 - [2000]《七十二个字母》.txt _[99.31KB]_
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VeejaLiu/ScienceFictionCollection&type=Date)](https://star-history.com/#VeejaLiu/ScienceFictionCollection&Date)
