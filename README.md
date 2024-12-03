@@ -16,6 +16,7 @@
 - 006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)
 - 007 - Orson Scott Card(奥森·斯科特·卡德)
 - 008 - Ted Chiang(特德·姜)
+- 009 - Michael Swanwick (迈克尔·斯万维克) 
 
 ## 目前作品：
 <div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
@@ -180,6 +181,12 @@
 - [1990]《巴比伦塔》.txt _[43.94KB]_
 - [1998]《你一生的故事》.txt _[115.38KB]_
 - [2000]《七十二个字母》.txt _[99.31KB]_
+### 009 - Michael Swanwick (迈克尔·斯万维克) 
+- [1999]不朽的机器 (Ancient Engines).txt _[19.33KB]_
+- [1999]暴龙谐谑曲 (Scherzo with Tyrannosaur).txt _[31.89KB]_
+- [2001]狗说汪汪 (The Dog Said Bow-Wow).txt _[26.17KB]_
+- [2002]缓慢的生命 (Slow Life).txt _[46.13KB]_
+- [2003]时空军团 (Legions in Time).txt _[54.01KB]_
 
 
 ## Star History
