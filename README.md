@@ -170,11 +170,10 @@
 - [1950]《火星纪事》.epub _[260.25KB]_
 - [1951]《图案人》.epub _[323.68KB]_
 ### 007 - Orson Scott Card(奥森·斯科特·卡德)
-- .DS_Store _[6.15KB]_
 - 0-卡德汇总.md _[4.21KB]_
-- [1985]《安德的游戏》.txt _[405.99KB]_
+- [1985]《安德的游戏》.txt _[402.57KB]_
 - [1986]《死者代言人》.epub _[384.97KB]_
-- [1986]《死者代言人》.txt _[519.02KB]_
+- [1986]《死者代言人》.txt _[507.61KB]_
 - [1991]《外星屠异》.epub _[538.25KB]_
 ### 008 - Ted Chiang(特德·姜)
 - 0-特德姜汇总.md _[3.13KB]_
@@ -186,11 +185,11 @@
 - [2008]《呼吸》(Exhalation).txt _[33.0KB]_
 - [2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt _[191.49KB]_
 ### 009 - Michael Swanwick (迈克尔·斯万维克) 
-- [1999]不朽的机器 (Ancient Engines).txt _[19.33KB]_
-- [1999]暴龙谐谑曲 (Scherzo with Tyrannosaur).txt _[31.89KB]_
-- [2001]狗说汪汪 (The Dog Said Bow-Wow).txt _[26.17KB]_
-- [2002]缓慢的生命 (Slow Life).txt _[46.13KB]_
-- [2003]时空军团 (Legions in Time).txt _[54.01KB]_
+- [1999]《不朽的机器》(Ancient Engines).txt _[19.33KB]_
+- [1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt _[31.89KB]_
+- [2001]《狗说汪汪》(The Dog Said Bow-Wow).txt _[26.17KB]_
+- [2002]《缓慢的生命》(Slow Life).txt _[46.13KB]_
+- [2003]《时空军团》(Legions in Time).txt _[54.01KB]_
 
 
 ## Star History
