@@ -17,6 +17,7 @@
 - 007 - Orson Scott Card(奥森·斯科特·卡德)
 - 008 - Ted Chiang(特德·姜)
 - 009 - Michael Swanwick (迈克尔·斯万维克) 
+- 010 - 王晋康
 
 ## 目前作品：
 <div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
@@ -192,6 +193,8 @@
 - [2001]《狗说汪汪》(The Dog Said Bow-Wow).txt _[26.17KB]_
 - [2002]《缓慢的生命》(Slow Life).txt _[46.13KB]_
 - [2003]《时空军团》(Legions in Time).txt _[54.01KB]_
+### 010 - 王晋康
+- [1999]《七重外壳》.txt _[62.12KB]_
 
 
 ## Star History
