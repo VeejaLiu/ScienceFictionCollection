@@ -4,7 +4,9 @@
 </div>
 
 # 科幻小说作品集
-> 自己收集的科幻小说作品集。
+> 自己收集的科幻小说作品集
+> 
+> 在线阅读：https://github-novel-read.vercel.app
 >
 > 本readme文件由仓库内script.py脚本自动生成。
 ## 目前作家
