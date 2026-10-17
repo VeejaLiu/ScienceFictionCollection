@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-17",
+  "scope": "检查全部作者目录中作品文件名是否缺失年份及其与元信息的路径一致性；不表示已逐条重新核实既有年份。作者汇总Markdown属于参考资料，不按作品补年份。",
+  "yearPattern": "\\[[12]\\d{3}(?:-\\d+)?\\]",
+  "baselineCommit": "a76f112cf11431cd0d6b8493120871fb15be2e2a",
+  "summary": {
+    "authors": 12,
+    "registeredWorkFiles": 211,
+    "filesWithYear": 209,
+    "filesMissingYear": 2,
+    "excludedReferenceFiles": 6,
+    "newlyConfirmedYears": 0
+  },
+  "authors": [
+    {
+      "authorId": "001",
+      "authorName": "刘慈欣",
+      "directory": "001 - 刘慈欣(Cixin Liu)",
+      "registeredWorkFiles": 51,
+      "filesWithYear": 51,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": [
+        "0-刘慈欣汇总.md"
+      ]
+    },
+    {
+      "authorId": "002",
+      "authorName": "弗兰克·赫伯特",
+      "directory": "002 - Frank Herbert(弗兰克·赫伯特)",
+      "registeredWorkFiles": 3,
+      "filesWithYear": 3,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "003",
+      "authorName": "艾萨克·阿西莫夫",
+      "directory": "003 - Isaac Asimov(艾萨克·阿西莫夫)",
+      "registeredWorkFiles": 64,
+      "filesWithYear": 62,
+      "filesMissingYear": 2,
+      "excludedReferenceFiles": [
+        "0-IsaacAsimov.md"
+      ]
+    },
+    {
+      "authorId": "004",
+      "authorName": "儒勒·凡尔纳",
+      "directory": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)",
+      "registeredWorkFiles": 24,
+      "filesWithYear": 24,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": [
+        "0-凡尔纳汇总.md"
+      ]
+    },
+    {
+      "authorId": "005",
+      "authorName": "玛丽·雪莱",
+      "directory": "005 - Mary Shelley(玛丽·雪莱)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "006",
+      "authorName": "雷·布拉德伯里",
+      "directory": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)",
+      "registeredWorkFiles": 21,
+      "filesWithYear": 21,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "007",
+      "authorName": "奥森·斯科特·卡德",
+      "directory": "007 - Orson Scott Card(奥森·斯科特·卡德)",
+      "registeredWorkFiles": 6,
+      "filesWithYear": 6,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": [
+        "0-卡德汇总.md"
+      ]
+    },
+    {
+      "authorId": "008",
+      "authorName": "特德·姜",
+      "directory": "008 - Ted Chiang(特德·姜)",
+      "registeredWorkFiles": 7,
+      "filesWithYear": 7,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": [
+        "0-特德姜汇总.md"
+      ]
+    },
+    {
+      "authorId": "009",
+      "authorName": "迈克尔·斯万维克",
+      "directory": "009 - Michael Swanwick (迈克尔·斯万维克) ",
+      "registeredWorkFiles": 5,
+      "filesWithYear": 5,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "010",
+      "authorName": "王晋康",
+      "directory": "010 - 王晋康",
+      "registeredWorkFiles": 27,
+      "filesWithYear": 27,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "011",
+      "authorName": "安迪·威尔",
+      "directory": "011 - Andy Weir(安迪·威尔)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": []
+    },
+    {
+      "authorId": "012",
+      "authorName": "亚瑟·克拉克",
+      "directory": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 1,
+      "filesMissingYear": 0,
+      "excludedReferenceFiles": [
+        "0-亚瑟·克拉克汇总.md"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "authorId": "003",
+      "bookId": "003-c056bb6968f0",
+      "title": "被遗忘的世界",
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/被遗忘的世界.txt",
+      "year": null,
+      "reason": "本地为查林杰教授、南美高原和史前生物的简写文本，对应Arthur Conan Doyle的The Lost World情节。原作1912年，但该简写文本的改写者、版本及发表年未确认，不能把1912年直接当作本文件版本年；作者归属待核，保留原文件。",
+      "reviewRecord": "003.json"
+    },
+    {
+      "authorId": "003",
+      "bookId": "003-dc2adbecdeca",
+      "title": "鬼扯",
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "year": null,
+      "reason": "现存译文讲拉克勒向西莫尔夫谈星期五、数字与阳台事故；未找到能可靠对应的原文题名和初刊年。不能误配为1941年的Liar!或1976年的Friday the Thirteenth。",
+      "reviewRecord": "003.json"
+    }
+  ]
+}
