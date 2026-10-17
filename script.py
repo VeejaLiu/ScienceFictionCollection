@@ -76,10 +76,11 @@ def generate_readme(root):
         if english and english != name:
             name += f' · {english}'
         markdown += f"- [{name}]({quote(directory, safe='')}/)\n"
+    markdown += '\n## 作品\n\n' + generate_work_list(root)
     return markdown + """
 ## 更多
 
-[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [完整作品目录](CATALOG.md) · [项目说明](docs/PROJECT.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
+[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [项目说明](docs/PROJECT.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
 """
 
 
@@ -90,8 +91,12 @@ def generate_catalog(root):
         anchor = re.sub(r'[^\w\s-]', '', author.lower()).strip()
         anchor = re.sub(r'\s+', '-', anchor)
         markdown += f"- [{author}](#{anchor})\n"
-    markdown += '\n## 作品\n\n'
-    for author in authors:
+    return markdown + '\n## 作品\n\n' + generate_work_list(root)
+
+
+def generate_work_list(root):
+    markdown = ''
+    for author in author_directories(root):
         markdown += f"### {author}\n"
         markdown += add_books_from_directory(root / author)
     return markdown
