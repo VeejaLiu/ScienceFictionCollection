@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "checkedOn": "2026-10-17",
-  "scope": "检查全部作者目录中作品文件名是否缺失年份及其与元信息的路径一致性；不表示已逐条重新核实既有年份。作者汇总Markdown属于参考资料，不按作品补年份。",
-  "yearPattern": "\\[[12]\\d{3}(?:-\\d+)?\\]",
-  "baselineCommit": "a76f112cf11431cd0d6b8493120871fb15be2e2a",
+  "scope": "全部作者目录的文件名年份覆盖检查及逐项事实核对汇总；各篇的出处、版本口径和未决原因见verification.json。",
+  "baselineCommit": "5142af7979d136d72776014a5a63d9d3d384d8f0",
+  "verificationRecord": "verification.json",
   "summary": {
-    "authors": 12,
+    "authors": 13,
     "registeredWorkFiles": 211,
     "filesWithYear": 209,
     "filesMissingYear": 2,
     "excludedReferenceFiles": 6,
-    "newlyConfirmedYears": 0
+    "correctedYears": 29,
+    "correctedOriginalAttributions": 1,
+    "uncertainYearOrAttribution": 8
   },
   "authors": [
     {
@@ -20,6 +22,7 @@
       "registeredWorkFiles": 51,
       "filesWithYear": 51,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 5,
       "excludedReferenceFiles": [
         "0-刘慈欣汇总.md"
       ]
@@ -31,15 +34,17 @@
       "registeredWorkFiles": 3,
       "filesWithYear": 3,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
       "authorId": "003",
       "authorName": "艾萨克·阿西莫夫",
       "directory": "003 - Isaac Asimov(艾萨克·阿西莫夫)",
-      "registeredWorkFiles": 64,
+      "registeredWorkFiles": 63,
       "filesWithYear": 62,
-      "filesMissingYear": 2,
+      "filesMissingYear": 1,
+      "uncertainYearOrAttribution": 1,
       "excludedReferenceFiles": [
         "0-IsaacAsimov.md"
       ]
@@ -51,6 +56,7 @@
       "registeredWorkFiles": 24,
       "filesWithYear": 24,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 1,
       "excludedReferenceFiles": [
         "0-凡尔纳汇总.md"
       ]
@@ -62,6 +68,7 @@
       "registeredWorkFiles": 1,
       "filesWithYear": 1,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
@@ -71,6 +78,7 @@
       "registeredWorkFiles": 21,
       "filesWithYear": 21,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
@@ -80,6 +88,7 @@
       "registeredWorkFiles": 6,
       "filesWithYear": 6,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": [
         "0-卡德汇总.md"
       ]
@@ -91,6 +100,7 @@
       "registeredWorkFiles": 7,
       "filesWithYear": 7,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": [
         "0-特德姜汇总.md"
       ]
@@ -102,6 +112,7 @@
       "registeredWorkFiles": 5,
       "filesWithYear": 5,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
@@ -111,6 +122,7 @@
       "registeredWorkFiles": 27,
       "filesWithYear": 27,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
@@ -120,6 +132,7 @@
       "registeredWorkFiles": 1,
       "filesWithYear": 1,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": []
     },
     {
@@ -129,29 +142,106 @@
       "registeredWorkFiles": 1,
       "filesWithYear": 1,
       "filesMissingYear": 0,
+      "uncertainYearOrAttribution": 0,
       "excludedReferenceFiles": [
         "0-亚瑟·克拉克汇总.md"
       ]
+    },
+    {
+      "authorId": "013",
+      "authorName": "亚瑟·柯南·道尔",
+      "directory": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)",
+      "registeredWorkFiles": 1,
+      "filesWithYear": 0,
+      "filesMissingYear": 1,
+      "uncertainYearOrAttribution": 1,
+      "excludedReferenceFiles": []
     }
   ],
   "unresolved": [
-    {
-      "authorId": "003",
-      "bookId": "003-c056bb6968f0",
-      "title": "被遗忘的世界",
-      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/被遗忘的世界.txt",
-      "year": null,
-      "reason": "本地为查林杰教授、南美高原和史前生物的简写文本，对应Arthur Conan Doyle的The Lost World情节。原作1912年，但该简写文本的改写者、版本及发表年未确认，不能把1912年直接当作本文件版本年；作者归属待核，保留原文件。",
-      "reviewRecord": "003.json"
-    },
     {
       "authorId": "003",
       "bookId": "003-dc2adbecdeca",
       "title": "鬼扯",
       "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
       "year": null,
-      "reason": "现存译文讲拉克勒向西莫尔夫谈星期五、数字与阳台事故；未找到能可靠对应的原文题名和初刊年。不能误配为1941年的Liar!或1976年的Friday the Thirteenth。",
-      "reviewRecord": "003.json"
+      "reason": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。",
+      "reviewRecord": "verification.json"
+    },
+    {
+      "authorId": "013",
+      "bookId": "003-c056bb6968f0",
+      "title": "被遗忘的世界",
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "year": null,
+      "reason": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。",
+      "reviewRecord": "verification.json"
+    }
+  ],
+  "uncertain": [
+    {
+      "authorId": "001",
+      "bookId": "001-d61cc2118e13",
+      "title": "中国2185",
+      "path": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
+      "retainedYear": 1989,
+      "reason": "1989可确认是创作完成年，作品未正式出版；保留原文件名，不将其当作已确认的初刊年。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-cfd761fe0618",
+      "title": "超新星纪元（新创世纪完整版）",
+      "path": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
+      "retainedYear": 1991,
+      "reason": "正文自称1991年版且含交换国土情节，是早期稿/流传版本；未确认该具体版本首次公开时间，不能套用2003年删节版首版年。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-58df442a4ae1",
+      "title": "海水高山",
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
+      "retainedYear": 2003,
+      "reason": "2003是东方少年科幻征文获奖年；年表另列2014年期刊发表。未确认是否更早公开发表，保留2003并注明其含义不确定。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-06a912a96d1b",
+      "title": "创世纪",
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
+      "retainedYear": 2005,
+      "reason": "文件为空，无法核对版本。书目记载节选中篇于2004年12期至2005年1期连载；暂保留2005，不将空文件认定为已核实正文。"
+    },
+    {
+      "authorId": "001",
+      "bookId": "001-311b35f4d7d9",
+      "title": "烧火工",
+      "path": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
+      "retainedYear": 2012,
+      "reason": "可确认2011年底创作、2012新年赠送及后来印刷出版记录；原始果壳日志当前不可访问，网上首次公开的准确年份尚未确认，保留2012。"
+    },
+    {
+      "authorId": "013",
+      "bookId": "003-c056bb6968f0",
+      "title": "被遗忘的世界",
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "retainedYear": null,
+      "reason": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。"
+    },
+    {
+      "authorId": "003",
+      "bookId": "003-dc2adbecdeca",
+      "title": "鬼扯",
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "retainedYear": null,
+      "reason": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。"
+    },
+    {
+      "authorId": "004",
+      "bookId": "004-b0d170dc43ae",
+      "title": "2889年一个美国新闻界巨子的一天",
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
+      "retainedYear": 1891,
+      "reason": "1889英文初刊、1891法文重写和1910再修订并存；本地题名为2889，不能可靠判定具体底本版本及父子贡献，保留1891并记录版本差异。"
     }
   ]
 }

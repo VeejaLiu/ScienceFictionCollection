@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "authorId": "013",
+  "books": [
+    {
+      "id": "003-c056bb6968f0",
+      "path": "被遗忘的世界.txt",
+      "title": "被遗忘的世界",
+      "format": "txt",
+      "size": 21702,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "被遗忘的世界",
+      "workId": "003-c056bb6968f0",
+      "originalWork": {
+        "title": "The Lost World",
+        "author": "Arthur Conan Doyle",
+        "firstPublicationYear": 1912,
+        "source": "https://www.arthur-conan-doyle.com/wiki/The_Lost_World"
+      },
+      "editionNote": "中文节写本；节写者、译者及本版本发表年份待考。原作1912年，文件名暂不标版本年份。"
+    }
+  ]
+}

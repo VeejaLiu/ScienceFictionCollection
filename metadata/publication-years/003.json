@@ -601,21 +601,24 @@
       "title": "鬼扯",
       "path": "鬼扯.txt",
       "year": null,
-      "reason": "现存译文讲拉克勒向西莫尔夫谈星期五、数字与阳台事故；未找到能可靠对应的原文题名和初刊年。不能误配为1941年的Liar!或1976年的Friday the Thirteenth。",
+      "reason": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。",
       "sourceIds": [
         "chineseGhostText",
         "shortFictionBibliography"
       ]
-    },
+    }
+  ],
+  "resolvedAttributions": [
     {
       "bookId": "003-c056bb6968f0",
-      "title": "被遗忘的世界",
-      "path": "被遗忘的世界.txt",
-      "year": null,
-      "reason": "本地为查林杰教授、南美高原和史前生物的简写文本，对应Arthur Conan Doyle的The Lost World情节。原作1912年，但该简写文本的改写者、版本及发表年未确认，不能把1912年直接当作本文件版本年；作者归属待核，保留原文件。",
-      "sourceIds": [
-        "lostWorld"
-      ]
+      "originalAuthorId": "003",
+      "currentAuthorId": "013",
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "originalAuthor": "Arthur Conan Doyle",
+      "originalWork": "The Lost World",
+      "originalWorkPublicationYear": 1912,
+      "remainingUncertainty": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。",
+      "verificationRecord": "verification.json"
     }
   ]
 }

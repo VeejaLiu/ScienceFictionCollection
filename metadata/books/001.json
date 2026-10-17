@@ -3,30 +3,6 @@
   "authorId": "001",
   "books": [
     {
-      "id": "001-5f292d9e5aec",
-      "path": "[1985]《宇宙坍缩》.txt",
-      "title": "宇宙坍缩",
-      "format": "txt",
-      "size": 19912,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "宇宙坍缩",
-      "workId": "001-5f292d9e5aec"
-    },
-    {
-      "id": "001-a01a1a75cc30",
-      "path": "[1987]《微观尽头》.txt",
-      "title": "微观尽头",
-      "format": "txt",
-      "size": 12545,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "微观尽头",
-      "workId": "001-a01a1a75cc30"
-    },
-    {
       "id": "001-d61cc2118e13",
       "path": "[1989]《中国2185》.txt",
       "title": "中国2185",
@@ -37,23 +13,6 @@
       "cover": null,
       "slug": "中国2185",
       "workId": "001-d61cc2118e13"
-    },
-    {
-      "id": "001-4edbc7e5d622",
-      "path": "[1991-1]《超新星纪元》(内地实体删节版).txt",
-      "title": "超新星纪元（内地实体删节版）",
-      "format": "txt",
-      "size": 582099,
-      "language": "zh-CN",
-      "series": "",
-      "cover": "covers/editions/openlibrary-12951674.webp",
-      "slug": "超新星纪元-内地实体删节版",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "Open Library",
-        "url": "https://openlibrary.org/books/OL39825912M"
-      },
-      "workId": "001-4edbc7e5d622"
     },
     {
       "id": "001-cfd761fe0618",
@@ -71,102 +30,6 @@
         "url": "https://openlibrary.org/books/OL39825912M"
       },
       "workId": "001-cfd761fe0618"
-    },
-    {
-      "id": "001-f76c68ac54be",
-      "path": "[1997-1]《梦之海》.txt",
-      "title": "梦之海",
-      "format": "txt",
-      "size": 56576,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "梦之海",
-      "workId": "001-f76c68ac54be"
-    },
-    {
-      "id": "001-101dd3d4ba23",
-      "path": "[1997-2]《诗云》(李白).txt",
-      "title": "诗云",
-      "format": "txt",
-      "size": 57552,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "诗云",
-      "workId": "001-101dd3d4ba23"
-    },
-    {
-      "id": "001-6787fd5c5da1",
-      "path": "[1997-3]《欢乐颂》.txt",
-      "title": "欢乐颂",
-      "format": "txt",
-      "size": 49151,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "欢乐颂",
-      "workId": "001-6787fd5c5da1"
-    },
-    {
-      "id": "001-0d7140f0d06c",
-      "path": "[1998-1]《西洋》 .txt",
-      "title": "西洋",
-      "format": "txt",
-      "size": 21788,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "西洋",
-      "workId": "001-0d7140f0d06c"
-    },
-    {
-      "id": "001-327ec7596c58",
-      "path": "[1998-2]《微纪元》.txt",
-      "title": "微纪元",
-      "format": "txt",
-      "size": 43532,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "微纪元",
-      "workId": "001-327ec7596c58"
-    },
-    {
-      "id": "001-2534a17d1a0b",
-      "path": "[1998-3]《天使时代》(波斯湾飞马).txt",
-      "title": "天使时代",
-      "format": "txt",
-      "size": 61276,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "天使时代",
-      "workId": "001-2534a17d1a0b"
-    },
-    {
-      "id": "001-3d33bcbedf55",
-      "path": "[1998-4]《光荣与梦想》.txt",
-      "title": "光荣与梦想",
-      "format": "txt",
-      "size": 76063,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "光荣与梦想",
-      "workId": "001-3d33bcbedf55"
-    },
-    {
-      "id": "001-f751d0c0a3b8",
-      "path": "[1998-5]《地球大炮》(深井).txt",
-      "title": "地球大炮",
-      "format": "txt",
-      "size": 72751,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "地球大炮",
-      "workId": "001-f751d0c0a3b8"
     },
     {
       "id": "001-0017beaf7dc2",
@@ -193,28 +56,28 @@
       "workId": "001-ce8d5e68267a"
     },
     {
-      "id": "001-11766bb4a4e0",
-      "path": "[1999-3]《信使》.txt",
-      "title": "信使",
+      "id": "001-5f292d9e5aec",
+      "path": "[1999]《宇宙坍缩》.txt",
+      "title": "宇宙坍缩",
       "format": "txt",
-      "size": 13284,
+      "size": 19912,
       "language": "zh-CN",
       "series": "",
       "cover": null,
-      "slug": "信使",
-      "workId": "001-11766bb4a4e0"
+      "slug": "宇宙坍缩",
+      "workId": "001-5f292d9e5aec"
     },
     {
-      "id": "001-29e9e3dc4a4b",
-      "path": "[1999-4]《混沌蝴蝶》.txt",
-      "title": "混沌蝴蝶",
+      "id": "001-a01a1a75cc30",
+      "path": "[1999]《微观尽头》.txt",
+      "title": "微观尽头",
       "format": "txt",
-      "size": 39984,
+      "size": 12545,
       "language": "zh-CN",
       "series": "",
       "cover": null,
-      "slug": "混沌蝴蝶",
-      "workId": "001-29e9e3dc4a4b"
+      "slug": "微观尽头",
+      "workId": "001-a01a1a75cc30"
     },
     {
       "id": "001-0ec93c3ad73d",
@@ -241,30 +104,6 @@
       "workId": "001-917618dd098b"
     },
     {
-      "id": "001-4397bbab8c31",
-      "path": "[2000-3]《乡村教师》.txt",
-      "title": "乡村教师",
-      "format": "txt",
-      "size": 65936,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "乡村教师",
-      "workId": "001-4397bbab8c31"
-    },
-    {
-      "id": "001-c5790fdffe99",
-      "path": "[2000-4]《魔鬼积木》.txt",
-      "title": "魔鬼积木",
-      "format": "txt",
-      "size": 201161,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "魔鬼积木",
-      "workId": "001-c5790fdffe99"
-    },
-    {
       "id": "001-4d14cf0f8164",
       "path": "[2001-1]《全频带阻塞干扰》（中国版）.txt",
       "title": "全频带阻塞干扰（中国版）",
@@ -289,28 +128,40 @@
       "workId": "001-6648bc7ad8f7"
     },
     {
-      "id": "001-bd870375974a",
-      "path": "[2001-2]《中国太阳》.txt",
-      "title": "中国太阳",
+      "id": "001-327ec7596c58",
+      "path": "[2001-2]《微纪元》.txt",
+      "title": "微纪元",
       "format": "txt",
-      "size": 69324,
+      "size": 43532,
       "language": "zh-CN",
       "series": "",
       "cover": null,
-      "slug": "中国太阳",
-      "workId": "001-bd870375974a"
+      "slug": "微纪元",
+      "workId": "001-327ec7596c58"
     },
     {
-      "id": "001-eea05dae1949",
-      "path": "[2001-3]《朝闻道》(爱因斯坦赤道).txt",
-      "title": "朝闻道",
+      "id": "001-4397bbab8c31",
+      "path": "[2001-3]《乡村教师》.txt",
+      "title": "乡村教师",
       "format": "txt",
-      "size": 51635,
+      "size": 65936,
       "language": "zh-CN",
       "series": "",
       "cover": null,
-      "slug": "朝闻道",
-      "workId": "001-eea05dae1949"
+      "slug": "乡村教师",
+      "workId": "001-4397bbab8c31"
+    },
+    {
+      "id": "001-11766bb4a4e0",
+      "path": "[2001-3]《信使》.txt",
+      "title": "信使",
+      "format": "txt",
+      "size": 13284,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "信使",
+      "workId": "001-11766bb4a4e0"
     },
     {
       "id": "001-ae5bbacf9c9e",
@@ -337,23 +188,6 @@
       "workId": "001-41e6168cbef8"
     },
     {
-      "id": "001-b54a0ca8421e",
-      "path": "[2001-6]《球状闪电》.txt",
-      "title": "球状闪电",
-      "format": "txt",
-      "size": 496195,
-      "language": "zh-CN",
-      "series": "",
-      "cover": "covers/editions/openlibrary-13082817.webp",
-      "slug": "球状闪电",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "Open Library",
-        "url": "https://openlibrary.org/books/OL27134607M"
-      },
-      "workId": "001-b54a0ca8421e"
-    },
-    {
       "id": "001-92e295f60fa9",
       "path": "[2002-1]《吞食者》.txt",
       "title": "吞食者",
@@ -366,8 +200,109 @@
       "workId": "001-92e295f60fa9"
     },
     {
+      "id": "001-f76c68ac54be",
+      "path": "[2002-1]《梦之海》.txt",
+      "title": "梦之海",
+      "format": "txt",
+      "size": 56576,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "梦之海",
+      "workId": "001-f76c68ac54be"
+    },
+    {
+      "id": "001-0d7140f0d06c",
+      "path": "[2002-1]《西洋》 .txt",
+      "title": "西洋",
+      "format": "txt",
+      "size": 21788,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "西洋",
+      "workId": "001-0d7140f0d06c"
+    },
+    {
+      "id": "001-bd870375974a",
+      "path": "[2002-2]《中国太阳》.txt",
+      "title": "中国太阳",
+      "format": "txt",
+      "size": 69324,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "中国太阳",
+      "workId": "001-bd870375974a"
+    },
+    {
+      "id": "001-2534a17d1a0b",
+      "path": "[2002-3]《天使时代》(波斯湾飞马).txt",
+      "title": "天使时代",
+      "format": "txt",
+      "size": 61276,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "天使时代",
+      "workId": "001-2534a17d1a0b"
+    },
+    {
+      "id": "001-eea05dae1949",
+      "path": "[2002-3]《朝闻道》(爱因斯坦赤道).txt",
+      "title": "朝闻道",
+      "format": "txt",
+      "size": 51635,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "朝闻道",
+      "workId": "001-eea05dae1949"
+    },
+    {
+      "id": "001-29e9e3dc4a4b",
+      "path": "[2002-4]《混沌蝴蝶》.txt",
+      "title": "混沌蝴蝶",
+      "format": "txt",
+      "size": 39984,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "混沌蝴蝶",
+      "workId": "001-29e9e3dc4a4b"
+    },
+    {
+      "id": "001-c5790fdffe99",
+      "path": "[2002-4]《魔鬼积木》.txt",
+      "title": "魔鬼积木",
+      "format": "txt",
+      "size": 201161,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "魔鬼积木",
+      "workId": "001-c5790fdffe99"
+    },
+    {
+      "id": "001-4edbc7e5d622",
+      "path": "[2003-1]《超新星纪元》(内地实体删节版).txt",
+      "title": "超新星纪元（内地实体删节版）",
+      "format": "txt",
+      "size": 582099,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-12951674.webp",
+      "slug": "超新星纪元-内地实体删节版",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL39825912M"
+      },
+      "workId": "001-4edbc7e5d622"
+    },
+    {
       "id": "001-b34d4e348104",
-      "path": "[2002-2]《思想者》.txt",
+      "path": "[2003-2]《思想者》.txt",
       "title": "思想者",
       "format": "txt",
       "size": 32800,
@@ -376,18 +311,6 @@
       "cover": null,
       "slug": "思想者",
       "workId": "001-b34d4e348104"
-    },
-    {
-      "id": "001-d7a49fb62321",
-      "path": "[2003-1]《白垩纪往事》(谁替恐龙剔牙).txt",
-      "title": "白垩纪往事",
-      "format": "txt",
-      "size": 74398,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "白垩纪往事",
-      "workId": "001-d7a49fb62321"
     },
     {
       "id": "001-58df442a4ae1",
@@ -402,16 +325,52 @@
       "workId": "001-58df442a4ae1"
     },
     {
-      "id": "001-00feef6b209e",
-      "path": "[2003-3]《人生》.txt",
-      "title": "人生",
+      "id": "001-101dd3d4ba23",
+      "path": "[2003-2]《诗云》(李白).txt",
+      "title": "诗云",
       "format": "txt",
-      "size": 15327,
+      "size": 57552,
       "language": "zh-CN",
       "series": "",
       "cover": null,
-      "slug": "人生",
-      "workId": "001-00feef6b209e"
+      "slug": "诗云",
+      "workId": "001-101dd3d4ba23"
+    },
+    {
+      "id": "001-3d33bcbedf55",
+      "path": "[2003-4]《光荣与梦想》.txt",
+      "title": "光荣与梦想",
+      "format": "txt",
+      "size": 76063,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "光荣与梦想",
+      "workId": "001-3d33bcbedf55"
+    },
+    {
+      "id": "001-f751d0c0a3b8",
+      "path": "[2003-5]《地球大炮》(深井).txt",
+      "title": "地球大炮",
+      "format": "txt",
+      "size": 72751,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "地球大炮",
+      "workId": "001-f751d0c0a3b8"
+    },
+    {
+      "id": "001-d7a49fb62321",
+      "path": "[2004-1]《白垩纪往事》(谁替恐龙剔牙).txt",
+      "title": "白垩纪往事",
+      "format": "txt",
+      "size": 74398,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "白垩纪往事",
+      "workId": "001-d7a49fb62321"
     },
     {
       "id": "001-27838a7c140d",
@@ -450,16 +409,21 @@
       "workId": "001-795b6b958b93"
     },
     {
-      "id": "001-39c5f1dce002",
-      "path": "[2005-1]《山》.txt",
-      "title": "山",
+      "id": "001-b54a0ca8421e",
+      "path": "[2004-6]《球状闪电》.txt",
+      "title": "球状闪电",
       "format": "txt",
-      "size": 61653,
+      "size": 496195,
       "language": "zh-CN",
       "series": "",
-      "cover": null,
-      "slug": "山",
-      "workId": "001-39c5f1dce002"
+      "cover": "covers/editions/openlibrary-13082817.webp",
+      "slug": "球状闪电",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL27134607M"
+      },
+      "workId": "001-b54a0ca8421e"
     },
     {
       "id": "001-c46710070b2f",
@@ -472,6 +436,18 @@
       "cover": null,
       "slug": "赡养上帝",
       "workId": "001-c46710070b2f"
+    },
+    {
+      "id": "001-6787fd5c5da1",
+      "path": "[2005-3]《欢乐颂》.txt",
+      "title": "欢乐颂",
+      "format": "txt",
+      "size": 49151,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "欢乐颂",
+      "workId": "001-6787fd5c5da1"
     },
     {
       "id": "001-a6d1847f9ee0",
@@ -496,6 +472,18 @@
       "cover": null,
       "slug": "创世纪",
       "workId": "001-06a912a96d1b"
+    },
+    {
+      "id": "001-39c5f1dce002",
+      "path": "[2006-1]《山》.txt",
+      "title": "山",
+      "format": "txt",
+      "size": 61653,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "山",
+      "workId": "001-39c5f1dce002"
     },
     {
       "id": "001-fb5f8fedc262",
@@ -532,6 +520,18 @@
       "workId": "001-1cc6117b4eb2"
     },
     {
+      "id": "001-79727137b170",
+      "path": "[2009-1]《2018年4月1日》.txt",
+      "title": "2018年4月1日",
+      "format": "txt",
+      "size": 16006,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "2018年4月1日",
+      "workId": "001-79727137b170"
+    },
+    {
       "id": "001-1d1b433417fb",
       "path": "[2009]《月夜》.txt",
       "title": "月夜",
@@ -544,18 +544,6 @@
       "workId": "001-1d1b433417fb"
     },
     {
-      "id": "001-79727137b170",
-      "path": "[2010-1]《2018年4月1日》.txt",
-      "title": "2018年4月1日",
-      "format": "txt",
-      "size": 16006,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "2018年4月1日",
-      "workId": "001-79727137b170"
-    },
-    {
       "id": "001-9c0fd13e0313",
       "path": "[2010-2]《太原之恋》.txt",
       "title": "太原之恋",
@@ -566,6 +554,18 @@
       "cover": null,
       "slug": "太原之恋",
       "workId": "001-9c0fd13e0313"
+    },
+    {
+      "id": "001-00feef6b209e",
+      "path": "[2010-3]《人生》.txt",
+      "title": "人生",
+      "format": "txt",
+      "size": 15327,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "人生",
+      "workId": "001-00feef6b209e"
     },
     {
       "id": "001-6621ae489d80",
@@ -634,7 +634,7 @@
     },
     {
       "id": "001-41b6ed90bd5e",
-      "path": "[2017]《黄金原野》.txt",
+      "path": "[2018]《黄金原野》.txt",
       "title": "黄金原野",
       "format": "txt",
       "size": 32692,

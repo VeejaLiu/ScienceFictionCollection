@@ -1,0 +1,3396 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-17",
+  "baselineCommit": "5142af7979d136d72776014a5a63d9d3d384d8f0",
+  "scope": "逐条核对全部211个作品文件的年份及两篇待核归属；不同译本、长短篇及改写版本分别保留。",
+  "policy": [
+    "中短篇采用可核实的初刊年；长篇、文集保留有依据的原文书版年或连载年，并明确口径。",
+    "不把创作年、获奖年、翻译年或后来的重印年自动当作初刊年。",
+    "已有年份若对应可核实的连载、全本或原文版本，不只因不同出版口径而更名。",
+    "证据冲突或无法匹配本地版本时保留现状，列为uncertain；旧文件名中的年后序号予以保留。"
+  ],
+  "sources": {
+    "liu-publications": {
+      "label": "三丰：刘慈欣作品年表（仅列首次正式发表年份和出处）",
+      "url": "https://www.weibo.com/ttarticle/p/show?id=2309404372160423579562"
+    },
+    "liu-study": {
+      "label": "刘慈欣文学年谱",
+      "url": "https://chinasf.com/main/documentdetail.php?DocumentID=21137"
+    },
+    "liu-drafts": {
+      "label": "刘慈欣本人整理的创作年表（明确为初稿写作时间）",
+      "url": "https://project.zo.uni-heidelberg.de/DACHS_Leiden/archive/leiden/poetry/20040712/white-collar.net/01-author/l/60-liu_cx/031.htm"
+    },
+    "liu-mountain": {
+      "label": "科普创作评论：《山》与《海水高山》的创作及初刊",
+      "url": "https://sw.kpcswa.org.cn/Catalog/201804/review/2018/1215/192.html"
+    },
+    "liu-burn": {
+      "label": "中国科学报：《烧火工》2011年末创作的说明",
+      "url": "https://news.sciencenet.cn/sbhtmlnews/2019/8/348347.shtm"
+    },
+    "liu-gold": {
+      "label": "2017年完稿报道明确预告2018年出版《黄金原野》",
+      "url": "https://news.mydrivers.com/1/552/552198.htm"
+    },
+    "herbert": {
+      "label": "The Encyclopedia of Science Fiction: Frank Herbert bibliography",
+      "url": "https://sf-encyclopedia.com/entry/herbert_frank"
+    },
+    "herbert-editions": {
+      "label": "Frank Herbert bibliography: serialization and first editions",
+      "url": "https://en.wikipedia.org/wiki/Frank_Herbert_bibliography"
+    },
+    "asimov-short": {
+      "label": "Isaac Asimov short stories bibliography",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Asimov_short_stories_bibliography"
+    },
+    "asimov-books": {
+      "label": "Isaac Asimov bibliography: original book publication years",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Asimov_bibliography_(chronological)"
+    },
+    "asimov-jenkins": {
+      "label": "John H. Jenkins: short fiction chronology",
+      "url": "https://www.asimovreviews.net/SNumerical.html"
+    },
+    "verne": {
+      "label": "Centre international Jules Verne: publication chronology including serializations",
+      "url": "https://jules-verne.net/l-oeuvre/les-voyages-extraordinaires/"
+    },
+    "verne-grant": {
+      "label": "Les Enfants du capitaine Grant: book publication 1867–1868",
+      "url": "https://j-verne.de/verne8.html"
+    },
+    "verne-gold": {
+      "label": "Le Volcan d’or: 1906 edition, including Edith",
+      "url": "https://fr.wikisource.org/wiki/Le_Volcan_d%E2%80%99or/Texte_entier"
+    },
+    "verne-2889": {
+      "label": "Jules Verne bibliography: Michel 1889 original and Jules 1891 rewrite",
+      "url": "https://www.julesverne.ca/vernebooks/jules-verne_journal-of-a-journalist-2890.html"
+    },
+    "shelley": {
+      "label": "The Encyclopedia of Science Fiction: Mary Shelley, Frankenstein 1818",
+      "url": "https://sf-encyclopedia.com/entry/shelley_mary_wollstonecraft"
+    },
+    "bradbury-short": {
+      "label": "Ray Bradbury short fiction bibliography",
+      "url": "https://en.wikipedia.org/wiki/Ray_Bradbury_short_fiction_bibliography"
+    },
+    "bradbury-finder": {
+      "label": "Phil Nichols: Short Story Finder, including Mr Pale first appearance 1997",
+      "url": "https://www.bradburymedia.co.uk/storiesDB.htm"
+    },
+    "bradbury-books": {
+      "label": "Ray Bradbury official bibliography",
+      "url": "https://raybradbury.com/books/"
+    },
+    "bradbury-city": {
+      "label": "The City first publication as Purpose in July 1950",
+      "url": "https://es.wikipedia.org/wiki/La_ciudad_(cuento_de_Ray_Bradbury)"
+    },
+    "card": {
+      "label": "Orson Scott Card bibliography",
+      "url": "https://en.wikipedia.org/wiki/Orson_Scott_Card_bibliography"
+    },
+    "chiang": {
+      "label": "Ted Chiang: short fiction titles and original publication dates",
+      "url": "https://en.wikipedia.org/wiki/Ted_Chiang#Works"
+    },
+    "swanwick": {
+      "label": "Michael Swanwick: short fiction bibliography",
+      "url": "https://en.wikipedia.org/wiki/Michael_Swanwick#Bibliography"
+    },
+    "swanwick-slow": {
+      "label": "Author’s 2003 news identifies Slow Life as Analog December 2002",
+      "url": "https://www.michaelswanwick.com/news/news2003.html"
+    },
+    "swanwick-ancient": {
+      "label": "SFWA: Ancient Engines, 1999",
+      "url": "https://nebulas.sfwa.org/nominees/michael-swanwick/"
+    },
+    "wang": {
+      "label": "王晋康短篇小说集附录：创作/发表年表",
+      "url": "https://quanben.io/amp/n/kehuanzhongguo-wangjinkangduanpianxiaoshuoji-quan5ce/111.html"
+    },
+    "wang-index": {
+      "label": "王晋康《科幻世界》历年发表作品目录",
+      "url": "https://www.weiwenchao.com/1927.html"
+    },
+    "wang-time": {
+      "label": "当当书目说明：《时空旅行三则》第一篇是《时空商人》",
+      "url": "https://e.dangdang.com/m/0825zx.html"
+    },
+    "weir": {
+      "label": "Penguin Random House: Project Hail Mary May 2021 publication announcement",
+      "url": "https://global.penguinrandomhouse.com/announcements/new-andy-weir-novel-project-hail-mary-to-be-published-in-may-2021/"
+    },
+    "clarke": {
+      "label": "The Encyclopedia of Science Fiction: Prelude to Space first edition 1951",
+      "url": "https://sf-encyclopedia.com/entry/clarke_arthur_c"
+    },
+    "doyle": {
+      "label": "Portsmouth Conan Doyle Collection: The Lost World (1912), Challenger and returning characters",
+      "url": "https://www.conandoylecollection.com/conan-doyle/blog/read/2023/05/arthur-conan-doyles-apocalypse-b91"
+    },
+    "doyle-work": {
+      "label": "Arthur Conan Doyle Encyclopedia: The Lost World publication and original text",
+      "url": "https://www.arthur-conan-doyle.com/wiki/The_Lost_World"
+    },
+    "ghost-asimov": {
+      "label": "中文科幻：本篇署名阿西莫夫，无初刊资料",
+      "url": "https://chinasf.com/main/noveldetail.php?ChapterID=-8&NovelID=1025"
+    },
+    "ghost-hansong": {
+      "label": "同一中文正文的另一收录署名韩松，与前一来源冲突",
+      "url": "https://higrid.net/show/bk8/460.html"
+    }
+  },
+  "summary": {
+    "authors": 13,
+    "workFiles": 211,
+    "correctedYears": 29,
+    "correctedOriginalAttributions": 1,
+    "confirmedUnchanged": 174,
+    "uncertain": 8
+  },
+  "entries": [
+    {
+      "bookId": "001-5f292d9e5aec",
+      "authorId": "001",
+      "title": "宇宙坍缩",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1985]《宇宙坍缩》.txt",
+      "originalYear": 1985,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1999]《宇宙坍缩》.txt",
+      "status": "corrected",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-a01a1a75cc30",
+      "authorId": "001",
+      "title": "微观尽头",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1987]《微观尽头》.txt",
+      "originalYear": 1987,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1999]《微观尽头》.txt",
+      "status": "corrected",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-d61cc2118e13",
+      "authorId": "001",
+      "title": "中国2185",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
+      "originalYear": 1989,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
+      "status": "uncertain",
+      "year": 1989,
+      "note": "1989可确认是创作完成年，作品未正式出版；保留原文件名，不将其当作已确认的初刊年。",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study",
+        "liu-drafts"
+      ],
+      "yearBasis": "creation-year-only"
+    },
+    {
+      "bookId": "001-4edbc7e5d622",
+      "authorId": "001",
+      "title": "超新星纪元（内地实体删节版）",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(内地实体删节版).txt",
+      "originalYear": 1991,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-1]《超新星纪元》(内地实体删节版).txt",
+      "status": "corrected",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ],
+      "note": "本地内地实体删节版按2003年作家出版社首版；1991是早期创作年。"
+    },
+    {
+      "bookId": "001-cfd761fe0618",
+      "authorId": "001",
+      "title": "超新星纪元（新创世纪完整版）",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
+      "originalYear": 1991,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
+      "status": "uncertain",
+      "year": 1991,
+      "note": "正文自称1991年版且含交换国土情节，是早期稿/流传版本；未确认该具体版本首次公开时间，不能套用2003年删节版首版年。",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-f76c68ac54be",
+      "authorId": "001",
+      "title": "梦之海",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1997-1]《梦之海》.txt",
+      "originalYear": 1997,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-1]《梦之海》.txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-101dd3d4ba23",
+      "authorId": "001",
+      "title": "诗云",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1997-2]《诗云》(李白).txt",
+      "originalYear": 1997,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《诗云》(李白).txt",
+      "status": "corrected",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-6787fd5c5da1",
+      "authorId": "001",
+      "title": "欢乐颂",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1997-3]《欢乐颂》.txt",
+      "originalYear": 1997,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005-3]《欢乐颂》.txt",
+      "status": "corrected",
+      "year": 2005,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-0d7140f0d06c",
+      "authorId": "001",
+      "title": "西洋",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1998-1]《西洋》 .txt",
+      "originalYear": 1998,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-1]《西洋》 .txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-327ec7596c58",
+      "authorId": "001",
+      "title": "微纪元",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1998-2]《微纪元》.txt",
+      "originalYear": 1998,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-2]《微纪元》.txt",
+      "status": "corrected",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-2534a17d1a0b",
+      "authorId": "001",
+      "title": "天使时代",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1998-3]《天使时代》(波斯湾飞马).txt",
+      "originalYear": 1998,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-3]《天使时代》(波斯湾飞马).txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-3d33bcbedf55",
+      "authorId": "001",
+      "title": "光荣与梦想",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1998-4]《光荣与梦想》.txt",
+      "originalYear": 1998,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-4]《光荣与梦想》.txt",
+      "status": "corrected",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-f751d0c0a3b8",
+      "authorId": "001",
+      "title": "地球大炮",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1998-5]《地球大炮》(深井).txt",
+      "originalYear": 1998,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-5]《地球大炮》(深井).txt",
+      "status": "corrected",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-0017beaf7dc2",
+      "authorId": "001",
+      "title": "鲸歌",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1999-1]《鲸歌》.txt",
+      "originalYear": 1999,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1999-1]《鲸歌》.txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-ce8d5e68267a",
+      "authorId": "001",
+      "title": "带上她的眼晴",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1999-2]《带上她的眼晴》.txt",
+      "originalYear": 1999,
+      "path": "001 - 刘慈欣(Cixin Liu)/[1999-2]《带上她的眼晴》.txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-11766bb4a4e0",
+      "authorId": "001",
+      "title": "信使",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1999-3]《信使》.txt",
+      "originalYear": 1999,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-3]《信使》.txt",
+      "status": "corrected",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-29e9e3dc4a4b",
+      "authorId": "001",
+      "title": "混沌蝴蝶",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[1999-4]《混沌蝴蝶》.txt",
+      "originalYear": 1999,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-4]《混沌蝴蝶》.txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-0ec93c3ad73d",
+      "authorId": "001",
+      "title": "地火",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2000-1]《地火》.txt",
+      "originalYear": 2000,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2000-1]《地火》.txt",
+      "status": "confirmed",
+      "year": 2000,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-917618dd098b",
+      "authorId": "001",
+      "title": "流浪地球",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2000-2]《流浪地球》.txt",
+      "originalYear": 2000,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2000-2]《流浪地球》.txt",
+      "status": "confirmed",
+      "year": 2000,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-4397bbab8c31",
+      "authorId": "001",
+      "title": "乡村教师",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2000-3]《乡村教师》.txt",
+      "originalYear": 2000,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-3]《乡村教师》.txt",
+      "status": "corrected",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-c5790fdffe99",
+      "authorId": "001",
+      "title": "魔鬼积木",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2000-4]《魔鬼积木》.txt",
+      "originalYear": 2000,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-4]《魔鬼积木》.txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-4d14cf0f8164",
+      "authorId": "001",
+      "title": "全频带阻塞干扰（中国版）",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（中国版）.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（中国版）.txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-6648bc7ad8f7",
+      "authorId": "001",
+      "title": "全频带阻塞干扰（俄罗斯版）",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（俄罗斯版）.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-1]《全频带阻塞干扰》（俄罗斯版）.txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-bd870375974a",
+      "authorId": "001",
+      "title": "中国太阳",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-2]《中国太阳》.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-2]《中国太阳》.txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-eea05dae1949",
+      "authorId": "001",
+      "title": "朝闻道",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-3]《朝闻道》(爱因斯坦赤道).txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-3]《朝闻道》(爱因斯坦赤道).txt",
+      "status": "corrected",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-ae5bbacf9c9e",
+      "authorId": "001",
+      "title": "纤维",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-4]《纤维》.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-4]《纤维》.txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-41e6168cbef8",
+      "authorId": "001",
+      "title": "命运",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-5]《命运》.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2001-5]《命运》.txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-b54a0ca8421e",
+      "authorId": "001",
+      "title": "球状闪电",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2001-6]《球状闪电》.txt",
+      "originalYear": 2001,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2004-6]《球状闪电》.txt",
+      "status": "corrected",
+      "year": 2004,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-92e295f60fa9",
+      "authorId": "001",
+      "title": "吞食者",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2002-1]《吞食者》.txt",
+      "originalYear": 2002,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2002-1]《吞食者》.txt",
+      "status": "confirmed",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-b34d4e348104",
+      "authorId": "001",
+      "title": "思想者",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2002-2]《思想者》.txt",
+      "originalYear": 2002,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《思想者》.txt",
+      "status": "corrected",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-d7a49fb62321",
+      "authorId": "001",
+      "title": "白垩纪往事",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2003-1]《白垩纪往事》(谁替恐龙剔牙).txt",
+      "originalYear": 2003,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2004-1]《白垩纪往事》(谁替恐龙剔牙).txt",
+      "status": "corrected",
+      "year": 2004,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ],
+      "note": "本地为约2.5万字中篇版，2004年9–11期连载，非仅按初稿2003年登记。"
+    },
+    {
+      "bookId": "001-58df442a4ae1",
+      "authorId": "001",
+      "title": "海水高山",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
+      "originalYear": 2003,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
+      "status": "uncertain",
+      "year": 2003,
+      "note": "2003是东方少年科幻征文获奖年；年表另列2014年期刊发表。未确认是否更早公开发表，保留2003并注明其含义不确定。",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study",
+        "liu-mountain"
+      ]
+    },
+    {
+      "bookId": "001-00feef6b209e",
+      "authorId": "001",
+      "title": "人生",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2003-3]《人生》.txt",
+      "originalYear": 2003,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2010-3]《人生》.txt",
+      "status": "corrected",
+      "year": 2010,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-27838a7c140d",
+      "authorId": "001",
+      "title": "镜子",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2004-1]《镜子》.txt",
+      "originalYear": 2004,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2004-1]《镜子》.txt",
+      "status": "confirmed",
+      "year": 2004,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-3ee69e9b473a",
+      "authorId": "001",
+      "title": "圆圆的肥皂泡",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2004-2]《圆圆的肥皂泡》.txt",
+      "originalYear": 2004,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2004-2]《圆圆的肥皂泡》.txt",
+      "status": "confirmed",
+      "year": 2004,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-795b6b958b93",
+      "authorId": "001",
+      "title": "当恐龙遇上蚂蚁",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2004-3]《当恐龙遇上蚂蚁》（白垩纪往事）.txt",
+      "originalYear": 2004,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2004-3]《当恐龙遇上蚂蚁》（白垩纪往事）.txt",
+      "status": "confirmed",
+      "year": 2004,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ],
+      "note": "长篇《当恐龙遇上蚂蚁》2004年首版，区别于中篇《白垩纪往事》。"
+    },
+    {
+      "bookId": "001-39c5f1dce002",
+      "authorId": "001",
+      "title": "山",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2005-1]《山》.txt",
+      "originalYear": 2005,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2006-1]《山》.txt",
+      "status": "corrected",
+      "year": 2006,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-c46710070b2f",
+      "authorId": "001",
+      "title": "赡养上帝",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2005-2]《赡养上帝》.txt",
+      "originalYear": 2005,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005-2]《赡养上帝》.txt",
+      "status": "confirmed",
+      "year": 2005,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-a6d1847f9ee0",
+      "authorId": "001",
+      "title": "赡养人类",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2005-3]《赡养人类》.txt",
+      "originalYear": 2005,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005-3]《赡养人类》.txt",
+      "status": "confirmed",
+      "year": 2005,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-06a912a96d1b",
+      "authorId": "001",
+      "title": "创世纪",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
+      "originalYear": 2005,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
+      "status": "uncertain",
+      "year": 2005,
+      "note": "文件为空，无法核对版本。书目记载节选中篇于2004年12期至2005年1期连载；暂保留2005，不将空文件认定为已核实正文。",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-fb5f8fedc262",
+      "authorId": "001",
+      "title": "三体",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2006]《三体》.txt",
+      "originalYear": 2006,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2006]《三体》.txt",
+      "status": "confirmed",
+      "year": 2006,
+      "yearBasis": "first-serialization-year",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ],
+      "note": "2006为《科幻世界》连载年，2008为单行本年；现有2006作为连载发表年有效。"
+    },
+    {
+      "bookId": "001-1cc6117b4eb2",
+      "authorId": "001",
+      "title": "三体2黑暗森林",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2008]《三体2黑暗森林》.txt",
+      "originalYear": 2008,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2008]《三体2黑暗森林》.txt",
+      "status": "confirmed",
+      "year": 2008,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-1d1b433417fb",
+      "authorId": "001",
+      "title": "月夜",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2009]《月夜》.txt",
+      "originalYear": 2009,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2009]《月夜》.txt",
+      "status": "confirmed",
+      "year": 2009,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-79727137b170",
+      "authorId": "001",
+      "title": "2018年4月1日",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2010-1]《2018年4月1日》.txt",
+      "originalYear": 2010,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2009-1]《2018年4月1日》.txt",
+      "status": "corrected",
+      "year": 2009,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-9c0fd13e0313",
+      "authorId": "001",
+      "title": "太原之恋",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2010-2]《太原之恋》.txt",
+      "originalYear": 2010,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2010-2]《太原之恋》.txt",
+      "status": "confirmed",
+      "year": 2010,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-6621ae489d80",
+      "authorId": "001",
+      "title": "时间移民",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2010-3]《时间移民》.txt",
+      "originalYear": 2010,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2010-3]《时间移民》.txt",
+      "status": "confirmed",
+      "year": 2010,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-62e5a1b0fc92",
+      "authorId": "001",
+      "title": "三体3死神永生",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2010-4]《三体3死神永生》.txt",
+      "originalYear": 2010,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2010-4]《三体3死神永生》.txt",
+      "status": "confirmed",
+      "year": 2010,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-311b35f4d7d9",
+      "authorId": "001",
+      "title": "烧火工",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
+      "originalYear": 2012,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
+      "status": "uncertain",
+      "year": 2012,
+      "note": "可确认2011年底创作、2012新年赠送及后来印刷出版记录；原始果壳日志当前不可访问，网上首次公开的准确年份尚未确认，保留2012。",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study",
+        "liu-burn"
+      ]
+    },
+    {
+      "bookId": "001-67ab9cdec7a3",
+      "authorId": "001",
+      "title": "圆",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2015-7]《圆》（人列计算机）.txt",
+      "originalYear": 2015,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2015-7]《圆》（人列计算机）.txt",
+      "status": "confirmed",
+      "year": 2015,
+      "yearBasis": "first-chinese-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ],
+      "note": "2014年先有英文The Circle；本地中文《圆》原文2015年收入《梦之海》，保留中文版本年2015。"
+    },
+    {
+      "bookId": "001-ccf95dc26d1b",
+      "authorId": "001",
+      "title": "不能共存的节日",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2016]《不能共存的节日》.txt",
+      "originalYear": 2016,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2016]《不能共存的节日》.txt",
+      "status": "confirmed",
+      "year": 2016,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study"
+      ]
+    },
+    {
+      "bookId": "001-41b6ed90bd5e",
+      "authorId": "001",
+      "title": "黄金原野",
+      "originalPath": "001 - 刘慈欣(Cixin Liu)/[2017]《黄金原野》.txt",
+      "originalYear": 2017,
+      "path": "001 - 刘慈欣(Cixin Liu)/[2018]《黄金原野》.txt",
+      "status": "corrected",
+      "year": 2018,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "liu-publications",
+        "liu-study",
+        "liu-gold"
+      ],
+      "note": "2017为完稿及预告年；2018年收入Twelve Tomorrows并出版中文版。"
+    },
+    {
+      "bookId": "002-c634acbc92b2",
+      "authorId": "002",
+      "title": "沙丘",
+      "originalPath": "002 - Frank Herbert(弗兰克·赫伯特)/[1965]《沙丘》(Dune).txt",
+      "originalYear": 1965,
+      "path": "002 - Frank Herbert(弗兰克·赫伯特)/[1965]《沙丘》(Dune).txt",
+      "status": "confirmed",
+      "year": 1965,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "herbert",
+        "herbert-editions"
+      ],
+      "note": "1963–1965年分段连载，1965年完整小说首版；保留书版年份。"
+    },
+    {
+      "bookId": "002-e0fa17128c55",
+      "authorId": "002",
+      "title": "沙丘救世主",
+      "originalPath": "002 - Frank Herbert(弗兰克·赫伯特)/[1969]《沙丘救世主》(Dune Messiah).txt",
+      "originalYear": 1969,
+      "path": "002 - Frank Herbert(弗兰克·赫伯特)/[1969]《沙丘救世主》(Dune Messiah).txt",
+      "status": "confirmed",
+      "year": 1969,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "herbert",
+        "herbert-editions"
+      ]
+    },
+    {
+      "bookId": "002-a7924b4f8d6b",
+      "authorId": "002",
+      "title": "沙丘之子",
+      "originalPath": "002 - Frank Herbert(弗兰克·赫伯特)/[1976]《沙丘之子》(Children of Dune).txt",
+      "originalYear": 1976,
+      "path": "002 - Frank Herbert(弗兰克·赫伯特)/[1976]《沙丘之子》(Children of Dune).txt",
+      "status": "confirmed",
+      "year": 1976,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "herbert",
+        "herbert-editions"
+      ]
+    },
+    {
+      "bookId": "003-73ca4eeeed83",
+      "authorId": "003",
+      "title": "灶神星畔受困记",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1939]《灶神星畔受困记》.txt",
+      "originalYear": 1939,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1939]《灶神星畔受困记》.txt",
+      "status": "confirmed",
+      "year": 1939,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-56c7988ae747",
+      "authorId": "003",
+      "title": "格洛里亚的好朋友",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1940]《格洛里亚的好朋友》.txt",
+      "originalYear": 1940,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1940]《格洛里亚的好朋友》.txt",
+      "status": "confirmed",
+      "year": 1940,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-01f668758a56",
+      "authorId": "003",
+      "title": "日暮",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1941]《日暮》.txt",
+      "originalYear": 1941,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1941]《日暮》.txt",
+      "status": "confirmed",
+      "year": 1941,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-56c9cc89a7d5",
+      "authorId": "003",
+      "title": "AL-76号走失记",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1942]《AL-76号走失记》.txt",
+      "originalYear": 1942,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1942]《AL-76号走失记》.txt",
+      "status": "confirmed",
+      "year": 1942,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-ae7001690da0",
+      "authorId": "003",
+      "title": "捉兔记",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1944]《捉兔记》.txt",
+      "originalYear": 1944,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1944]《捉兔记》.txt",
+      "status": "confirmed",
+      "year": 1944,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-61bc2aab5636",
+      "authorId": "003",
+      "title": "地球母亲",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1949]《地球母亲》.txt",
+      "originalYear": 1949,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1949]《地球母亲》.txt",
+      "status": "confirmed",
+      "year": 1949,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-c764e2c115c6",
+      "authorId": "003",
+      "title": "我，机器人",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1950]《我，机器人》(I, Robot).txt",
+      "originalYear": 1950,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1950]《我，机器人》(I, Robot).txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-3d8e970b242a",
+      "authorId": "003",
+      "title": "他们那时多有趣",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1951]《他们那时多有趣》.txt",
+      "originalYear": 1951,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1951]《他们那时多有趣》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d7b09e284aa8",
+      "authorId": "003",
+      "title": "奇袭",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1951]《奇袭》.txt",
+      "originalYear": 1951,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1951]《奇袭》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-ba6b311d9e9c",
+      "authorId": "003",
+      "title": "假如",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1952]《假如》.txt",
+      "originalYear": 1952,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1952]《假如》.txt",
+      "status": "confirmed",
+      "year": 1952,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d5f65a07749f",
+      "authorId": "003",
+      "title": "火星方式",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1952]《火星方式》.txt",
+      "originalYear": 1952,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1952]《火星方式》.txt",
+      "status": "confirmed",
+      "year": 1952,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-357349d21c65",
+      "authorId": "003",
+      "title": "啊，巴顿，巴顿！",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1953]《啊，巴顿，巴顿！》.txt",
+      "originalYear": 1953,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1953]《啊，巴顿，巴顿！》.txt",
+      "status": "confirmed",
+      "year": 1953,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-4e23439052fd",
+      "authorId": "003",
+      "title": "神奇的汽车——萨莉",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1953]《神奇的汽车——萨莉》.txt",
+      "originalYear": 1953,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1953]《神奇的汽车——萨莉》.txt",
+      "status": "confirmed",
+      "year": 1953,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-e44386f679ca",
+      "authorId": "003",
+      "title": "不朽的诗人",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1954]《不朽的诗人》.txt",
+      "originalYear": 1954,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1954]《不朽的诗人》.txt",
+      "status": "confirmed",
+      "year": 1954,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-cc654b3e99fc",
+      "authorId": "003",
+      "title": "人语石",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《人语石》.txt",
+      "originalYear": 1955,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《人语石》.txt",
+      "status": "confirmed",
+      "year": 1955,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-f8e7741b6144",
+      "authorId": "003",
+      "title": "响铃",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《响铃》.txt",
+      "originalYear": 1955,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《响铃》.txt",
+      "status": "confirmed",
+      "year": 1955,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-90ae25f96f5c",
+      "authorId": "003",
+      "title": "永恒的终结",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《永恒的终结》.pdf",
+      "originalYear": 1955,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1955]《永恒的终结》.pdf",
+      "status": "confirmed",
+      "year": 1955,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-060ad2b3335a",
+      "authorId": "003",
+      "title": "一只下金蛋的鹅",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《一只下金蛋的鹅》.txt",
+      "originalYear": 1956,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《一只下金蛋的鹅》.txt",
+      "status": "confirmed",
+      "year": 1956,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-36e8f2e786f5",
+      "authorId": "003",
+      "title": "最后的问题",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《最后的问题》.txt",
+      "originalYear": 1956,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《最后的问题》.txt",
+      "status": "confirmed",
+      "year": 1956,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-86e4e5205a5a",
+      "authorId": "003",
+      "title": "第一定律",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《第一定律》.txt",
+      "originalYear": 1956,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《第一定律》.txt",
+      "status": "confirmed",
+      "year": 1956,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d4bb2bed4bb3",
+      "authorId": "003",
+      "title": "讲笑话的人",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《讲笑话的人》.txt",
+      "originalYear": 1956,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《讲笑话的人》.txt",
+      "status": "confirmed",
+      "year": 1956,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-14b981ff9972",
+      "authorId": "003",
+      "title": "谁是凶手",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《谁是凶手》.txt",
+      "originalYear": 1956,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1956]《谁是凶手》.txt",
+      "status": "confirmed",
+      "year": 1956,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-54692ad43e87",
+      "authorId": "003",
+      "title": "低能儿收容所",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《低能儿收容所》.txt",
+      "originalYear": 1957,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《低能儿收容所》.txt",
+      "status": "confirmed",
+      "year": 1957,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-f4418ac50158",
+      "authorId": "003",
+      "title": "死尘",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《死尘》.txt",
+      "originalYear": 1957,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《死尘》.txt",
+      "status": "confirmed",
+      "year": 1957,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-3aa25fd9003c",
+      "authorId": "003",
+      "title": "法律之争",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《法律之争》.txt",
+      "originalYear": 1957,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1957]《法律之争》.txt",
+      "status": "confirmed",
+      "year": 1957,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-5e967d26f92f",
+      "authorId": "003",
+      "title": "力量的感觉",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1958]《力量的感觉》.txt",
+      "originalYear": 1958,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1958]《力量的感觉》.txt",
+      "status": "confirmed",
+      "year": 1958,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d8b30790bfb3",
+      "authorId": "003",
+      "title": "怪异的谋杀案",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1958]《怪异的谋杀案》.txt",
+      "originalYear": 1958,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1958]《怪异的谋杀案》.txt",
+      "status": "confirmed",
+      "year": 1958,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-ac40c88a9458",
+      "authorId": "003",
+      "title": "九个明天",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1959]《九个明天》.txt",
+      "originalYear": 1959,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1959]《九个明天》.txt",
+      "status": "confirmed",
+      "year": 1959,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-1287a8dfaae6",
+      "authorId": "003",
+      "title": "讣告",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1959]《讣告》.txt",
+      "originalYear": 1959,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1959]《讣告》.txt",
+      "status": "confirmed",
+      "year": 1959,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-bf37c4753bc4",
+      "authorId": "003",
+      "title": "星光",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1962]《星光》.txt",
+      "originalYear": 1962,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1962]《星光》.txt",
+      "status": "confirmed",
+      "year": 1962,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-6a86188722ef",
+      "authorId": "003",
+      "title": "眼睛不仅用来看东西",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1965]《眼睛不仅用来看东西》.txt",
+      "originalYear": 1965,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1965]《眼睛不仅用来看东西》.txt",
+      "status": "confirmed",
+      "year": 1965,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-137b964ba4a3",
+      "authorId": "003",
+      "title": "奇妙的航程",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1966]《奇妙的航程》.txt",
+      "originalYear": 1966,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1966]《奇妙的航程》.txt",
+      "status": "confirmed",
+      "year": 1966,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-b7e023312d34",
+      "authorId": "003",
+      "title": "钥匙",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1966]《钥匙》.txt",
+      "originalYear": 1966,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1966]《钥匙》.txt",
+      "status": "confirmed",
+      "year": 1966,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-84a7a68ffed7",
+      "authorId": "003",
+      "title": "台球",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1967]《台球》.txt",
+      "originalYear": 1967,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1967]《台球》.txt",
+      "status": "confirmed",
+      "year": 1967,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-7d4bc16b0db9",
+      "authorId": "003",
+      "title": "尼德林教授的试题",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1970]《尼德林教授的试题》.txt",
+      "originalYear": 1970,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1970]《尼德林教授的试题》.txt",
+      "status": "confirmed",
+      "year": 1970,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-3e9572f4e8e0",
+      "authorId": "003",
+      "title": "神们自己",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1972]《神们自己》(The Gods Themselves).txt",
+      "originalYear": 1972,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1972]《神们自己》(The Gods Themselves).txt",
+      "status": "confirmed",
+      "year": 1972,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-57c2dd69e22e",
+      "authorId": "003",
+      "title": "镜象",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1972]《镜象》.txt",
+      "originalYear": 1972,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1972]《镜象》.txt",
+      "status": "confirmed",
+      "year": 1972,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-4f77650b0ee0",
+      "authorId": "003",
+      "title": "天堂里的陌生人",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1974]《天堂里的陌生人》.txt",
+      "originalYear": 1974,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1974]《天堂里的陌生人》.txt",
+      "status": "confirmed",
+      "year": 1974,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-62cb39b124dc",
+      "authorId": "003",
+      "title": "孩子最好的朋友",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1975]《孩子最好的朋友》.txt",
+      "originalYear": 1975,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1975]《孩子最好的朋友》.txt",
+      "status": "confirmed",
+      "year": 1975,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-7cebf17073eb",
+      "authorId": "003",
+      "title": "换个角度",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1975]《换个角度》.txt",
+      "originalYear": 1975,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1975]《换个角度》.txt",
+      "status": "confirmed",
+      "year": 1975,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-6aff04ca5dd1",
+      "authorId": "003",
+      "title": "二百岁的寿星",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1976]《二百岁的寿星》.txt",
+      "originalYear": 1976,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1976]《二百岁的寿星》.txt",
+      "status": "confirmed",
+      "year": 1976,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-3a4fd3341b90",
+      "authorId": "003",
+      "title": "真爱",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1977]《真爱》.txt",
+      "originalYear": 1977,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1977]《真爱》.txt",
+      "status": "confirmed",
+      "year": 1977,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-559d0533a417",
+      "authorId": "003",
+      "title": "确定无疑的事",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1977]《确定无疑的事》.txt",
+      "originalYear": 1977,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1977]《确定无疑的事》.txt",
+      "status": "confirmed",
+      "year": 1977,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d78e66b748b3",
+      "authorId": "003",
+      "title": "如鱼得水",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《如鱼得水》.txt",
+      "originalYear": 1980,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《如鱼得水》.txt",
+      "status": "confirmed",
+      "year": 1980,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-a89a125614e4",
+      "authorId": "003",
+      "title": "终极答案",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《终极答案》.txt",
+      "originalYear": 1980,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《终极答案》.txt",
+      "status": "confirmed",
+      "year": 1980,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-039309b9caf0",
+      "authorId": "003",
+      "title": "黑鳏夫酒家的聚会",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《黑鳏夫酒家的聚会》.txt",
+      "originalYear": 1980,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1980]《黑鳏夫酒家的聚会》.txt",
+      "status": "confirmed",
+      "year": 1980,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-9b69547a959d",
+      "authorId": "003",
+      "title": "复仇女神",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1989]《复仇女神》.txt",
+      "originalYear": 1989,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1989]《复仇女神》.txt",
+      "status": "confirmed",
+      "year": 1989,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-ef23dae18ac3",
+      "authorId": "003",
+      "title": "机器人的幻想",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1990]《机器人的幻想》.txt",
+      "originalYear": 1990,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/[1990]《机器人的幻想》.txt",
+      "status": "confirmed",
+      "year": 1990,
+      "yearBasis": "first-original-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-c80df81daf9e",
+      "authorId": "003",
+      "title": "基地",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲1：[1951]《基地》(Foundation).txt",
+      "originalYear": 1951,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲1：[1951]《基地》(Foundation).txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-c80af254b6d7",
+      "authorId": "003",
+      "title": "基地与帝国",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲2：[1952]《基地与帝国》(Foundation and Empire).txt",
+      "originalYear": 1952,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲2：[1952]《基地与帝国》(Foundation and Empire).txt",
+      "status": "confirmed",
+      "year": 1952,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-d0f3152e00e5",
+      "authorId": "003",
+      "title": "第二基地",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲3：[1953]《第二基地》(Second Foundation).txt",
+      "originalYear": 1953,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/1-基地三部曲/基地三部曲3：[1953]《第二基地》(Second Foundation).txt",
+      "status": "confirmed",
+      "year": 1953,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-660f1855cd60",
+      "authorId": "003",
+      "title": "基地边缘",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传1：[1982]《基地边缘》(Foundation's Edge).txt",
+      "originalYear": 1982,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传1：[1982]《基地边缘》(Foundation's Edge).txt",
+      "status": "confirmed",
+      "year": 1982,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-e9eb52277dad",
+      "authorId": "003",
+      "title": "基地与地球",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传2：[1986]《基地与地球》(Foundation and Earth).txt",
+      "originalYear": 1986,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/2-基地后传/基地后传2：[1986]《基地与地球》(Foundation and Earth).txt",
+      "status": "confirmed",
+      "year": 1986,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-6d93eb7f289d",
+      "authorId": "003",
+      "title": "基地前奏",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传1：[1988]《基地前奏》(Prelude to Foundation).txt",
+      "originalYear": 1988,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传1：[1988]《基地前奏》(Prelude to Foundation).txt",
+      "status": "confirmed",
+      "year": 1988,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-31ab9e78032a",
+      "authorId": "003",
+      "title": "迈向基地",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传2：[1993]《迈向基地》(Forward the Foundation).txt",
+      "originalYear": 1993,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/基地系列/3-基地前传/基地前传2：[1993]《迈向基地》(Forward the Foundation).txt",
+      "status": "confirmed",
+      "year": 1993,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-948f59c15c36",
+      "authorId": "003",
+      "title": "钢穴",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1954]《钢穴》.txt",
+      "originalYear": 1954,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1954]《钢穴》.txt",
+      "status": "confirmed",
+      "year": 1954,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ],
+      "note": "1953年连载，1954年书版；现有书版年份有效。"
+    },
+    {
+      "bookId": "003-bda7a2c7cc93",
+      "authorId": "003",
+      "title": "裸阳",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1957]《裸阳》.txt",
+      "originalYear": 1957,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1957]《裸阳》.txt",
+      "status": "confirmed",
+      "year": 1957,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ],
+      "note": "1956年连载，1957年书版；现有书版年份有效。"
+    },
+    {
+      "bookId": "003-595b209bbd9f",
+      "authorId": "003",
+      "title": "曙光中的机器人",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1983]《曙光中的机器人》.txt",
+      "originalYear": 1983,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1983]《曙光中的机器人》.txt",
+      "status": "confirmed",
+      "year": 1983,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-aeb42dfd9a7c",
+      "authorId": "003",
+      "title": "机器人与帝国",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1985]《机器人与帝国》.txt",
+      "originalYear": 1985,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/机器人系列/[1985]《机器人与帝国》.txt",
+      "status": "confirmed",
+      "year": 1985,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-c056bb6968f0",
+      "authorId": "013",
+      "title": "被遗忘的世界",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/被遗忘的世界.txt",
+      "originalYear": null,
+      "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
+      "status": "uncertain",
+      "year": null,
+      "note": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。",
+      "sourceIds": [
+        "doyle",
+        "doyle-work"
+      ],
+      "originalWorkPublicationYear": 1912,
+      "originalAuthor": "Arthur Conan Doyle",
+      "attributionCorrected": true
+    },
+    {
+      "bookId": "003-7265b6f85bb0",
+      "authorId": "003",
+      "title": "繁星若尘",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/1 - [1951]《繁星若尘》.txt",
+      "originalYear": 1951,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/1 - [1951]《繁星若尘》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-862576093bd2",
+      "authorId": "003",
+      "title": "星空暗流",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/2 - [1952]《星空暗流》.txt",
+      "originalYear": 1952,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/2 - [1952]《星空暗流》.txt",
+      "status": "confirmed",
+      "year": 1952,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-dfc0e996e04f",
+      "authorId": "003",
+      "title": "苍穹微石",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/3 - [1950]《苍穹微石》.txt",
+      "originalYear": 1950,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/银河帝国系列/3 - [1950]《苍穹微石》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "asimov-short",
+        "asimov-books",
+        "asimov-jenkins"
+      ]
+    },
+    {
+      "bookId": "003-dc2adbecdeca",
+      "authorId": "003",
+      "title": "鬼扯",
+      "originalPath": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "originalYear": null,
+      "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
+      "status": "uncertain",
+      "year": null,
+      "note": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。",
+      "sourceIds": [
+        "ghost-asimov",
+        "ghost-hansong",
+        "asimov-short"
+      ]
+    },
+    {
+      "bookId": "004-753ae3035c4c",
+      "authorId": "004",
+      "title": "格兰特船长的儿女",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1868]《格兰特船长的儿女》.txt",
+      "originalYear": 1868,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1868]《格兰特船长的儿女》.txt",
+      "status": "confirmed",
+      "year": 1868,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne",
+        "verne-grant"
+      ],
+      "note": "1865–1867为连载，1867–1868为分卷首版，1868全本书目年有效；不把连载与全本首版差异当成错误。"
+    },
+    {
+      "bookId": "004-b8d9c33cdfd7",
+      "authorId": "004",
+      "title": "海底两万里",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1870]《海底两万里》(Vingt mille lieues sous les mers).txt",
+      "originalYear": 1870,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1870]《海底两万里》(Vingt mille lieues sous les mers).txt",
+      "status": "confirmed",
+      "year": 1870,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ],
+      "note": "原作1869–1870年连载、分卷出版；1870为全本首版年，保留。"
+    },
+    {
+      "bookId": "004-35eb934a2114",
+      "authorId": "004",
+      "title": "神秘岛",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1875]《神秘岛》.txt",
+      "originalYear": 1875,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/01-三部曲/[1875]《神秘岛》.txt",
+      "status": "confirmed",
+      "year": 1875,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ],
+      "note": "原作1874–1875年连载，1875年全本书版，保留。"
+    },
+    {
+      "bookId": "004-0e44571d26f3",
+      "authorId": "004",
+      "title": "从地球到月球",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1865]《从地球到月球》(De la Terre à la Lune).txt",
+      "originalYear": 1865,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1865]《从地球到月球》(De la Terre à la Lune).txt",
+      "status": "confirmed",
+      "year": 1865,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-b4db44acd4ac",
+      "authorId": "004",
+      "title": "环绕月球",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1870]《环绕月球》.txt",
+      "originalYear": 1870,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1870]《环绕月球》.txt",
+      "status": "confirmed",
+      "year": 1870,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ],
+      "note": "1869年连载，1870年书版，保留书版年份。"
+    },
+    {
+      "bookId": "004-bcbfc12c67a3",
+      "authorId": "004",
+      "title": "北冰洋的幻想",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1889]《北冰洋的幻想》(又名'扭转乾坤').txt",
+      "originalYear": 1889,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/02-大炮俱乐部三部曲/[1889]《北冰洋的幻想》(又名'扭转乾坤').txt",
+      "status": "confirmed",
+      "year": 1889,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-2ba7305649e6",
+      "authorId": "004",
+      "title": "气球上的五星期",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1863]《气球上的五星期》.txt",
+      "originalYear": 1863,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1863]《气球上的五星期》.txt",
+      "status": "confirmed",
+      "year": 1863,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-48b4714b7d62",
+      "authorId": "004",
+      "title": "地心游记",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1864]《地心游记》.txt",
+      "originalYear": 1864,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1864]《地心游记》.txt",
+      "status": "confirmed",
+      "year": 1864,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-fe5da386976f",
+      "authorId": "004",
+      "title": "哈特拉斯船长历险记",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1866]《哈特拉斯船长历险记》.txt",
+      "originalYear": 1866,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1866]《哈特拉斯船长历险记》.txt",
+      "status": "confirmed",
+      "year": 1866,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ],
+      "note": "原作1864–1865年连载，1866年单行本，保留书版年份。"
+    },
+    {
+      "bookId": "004-0e42b3763308",
+      "authorId": "004",
+      "title": "八十天环游地球",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1873]《八十天环游地球》.txt",
+      "originalYear": 1873,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1873]《八十天环游地球》.txt",
+      "status": "confirmed",
+      "year": 1873,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ],
+      "note": "1872–1873年连载，1873年书版，保留。"
+    },
+    {
+      "bookId": "004-69c7e22bfa84",
+      "authorId": "004",
+      "title": "太阳系历险记",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1877]《太阳系历险记》.txt",
+      "originalYear": 1877,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1877]《太阳系历险记》.txt",
+      "status": "confirmed",
+      "year": 1877,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-731541c082c6",
+      "authorId": "004",
+      "title": "鲁滨逊学校",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1882]《鲁滨逊学校》.txt",
+      "originalYear": 1882,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1882]《鲁滨逊学校》.txt",
+      "status": "confirmed",
+      "year": 1882,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-42cbf5d9170b",
+      "authorId": "004",
+      "title": "两年假期",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1888]《两年假期》.txt",
+      "originalYear": 1888,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1888]《两年假期》.txt",
+      "status": "confirmed",
+      "year": 1888,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-0e51f23ac21b",
+      "authorId": "004",
+      "title": "绿光",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1888]《绿光》.txt",
+      "originalYear": 1888,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1882]《绿光》.txt",
+      "status": "corrected",
+      "year": 1882,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-b0d170dc43ae",
+      "authorId": "004",
+      "title": "2889年一个美国新闻界巨子的一天",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
+      "originalYear": 1891,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
+      "status": "uncertain",
+      "year": 1891,
+      "note": "1889英文初刊、1891法文重写和1910再修订并存；本地题名为2889，不能可靠判定具体底本版本及父子贡献，保留1891并记录版本差异。",
+      "sourceIds": [
+        "verne",
+        "verne-2889"
+      ]
+    },
+    {
+      "bookId": "004-5cb2e8058999",
+      "authorId": "004",
+      "title": "金火山",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《金火山》.txt",
+      "originalYear": 1891,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1906]《金火山》.txt",
+      "status": "corrected",
+      "year": 1906,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne",
+        "verne-gold"
+      ],
+      "note": "本地含Edith等人物，属于Michel Verne改写后1906年发表的版本，非1989年才发表的父亲原稿版本。"
+    },
+    {
+      "bookId": "004-49e73de2fe9a",
+      "authorId": "004",
+      "title": "冰岛怪兽",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1892]《冰岛怪兽》.txt",
+      "originalYear": 1892,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1897]《冰岛怪兽》.txt",
+      "status": "corrected",
+      "year": 1897,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-119af2b662ec",
+      "authorId": "004",
+      "title": "喀尔巴阡古堡",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1892]《喀尔巴阡古堡》.txt",
+      "originalYear": 1892,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1892]《喀尔巴阡古堡》.txt",
+      "status": "confirmed",
+      "year": 1892,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-1be16808db67",
+      "authorId": "004",
+      "title": "昂梯菲尔奇遇记",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1894]《昂梯菲尔奇遇记》.txt",
+      "originalYear": 1894,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1894]《昂梯菲尔奇遇记》.txt",
+      "status": "confirmed",
+      "year": 1894,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-1b1367c3b4fb",
+      "authorId": "004",
+      "title": "机器岛",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1895]《机器岛》.txt",
+      "originalYear": 1895,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1895]《机器岛》.txt",
+      "status": "confirmed",
+      "year": 1895,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-00e3e38d5613",
+      "authorId": "004",
+      "title": "大木筏",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1899]《大木筏》.txt",
+      "originalYear": 1899,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1881]《大木筏》.txt",
+      "status": "corrected",
+      "year": 1881,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-18c5d736e8e9",
+      "authorId": "004",
+      "title": "大木筏（上册）",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1899]《大木筏》上册.epub",
+      "originalYear": 1899,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1881]《大木筏》上册.epub",
+      "status": "corrected",
+      "year": 1881,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-905c77365512",
+      "authorId": "004",
+      "title": "大海入侵",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1905]《大海入侵》.txt",
+      "originalYear": 1905,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1905]《大海入侵》.txt",
+      "status": "confirmed",
+      "year": 1905,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "004-7356988b1177",
+      "authorId": "004",
+      "title": "多瑙河领航员",
+      "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1908]《多瑙河领航员》.txt",
+      "originalYear": 1908,
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1908]《多瑙河领航员》.txt",
+      "status": "confirmed",
+      "year": 1908,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "verne"
+      ]
+    },
+    {
+      "bookId": "005-75babcff9dfd",
+      "authorId": "005",
+      "title": "弗兰肯斯坦",
+      "originalPath": "005 - Mary Shelley(玛丽·雪莱)/[1818]《弗兰肯斯坦》(Frankenstein).txt",
+      "originalYear": 1818,
+      "path": "005 - Mary Shelley(玛丽·雪莱)/[1818]《弗兰肯斯坦》(Frankenstein).txt",
+      "status": "confirmed",
+      "year": 1818,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "shelley"
+      ]
+    },
+    {
+      "bookId": "006-de30b5c5fdc0",
+      "authorId": "006",
+      "title": "湖",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1944]《湖》.txt",
+      "originalYear": 1944,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1944]《湖》.txt",
+      "status": "confirmed",
+      "year": 1944,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-54b66af413f6",
+      "authorId": "006",
+      "title": "冰霜与烈火",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《冰霜与烈火》.txt",
+      "originalYear": 1946,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《冰霜与烈火》.txt",
+      "status": "confirmed",
+      "year": 1946,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-1e64def1f80a",
+      "authorId": "006",
+      "title": "火星人",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《火星人》.txt",
+      "originalYear": 1946,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《火星人》.txt",
+      "status": "confirmed",
+      "year": 1946,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-03a20f25f94e",
+      "authorId": "006",
+      "title": "百万年野餐",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《百万年野餐》.txt",
+      "originalYear": 1946,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1946]《百万年野餐》.txt",
+      "status": "confirmed",
+      "year": 1946,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-f190f01b0bfd",
+      "authorId": "006",
+      "title": "弄巧成拙",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1949]《弄巧成拙》.txt",
+      "originalYear": 1949,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1949]《弄巧成拙》.txt",
+      "status": "confirmed",
+      "year": 1949,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-af2cb50b4181",
+      "authorId": "006",
+      "title": "马里奥纳特公司的机器人",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1949]《马里奥纳特公司的机器人》.txt",
+      "originalYear": 1949,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1949]《马里奥纳特公司的机器人》.txt",
+      "status": "confirmed",
+      "year": 1949,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-7a78669f2b6a",
+      "authorId": "006",
+      "title": "2002年8月夜遇",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《2002年8月夜遇》.txt",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《2002年8月夜遇》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-86680bf42245",
+      "authorId": "006",
+      "title": "城市",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《城市》.txt",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《城市》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books",
+        "bradbury-city"
+      ]
+    },
+    {
+      "bookId": "006-de006e0e46af",
+      "authorId": "006",
+      "title": "杀“妻”",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《杀“妻”》.txt",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《杀“妻”》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-cdb0b306923b",
+      "authorId": "006",
+      "title": "火星纪事",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《火星纪事》.epub",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《火星纪事》.epub",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-c0c72ef94fd8",
+      "authorId": "006",
+      "title": "细雨即将来临",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《细雨即将来临》.txt",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《细雨即将来临》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-3f98bfcd45a6",
+      "authorId": "006",
+      "title": "雨一直下",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《雨一直下》.txt",
+      "originalYear": 1950,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《雨一直下》.txt",
+      "status": "confirmed",
+      "year": 1950,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-9f173cd1be71",
+      "authorId": "006",
+      "title": "图案人",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《图案人》.epub",
+      "originalYear": 1951,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《图案人》.epub",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-0cfa36de5b77",
+      "authorId": "006",
+      "title": "浓雾号角",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《浓雾号角》.txt",
+      "originalYear": 1951,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《浓雾号角》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-8d7bc51f0910",
+      "authorId": "006",
+      "title": "火气球",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《火气球》.txt",
+      "originalYear": 1951,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《火气球》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-a7de513f8ef9",
+      "authorId": "006",
+      "title": "火箭飞行员",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《火箭飞行员》.txt",
+      "originalYear": 1951,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《火箭飞行员》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-ecea587b624f",
+      "authorId": "006",
+      "title": "时间狩猎",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1952]《时间狩猎》.txt",
+      "originalYear": 1952,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1952]《时间狩猎》.txt",
+      "status": "confirmed",
+      "year": 1952,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-64c8f7df2710",
+      "authorId": "006",
+      "title": "华氏451度",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1953]《华氏451度》.txt",
+      "originalYear": 1953,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1953]《华氏451度》.txt",
+      "status": "confirmed",
+      "year": 1953,
+      "yearBasis": "first-original-book-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-e60767f689de",
+      "authorId": "006",
+      "title": "太阳的故事",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1954]《太阳的故事》.txt",
+      "originalYear": 1954,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1954]《太阳的故事》.txt",
+      "status": "confirmed",
+      "year": 1954,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-bf0625751b90",
+      "authorId": "006",
+      "title": "时光机",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1955]《时光机》.txt",
+      "originalYear": 1955,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1955]《时光机》.txt",
+      "status": "confirmed",
+      "year": 1955,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "006-370995f027ba",
+      "authorId": "006",
+      "title": "苍白先生",
+      "originalPath": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1997]《苍白先生》.txt",
+      "originalYear": 1997,
+      "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1997]《苍白先生》.txt",
+      "status": "confirmed",
+      "year": 1997,
+      "yearBasis": "first-original-short-fiction-publication",
+      "sourceIds": [
+        "bradbury-short",
+        "bradbury-finder",
+        "bradbury-books"
+      ]
+    },
+    {
+      "bookId": "007-936a59a9494a",
+      "authorId": "007",
+      "title": "安德的游戏",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1985]《安德的游戏》.txt",
+      "originalYear": 1985,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1985]《安德的游戏》.txt",
+      "status": "confirmed",
+      "year": 1985,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "007-ea10556baf6b",
+      "authorId": "007",
+      "title": "死者代言人",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.epub",
+      "originalYear": 1986,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.epub",
+      "status": "confirmed",
+      "year": 1986,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "007-4e84a529f3ad",
+      "authorId": "007",
+      "title": "死者代言人",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.txt",
+      "originalYear": 1986,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.txt",
+      "status": "confirmed",
+      "year": 1986,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "007-6f8dbb15af20",
+      "authorId": "007",
+      "title": "外星屠异",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1991]《外星屠异》.epub",
+      "originalYear": 1991,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1991]《外星屠异》.epub",
+      "status": "confirmed",
+      "year": 1991,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "007-16d22c629445",
+      "authorId": "007",
+      "title": "安德的影子",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1999]《安德的影子》(Ender's Shadow).txt",
+      "originalYear": 1999,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1999]《安德的影子》(Ender's Shadow).txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "007-33923738e773",
+      "authorId": "007",
+      "title": "霸主的影子",
+      "originalPath": "007 - Orson Scott Card(奥森·斯科特·卡德)/[2001]《霸主的影子》(Shadow of the Hegemon).txt",
+      "originalYear": 2001,
+      "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[2001]《霸主的影子》(Shadow of the Hegemon).txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "card"
+      ]
+    },
+    {
+      "bookId": "008-e555921c75ef",
+      "authorId": "008",
+      "title": "巴比伦塔",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[1990]《巴比伦塔》.txt",
+      "originalYear": 1990,
+      "path": "008 - Ted Chiang(特德·姜)/[1990]《巴比伦塔》.txt",
+      "status": "confirmed",
+      "year": 1990,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-95910f9d3b76",
+      "authorId": "008",
+      "title": "你一生的故事",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[1998]《你一生的故事》.txt",
+      "originalYear": 1998,
+      "path": "008 - Ted Chiang(特德·姜)/[1998]《你一生的故事》.txt",
+      "status": "confirmed",
+      "year": 1998,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-2179419a84d0",
+      "authorId": "008",
+      "title": "七十二个字母",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[2000]《七十二个字母》.txt",
+      "originalYear": 2000,
+      "path": "008 - Ted Chiang(特德·姜)/[2000]《七十二个字母》.txt",
+      "status": "confirmed",
+      "year": 2000,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-8c9559c45aa4",
+      "authorId": "008",
+      "title": "地狱是上帝不在的地方",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[2001]《地狱是上帝不在的地方》(Hell Is the Absence of God).txt",
+      "originalYear": 2001,
+      "path": "008 - Ted Chiang(特德·姜)/[2001]《地狱是上帝不在的地方》(Hell Is the Absence of God).txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-a6b833cc168f",
+      "authorId": "008",
+      "title": "商人和炼金术士之门",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[2007]《商人和炼金术士之门》(The Merchant and the Alchemist's Gate).txt",
+      "originalYear": 2007,
+      "path": "008 - Ted Chiang(特德·姜)/[2007]《商人和炼金术士之门》(The Merchant and the Alchemist's Gate).txt",
+      "status": "confirmed",
+      "year": 2007,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-57aa881fd943",
+      "authorId": "008",
+      "title": "呼吸",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[2008]《呼吸》(Exhalation).txt",
+      "originalYear": 2008,
+      "path": "008 - Ted Chiang(特德·姜)/[2008]《呼吸》(Exhalation).txt",
+      "status": "confirmed",
+      "year": 2008,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "008-df10fea40889",
+      "authorId": "008",
+      "title": "软件体的生命周期",
+      "originalPath": "008 - Ted Chiang(特德·姜)/[2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt",
+      "originalYear": 2010,
+      "path": "008 - Ted Chiang(特德·姜)/[2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt",
+      "status": "confirmed",
+      "year": 2010,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "chiang"
+      ]
+    },
+    {
+      "bookId": "009-52d576553a22",
+      "authorId": "009",
+      "title": "不朽的机器",
+      "originalPath": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《不朽的机器》(Ancient Engines).txt",
+      "originalYear": 1999,
+      "path": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《不朽的机器》(Ancient Engines).txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "swanwick",
+        "swanwick-ancient"
+      ]
+    },
+    {
+      "bookId": "009-93f7de301121",
+      "authorId": "009",
+      "title": "暴龙谐谑曲",
+      "originalPath": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt",
+      "originalYear": 1999,
+      "path": "009 - Michael Swanwick (迈克尔·斯万维克) /[1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "swanwick"
+      ]
+    },
+    {
+      "bookId": "009-ac086d3dcf45",
+      "authorId": "009",
+      "title": "狗说汪汪",
+      "originalPath": "009 - Michael Swanwick (迈克尔·斯万维克) /[2001]《狗说汪汪》(The Dog Said Bow-Wow).txt",
+      "originalYear": 2001,
+      "path": "009 - Michael Swanwick (迈克尔·斯万维克) /[2001]《狗说汪汪》(The Dog Said Bow-Wow).txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "swanwick"
+      ]
+    },
+    {
+      "bookId": "009-c273ae41e3b3",
+      "authorId": "009",
+      "title": "缓慢的生命",
+      "originalPath": "009 - Michael Swanwick (迈克尔·斯万维克) /[2002]《缓慢的生命》(Slow Life).txt",
+      "originalYear": 2002,
+      "path": "009 - Michael Swanwick (迈克尔·斯万维克) /[2002]《缓慢的生命》(Slow Life).txt",
+      "status": "confirmed",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "swanwick",
+        "swanwick-slow"
+      ]
+    },
+    {
+      "bookId": "009-10d227e0e40f",
+      "authorId": "009",
+      "title": "时空军团",
+      "originalPath": "009 - Michael Swanwick (迈克尔·斯万维克) /[2003]《时空军团》(Legions in Time).txt",
+      "originalYear": 2003,
+      "path": "009 - Michael Swanwick (迈克尔·斯万维克) /[2003]《时空军团》(Legions in Time).txt",
+      "status": "confirmed",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "swanwick"
+      ]
+    },
+    {
+      "bookId": "010-4d65fb4d7325",
+      "authorId": "010",
+      "title": "亚当回归",
+      "originalPath": "010 - 王晋康/[1993]《亚当回归》.txt",
+      "originalYear": 1993,
+      "path": "010 - 王晋康/[1993]《亚当回归》.txt",
+      "status": "confirmed",
+      "year": 1993,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-eb5731d91ba1",
+      "authorId": "010",
+      "title": "天火",
+      "originalPath": "010 - 王晋康/[1994]《天火》.txt",
+      "originalYear": 1994,
+      "path": "010 - 王晋康/[1994]《天火》.txt",
+      "status": "confirmed",
+      "year": 1994,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-196194644b9c",
+      "authorId": "010",
+      "title": "魔鬼梦幻",
+      "originalPath": "010 - 王晋康/[1994]《魔鬼梦幻》.txt",
+      "originalYear": 1994,
+      "path": "010 - 王晋康/[1994]《魔鬼梦幻》.txt",
+      "status": "confirmed",
+      "year": 1994,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-df75b9c2a332",
+      "authorId": "010",
+      "title": "黑匣子里的爱情",
+      "originalPath": "010 - 王晋康/[1994]《黑匣子里的爱情》.txt",
+      "originalYear": 1994,
+      "path": "010 - 王晋康/[1994]《黑匣子里的爱情》.txt",
+      "status": "confirmed",
+      "year": 1994,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-52fcc7cbcb79",
+      "authorId": "010",
+      "title": "星期日病毒",
+      "originalPath": "010 - 王晋康/[1995]《星期日病毒》.txt",
+      "originalYear": 1995,
+      "path": "010 - 王晋康/[1995]《星期日病毒》.txt",
+      "status": "confirmed",
+      "year": 1995,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-426595a4607b",
+      "authorId": "010",
+      "title": "生命之歌",
+      "originalPath": "010 - 王晋康/[1995]《生命之歌》.txt",
+      "originalYear": 1995,
+      "path": "010 - 王晋康/[1995]《生命之歌》.txt",
+      "status": "confirmed",
+      "year": 1995,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-43df7d8a2456",
+      "authorId": "010",
+      "title": "追杀",
+      "originalPath": "010 - 王晋康/[1995]《追杀》.txt",
+      "originalYear": 1995,
+      "path": "010 - 王晋康/[1995]《追杀》.txt",
+      "status": "confirmed",
+      "year": 1995,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-177e85a6fc66",
+      "authorId": "010",
+      "title": "天河相会",
+      "originalPath": "010 - 王晋康/[1996]《天河相会》.txt",
+      "originalYear": 1996,
+      "path": "010 - 王晋康/[1996]《天河相会》.txt",
+      "status": "confirmed",
+      "year": 1996,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-a0b5d7f52fa4",
+      "authorId": "010",
+      "title": "斯芬克司之谜",
+      "originalPath": "010 - 王晋康/[1996]《斯芬克司之谜》.txt",
+      "originalYear": 1996,
+      "path": "010 - 王晋康/[1996]《斯芬克司之谜》.txt",
+      "status": "confirmed",
+      "year": 1996,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-3b0ccbcba386",
+      "authorId": "010",
+      "title": "西奈噩梦",
+      "originalPath": "010 - 王晋康/[1996]《西奈噩梦》.txt",
+      "originalYear": 1996,
+      "path": "010 - 王晋康/[1996]《西奈噩梦》.txt",
+      "status": "confirmed",
+      "year": 1996,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-c1097f646085",
+      "authorId": "010",
+      "title": "七重外壳",
+      "originalPath": "010 - 王晋康/[1997]《七重外壳》.txt",
+      "originalYear": 1997,
+      "path": "010 - 王晋康/[1997]《七重外壳》.txt",
+      "status": "confirmed",
+      "year": 1997,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-761772ffbd40",
+      "authorId": "010",
+      "title": "三色世界",
+      "originalPath": "010 - 王晋康/[1997]《三色世界》.txt",
+      "originalYear": 1997,
+      "path": "010 - 王晋康/[1997]《三色世界》.txt",
+      "status": "confirmed",
+      "year": 1997,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-ffb1dee814ff",
+      "authorId": "010",
+      "title": "拉格朗日坟场",
+      "originalPath": "010 - 王晋康/[1997]《拉格朗日坟场》.txt",
+      "originalYear": 1997,
+      "path": "010 - 王晋康/[1997]《拉格朗日坟场》.txt",
+      "status": "confirmed",
+      "year": 1997,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-9228f5b44daf",
+      "authorId": "010",
+      "title": "生死平衡",
+      "originalPath": "010 - 王晋康/[1997]《生死平衡》.txt",
+      "originalYear": 1997,
+      "path": "010 - 王晋康/[1997]《生死平衡》.txt",
+      "status": "confirmed",
+      "year": 1997,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-2db0089fcb8f",
+      "authorId": "010",
+      "title": "太空雕像",
+      "originalPath": "010 - 王晋康/[1998]《太空雕像》.txt",
+      "originalYear": 1998,
+      "path": "010 - 王晋康/[1998]《太空雕像》.txt",
+      "status": "confirmed",
+      "year": 1998,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-1bd7379044fe",
+      "authorId": "010",
+      "title": "豹",
+      "originalPath": "010 - 王晋康/[1998]《豹》.txt",
+      "originalYear": 1998,
+      "path": "010 - 王晋康/[1998]《豹》.txt",
+      "status": "confirmed",
+      "year": 1998,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-45960abd9f29",
+      "authorId": "010",
+      "title": "魔环",
+      "originalPath": "010 - 王晋康/[1998]《魔环》.txt",
+      "originalYear": 1998,
+      "path": "010 - 王晋康/[1998]《魔环》.txt",
+      "status": "confirmed",
+      "year": 1998,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-6121449ee4ac",
+      "authorId": "010",
+      "title": "可爱的机器犬",
+      "originalPath": "010 - 王晋康/[1999]《可爱的机器犬》.txt",
+      "originalYear": 1999,
+      "path": "010 - 王晋康/[1999]《可爱的机器犬》.txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-62d1e31bc20d",
+      "authorId": "010",
+      "title": "失去它的日子",
+      "originalPath": "010 - 王晋康/[1999]《失去它的日子》.txt",
+      "originalYear": 1999,
+      "path": "010 - 王晋康/[1999]《失去它的日子》.txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-465f018f243c",
+      "authorId": "010",
+      "title": "解读生命",
+      "originalPath": "010 - 王晋康/[1999]《解读生命》.txt",
+      "originalYear": 1999,
+      "path": "010 - 王晋康/[1999]《解读生命》.txt",
+      "status": "confirmed",
+      "year": 1999,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-323c353af5ff",
+      "authorId": "010",
+      "title": "替天行道",
+      "originalPath": "010 - 王晋康/[2001]《替天行道》.txt",
+      "originalYear": 2001,
+      "path": "010 - 王晋康/[2001]《替天行道》.txt",
+      "status": "confirmed",
+      "year": 2001,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-e51c194a7c16",
+      "authorId": "010",
+      "title": "新安魂曲",
+      "originalPath": "010 - 王晋康/[2002]《新安魂曲》.txt",
+      "originalYear": 2002,
+      "path": "010 - 王晋康/[2002]《新安魂曲》.txt",
+      "status": "confirmed",
+      "year": 2002,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-de220310df64",
+      "authorId": "010",
+      "title": "时空商人",
+      "originalPath": "010 - 王晋康/[2003]《时空商人》.txt",
+      "originalYear": 2003,
+      "path": "010 - 王晋康/[2003]《时空商人》.txt",
+      "status": "confirmed",
+      "year": 2003,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index",
+        "wang-time"
+      ],
+      "note": "《时空商人》是《时空旅行三则》第一篇；年表列三则于《科幻大王》2003年1期，2006年为后来的文集收录。"
+    },
+    {
+      "bookId": "010-04df713f780e",
+      "authorId": "010",
+      "title": "一生的故事",
+      "originalPath": "010 - 王晋康/[2005]《一生的故事》.txt",
+      "originalYear": 2005,
+      "path": "010 - 王晋康/[2005]《一生的故事》.txt",
+      "status": "confirmed",
+      "year": 2005,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-9dee9e31629e",
+      "authorId": "010",
+      "title": "我们向何处去",
+      "originalPath": "010 - 王晋康/[2006]《我们向何处去》.txt",
+      "originalYear": 2006,
+      "path": "010 - 王晋康/[2006]《我们向何处去》.txt",
+      "status": "confirmed",
+      "year": 2006,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-ff8c88cfb46c",
+      "authorId": "010",
+      "title": "终极爆炸",
+      "originalPath": "010 - 王晋康/[2006]《终极爆炸》.txt",
+      "originalYear": 2006,
+      "path": "010 - 王晋康/[2006]《终极爆炸》.txt",
+      "status": "confirmed",
+      "year": 2006,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "010-e2b1406db53d",
+      "authorId": "010",
+      "title": "决战美杜莎",
+      "originalPath": "010 - 王晋康/[2008]《决战美杜莎》.txt",
+      "originalYear": 2008,
+      "path": "010 - 王晋康/[2008]《决战美杜莎》.txt",
+      "status": "confirmed",
+      "year": 2008,
+      "yearBasis": "first-documentable-original-publication",
+      "sourceIds": [
+        "wang",
+        "wang-index"
+      ]
+    },
+    {
+      "bookId": "011-f00713b822e3",
+      "authorId": "011",
+      "title": "挽救计划",
+      "originalPath": "011 - Andy Weir(安迪·威尔)/[2021]《挽救计划》.epub",
+      "originalYear": 2021,
+      "path": "011 - Andy Weir(安迪·威尔)/[2021]《挽救计划》.epub",
+      "status": "confirmed",
+      "year": 2021,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "weir"
+      ]
+    },
+    {
+      "bookId": "012-6f8d83cf5dbb",
+      "authorId": "012",
+      "title": "太空序曲",
+      "originalPath": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/[1951]《太空序曲》.txt",
+      "originalYear": 1951,
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/[1951]《太空序曲》.txt",
+      "status": "confirmed",
+      "year": 1951,
+      "yearBasis": "documented-original-book-edition",
+      "sourceIds": [
+        "clarke"
+      ]
+    }
+  ]
+}

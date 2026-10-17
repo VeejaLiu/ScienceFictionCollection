@@ -185,6 +185,57 @@
       "workId": "004-69c7e22bfa84"
     },
     {
+      "id": "004-00e3e38d5613",
+      "path": "[1881]《大木筏》.txt",
+      "title": "大木筏",
+      "format": "txt",
+      "size": 501713,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2808101.webp",
+      "slug": "大木筏",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL9880579M"
+      },
+      "workId": "004-00e3e38d5613"
+    },
+    {
+      "id": "004-18c5d736e8e9",
+      "path": "[1881]《大木筏》上册.epub",
+      "title": "大木筏（上册）",
+      "format": "epub",
+      "size": 197577,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/004-18c5d736e8e9.webp",
+      "slug": "大木筏-上册",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "EPUB",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/004%20-%20Jules%20Gabriel%20Verne%28%E5%84%92%E5%8B%92%C2%B7%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E5%87%A1%E5%B0%94%E7%BA%B3%29/%5B1881%5D%E3%80%8A%E5%A4%A7%E6%9C%A8%E7%AD%8F%E3%80%8B%E4%B8%8A%E5%86%8C.epub"
+      },
+      "workId": "004-18c5d736e8e9"
+    },
+    {
+      "id": "004-0e51f23ac21b",
+      "path": "[1882]《绿光》.txt",
+      "title": "绿光",
+      "format": "txt",
+      "size": 268608,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2500029.webp",
+      "slug": "绿光",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL9641633M"
+      },
+      "workId": "004-0e51f23ac21b"
+    },
+    {
       "id": "004-731541c082c6",
       "path": "[1882]《鲁滨逊学校》.txt",
       "title": "鲁滨逊学校",
@@ -214,23 +265,6 @@
       "workId": "004-42cbf5d9170b"
     },
     {
-      "id": "004-0e51f23ac21b",
-      "path": "[1888]《绿光》.txt",
-      "title": "绿光",
-      "format": "txt",
-      "size": 268608,
-      "language": "zh-CN",
-      "series": "",
-      "cover": "covers/editions/openlibrary-2500029.webp",
-      "slug": "绿光",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "Open Library",
-        "url": "https://openlibrary.org/books/OL9641633M"
-      },
-      "workId": "004-0e51f23ac21b"
-    },
-    {
       "id": "004-b0d170dc43ae",
       "path": "[1891]《2889年一个美国新闻界巨子的一天》.txt",
       "title": "2889年一个美国新闻界巨子的一天",
@@ -241,35 +275,6 @@
       "cover": null,
       "slug": "2889年一个美国新闻界巨子的一天",
       "workId": "004-b0d170dc43ae"
-    },
-    {
-      "id": "004-5cb2e8058999",
-      "path": "[1891]《金火山》.txt",
-      "title": "金火山",
-      "format": "txt",
-      "size": 631720,
-      "language": "zh-CN",
-      "series": "",
-      "cover": "covers/editions/openlibrary-2639903.webp",
-      "slug": "金火山",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "Open Library",
-        "url": "https://openlibrary.org/books/OL11212163M"
-      },
-      "workId": "004-5cb2e8058999"
-    },
-    {
-      "id": "004-49e73de2fe9a",
-      "path": "[1892]《冰岛怪兽》.txt",
-      "title": "冰岛怪兽",
-      "format": "txt",
-      "size": 693121,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "冰岛怪兽",
-      "workId": "004-49e73de2fe9a"
     },
     {
       "id": "004-119af2b662ec",
@@ -318,38 +323,16 @@
       "workId": "004-1b1367c3b4fb"
     },
     {
-      "id": "004-00e3e38d5613",
-      "path": "[1899]《大木筏》.txt",
-      "title": "大木筏",
+      "id": "004-49e73de2fe9a",
+      "path": "[1897]《冰岛怪兽》.txt",
+      "title": "冰岛怪兽",
       "format": "txt",
-      "size": 501713,
+      "size": 693121,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-2808101.webp",
-      "slug": "大木筏",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "Open Library",
-        "url": "https://openlibrary.org/books/OL9880579M"
-      },
-      "workId": "004-00e3e38d5613"
-    },
-    {
-      "id": "004-18c5d736e8e9",
-      "path": "[1899]《大木筏》上册.epub",
-      "title": "大木筏（上册）",
-      "format": "epub",
-      "size": 197577,
-      "language": "zh-CN",
-      "series": "",
-      "cover": "covers/embedded/004-18c5d736e8e9.webp",
-      "slug": "大木筏-上册",
-      "coverStyle": "full",
-      "coverSource": {
-        "label": "EPUB",
-        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/004%20-%20Jules%20Gabriel%20Verne%28%E5%84%92%E5%8B%92%C2%B7%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E5%87%A1%E5%B0%94%E7%BA%B3%29/%5B1899%5D%E3%80%8A%E5%A4%A7%E6%9C%A8%E7%AD%8F%E3%80%8B%E4%B8%8A%E5%86%8C.epub"
-      },
-      "workId": "004-18c5d736e8e9"
+      "cover": null,
+      "slug": "冰岛怪兽",
+      "workId": "004-49e73de2fe9a"
     },
     {
       "id": "004-905c77365512",
@@ -367,6 +350,23 @@
         "url": "https://openlibrary.org/books/OL23410261M"
       },
       "workId": "004-905c77365512"
+    },
+    {
+      "id": "004-5cb2e8058999",
+      "path": "[1906]《金火山》.txt",
+      "title": "金火山",
+      "format": "txt",
+      "size": 631720,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2639903.webp",
+      "slug": "金火山",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL11212163M"
+      },
+      "workId": "004-5cb2e8058999"
     },
     {
       "id": "004-7356988b1177",

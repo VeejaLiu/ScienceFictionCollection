@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "authorId": "013",
+      "asset": "avatars/013.webp",
+      "creator": "Walter Benington",
+      "created": 1914,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Conan_Doyle_by_Walter_Benington,_1914.png",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png",
+      "rights": "Public domain; photographer died in 1936; published before 1931.",
+      "sourceSha256": "63ff08f19beff10cfd12fb037800b942e86bf0a1a1be928c891e75a193f91559",
+      "sha256": "7bc77dc5c90bc8503205caa77c13e37cf7ed905e572e8cf9d2c3be46249c63d2",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 80
+      }
+    }
+  ]
+}

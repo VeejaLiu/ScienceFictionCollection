@@ -264,6 +264,28 @@
           "url": "https://www.penguinrandomhouse.com/authors/5058/arthur-c-clarke/"
         }
       ]
+    },
+    {
+      "id": "013",
+      "directory": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)",
+      "name": "亚瑟·柯南·道尔",
+      "names": {
+        "zh-CN": "亚瑟·柯南·道尔",
+        "zh-TW": "亞瑟·柯南·道爾",
+        "en": "Arthur Conan Doyle"
+      },
+      "avatar": "avatars/013.webp",
+      "slug": "arthur-conan-doyle",
+      "bio": {
+        "zh-CN": "英国作家，创作了福尔摩斯侦探故事和以查林杰教授为主角的科幻冒险作品。",
+        "en": "British author of the Sherlock Holmes stories and the Professor Challenger adventures."
+      },
+      "sources": [
+        {
+          "label": "Arthur Conan Doyle Encyclopedia: The Lost World publication and original text",
+          "url": "https://www.arthur-conan-doyle.com/wiki/The_Lost_World"
+        }
+      ]
     }
   ]
 }

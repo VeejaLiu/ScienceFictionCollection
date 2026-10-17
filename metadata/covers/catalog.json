@@ -2541,7 +2541,7 @@
     },
     {
       "bookId": "003-c056bb6968f0",
-      "authorId": "003",
+      "authorId": "013",
       "title": "被遗忘的世界",
       "status": "no-verified-cover",
       "fallback": "generated",
@@ -2555,7 +2555,8 @@
         ],
         "titleQuery": "https://openlibrary.org/search.json?author=Isaac+Asimov&title=%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E4%B8%96%E7%95%8C&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.cover_i%2Ceditions.isbn&lang=zh&limit=3",
         "resultCount": 0
-      }
+      },
+      "review": "原作已更正为Arthur Conan Doyle；searched保留误署名时期的历史检索，不能作为当前作者或封面已验证的证据。"
     },
     {
       "bookId": "003-1287a8dfaae6",
@@ -3561,7 +3562,7 @@
       "asset": "covers/embedded/004-18c5d736e8e9.webp",
       "source": {
         "kind": "epub-embedded",
-        "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1899]《大木筏》上册.epub",
+        "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1881]《大木筏》上册.epub",
         "archiveEntry": "converter-master/example/292452/cover_292452.jpg",
         "editionMatch": "exact-file",
         "rights": "Existing EPUB artwork; no separate open license asserted."
