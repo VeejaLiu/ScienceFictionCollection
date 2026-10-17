@@ -261,4 +261,4 @@
 
 ## 更多
 
-[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [项目说明](docs/PROJECT.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
+[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [项目说明](docs/PROJECT.md) · [授权范围](LICENSE-SCOPE.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
