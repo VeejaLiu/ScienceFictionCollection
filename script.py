@@ -97,7 +97,7 @@ def generate_catalog(root):
 def generate_work_list(root):
     markdown = ''
     for author in author_directories(root):
-        markdown += f"### {author}\n"
+        markdown += f"### {author.rstrip()}\n"
         markdown += add_books_from_directory(root / author)
     return markdown
 

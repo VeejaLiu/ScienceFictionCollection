@@ -219,7 +219,7 @@
 - [2007]《商人和炼金术士之门》(The Merchant and the Alchemist's Gate).txt _[60.77KB]_
 - [2008]《呼吸》(Exhalation).txt _[33.0KB]_
 - [2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt _[191.49KB]_
-### 009 - Michael Swanwick (迈克尔·斯万维克) 
+### 009 - Michael Swanwick (迈克尔·斯万维克)
 - [1999]《不朽的机器》(Ancient Engines).txt _[19.33KB]_
 - [1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt _[31.89KB]_
 - [2001]《狗说汪汪》(The Dog Said Bow-Wow).txt _[39.09KB]_
