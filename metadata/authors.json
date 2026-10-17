@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "authors": [
+    {
+      "id": "001",
+      "directory": "001 - 刘慈欣(Cixin Liu)",
+      "name": "刘慈欣",
+      "names": {
+        "zh-CN": "刘慈欣",
+        "zh-TW": "劉慈欣",
+        "en": "Cixin Liu"
+      },
+      "avatar": "avatars/001.webp",
+      "slug": "liu-cixin",
+      "bio": {
+        "zh-CN": "科幻作家，代表作为《三体》三部曲。《三体》获 2015 年雨果奖最佳长篇小说奖，《死神永生》获 2017 年轨迹奖。",
+        "en": "Science fiction writer best known for the Three-Body trilogy. The Three-Body Problem won the 2015 Hugo Award for Best Novel, and Death’s End received the 2017 Locus Award."
+      },
+      "sources": [
+        {
+          "label": "Cixin Liu",
+          "url": "https://cixinliu.com/"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "directory": "002 - Frank Herbert(弗兰克·赫伯特)",
+      "name": "弗兰克·赫伯特",
+      "names": {
+        "zh-CN": "弗兰克·赫伯特",
+        "zh-TW": "弗蘭克·赫伯特",
+        "en": "Frank Herbert"
+      },
+      "avatar": "avatars/002.webp",
+      "slug": "frank-herbert",
+      "bio": {
+        "zh-CN": "科幻作家，以《沙丘》系列闻名。《沙丘》于 1965 年出版，后续作品包括《沙丘救世主》和《沙丘之子》。",
+        "en": "Science fiction writer best known for the Dune saga. Dune was published in 1965, followed by novels including Dune Messiah and Children of Dune."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/2245531/frank-herbert/"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "directory": "003 - Isaac Asimov(艾萨克·阿西莫夫)",
+      "name": "艾萨克·阿西莫夫",
+      "names": {
+        "zh-CN": "艾萨克·阿西莫夫",
+        "zh-TW": "艾薩克·阿西莫夫",
+        "en": "Isaac Asimov"
+      },
+      "avatar": "avatars/003.webp",
+      "slug": "isaac-asimov",
+      "bio": {
+        "zh-CN": "科幻与科普作家，代表作包括基地、机器人和银河帝国系列。他的创作横跨科学、历史等多个领域。",
+        "en": "Writer of science fiction and nonfiction, known for the Foundation, Robot and Galactic Empire series. His books also covered science, history and other subjects."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/books/5655/foundation-by-isaac-asimov/paperback/"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "directory": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)",
+      "name": "儒勒·凡尔纳",
+      "names": {
+        "zh-CN": "儒勒·凡尔纳",
+        "zh-TW": "儒勒·凡爾納",
+        "en": "Jules Verne"
+      },
+      "avatar": "avatars/004.webp",
+      "slug": "jules-verne",
+      "bio": {
+        "zh-CN": "法国作家，代表作包括《海底两万里》《地心游记》和《八十天环游地球》。他的小说常把科学设想与探险故事结合。",
+        "en": "French novelist whose works include Twenty Thousand Leagues Under the Sea, Journey to the Centre of the Earth and Around the World in Eighty Days. His novels combine scientific imagination with adventure."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/32000/jules-verne/"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "directory": "005 - Mary Shelley(玛丽·雪莱)",
+      "name": "玛丽·雪莱",
+      "names": {
+        "zh-CN": "玛丽·雪莱",
+        "zh-TW": "瑪麗·雪萊",
+        "en": "Mary Shelley"
+      },
+      "avatar": "avatars/005.webp",
+      "slug": "mary-shelley",
+      "bio": {
+        "zh-CN": "作家，1797 年生于伦敦。《弗兰肯斯坦》于 1818 年出版；她还创作了《最后一个人》等小说，并撰写传记、散文与游记。",
+        "en": "Novelist born in London in 1797. Frankenstein was published in 1818; her other writing includes The Last Man, biographical essays and travel writing."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/28028/mary-shelley/"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "directory": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)",
+      "name": "雷·布拉德伯里",
+      "names": {
+        "zh-CN": "雷·布拉德伯里",
+        "zh-TW": "雷·布拉德伯里",
+        "en": "Ray Bradbury"
+      },
+      "avatar": "avatars/006.webp",
+      "slug": "ray-bradbury",
+      "bio": {
+        "zh-CN": "作家，代表作包括《华氏451度》《火星纪事》和《图案人》。除了长短篇小说，他也为电影、电视和剧场创作。",
+        "en": "Writer whose books include Fahrenheit 451, The Martian Chronicles and The Illustrated Man. He also wrote for film, television and the theatre."
+      },
+      "sources": [
+        {
+          "label": "Simon & Schuster",
+          "url": "https://www.simonandschuster.com/authors/ray-bradbury/264529"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "directory": "007 - Orson Scott Card(奥森·斯科特·卡德)",
+      "name": "奥森·斯科特·卡德",
+      "names": {
+        "zh-CN": "奥森·斯科特·卡德",
+        "zh-TW": "奧森·斯科特·卡德",
+        "en": "Orson Scott Card"
+      },
+      "avatar": "avatars/007.webp",
+      "slug": "orson-scott-card",
+      "bio": {
+        "zh-CN": "科幻作家，以《安德的游戏》及其系列作品闻名。相关作品还包括延续安德故事的《死者代言人》和影子系列。",
+        "en": "Science fiction writer known for Ender’s Game and the wider Ender Universe, including Speaker for the Dead and the Shadow series."
+      },
+      "sources": [
+        {
+          "label": "Macmillan",
+          "url": "https://us.macmillan.com/author/orsonscottcard/"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "directory": "008 - Ted Chiang(特德·姜)",
+      "name": "特德·姜",
+      "names": {
+        "zh-CN": "特德·姜",
+        "zh-TW": "特德·姜",
+        "en": "Ted Chiang"
+      },
+      "avatar": "avatars/008.webp",
+      "slug": "ted-chiang",
+      "bio": {
+        "zh-CN": "科幻作家，以中短篇创作见长。作品集包括《你一生的故事》和《呼吸》，曾获得多项科幻文学奖。",
+        "en": "Award-winning science fiction writer whose collections include Stories of Your Life and Others and Exhalation. His work focuses on short fiction."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/2135536/ted-chiang/"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "directory": "009 - Michael Swanwick (迈克尔·斯万维克) ",
+      "name": "迈克尔·斯万维克",
+      "names": {
+        "zh-CN": "迈克尔·斯万维克",
+        "zh-TW": "邁克爾·斯萬維克",
+        "en": "Michael Swanwick"
+      },
+      "avatar": "avatars/009.webp",
+      "slug": "michael-swanwick",
+      "bio": {
+        "zh-CN": "科幻与奇幻作家，作品曾获雨果奖、星云奖、西奥多·斯特金纪念奖和世界奇幻奖。",
+        "en": "Writer of science fiction and fantasy whose work has received the Hugo, Nebula, Theodore Sturgeon and World Fantasy Awards."
+      },
+      "sources": [
+        {
+          "label": "Michael Swanwick",
+          "url": "https://michaelswanwick.com/auth/author.html"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "directory": "010 - 王晋康",
+      "name": "王晋康",
+      "names": {
+        "zh-CN": "王晋康",
+        "zh-TW": "王晉康",
+        "en": "Wang Jinkang"
+      },
+      "avatar": "avatars/010.webp",
+      "slug": "wang-jinkang",
+      "bio": {
+        "zh-CN": "中国科幻作家、工程师，1993 年以《亚当回归》进入科幻创作。代表作包括《生命之歌》《七重外壳》《类人》和《蚁生》。",
+        "en": "Chinese science fiction writer and engineer who began publishing in 1993. His debut received a Galaxy Award; his work includes novels and short fiction."
+      },
+      "sources": [
+        {
+          "label": "中国作家网",
+          "url": "https://www.chinawriter.com.cn/n1/2023/1019/c405057-40099158.html"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "directory": "011 - Andy Weir(安迪·威尔)",
+      "name": "安迪·威尔",
+      "names": {
+        "zh-CN": "安迪·威尔",
+        "zh-TW": "安迪·威爾",
+        "en": "Andy Weir"
+      },
+      "avatar": "avatars/011.webp",
+      "slug": "andy-weir",
+      "bio": {
+        "zh-CN": "科幻作家，曾从事软件工程工作。代表作包括《火星救援》《月球城市》和《挽救计划》。",
+        "en": "Science fiction writer and former software engineer whose novels include The Martian, Artemis and Project Hail Mary."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/184612/andy-weir/"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "directory": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)",
+      "name": "亚瑟·克拉克",
+      "names": {
+        "zh-CN": "亚瑟·克拉克",
+        "zh-TW": "亞瑟·克拉克",
+        "en": "Arthur C. Clarke"
+      },
+      "avatar": "avatars/012.webp",
+      "slug": "arthur-c-clarke",
+      "bio": {
+        "zh-CN": "科幻与科学写作作者，代表作包括《童年的终结》《2001：太空漫游》和《与拉玛相会》。他的写作生涯持续了六十余年。",
+        "en": "Writer of science fiction and science fact whose novels include Childhood’s End, 2001: A Space Odyssey and Rendezvous with Rama. His writing career spanned more than six decades."
+      },
+      "sources": [
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/authors/5058/arthur-c-clarke/"
+        }
+      ]
+    }
+  ]
+}

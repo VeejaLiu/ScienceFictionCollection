@@ -1,0 +1,11 @@
+{
+  "kind": "original geometric demo artwork",
+  "generator": "ScienceFictionCollection-Web/scripts/generate-example-covers.mjs",
+  "publisherEditionCover": false,
+  "files": [
+    "three-body.webp",
+    "dark-forest.webp",
+    "deaths-end.webp"
+  ],
+  "containsText": false
+}

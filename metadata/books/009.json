@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "authorId": "009",
+  "books": [
+    {
+      "id": "009-52d576553a22",
+      "path": "[1999]《不朽的机器》(Ancient Engines).txt",
+      "title": "不朽的机器",
+      "format": "txt",
+      "size": 19328,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "不朽的机器",
+      "workId": "009-52d576553a22"
+    },
+    {
+      "id": "009-93f7de301121",
+      "path": "[1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt",
+      "title": "暴龙谐谑曲",
+      "format": "txt",
+      "size": 31892,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "暴龙谐谑曲",
+      "workId": "009-93f7de301121"
+    },
+    {
+      "id": "009-ac086d3dcf45",
+      "path": "[2001]《狗说汪汪》(The Dog Said Bow-Wow).txt",
+      "title": "狗说汪汪",
+      "format": "txt",
+      "size": 39087,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "狗说汪汪",
+      "workId": "009-ac086d3dcf45"
+    },
+    {
+      "id": "009-c273ae41e3b3",
+      "path": "[2002]《缓慢的生命》(Slow Life).txt",
+      "title": "缓慢的生命",
+      "format": "txt",
+      "size": 46132,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "缓慢的生命",
+      "workId": "009-c273ae41e3b3"
+    },
+    {
+      "id": "009-10d227e0e40f",
+      "path": "[2003]《时空军团》(Legions in Time).txt",
+      "title": "时空军团",
+      "format": "txt",
+      "size": 54007,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "时空军团",
+      "workId": "009-10d227e0e40f"
+    }
+  ]
+}

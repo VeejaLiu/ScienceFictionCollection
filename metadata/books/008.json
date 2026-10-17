@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "authorId": "008",
+  "books": [
+    {
+      "id": "008-e555921c75ef",
+      "path": "[1990]《巴比伦塔》.txt",
+      "title": "巴比伦塔",
+      "format": "txt",
+      "size": 43939,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "巴比伦塔",
+      "workId": "008-e555921c75ef"
+    },
+    {
+      "id": "008-95910f9d3b76",
+      "path": "[1998]《你一生的故事》.txt",
+      "title": "你一生的故事",
+      "format": "txt",
+      "size": 115377,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "你一生的故事",
+      "workId": "008-95910f9d3b76"
+    },
+    {
+      "id": "008-2179419a84d0",
+      "path": "[2000]《七十二个字母》.txt",
+      "title": "七十二个字母",
+      "format": "txt",
+      "size": 99315,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "七十二个字母",
+      "workId": "008-2179419a84d0"
+    },
+    {
+      "id": "008-8c9559c45aa4",
+      "path": "[2001]《地狱是上帝不在的地方》(Hell Is the Absence of God).txt",
+      "title": "地狱是上帝不在的地方",
+      "format": "txt",
+      "size": 66913,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "地狱是上帝不在的地方",
+      "workId": "008-8c9559c45aa4"
+    },
+    {
+      "id": "008-a6b833cc168f",
+      "path": "[2007]《商人和炼金术士之门》(The Merchant and the Alchemist's Gate).txt",
+      "title": "商人和炼金术士之门",
+      "format": "txt",
+      "size": 60767,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-1995296.webp",
+      "slug": "商人和炼金术士之门",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL8884551M"
+      },
+      "workId": "008-a6b833cc168f"
+    },
+    {
+      "id": "008-57aa881fd943",
+      "path": "[2008]《呼吸》(Exhalation).txt",
+      "title": "呼吸",
+      "format": "txt",
+      "size": 33001,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "呼吸",
+      "workId": "008-57aa881fd943"
+    },
+    {
+      "id": "008-df10fea40889",
+      "path": "[2010]《软件体的生命周期》(The Lifecycle of Software Objects).txt",
+      "title": "软件体的生命周期",
+      "format": "txt",
+      "size": 191491,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-8022362.webp",
+      "slug": "软件体的生命周期",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL25841404M"
+      },
+      "workId": "008-df10fea40889"
+    }
+  ]
+}

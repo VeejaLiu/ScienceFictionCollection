@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "authorId": "007",
+  "books": [
+    {
+      "id": "007-936a59a9494a",
+      "path": "[1985]《安德的游戏》.txt",
+      "title": "安德的游戏",
+      "format": "txt",
+      "size": 608862,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-9317226.webp",
+      "slug": "安德的游戏",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL26875396M"
+      },
+      "workId": "007-936a59a9494a"
+    },
+    {
+      "id": "007-ea10556baf6b",
+      "path": "[1986]《死者代言人》.epub",
+      "title": "死者代言人",
+      "format": "epub",
+      "size": 387263,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/007-ea10556baf6b.webp",
+      "slug": "死者代言人-epub",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "EPUB",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/007%20-%20Orson%20Scott%20Card%28%E5%A5%A5%E6%A3%AE%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9%C2%B7%E5%8D%A1%E5%BE%B7%29/%5B1986%5D%E3%80%8A%E6%AD%BB%E8%80%85%E4%BB%A3%E8%A8%80%E4%BA%BA%E3%80%8B.epub"
+      },
+      "workId": "007-ea10556baf6b"
+    },
+    {
+      "id": "007-4e84a529f3ad",
+      "path": "[1986]《死者代言人》.txt",
+      "title": "死者代言人",
+      "format": "txt",
+      "size": 765886,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-14532814.webp",
+      "slug": "死者代言人-txt",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL26854380M"
+      },
+      "workId": "007-ea10556baf6b"
+    },
+    {
+      "id": "007-6f8dbb15af20",
+      "path": "[1991]《外星屠异》.epub",
+      "title": "外星屠异",
+      "format": "epub",
+      "size": 538251,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/007-6f8dbb15af20.webp",
+      "slug": "外星屠异",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "EPUB",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/007%20-%20Orson%20Scott%20Card%28%E5%A5%A5%E6%A3%AE%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9%C2%B7%E5%8D%A1%E5%BE%B7%29/%5B1991%5D%E3%80%8A%E5%A4%96%E6%98%9F%E5%B1%A0%E5%BC%82%E3%80%8B.epub"
+      },
+      "workId": "007-6f8dbb15af20"
+    },
+    {
+      "id": "007-16d22c629445",
+      "path": "[1999]《安德的影子》(Ender's Shadow).txt",
+      "title": "安德的影子",
+      "format": "txt",
+      "size": 819162,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-12009325.webp",
+      "slug": "安德的影子",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL26110509M"
+      },
+      "workId": "007-16d22c629445"
+    },
+    {
+      "id": "007-33923738e773",
+      "path": "[2001]《霸主的影子》(Shadow of the Hegemon).txt",
+      "title": "霸主的影子",
+      "format": "txt",
+      "size": 666207,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-9317130.webp",
+      "slug": "霸主的影子",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL28785718M"
+      },
+      "workId": "007-33923738e773"
+    }
+  ]
+}

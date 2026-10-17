@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "authorId": "002",
+  "books": [
+    {
+      "id": "002-c634acbc92b2",
+      "path": "[1965]《沙丘》(Dune).txt",
+      "title": "沙丘",
+      "format": "txt",
+      "size": 1069755,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-11481354.webp",
+      "slug": "沙丘",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL9039841M"
+      },
+      "workId": "002-c634acbc92b2"
+    },
+    {
+      "id": "002-e0fa17128c55",
+      "path": "[1969]《沙丘救世主》(Dune Messiah).txt",
+      "title": "沙丘救世主",
+      "format": "txt",
+      "size": 448954,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-6781122.webp",
+      "slug": "沙丘救世主",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL24669863M"
+      },
+      "workId": "002-e0fa17128c55"
+    },
+    {
+      "id": "002-a7924b4f8d6b",
+      "path": "[1976]《沙丘之子》(Children of Dune).txt",
+      "title": "沙丘之子",
+      "format": "txt",
+      "size": 775457,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-6976407.webp",
+      "slug": "沙丘之子",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL43022658M"
+      },
+      "workId": "002-a7924b4f8d6b"
+    }
+  ]
+}

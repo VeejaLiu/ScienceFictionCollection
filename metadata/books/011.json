@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "authorId": "011",
+  "books": [
+    {
+      "id": "011-f00713b822e3",
+      "path": "[2021]《挽救计划》.epub",
+      "title": "挽救计划",
+      "format": "epub",
+      "size": 676919,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/011-f00713b822e3.webp",
+      "slug": "挽救计划",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "EPUB",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/011%20-%20Andy%20Weir%28%E5%AE%89%E8%BF%AA%C2%B7%E5%A8%81%E5%B0%94%29/%5B2021%5D%E3%80%8A%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E3%80%8B.epub"
+      },
+      "workId": "011-f00713b822e3"
+    }
+  ]
+}

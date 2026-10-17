@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "authorId": "012",
+  "books": [
+    {
+      "id": "012-6f8d83cf5dbb",
+      "path": "[1951]《太空序曲》.txt",
+      "title": "太空序曲",
+      "format": "txt",
+      "size": 294375,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-207371.webp",
+      "slug": "太空序曲",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL10682435M"
+      },
+      "workId": "012-6f8d83cf5dbb"
+    }
+  ]
+}

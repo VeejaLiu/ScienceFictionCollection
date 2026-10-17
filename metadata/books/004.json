@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "authorId": "004",
+  "books": [
+    {
+      "id": "004-753ae3035c4c",
+      "path": "01-三部曲/[1868]《格兰特船长的儿女》.txt",
+      "title": "格兰特船长的儿女",
+      "format": "txt",
+      "size": 969540,
+      "language": "zh-CN",
+      "series": "01-三部曲",
+      "cover": "covers/editions/openlibrary-9242564.webp",
+      "slug": "格兰特船长的儿女",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL27854167M"
+      },
+      "workId": "004-753ae3035c4c"
+    },
+    {
+      "id": "004-b8d9c33cdfd7",
+      "path": "01-三部曲/[1870]《海底两万里》(Vingt mille lieues sous les mers).txt",
+      "title": "海底两万里",
+      "format": "txt",
+      "size": 736534,
+      "language": "zh-CN",
+      "series": "01-三部曲",
+      "cover": "covers/editions/openlibrary-10817535.webp",
+      "slug": "海底两万里",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL32150056M"
+      },
+      "workId": "004-b8d9c33cdfd7"
+    },
+    {
+      "id": "004-35eb934a2114",
+      "path": "01-三部曲/[1875]《神秘岛》.txt",
+      "title": "神秘岛",
+      "format": "txt",
+      "size": 970756,
+      "language": "zh-CN",
+      "series": "01-三部曲",
+      "cover": "covers/editions/openlibrary-11712880.webp",
+      "slug": "神秘岛",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL33030307M"
+      },
+      "workId": "004-35eb934a2114"
+    },
+    {
+      "id": "004-0e44571d26f3",
+      "path": "02-大炮俱乐部三部曲/[1865]《从地球到月球》(De la Terre à la Lune).txt",
+      "title": "从地球到月球",
+      "format": "txt",
+      "size": 276463,
+      "language": "zh-CN",
+      "series": "02-大炮俱乐部三部曲",
+      "cover": "covers/editions/openlibrary-5943556.webp",
+      "slug": "从地球到月球",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL30148012M"
+      },
+      "workId": "004-0e44571d26f3"
+    },
+    {
+      "id": "004-b4db44acd4ac",
+      "path": "02-大炮俱乐部三部曲/[1870]《环绕月球》.txt",
+      "title": "环绕月球",
+      "format": "txt",
+      "size": 329719,
+      "language": "zh-CN",
+      "series": "02-大炮俱乐部三部曲",
+      "cover": "covers/editions/openlibrary-2002974.webp",
+      "slug": "环绕月球",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL37044652M"
+      },
+      "workId": "004-b4db44acd4ac"
+    },
+    {
+      "id": "004-bcbfc12c67a3",
+      "path": "02-大炮俱乐部三部曲/[1889]《北冰洋的幻想》(又名'扭转乾坤').txt",
+      "title": "北冰洋的幻想",
+      "format": "txt",
+      "size": 229359,
+      "language": "zh-CN",
+      "series": "02-大炮俱乐部三部曲",
+      "cover": null,
+      "slug": "北冰洋的幻想",
+      "workId": "004-bcbfc12c67a3"
+    },
+    {
+      "id": "004-2ba7305649e6",
+      "path": "[1863]《气球上的五星期》.txt",
+      "title": "气球上的五星期",
+      "format": "txt",
+      "size": 534814,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-8179189.webp",
+      "slug": "气球上的五星期",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL7073251M"
+      },
+      "workId": "004-2ba7305649e6"
+    },
+    {
+      "id": "004-48b4714b7d62",
+      "path": "[1864]《地心游记》.txt",
+      "title": "地心游记",
+      "format": "txt",
+      "size": 344583,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-5890987.webp",
+      "slug": "地心游记",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL19222602M"
+      },
+      "workId": "004-48b4714b7d62"
+    },
+    {
+      "id": "004-fe5da386976f",
+      "path": "[1866]《哈特拉斯船长历险记》.txt",
+      "title": "哈特拉斯船长历险记",
+      "format": "txt",
+      "size": 726101,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-117993.webp",
+      "slug": "哈特拉斯船长历险记",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL7383359M"
+      },
+      "workId": "004-fe5da386976f"
+    },
+    {
+      "id": "004-0e42b3763308",
+      "path": "[1873]《八十天环游地球》.txt",
+      "title": "八十天环游地球",
+      "format": "txt",
+      "size": 423597,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-13022431.webp",
+      "slug": "八十天环游地球",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL42873044M"
+      },
+      "workId": "004-0e42b3763308"
+    },
+    {
+      "id": "004-69c7e22bfa84",
+      "path": "[1877]《太阳系历险记》.txt",
+      "title": "太阳系历险记",
+      "format": "txt",
+      "size": 611955,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-5901332.webp",
+      "slug": "太阳系历险记",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL7047249M"
+      },
+      "workId": "004-69c7e22bfa84"
+    },
+    {
+      "id": "004-731541c082c6",
+      "path": "[1882]《鲁滨逊学校》.txt",
+      "title": "鲁滨逊学校",
+      "format": "txt",
+      "size": 310378,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-5782692.webp",
+      "slug": "鲁滨逊学校",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL14009948M"
+      },
+      "workId": "004-731541c082c6"
+    },
+    {
+      "id": "004-42cbf5d9170b",
+      "path": "[1888]《两年假期》.txt",
+      "title": "两年假期",
+      "format": "txt",
+      "size": 494060,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "两年假期",
+      "workId": "004-42cbf5d9170b"
+    },
+    {
+      "id": "004-0e51f23ac21b",
+      "path": "[1888]《绿光》.txt",
+      "title": "绿光",
+      "format": "txt",
+      "size": 268608,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2500029.webp",
+      "slug": "绿光",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL9641633M"
+      },
+      "workId": "004-0e51f23ac21b"
+    },
+    {
+      "id": "004-b0d170dc43ae",
+      "path": "[1891]《2889年一个美国新闻界巨子的一天》.txt",
+      "title": "2889年一个美国新闻界巨子的一天",
+      "format": "txt",
+      "size": 29581,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "2889年一个美国新闻界巨子的一天",
+      "workId": "004-b0d170dc43ae"
+    },
+    {
+      "id": "004-5cb2e8058999",
+      "path": "[1891]《金火山》.txt",
+      "title": "金火山",
+      "format": "txt",
+      "size": 631720,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2639903.webp",
+      "slug": "金火山",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL11212163M"
+      },
+      "workId": "004-5cb2e8058999"
+    },
+    {
+      "id": "004-49e73de2fe9a",
+      "path": "[1892]《冰岛怪兽》.txt",
+      "title": "冰岛怪兽",
+      "format": "txt",
+      "size": 693121,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "冰岛怪兽",
+      "workId": "004-49e73de2fe9a"
+    },
+    {
+      "id": "004-119af2b662ec",
+      "path": "[1892]《喀尔巴阡古堡》.txt",
+      "title": "喀尔巴阡古堡",
+      "format": "txt",
+      "size": 255927,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-858137.webp",
+      "slug": "喀尔巴阡古堡",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL5868724M"
+      },
+      "workId": "004-119af2b662ec"
+    },
+    {
+      "id": "004-1be16808db67",
+      "path": "[1894]《昂梯菲尔奇遇记》.txt",
+      "title": "昂梯菲尔奇遇记",
+      "format": "txt",
+      "size": 542579,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "昂梯菲尔奇遇记",
+      "workId": "004-1be16808db67"
+    },
+    {
+      "id": "004-1b1367c3b4fb",
+      "path": "[1895]《机器岛》.txt",
+      "title": "机器岛",
+      "format": "txt",
+      "size": 681637,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-5447615.webp",
+      "slug": "机器岛",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL62600401M"
+      },
+      "workId": "004-1b1367c3b4fb"
+    },
+    {
+      "id": "004-00e3e38d5613",
+      "path": "[1899]《大木筏》.txt",
+      "title": "大木筏",
+      "format": "txt",
+      "size": 501713,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-2808101.webp",
+      "slug": "大木筏",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL9880579M"
+      },
+      "workId": "004-00e3e38d5613"
+    },
+    {
+      "id": "004-18c5d736e8e9",
+      "path": "[1899]《大木筏》上册.epub",
+      "title": "大木筏（上册）",
+      "format": "epub",
+      "size": 197577,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/004-18c5d736e8e9.webp",
+      "slug": "大木筏-上册",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "EPUB",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/004%20-%20Jules%20Gabriel%20Verne%28%E5%84%92%E5%8B%92%C2%B7%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E5%87%A1%E5%B0%94%E7%BA%B3%29/%5B1899%5D%E3%80%8A%E5%A4%A7%E6%9C%A8%E7%AD%8F%E3%80%8B%E4%B8%8A%E5%86%8C.epub"
+      },
+      "workId": "004-18c5d736e8e9"
+    },
+    {
+      "id": "004-905c77365512",
+      "path": "[1905]《大海入侵》.txt",
+      "title": "大海入侵",
+      "format": "txt",
+      "size": 306890,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-6134957.webp",
+      "slug": "大海入侵",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL23410261M"
+      },
+      "workId": "004-905c77365512"
+    },
+    {
+      "id": "004-7356988b1177",
+      "path": "[1908]《多瑙河领航员》.txt",
+      "title": "多瑙河领航员",
+      "format": "txt",
+      "size": 407261,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "多瑙河领航员",
+      "workId": "004-7356988b1177"
+    }
+  ]
+}

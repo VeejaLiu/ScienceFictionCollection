@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "authorId": "005",
+  "books": [
+    {
+      "id": "005-75babcff9dfd",
+      "path": "[1818]《弗兰肯斯坦》(Frankenstein).txt",
+      "title": "弗兰肯斯坦",
+      "format": "txt",
+      "size": 438819,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/editions/openlibrary-12356249.webp",
+      "slug": "弗兰肯斯坦",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Open Library",
+        "url": "https://openlibrary.org/books/OL22949333M"
+      },
+      "workId": "005-75babcff9dfd"
+    }
+  ]
+}
