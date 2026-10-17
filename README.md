@@ -111,7 +111,7 @@
   - 3 - [1950]《苍穹微石》.txt _[434.18KB]_
 - 0-IsaacAsimov.md _[51.06KB]_
 - AL-76号走失记.txt _[31.48KB]_
-- [1950]《我，机器人》(I, Robot).txt _[259.91KB]_
+- [1950]《我，机器人》(I, Robot).txt _[387.24KB]_
 - [1955]《永恒的终结》.pdf _[1.29MB]_
 - [1972]《神们自己》(The Gods Themselves).txt _[543.86KB]_
 - 一只下金蛋的鹅.txt _[10.33KB]_
@@ -152,7 +152,7 @@
 - 神奇的汽车——萨莉.txt _[43.08KB]_
 - 第一定律.txt _[6.64KB]_
 - 终极答案.txt _[14.83KB]_
-- 被遗忘的世界.txt _[14.41KB]_
+- 被遗忘的世界.txt _[21.55KB]_
 - 讣告.txt _[35.32KB]_
 - 讲笑话的人.txt _[32.51KB]_
 - 谁是凶手.txt _[16.34KB]_
@@ -216,7 +216,7 @@
 - 0-卡德汇总.md _[4.21KB]_
 - [1985]《安德的游戏》.txt _[608.92KB]_
 - [1986]《死者代言人》.epub _[384.97KB]_
-- [1986]《死者代言人》.txt _[512.82KB]_
+- [1986]《死者代言人》.txt _[765.97KB]_
 - [1991]《外星屠异》.epub _[538.25KB]_
 - [1999]《安德的影子》(Ender's Shadow).txt _[819.16KB]_
 - [2001]《霸主的影子》(Shadow of the Hegemon).txt _[666.21KB]_
@@ -232,7 +232,7 @@
 ### 009 - Michael Swanwick (迈克尔·斯万维克) 
 - [1999]《不朽的机器》(Ancient Engines).txt _[19.33KB]_
 - [1999]《暴龙谐谑曲》(Scherzo with Tyrannosaur).txt _[31.89KB]_
-- [2001]《狗说汪汪》(The Dog Said Bow-Wow).txt _[26.17KB]_
+- [2001]《狗说汪汪》(The Dog Said Bow-Wow).txt _[39.09KB]_
 - [2002]《缓慢的生命》(Slow Life).txt _[46.13KB]_
 - [2003]《时空军团》(Legions in Time).txt _[54.01KB]_
 ### 010 - 王晋康
