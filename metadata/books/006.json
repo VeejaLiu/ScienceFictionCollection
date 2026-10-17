@@ -3,92 +3,8 @@
   "authorId": "006",
   "books": [
     {
-      "id": "006-86680bf42245",
-      "path": "[----]《城市》.txt",
-      "title": "城市",
-      "format": "txt",
-      "size": 14979,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "城市",
-      "workId": "006-86680bf42245"
-    },
-    {
-      "id": "006-e60767f689de",
-      "path": "[----]《太阳的故事》.txt",
-      "title": "太阳的故事",
-      "format": "txt",
-      "size": 10722,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "太阳的故事",
-      "workId": "006-e60767f689de"
-    },
-    {
-      "id": "006-f190f01b0bfd",
-      "path": "[----]《弄巧成拙》.txt",
-      "title": "弄巧成拙",
-      "format": "txt",
-      "size": 19228,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "弄巧成拙",
-      "workId": "006-f190f01b0bfd"
-    },
-    {
-      "id": "006-bf0625751b90",
-      "path": "[----]《时光机》.txt",
-      "title": "时光机",
-      "format": "txt",
-      "size": 17677,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "时光机",
-      "workId": "006-bf0625751b90"
-    },
-    {
-      "id": "006-ecea587b624f",
-      "path": "[----]《时间狩猎》.txt",
-      "title": "时间狩猎",
-      "format": "txt",
-      "size": 25623,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "时间狩猎",
-      "workId": "006-ecea587b624f"
-    },
-    {
-      "id": "006-de006e0e46af",
-      "path": "[----]《杀“妻”》.txt",
-      "title": "杀“妻”",
-      "format": "txt",
-      "size": 12033,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "杀-妻",
-      "workId": "006-de006e0e46af"
-    },
-    {
-      "id": "006-0cfa36de5b77",
-      "path": "[----]《浓雾号角》.txt",
-      "title": "浓雾号角",
-      "format": "txt",
-      "size": 14818,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "浓雾号角",
-      "workId": "006-0cfa36de5b77"
-    },
-    {
       "id": "006-de30b5c5fdc0",
-      "path": "[----]《湖》.txt",
+      "path": "[1944]《湖》.txt",
       "title": "湖",
       "format": "txt",
       "size": 13222,
@@ -97,102 +13,6 @@
       "cover": null,
       "slug": "湖",
       "workId": "006-de30b5c5fdc0"
-    },
-    {
-      "id": "006-1e64def1f80a",
-      "path": "[----]《火星人》.txt",
-      "title": "火星人",
-      "format": "txt",
-      "size": 23832,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "火星人",
-      "workId": "006-1e64def1f80a"
-    },
-    {
-      "id": "006-8d7bc51f0910",
-      "path": "[----]《火气球》.txt",
-      "title": "火气球",
-      "format": "txt",
-      "size": 39902,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "火气球",
-      "workId": "006-8d7bc51f0910"
-    },
-    {
-      "id": "006-a7de513f8ef9",
-      "path": "[----]《火箭飞行员》.txt",
-      "title": "火箭飞行员",
-      "format": "txt",
-      "size": 22551,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "火箭飞行员",
-      "workId": "006-a7de513f8ef9"
-    },
-    {
-      "id": "006-03a20f25f94e",
-      "path": "[----]《百万年野餐》.txt",
-      "title": "百万年野餐",
-      "format": "txt",
-      "size": 21646,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "百万年野餐",
-      "workId": "006-03a20f25f94e"
-    },
-    {
-      "id": "006-c0c72ef94fd8",
-      "path": "[----]《细雨即将来临》.txt",
-      "title": "细雨即将来临",
-      "format": "txt",
-      "size": 14700,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "细雨即将来临",
-      "workId": "006-c0c72ef94fd8"
-    },
-    {
-      "id": "006-370995f027ba",
-      "path": "[----]《苍白先生》.txt",
-      "title": "苍白先生",
-      "format": "txt",
-      "size": 12423,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "苍白先生",
-      "workId": "006-370995f027ba"
-    },
-    {
-      "id": "006-3f98bfcd45a6",
-      "path": "[----]《雨一直下》.txt",
-      "title": "雨一直下",
-      "format": "txt",
-      "size": 28609,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "雨一直下",
-      "workId": "006-3f98bfcd45a6"
-    },
-    {
-      "id": "006-af2cb50b4181",
-      "path": "[----]《马里奥纳特公司的机器人》.txt",
-      "title": "马里奥纳特公司的机器人",
-      "format": "txt",
-      "size": 15482,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "马里奥纳特公司的机器人",
-      "workId": "006-af2cb50b4181"
     },
     {
       "id": "006-54b66af413f6",
@@ -207,6 +27,54 @@
       "workId": "006-54b66af413f6"
     },
     {
+      "id": "006-1e64def1f80a",
+      "path": "[1946]《火星人》.txt",
+      "title": "火星人",
+      "format": "txt",
+      "size": 23832,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "火星人",
+      "workId": "006-1e64def1f80a"
+    },
+    {
+      "id": "006-03a20f25f94e",
+      "path": "[1946]《百万年野餐》.txt",
+      "title": "百万年野餐",
+      "format": "txt",
+      "size": 21646,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "百万年野餐",
+      "workId": "006-03a20f25f94e"
+    },
+    {
+      "id": "006-f190f01b0bfd",
+      "path": "[1949]《弄巧成拙》.txt",
+      "title": "弄巧成拙",
+      "format": "txt",
+      "size": 19228,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "弄巧成拙",
+      "workId": "006-f190f01b0bfd"
+    },
+    {
+      "id": "006-af2cb50b4181",
+      "path": "[1949]《马里奥纳特公司的机器人》.txt",
+      "title": "马里奥纳特公司的机器人",
+      "format": "txt",
+      "size": 15482,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "马里奥纳特公司的机器人",
+      "workId": "006-af2cb50b4181"
+    },
+    {
       "id": "006-7a78669f2b6a",
       "path": "[1950]《2002年8月夜遇》.txt",
       "title": "2002年8月夜遇",
@@ -217,6 +85,30 @@
       "cover": null,
       "slug": "2002年8月夜遇",
       "workId": "006-7a78669f2b6a"
+    },
+    {
+      "id": "006-86680bf42245",
+      "path": "[1950]《城市》.txt",
+      "title": "城市",
+      "format": "txt",
+      "size": 14979,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "城市",
+      "workId": "006-86680bf42245"
+    },
+    {
+      "id": "006-de006e0e46af",
+      "path": "[1950]《杀“妻”》.txt",
+      "title": "杀“妻”",
+      "format": "txt",
+      "size": 12033,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "杀-妻",
+      "workId": "006-de006e0e46af"
     },
     {
       "id": "006-cdb0b306923b",
@@ -236,6 +128,30 @@
       "workId": "006-cdb0b306923b"
     },
     {
+      "id": "006-c0c72ef94fd8",
+      "path": "[1950]《细雨即将来临》.txt",
+      "title": "细雨即将来临",
+      "format": "txt",
+      "size": 14700,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "细雨即将来临",
+      "workId": "006-c0c72ef94fd8"
+    },
+    {
+      "id": "006-3f98bfcd45a6",
+      "path": "[1950]《雨一直下》.txt",
+      "title": "雨一直下",
+      "format": "txt",
+      "size": 28609,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "雨一直下",
+      "workId": "006-3f98bfcd45a6"
+    },
+    {
       "id": "006-9f173cd1be71",
       "path": "[1951]《图案人》.epub",
       "title": "图案人",
@@ -253,6 +169,54 @@
       "workId": "006-9f173cd1be71"
     },
     {
+      "id": "006-0cfa36de5b77",
+      "path": "[1951]《浓雾号角》.txt",
+      "title": "浓雾号角",
+      "format": "txt",
+      "size": 14818,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "浓雾号角",
+      "workId": "006-0cfa36de5b77"
+    },
+    {
+      "id": "006-8d7bc51f0910",
+      "path": "[1951]《火气球》.txt",
+      "title": "火气球",
+      "format": "txt",
+      "size": 39902,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "火气球",
+      "workId": "006-8d7bc51f0910"
+    },
+    {
+      "id": "006-a7de513f8ef9",
+      "path": "[1951]《火箭飞行员》.txt",
+      "title": "火箭飞行员",
+      "format": "txt",
+      "size": 22551,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "火箭飞行员",
+      "workId": "006-a7de513f8ef9"
+    },
+    {
+      "id": "006-ecea587b624f",
+      "path": "[1952]《时间狩猎》.txt",
+      "title": "时间狩猎",
+      "format": "txt",
+      "size": 25623,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "时间狩猎",
+      "workId": "006-ecea587b624f"
+    },
+    {
       "id": "006-64c8f7df2710",
       "path": "[1953]《华氏451度》.txt",
       "title": "华氏451度",
@@ -268,6 +232,42 @@
         "url": "https://openlibrary.org/books/OL40215276M"
       },
       "workId": "006-64c8f7df2710"
+    },
+    {
+      "id": "006-e60767f689de",
+      "path": "[1954]《太阳的故事》.txt",
+      "title": "太阳的故事",
+      "format": "txt",
+      "size": 10722,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "太阳的故事",
+      "workId": "006-e60767f689de"
+    },
+    {
+      "id": "006-bf0625751b90",
+      "path": "[1955]《时光机》.txt",
+      "title": "时光机",
+      "format": "txt",
+      "size": 17677,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "时光机",
+      "workId": "006-bf0625751b90"
+    },
+    {
+      "id": "006-370995f027ba",
+      "path": "[1997]《苍白先生》.txt",
+      "title": "苍白先生",
+      "format": "txt",
+      "size": 12423,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "苍白先生",
+      "workId": "006-370995f027ba"
     }
   ]
 }
