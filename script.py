@@ -1,67 +1,21 @@
 import os
+import json
+from urllib.parse import quote
 import re
 import stat
 import tempfile
 from pathlib import Path
 
-HEADER = """
-<div align="center">
-<img src="https://socialify.git.ci/VeejaLiu/ScienceFictionCollection/image?description=1&descriptionEditable=%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E4%BD%9C%E5%93%81%E9%9B%86&font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark" alt="ScienceFictionCollection" width="640" height="320" />
-</div>
+HEADER = """# 科幻小说作品集
 
-# 科幻小说作品集
+## 贡献者 Contributors
 
-收集科幻小说原文，并集中维护在线阅读所需的作者、作品与版本元信息。
-
-**[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/)** · **[阅读器 Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)** · **[元信息维护指南](metadata/README.md)**
-
-## 两个仓库的分工
-
-| 项目 | 负责内容 |
-| --- | --- |
-| [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)（本仓库） | 作者与系列目录中的小说原文，以及 `metadata/` 中的姓名、简介、语言版本、头像和封面 |
-| [ScienceFictionCollection-Web](https://github.com/VeejaLiu/ScienceFictionCollection-Web) | 书架与列表、在线阅读、语言与版本切换、阅读进度、SEO 和 GitHub Pages 发布 |
-
-当前登记 **12 位作者、210 组作品、211 个作品文件**。正文目录与文件名保留原有结构；网页通过 metadata 中的 `directory`、`path` 绑定文件，内部 ID 保持稳定，对外使用可读的 slug。
-
-## 在线阅读与语言版本
-
-阅读器支持简体中文、繁体中文、英文、法语、德语、俄语、日语和韩语界面。界面翻译不等于正文翻译：当前登记的正文均为简体中文，其他语言版本需要收录真实文件，并通过相同的 `workId` 关联。
-
-每本书优先选择当前界面语言，其次英文，最后选择一个已有语言版本；书架、列表与阅读页均保留版本切换。TXT/Markdown 打开后按需加载正文并保存本机阅读进度，EPUB/PDF 提供原始文件入口。目录及网站构建只读取元信息和图片，不批量读取或打包小说正文。
-
-## 元信息与图片
-
-- `metadata/authors.json`：作者 ID、slug、真实目录、多语言姓名、简介和资料来源。
-- `metadata/books/<作者 ID>.json`：文件 ID、作品 `workId`、slug、正文路径、语言、格式、系列和封面。
-- `metadata/avatars/`、`metadata/covers/`：WebP 头像和封面；头像最长边 160 像素，封面不超过 600 × 900 像素。
-- [封面整理清单](metadata/covers/catalog.json)：全部 211 条记录的检索结果，已为 61 条记录整理封面，其中 6 张来自对应 EPUB；未确认的使用生成式封面。清单保留来源、版本说明及图片摘要。
-
-## 维护与更新
-
-在本仓库根目录执行：
-
-```bash
-python3 metadata/sync.py
-python3 metadata/sync.py --check
-python3 script.py
-```
-
-同步脚本只读取文件名、路径和文件大小，保留已有元信息字段；移动文件时先更新 `path`，保留文件 ID、作品 `workId` 和 slug。新增作者或翻译版本的字段说明见 [metadata/README.md](metadata/README.md)。
-
-本 README 的作者和文件目录由 `script.py` 自动生成；修改本页介绍时应同步修改脚本中的 `HEADER`，避免下次生成覆盖。
-
-Web 主分支更新后由 GitHub Actions 自动发布。仅修改本仓库元信息时，在 [Web 的 Pages 发布工作流](https://github.com/VeejaLiu/ScienceFictionCollection-Web/actions/workflows/pages.yml) 选择 **Run workflow** 即可重新构建网站；发布会读取本仓库 `master` 的 metadata，正文则在阅读时从本仓库按需获取。
-
-## 来源与权利记录
-
-小说正文、作者头像、出版社封面与应用代码分别保留各自的权利归属。书目或封面来源链接不代表获得开放许可；封面出处与版本匹配说明见整理清单，阅读器自有代码及第三方素材的授权记录见 [Web 仓库说明](https://github.com/VeejaLiu/ScienceFictionCollection-Web#上游来源与应用授权)。
-
-
-## 贡献者名单 Contributors
 [![Contributors](https://contrib.rocks/image?repo=VeejaLiu/ScienceFictionCollection)](https://github.com/VeejaLiu/ScienceFictionCollection/graphs/contributors)
 
+## 作者
+
 """
+
 
 SIZE_UNIT = ["B", "KB", "MB", "GB"]
 
@@ -104,44 +58,52 @@ def add_books_from_directory(path, indent_level=0):
     return markdown
 
 
+def author_directories(root):
+    return sorted(path.name for path in root.iterdir()
+                  if path.is_dir() and not path.is_symlink()
+                  and re.match(r'^\d{3} - .+', path.name))
+
+
 def generate_readme(root):
-    # 只收录符合仓库命名规则的作者目录，避免将工具目录列为作者。
-    authors = sorted(
-        path.name for path in root.iterdir()
-        if path.is_dir() and not path.is_symlink()
-        and re.match(r'^\d{3} - .+', path.name)
-    )
-    markdown = HEADER + "## 作家\n"
+    metadata_file = root / 'metadata' / 'authors.json'
+    records = json.loads(metadata_file.read_text(encoding='utf-8'))['authors'] if metadata_file.exists() else []
+    by_directory = {author['directory']: author for author in records}
+    markdown = HEADER
+    for directory in author_directories(root):
+        author = by_directory.get(directory)
+        name = author['name'] if author else directory
+        english = author.get('names', {}).get('en') if author else None
+        if english and english != name:
+            name += f' · {english}'
+        markdown += f"- [{name}]({quote(directory, safe='')}/)\n"
+    return markdown + """
+## 更多
+
+[在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [完整作品目录](CATALOG.md) · [项目说明](docs/PROJECT.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
+"""
+
+
+def generate_catalog(root):
+    authors = author_directories(root)
+    markdown = '# 完整作品目录\n\n[返回仓库首页](README.md) · [在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/)\n\n由 `script.py` 根据目录和文件大小生成，不读取小说正文。\n\n## 作者索引\n\n'
     for author in authors:
         anchor = re.sub(r'[^\w\s-]', '', author.lower()).strip()
         anchor = re.sub(r'\s+', '-', anchor)
         markdown += f"- [{author}](#{anchor})\n"
-
-    markdown += """\n## 作品：
-<div style="color:gray">（此顺序只代表本仓库先后的添加顺序）</div>
-
-"""
+    markdown += '\n## 作品\n\n'
     for author in authors:
         markdown += f"### {author}\n"
         markdown += add_books_from_directory(root / author)
+    return markdown
 
-    return markdown + "\n" + """
-## Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=VeejaLiu/ScienceFictionCollection&type=Date)](https://star-history.dera.page/#VeejaLiu/ScienceFictionCollection&Date)
-"""
-
-def main():
-    # 从任何工作目录启动，都更新脚本所在仓库的 README。
-    root = Path(__file__).resolve().parent
-    target = root / 'README.md'
-    content = generate_readme(root).encode('utf-8')
+def write_document(target, text):
+    content = text.encode('utf-8')
     if target.exists() and target.read_bytes() == content:
-        print('README.md 已是最新。')
+        print(f'{target.name} 已是最新。')
         return
     mode = stat.S_IMODE(target.stat().st_mode) if target.exists() else 0o644
-    # 完整写入后再替换，防止中途中断导致 README 被截断。
-    with tempfile.NamedTemporaryFile(dir=root, prefix='.readme-', delete=False) as file:
+    with tempfile.NamedTemporaryFile(dir=target.parent, prefix='.readme-', delete=False) as file:
         temporary = Path(file.name)
         try:
             file.write(content)
@@ -155,7 +117,13 @@ def main():
         os.replace(temporary, target)
     finally:
         temporary.unlink(missing_ok=True)
-    print('README.md 已更新。')
+    print(f'{target.name} 已更新。')
+
+
+def main():
+    root = Path(__file__).resolve().parent
+    write_document(root / 'README.md', generate_readme(root))
+    write_document(root / 'CATALOG.md', generate_catalog(root))
 
 
 if __name__ == '__main__':
