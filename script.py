@@ -81,6 +81,10 @@ def generate_readme(root):
 ## 更多
 
 [在线阅读](https://veejaliu.github.io/ScienceFictionCollection-Web/) · [项目说明](docs/PROJECT.md) · [授权范围](LICENSE-SCOPE.md) · [Web 仓库](https://github.com/VeejaLiu/ScienceFictionCollection-Web)
+
+## Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=VeejaLiu/ScienceFictionCollection&type=Date)](https://star-history.dera.page/#VeejaLiu/ScienceFictionCollection&Date)
 """
 
 
