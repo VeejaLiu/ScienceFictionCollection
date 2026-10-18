@@ -13,7 +13,7 @@
 | [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)（本仓库） | 作者与系列目录中的小说原文，以及 `metadata/` 中的姓名、简介、语言版本、头像和封面 |
 | [ScienceFictionCollection-Web](https://github.com/VeejaLiu/ScienceFictionCollection-Web) | 书架与列表、在线阅读、语言与版本切换、阅读进度、SEO 和 GitHub Pages 发布 |
 
-当前登记 **13 位作者、210 组作品、211 个作品文件**。网页通过 metadata 中的 `directory`、`path` 绑定文件，内部 ID 保持稳定，对外使用可读的 slug。2026年10月17日逐项核对了全部作品文件，修正29个年份标注，并将误署名阿西莫夫的《被遗忘的世界》节写本按原作归入柯南·道尔目录；不同译本和版本均保留。[核对来源、年份口径及8个待核条目](../metadata/publication-years/verification.json) 单独登记。
+当前登记 **13 位作者、210 组作品、211 个作品文件**。网页通过 metadata 中的 `directory`、`path` 绑定文件，内部 ID 保持稳定，对外使用可读的 slug。截至2026年10月18日，已逐项核对全部作品文件，累计修正30个年份标注、1个版本名称，并将误署名阿西莫夫的《被遗忘的世界》节写本按原作归入柯南·道尔目录；不同译本和版本均保留。[核对来源、年份口径及5个待核条目](../metadata/publication-years/verification.json) 单独登记，[本轮8项追查记录](../metadata/publication-years/follow-up-2026-10-18.json) 包括已查明事实和未决原因。
 
 ## 在线阅读与语言版本
 

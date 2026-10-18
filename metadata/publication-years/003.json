@@ -601,7 +601,7 @@
       "title": "鬼扯",
       "path": "鬼扯.txt",
       "year": null,
-      "reason": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。",
+      "reason": "未找到能消除阿西莫夫/韩松同文异署名冲突的原刊、作者或出版社记录；中文二次转载不独立构成署名证据。检索摘要中的1995年10期与相邻《黑鳏夫酒家的聚餐会》条目有关，不能移用为《鬼扯》日期。保留原文件及原署名，初刊年继续空缺。",
       "sourceIds": [
         "chineseGhostText",
         "shortFictionBibliography"
@@ -617,8 +617,9 @@
       "originalAuthor": "Arthur Conan Doyle",
       "originalWork": "The Lost World",
       "originalWorkPublicationYear": 1912,
-      "remainingUncertainty": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。",
+      "remainingUncertainty": "原作归属及1912年已确认。相同节写文本的二次转载出现“张荣华译”线索，但这些转载也沿用错误的阿西莫夫署名，且未提供原刊、版权页或节写者资料，不能据此确定译者或版本年份。保留正文、柯南·道尔归属和无年份文件名。",
       "verificationRecord": "verification.json"
     }
-  ]
+  ],
+  "latestFollowUp": "follow-up-2026-10-18.json"
 }

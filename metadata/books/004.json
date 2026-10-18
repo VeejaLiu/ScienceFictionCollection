@@ -265,18 +265,6 @@
       "workId": "004-42cbf5d9170b"
     },
     {
-      "id": "004-b0d170dc43ae",
-      "path": "[1891]《2889年一个美国新闻界巨子的一天》.txt",
-      "title": "2889年一个美国新闻界巨子的一天",
-      "format": "txt",
-      "size": 29581,
-      "language": "zh-CN",
-      "series": "",
-      "cover": null,
-      "slug": "2889年一个美国新闻界巨子的一天",
-      "workId": "004-b0d170dc43ae"
-    },
-    {
       "id": "004-119af2b662ec",
       "path": "[1892]《喀尔巴阡古堡》.txt",
       "title": "喀尔巴阡古堡",
@@ -379,6 +367,28 @@
       "cover": null,
       "slug": "多瑙河领航员",
       "workId": "004-7356988b1177"
+    },
+    {
+      "id": "004-b0d170dc43ae",
+      "path": "[1910]《2889年一个美国新闻界巨子的一天》.txt",
+      "title": "2889年一个美国新闻界巨子的一天（1910年修订版）",
+      "format": "txt",
+      "size": 29581,
+      "language": "zh-CN",
+      "series": "",
+      "cover": null,
+      "slug": "2889年一个美国新闻界巨子的一天",
+      "workId": "004-b0d170dc43ae",
+      "publication": {
+        "yearBasis": "identified-revised-edition",
+        "originalFirstPublicationYear": 1889,
+        "firstFrenchRevisionYear": 1891,
+        "versionPublicationYear": 1910,
+        "edition": "Hier et demain, Hetzel, 1910, pp.219–248",
+        "editionSourceUrl": "https://fr.wikisource.org/wiki/Au_XXIXe_si%C3%A8cle",
+        "authorityUrl": "https://catalogue.bnf.fr/ark:/12148/cb18020962q",
+        "note": "本地平均寿命68岁、Francis Benett／萨姆医生、中心城及2889年7月等版本特征对应1910修订文本；区别于1889英文首刊和1891法文文本。米歇尔·凡尔纳参与原作和1910年修订，原作通常以儒勒·凡尔纳名义发表。"
+      }
     }
   ]
 }

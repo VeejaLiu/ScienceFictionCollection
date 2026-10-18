@@ -12,12 +12,19 @@
       "series": "",
       "cover": null,
       "slug": "中国2185",
-      "workId": "001-d61cc2118e13"
+      "workId": "001-d61cc2118e13",
+      "publication": {
+        "yearBasis": "creation",
+        "writtenDate": "1989-02-15",
+        "firstPublicationDate": null,
+        "note": "文件名1989表示创作年份，不表示已正式发表。",
+        "sourceUrl": "https://project.zo.uni-heidelberg.de/DACHS_Leiden/archive/leiden/poetry/20040712/white-collar.net/01-author/l/60-liu_cx/031.htm"
+      }
     },
     {
       "id": "001-cfd761fe0618",
-      "path": "[1991-1]《超新星纪元》(新创世纪-完整版).txt",
-      "title": "超新星纪元（新创世纪完整版）",
+      "path": "[1991-1]《超新星纪元》(1991年二稿-网络整理本).txt",
+      "title": "超新星纪元（1991年二稿·网络整理本）",
       "format": "txt",
       "size": 638324,
       "language": "zh-CN",
@@ -29,7 +36,15 @@
         "label": "Open Library",
         "url": "https://openlibrary.org/books/OL39825912M"
       },
-      "workId": "001-cfd761fe0618"
+      "workId": "001-cfd761fe0618",
+      "editionNote": "据作者提供稿本的版本研究及本地FG、糖城、对日战争和交换国土等特征，对应1991年二稿；本文件还附有2002年后记，属于网络整理本，不称最终完整版。首次公开时间待考。",
+      "publication": {
+        "yearBasis": "draft-completion",
+        "draftYear": 1991,
+        "draftNumber": 2,
+        "firstPublicationDate": null,
+        "sourceUrl": "https://www.wyzxwk.com/Article/wenyi/2021/04/433152.html"
+      }
     },
     {
       "id": "001-0017beaf7dc2",
@@ -471,7 +486,17 @@
       "series": "",
       "cover": null,
       "slug": "创世纪",
-      "workId": "001-06a912a96d1b"
+      "workId": "001-06a912a96d1b",
+      "contentStatus": "empty-file",
+      "publication": {
+        "bibliographicSerialPeriod": {
+          "start": "2004-12",
+          "end": "2005-01"
+        },
+        "localTextVerified": false,
+        "sourceUrl": "https://www.wyzxwk.com/Article/wenyi/2021/04/433152.html",
+        "note": "连载书目记录已查到，但本地空文件无法进行文本版本核对；文件名保留。"
+      }
     },
     {
       "id": "001-39c5f1dce002",
@@ -606,7 +631,17 @@
       "series": "",
       "cover": null,
       "slug": "烧火工",
-      "workId": "001-311b35f4d7d9"
+      "workId": "001-311b35f4d7d9",
+      "publication": {
+        "yearBasis": "first-online-publication",
+        "firstPublicationDate": "2012-01-01",
+        "venue": "果壳网·小姬达人日志",
+        "postTitle": "刘慈欣写给我的童话",
+        "preservedPostTimestamp": "2012-01-01 00:40:27",
+        "writtenDate": "2011-12-28",
+        "sourceUrl": "https://www.guokr.com/blog/83809/",
+        "sourceAvailability": "404-on-2026-10-18; original post transcription preserved in this file"
+      }
     },
     {
       "id": "001-67ab9cdec7a3",

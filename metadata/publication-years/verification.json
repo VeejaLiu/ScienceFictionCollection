@@ -150,10 +150,11 @@
   "summary": {
     "authors": 13,
     "workFiles": 211,
-    "correctedYears": 29,
+    "correctedYears": 30,
     "correctedOriginalAttributions": 1,
-    "confirmedUnchanged": 174,
-    "uncertain": 8
+    "confirmedUnchanged": 176,
+    "uncertain": 5,
+    "correctedVersionLabels": 1
   },
   "entries": [
     {
@@ -193,15 +194,20 @@
       "originalPath": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
       "originalYear": 1989,
       "path": "001 - 刘慈欣(Cixin Liu)/[1989]《中国2185》.txt",
-      "status": "uncertain",
+      "status": "confirmed",
       "year": 1989,
-      "note": "1989可确认是创作完成年，作品未正式出版；保留原文件名，不将其当作已确认的初刊年。",
+      "note": "已核实1989是创作年份：本地作者落款为1989.2.15，作者本人整理并授权发布的年表亦列1989且注明未发表。保留1989作创作年，不声称是初刊年；未找到正式出版记录。",
       "sourceIds": [
         "liu-publications",
         "liu-study",
         "liu-drafts"
       ],
-      "yearBasis": "creation-year-only"
+      "yearBasis": "creation-year-only",
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "liu-author-bibliography"
+      ]
     },
     {
       "bookId": "001-4edbc7e5d622",
@@ -222,16 +228,23 @@
     {
       "bookId": "001-cfd761fe0618",
       "authorId": "001",
-      "title": "超新星纪元（新创世纪完整版）",
+      "title": "超新星纪元（1991年二稿·网络整理本）",
       "originalPath": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
       "originalYear": 1991,
-      "path": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(新创世纪-完整版).txt",
+      "path": "001 - 刘慈欣(Cixin Liu)/[1991-1]《超新星纪元》(1991年二稿-网络整理本).txt",
       "status": "uncertain",
       "year": 1991,
-      "note": "正文自称1991年版且含交换国土情节，是早期稿/流传版本；未确认该具体版本首次公开时间，不能套用2003年删节版首版年。",
+      "note": "据作者提供稿本的版本研究及本地FG、糖城、对日战争和交换国土等特征，对应1991年二稿；本文件还附有2002年后记，属于网络整理本，不称最终完整版。首次公开时间待考。",
       "sourceIds": [
         "liu-publications",
         "liu-study"
+      ],
+      "yearBasis": "draft-completion-year-only",
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "supernova-author-correspondence",
+        "supernova-journal-index"
       ]
     },
     {
@@ -634,11 +647,17 @@
       "path": "001 - 刘慈欣(Cixin Liu)/[2003-2]《海水高山》.txt",
       "status": "uncertain",
       "year": 2003,
-      "note": "2003是东方少年科幻征文获奖年；年表另列2014年期刊发表。未确认是否更早公开发表，保留2003并注明其含义不确定。",
+      "note": "原刊/作者资料能确认2003征文获奖和后来扩写为《山》；尚未找到获奖稿的首发原刊。年表列2014年重刊，另有2005年网络版本的二手线索，故不能把2014认定为首发，也不以2003获奖年充当已确认的发表年。保留原文件与2003标记。",
       "sourceIds": [
         "liu-publications",
         "liu-study",
         "liu-mountain"
+      ],
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "sea-primary-background",
+        "sea-earlier-online-lead"
       ]
     },
     {
@@ -756,10 +775,16 @@
       "path": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
       "status": "uncertain",
       "year": 2005,
-      "note": "文件为空，无法核对版本。书目记载节选中篇于2004年12期至2005年1期连载；暂保留2005，不将空文件认定为已核实正文。",
+      "note": "作者稿本研究和书目可确认《创世纪》在《科幻大王》2004年12期至2005年1期连载；本地文件0字节，无法核对该文件实际收录版本。保留空文件及2005标记，不下载其他文本代填。",
       "sourceIds": [
         "liu-publications",
         "liu-study"
+      ],
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "supernova-author-correspondence",
+        "supernova-journal-index"
       ]
     },
     {
@@ -875,13 +900,20 @@
       "originalPath": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
       "originalYear": 2012,
       "path": "001 - 刘慈欣(Cixin Liu)/[2012]《烧火工》.txt",
-      "status": "uncertain",
+      "status": "confirmed",
       "year": 2012,
-      "note": "可确认2011年底创作、2012新年赠送及后来印刷出版记录；原始果壳日志当前不可访问，网上首次公开的准确年份尚未确认，保留2012。",
+      "note": "本地完整保留小姬原帖《刘慈欣写给我的童话》，含2012-01-01 00:40:27发布时间、2012-01-01零点收到作者邮件的说明，以及2011-12-28完稿落款；外部书目引用日期一致。确认2012为网络首发年，原文件名正确。",
       "sourceIds": [
         "liu-publications",
         "liu-study",
         "liu-burn"
+      ],
+      "yearBasis": "first-online-publication",
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "burn-local-primary",
+        "burn-citation"
       ]
     },
     {
@@ -1933,14 +1965,19 @@
       "path": "013 - Arthur Conan Doyle(亚瑟·柯南·道尔)/被遗忘的世界.txt",
       "status": "uncertain",
       "year": null,
-      "note": "已确认原作是Arthur Conan Doyle的The Lost World（1912），更正原作归属；中文节写本的节写者、译者和版本发表年仍未确认，保留无年份文件名。",
+      "note": "原作归属及1912年已确认。相同节写文本的二次转载出现“张荣华译”线索，但这些转载也沿用错误的阿西莫夫署名，且未提供原刊、版权页或节写者资料，不能据此确定译者或版本年份。保留正文、柯南·道尔归属和无年份文件名。",
       "sourceIds": [
         "doyle",
         "doyle-work"
       ],
       "originalWorkPublicationYear": 1912,
       "originalAuthor": "Arthur Conan Doyle",
-      "attributionCorrected": true
+      "attributionCorrected": true,
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "doyle-translator-lead"
+      ]
     },
     {
       "bookId": "003-7265b6f85bb0",
@@ -1999,11 +2036,17 @@
       "path": "003 - Isaac Asimov(艾萨克·阿西莫夫)/鬼扯.txt",
       "status": "uncertain",
       "year": null,
-      "note": "中文科幻署名阿西莫夫，其他中文收录署名韩松，正文相同；尚无足以消除署名冲突的原刊或作者确认，原文题名及初刊年也未确认，保留原文件与署名。",
+      "note": "未找到能消除阿西莫夫/韩松同文异署名冲突的原刊、作者或出版社记录；中文二次转载不独立构成署名证据。检索摘要中的1995年10期与相邻《黑鳏夫酒家的聚餐会》条目有关，不能移用为《鬼扯》日期。保留原文件及原署名，初刊年继续空缺。",
       "sourceIds": [
         "ghost-asimov",
         "ghost-hansong",
         "asimov-short"
+      ],
+      "followUpCheckedOn": "2026-10-18",
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "ghost-asimov-copy",
+        "ghost-conflicting-copy"
       ]
     },
     {
@@ -2212,16 +2255,27 @@
     {
       "bookId": "004-b0d170dc43ae",
       "authorId": "004",
-      "title": "2889年一个美国新闻界巨子的一天",
+      "title": "2889年一个美国新闻界巨子的一天（1910年修订版）",
       "originalPath": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
       "originalYear": 1891,
-      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1891]《2889年一个美国新闻界巨子的一天》.txt",
-      "status": "uncertain",
-      "year": 1891,
-      "note": "1889英文初刊、1891法文重写和1910再修订并存；本地题名为2889，不能可靠判定具体底本版本及父子贡献，保留1891并记录版本差异。",
+      "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1910]《2889年一个美国新闻界巨子的一天》.txt",
+      "status": "corrected",
+      "year": 1910,
+      "note": "本地平均寿命68岁、Francis Benett／萨姆医生、中心城及2889年7月等版本特征对应1910修订文本；区别于1889英文首刊和1891法文文本。米歇尔·凡尔纳参与原作和1910年修订，原作通常以儒勒·凡尔纳名义发表。",
       "sourceIds": [
         "verne",
         "verne-2889"
+      ],
+      "yearBasis": "identified-revised-edition",
+      "followUpCheckedOn": "2026-10-18",
+      "previousReviewedYear": 1891,
+      "originalWorkPublicationYear": 1889,
+      "followUpRecord": "follow-up-2026-10-18.json",
+      "followUpSourceIds": [
+        "verne-bnf-authority",
+        "verne-1910-primary",
+        "verne-1891-primary",
+        "verne-1889-primary"
       ]
     },
     {
@@ -3392,5 +3446,7 @@
         "clarke"
       ]
     }
-  ]
+  ],
+  "lastUpdatedOn": "2026-10-18",
+  "latestFollowUp": "follow-up-2026-10-18.json"
 }
