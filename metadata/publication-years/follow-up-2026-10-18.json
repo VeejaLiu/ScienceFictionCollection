@@ -82,6 +82,22 @@
       "label": "同文二次转载标张荣华译，但同时误署阿西莫夫；无原刊或版权页，译者及版本年份均不据此确定",
       "kind": "unverified-secondary-lead",
       "url": "https://www.211cn.ca/book/foreign-sci-fi-1000/?c=107"
+    },
+    "genesis-platform-catalogue": {
+      "label": "番茄小说官方《创世纪》合集目录：刘慈欣，13章，目录含单篇《创世纪》；全书19.7万字不等于该单篇长度",
+      "kind": "platform-edition-catalogue",
+      "url": "https://fanqienovel.com/page/7363514084773350462"
+    },
+    "genesis-platform-copyright": {
+      "label": "番茄小说《创世纪》版权页；仅作平台版本出处，不构成向本仓库再分发的许可",
+      "kind": "platform-copyright-page",
+      "url": "https://fanqienovel.com/reader/7363514115861531673"
+    },
+    "genesis-original-placeholder": {
+      "label": "仓库首次收录时的“仅有链接”占位记录，提交010a887；不是正文存档",
+      "kind": "repository-history-reference",
+      "url": "http://book.km.com/chapterlist/1564342.html",
+      "availability": "2026-10-18浏览工具无法访问，未确认其当前内容。"
     }
   },
   "searchLimitations": [
@@ -139,11 +155,24 @@
       "outcome": "still-unresolved",
       "year": 2005,
       "yearBasis": null,
-      "conclusion": "作者稿本研究和书目可确认《创世纪》在《科幻大王》2004年12期至2005年1期连载；本地文件0字节，无法核对该文件实际收录版本。保留空文件及2005标记，不下载其他文本代填。",
+      "conclusion": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。已找到番茄小说官方《创世纪》合集目录及版权页，但尚未取得可核实的原刊扫描或可再分发正文，不能确认平台篇目与原刊逐字一致。本地文件仍为0字节，保留2005标记及待核状态。",
       "sourceIds": [
         "supernova-author-correspondence",
-        "supernova-journal-index"
-      ]
+        "supernova-journal-index",
+        "genesis-platform-catalogue",
+        "genesis-platform-copyright",
+        "genesis-original-placeholder"
+      ],
+      "textRecoveryFollowUp": {
+        "checkedOn": "2026-10-18",
+        "result": "source-found-text-not-imported",
+        "localFileBytes": 0,
+        "gitHistoryCheck": "首次加入文件的提交010a887中为123字节“仅有链接”占位文件；现为空文件。历史记录未发现该中篇正文。",
+        "editionCheck": "研究确认缩写及后来的恢复题名；官方合集目录确认收录《创世纪》，尚未核对原刊与平台文本差异。",
+        "reasonNotImported": "未找到可再分发的开放许可正文；未复制受版权保护的整篇作品。",
+        "nextEvidenceNeeded": "用户提供的正文或原刊扫描，或可核实的开放许可文本。",
+        "originalPlaceholderUrl": "http://book.km.com/chapterlist/1564342.html"
+      }
     },
     {
       "bookId": "001-311b35f4d7d9",

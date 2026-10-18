@@ -495,8 +495,17 @@
         },
         "localTextVerified": false,
         "sourceUrl": "https://www.wyzxwk.com/Article/wenyi/2021/04/433152.html",
-        "note": "连载书目记录已查到，但本地空文件无法进行文本版本核对；文件名保留。"
-      }
+        "note": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。已找到番茄小说官方《创世纪》合集目录及版权页，但尚未取得可核实的原刊扫描或可再分发正文，不能确认平台篇目与原刊逐字一致。本地文件仍为0字节，保留2005标记及待核状态。",
+        "onlineEdition": {
+          "platform": "番茄小说",
+          "collectionTitle": "创世纪",
+          "url": "https://fanqienovel.com/page/7363514084773350462",
+          "copyrightUrl": "https://fanqienovel.com/reader/7363514115861531673",
+          "relationToSerial": "未比对原刊；合集所列19.7万字为全书字数，不能作为单篇字数。",
+          "redistributionPermissionVerified": false
+        }
+      },
+      "editionNote": "《超新星纪元》前半部缩写，初以《创世纪》连载，后来恢复《超新星纪元》之名收入短篇集；本地正文缺失，未完成文本版本比对。"
     },
     {
       "id": "001-39c5f1dce002",

@@ -54,7 +54,8 @@ def add_books_from_directory(path, indent_level=0):
         markdown += add_books_from_directory(os.path.join(path, directory), indent_level + 1)
     for file in sorted(files):
         book_size = get_file_size(os.path.join(path, file))
-        markdown += f"{indent}- {file} _[{book_size}]_\n"
+        missing_note = " **（空文件，正文缺失）**" if os.path.getsize(os.path.join(path, file)) == 0 else ""
+        markdown += f"{indent}- {file} _[{book_size}]_{missing_note}\n"
     return markdown
 
 
