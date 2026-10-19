@@ -131,7 +131,17 @@
         "label": "Open Library",
         "url": "https://openlibrary.org/books/OL19222602M"
       },
-      "workId": "004-48b4714b7d62"
+      "workId": "004-48b4714b7d62",
+      "chapterTitleCorrections": [
+        {
+          "prefix": "第二十六章　 只剩我一个人应该承认",
+          "title": "第二十六章　 只剩我一个人"
+        },
+        {
+          "prefix": "第四十五章  结束这就是故事的结尾",
+          "title": "第四十五章  结束"
+        }
+      ]
     },
     {
       "id": "004-fe5da386976f",

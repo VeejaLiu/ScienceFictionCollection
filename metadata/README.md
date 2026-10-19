@@ -53,6 +53,7 @@ metadata/
 | `editionNote` | 可选：稿次、网络整理或节写版本的说明及尚待确认的信息 |
 | `contentStatus` | 可选：`empty-file` 表示现有文件为空，书目可保留但不能据此认定已核实正文版本 |
 | `textSource` | 可选：用户提供文本的来源、PDF页数、提取与收录日期、文件摘要和核对范围；不等同于原刊版本核定或再分发许可 |
+| `chapterTitleCorrections` | 可选：TXT/Markdown 已人工核对的标题边界数组，每项为 `{ "prefix": "原始标题和紧邻正文的行首", "title": "该行开头实际属于标题的部分" }`；字符与空格须逐字匹配，title 必须是 prefix 的前缀；仅在正文中唯一匹配时生效，不改写原文 |
 
 完整路径为 `作者.directory / 作品.path`。网页使用明确登记的 slug，例如 `/authors/liu-cixin/` 和 `/books/三体/`；内部仍通过稳定 id 关联。slug 允许中文、字母、数字和分隔用的连字符，不通过目录名猜测作者姓名或展示标题。
 
