@@ -775,7 +775,7 @@
       "path": "001 - 刘慈欣(Cixin Liu)/[2005]《创世纪》（超新星纪元中篇版）.txt",
       "status": "uncertain",
       "year": 2005,
-      "note": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。已找到番茄小说官方《创世纪》合集目录及版权页，但尚未取得可核实的原刊扫描或可再分发正文，不能确认平台篇目与原刊逐字一致。本地文件仍为0字节，保留2005标记及待核状态。",
+      "note": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。2026-10-19已补入用户提供的37页PDF提取文本，文末落款为“2002年4月23日2稿于娘子关”；该日期为稿本落款，不作初刊日期。尚未取得原刊扫描逐字比对，保留文件名2005标记及初刊版本待核状态。",
       "sourceIds": [
         "liu-publications",
         "liu-study"
@@ -785,7 +785,17 @@
       "followUpSourceIds": [
         "supernova-author-correspondence",
         "supernova-journal-index"
-      ]
+      ],
+      "localTextImport": {
+        "importedOn": "2026-10-19",
+        "metadataRecord": "../books/001.json",
+        "sourceKind": "user-provided-pdf-extraction",
+        "sourcePageCount": 37,
+        "textSha256": "4cd08ba779d803651ccd7b75a5488eead8548e1465fc4894a55916d95ee78ca6",
+        "writtenDate": "2002-04-23",
+        "draftNumber": 2,
+        "originalSerialCompared": false
+      }
     },
     {
       "bookId": "001-fb5f8fedc262",
@@ -3447,6 +3457,6 @@
       ]
     }
   ],
-  "lastUpdatedOn": "2026-10-18",
+  "lastUpdatedOn": "2026-10-19",
   "latestFollowUp": "follow-up-2026-10-18.json"
 }

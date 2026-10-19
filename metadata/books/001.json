@@ -481,31 +481,48 @@
       "path": "[2005]《创世纪》（超新星纪元中篇版）.txt",
       "title": "创世纪",
       "format": "txt",
-      "size": 0,
+      "size": 60714,
       "language": "zh-CN",
       "series": "",
       "cover": null,
       "slug": "创世纪",
       "workId": "001-06a912a96d1b",
-      "contentStatus": "empty-file",
       "publication": {
         "bibliographicSerialPeriod": {
           "start": "2004-12",
           "end": "2005-01"
         },
-        "localTextVerified": false,
+        "localTextVerified": true,
         "sourceUrl": "https://www.wyzxwk.com/Article/wenyi/2021/04/433152.html",
-        "note": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。已找到番茄小说官方《创世纪》合集目录及版权页，但尚未取得可核实的原刊扫描或可再分发正文，不能确认平台篇目与原刊逐字一致。本地文件仍为0字节，保留2005标记及待核状态。",
+        "note": "《创世纪》为《超新星纪元》前半部的缩写，书目记载连载于《科幻大王》2004年12期至2005年1期，后来以《超新星纪元》之名收入短篇集。2026-10-19已补入用户提供的37页PDF提取文本，文末落款为“2002年4月23日2稿于娘子关”；该日期为稿本落款，不作初刊日期。尚未取得原刊扫描逐字比对，保留文件名2005标记及初刊版本待核状态。",
         "onlineEdition": {
           "platform": "番茄小说",
           "collectionTitle": "创世纪",
           "url": "https://fanqienovel.com/page/7363514084773350462",
           "copyrightUrl": "https://fanqienovel.com/reader/7363514115861531673",
-          "relationToSerial": "未比对原刊；合集所列19.7万字为全书字数，不能作为单篇字数。",
-          "redistributionPermissionVerified": false
-        }
+          "relationToSerial": "本地收录用户提供的番茄小说单篇阅读页PDF提取文本，未与2004年12期至2005年1期原刊逐字比对；合集所列19.7万字为全书字数，不能作为本篇字数。",
+          "redistributionPermissionVerified": false,
+          "readerUrl": "https://fanqienovel.com/reader/7363514118348737561"
+        },
+        "writtenDate": "2002-04-23",
+        "draftNumber": 2,
+        "firstPublicationDate": null
       },
-      "editionNote": "《超新星纪元》前半部缩写，初以《创世纪》连载，后来恢复《超新星纪元》之名收入短篇集；本地正文缺失，未完成文本版本比对。"
+      "editionNote": "《超新星纪元》前半部缩写。收录用户提供的37页PDF提取文本，文末署2002年4月23日二稿；已恢复特殊字体编码、去除重复页眉并合并分页断行，保留原文措辞。正文完整性已按PDF核对，未与原刊逐字校勘。",
+      "textSource": {
+        "kind": "user-provided-pdf-extraction",
+        "sourceFileName": "创世纪.pdf",
+        "sourcePageCount": 37,
+        "sourceUrl": "https://fanqienovel.com/reader/7363514118348737561",
+        "sourceSha256": "a31e739e44a15c98c407f9233afb6619b4b8f982d656874eb9f5cfc64a49c2c9",
+        "extractedOn": "2026-10-18",
+        "importedOn": "2026-10-19",
+        "method": "local-ocr-assisted-font-decoding",
+        "characterCountExcludingWhitespace": 20157,
+        "paragraphCount": 280,
+        "textSha256": "4cd08ba779d803651ccd7b75a5488eead8548e1465fc4894a55916d95ee78ca6",
+        "verification": "37页文字均已保留；已检查起首、结尾落款、字符数与乱码残留。利用本地OCR校对特殊字体映射，并以PDF文字层恢复分页裁切处内容；未逐字比对原刊。"
+      }
     },
     {
       "id": "001-39c5f1dce002",
