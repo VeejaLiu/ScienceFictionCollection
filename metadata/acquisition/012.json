@@ -4,7 +4,7 @@
   "checkedOn": "2026-10-20",
   "issue": "https://github.com/VeejaLiu/ScienceFictionCollection/issues/5",
   "scope": "本轮覆盖原作者汇总的23项，补入时间奥德赛的两部续作，并将1953年同名短篇与1967年短篇集分开；共26项。不是克拉克全部著作或全部短篇的完整书目。",
-  "status": "bibliography-and-source-review",
+  "status": "source-follow-up",
   "catalogSnapshot": {
     "commit": "28417e0",
     "registeredFiles": 1,
@@ -18,14 +18,15 @@
     "priority1": 12,
     "editionDependentYears": 2,
     "missingWorksReadyForPublicImport": 0,
-    "priority1WithChineseEditionCatalog": 8,
-    "chineseEditionMetadataRecords": 8,
-    "relatedChineseCollectionLeads": 1
+    "priority1WithChineseEditionCatalog": 9,
+    "chineseEditionMetadataRecords": 9,
+    "relatedChineseCollectionLeads": 2,
+    "additionalEnglishOriginalScansLocated": 3
   },
   "conventions": {
     "priority": "0=已收录；1=代表作与太空漫游/拉玛系列优先；2=后续独立作品与中短篇；3=合集、相关资料及时间奥德赛后续。",
     "publication": "长篇、文集以原文书版年为基准，中短篇以可核实的原文初刊年为基准；版次冲突不自动强定首发年。",
-    "chineseSearchTitles": "中文检索名主要沿用旧汇总；8个优先项另记出版方在豆瓣阅读提供的中文版本资料，属于平台元信息核对，不替代实物版权页与正文完整性核对。未核定译名的条目使用null。",
+    "chineseSearchTitles": "中文检索名主要沿用旧汇总；9个优先项另记出版方在豆瓣阅读提供的中文版本资料，属于平台元信息核对，不替代实物版权页与正文完整性核对。未核定译名的条目使用null。",
     "sourceUse": "来源只支持书目、版次或获取渠道的相关事实；销售、试读、借阅、已有网络转录均不自动代表获准公开再分发。",
     "catalogBoundary": "这里只记候选项；不在books/012.json创建无正文记录，不创建空小说文件，不改动现有ID、slug、workId或正文。"
   },
@@ -287,6 +288,104 @@
       "label": "豆瓣阅读／读客文化：《神的九十亿个名字》中文18篇选集",
       "url": "https://read.douban.com/ebook/13311329/",
       "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-rama-cn",
+      "label": "豆瓣阅读／读客文化：与罗摩相会",
+      "url": "https://read.douban.com/ebook/53650733/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "dedao-collected-cn",
+      "label": "得到／读客文化：阿瑟·克拉克科幻短篇全集（全三册）",
+      "url": "https://www.dedao.cn/ebook/detail?id=AnKgjNlArlXVNGKD1yL2Ek6YaogQv0YpmEwbZ4RBn7j589zJpMxmdPeqOYDxqL4y",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ia-pacifist",
+      "label": "Internet Archive：Fantastic Universe 第6卷第3期，1956年10月",
+      "url": "https://archive.org/details/Fantastic_Universe_v06n03_1956-10",
+      "kind": "original-issue-scan",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ia-encounter",
+      "label": "Internet Archive：Amazing Stories 第27卷第5期，1953年6—7月",
+      "url": "https://archive.org/details/Amazing_Stories_v27n05_1953-06-07",
+      "kind": "original-issue-scan",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ia-before",
+      "label": "Internet Archive：Amazing Stories 第35卷第6期，1961年6月",
+      "url": "https://archive.org/details/Amazing_Stories_v35n06_1961-06",
+      "kind": "original-issue-scan",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "commons-pacifist-issue",
+      "label": "Wikimedia Commons：1956年10月 Fantastic Universe 文件说明与删页记录",
+      "url": "https://commons.wikimedia.org/wiki/File:Fantastic_Universe_(1956-10;_vol._8,_no._3).djvu",
+      "kind": "scan-provenance-and-rights-claim",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "upenn-fantastic-renewals",
+      "label": "University of Pennsylvania：Fantastic Universe 续展记录汇总",
+      "url": "https://onlinebooks.library.upenn.edu/webbin/cinfo/fantasticuniv",
+      "kind": "renewal-research-summary",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "upenn-amazing-renewals",
+      "label": "University of Pennsylvania：Amazing Stories 续展记录汇总",
+      "url": "https://onlinebooks.library.upenn.edu/webbin/cinfo/amazingstories",
+      "kind": "renewal-research-summary",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "dha-clarke",
+      "label": "David Higham Associates：Arthur C. Clarke 作者与代理页",
+      "url": "https://davidhigham.co.uk/authors-dh/arthur-c-clarke/",
+      "kind": "rights-agency",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "dha-about",
+      "label": "David Higham Associates：代理历史与遗产代理说明",
+      "url": "https://davidhigham.co.uk/about/",
+      "kind": "rights-agency",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "dha-georgia",
+      "label": "David Higham Associates：Georgia Glover",
+      "url": "https://davidhigham.co.uk/agents-dh/georgia-glover/",
+      "kind": "rights-agent",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "dha-permissions",
+      "label": "David Higham Associates：许可问询说明",
+      "url": "https://davidhigham.co.uk/permissions/",
+      "kind": "permissions-process",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "nature-neighbourhood",
+      "label": "Nature：Improving the neighbourhood，DOI 10.1038/46906",
+      "url": "https://www.nature.com/articles/46906",
+      "kind": "publisher-access-required",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "usco-lifecycle",
+      "label": "U.S. Copyright Office：The Lifecycle of Copyright",
+      "url": "https://copyright.gov/history/copyright-exhibit/lifecycle/",
+      "kind": "rights-research-background",
       "checkedOn": "2026-10-20"
     }
   ],
@@ -604,7 +703,7 @@
     },
     {
       "key": "rendezvous-with-rama",
-      "chineseSearchTitle": "与拉玛相会",
+      "chineseSearchTitle": "与拉玛相会／与罗摩相会",
       "originalTitle": "Rendezvous with Rama",
       "kind": "novel",
       "authors": [
@@ -620,13 +719,30 @@
       "sourceIds": [
         "sfe",
         "uip",
-        "prh-rama-series"
+        "prh-rama-series",
+        "db-rama-cn"
       ],
       "series": {
         "key": "rama",
         "sequence": 1
       },
-      "note": "第一部作者为 Clarke；后三部的 Gentry Lee 合著信息另记。"
+      "note": "第一部作者为 Clarke；后三部的 Gentry Lee 合著信息另记。 本轮按“与罗摩相会”别名找到读客文化提供的中文电子版入口，不将不同译名误作不同作品。",
+      "chineseEditionLeads": [
+        {
+          "title": "与罗摩相会",
+          "publisher": "江苏凤凰文艺出版社",
+          "date": "2018-05",
+          "translators": [
+            "刘壮"
+          ],
+          "isbn": "9787559416551",
+          "provider": "读客文化",
+          "sourceId": "db-rama-cn",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
     },
     {
       "key": "meeting-with-medusa",
@@ -1083,11 +1199,30 @@
       "publication": "Fantastic Universe，1956年10月",
       "sourceIds": [
         "ws-author",
-        "ws-pacifist"
+        "ws-pacifist",
+        "ia-pacifist",
+        "upenn-fantastic-renewals",
+        "commons-pacifist-issue"
       ],
-      "result": "transcription-present",
+      "result": "transcription-and-original-scan-present",
       "publicImport": "not-cleared",
-      "note": "具体作品页存在并显示英文转录。UI Press列原刊为6:3，维基文库页面路径为8:3，卷期指向有差异，需回到原刊扫描确认。作者页笼统标注部分作品为美国公版，本作品页未查见独立许可结论；版本完整性、版权/续展证据及适用地域仍待核。本轮未下载正文或创建中文翻译。"
+      "note": "原刊目录图像明确为1956年10月Vol.6 No.3，The Pacifist署名Arthur C. Clarke，起页4；维基文库/Commons的卷8路径不是原刊卷号。Commons文件说明标注美国未续展公版并称删去3篇已续展作品；UPenn汇总还列同一期Where Hesperus Falls的续展，因此不能从Commons删页说明推断整期均可使用。上述仅为来源平台及学术汇总的证据，未完成对本篇独立版权/续展、可能的其他初刊及适用地域的完整核验。",
+      "previousResult": "transcription-present",
+      "scanEvidence": {
+        "archiveIdentifier": "Fantastic_Universe_v06n03_1956-10",
+        "pdfUrl": "https://archive.org/download/Fantastic_Universe_v06n03_1956-10/Fantastic_Universe_v06n03_1956-10.pdf",
+        "pdfBytes": 4620397,
+        "sha256": "46ff034bd2754f9a7c969fde20a5adb3440554396d53f36b74338309b10c977d",
+        "pdfPages": 132,
+        "ocrUrl": "https://archive.org/download/Fantastic_Universe_v06n03_1956-10/Fantastic_Universe_v06n03_1956-10_djvu.txt",
+        "contentsPdfPage": 4,
+        "imprintPdfPage": 4,
+        "originalVolume": 6,
+        "originalNumber": 3,
+        "issueDate": "1956-10",
+        "printedStoryStart": 4,
+        "visualReview": "核对目录图像、题名、作者、卷期及起页；未逐页校对小说正文或验证OCR准确性。"
+      }
     },
     {
       "work": "Encounter in the Dawn",
@@ -1096,11 +1231,29 @@
       "sourceIds": [
         "uip",
         "ws-author",
-        "ws-encounter"
+        "ws-encounter",
+        "ia-encounter",
+        "upenn-amazing-renewals"
       ],
-      "result": "missing-transcription",
+      "result": "original-scan-present-transcription-page-missing",
       "publicImport": "not-cleared",
-      "note": "作者页有题名，但点击进入创建页面，提示条目尚不存在；不能把作者索引当成已取得正文。"
+      "note": "维基文库的具体转录页仍未创建，但已找到原刊PDF及OCR文件。原刊目录图像确认1953年6—7月Vol.27 No.5，题名、作者及起页4。扫描文件存在不等于本项目取得公开收录许可；本轮未将全文或OCR导入仓库。",
+      "previousResult": "missing-transcription",
+      "scanEvidence": {
+        "archiveIdentifier": "Amazing_Stories_v27n05_1953-06-07",
+        "pdfUrl": "https://archive.org/download/Amazing_Stories_v27n05_1953-06-07/Amazing_Stories_v27n05_1953-06-07.pdf",
+        "pdfBytes": 9811875,
+        "sha256": "4368db8a65b21c55e5c60521dc8fc3615a0468168c399a1ed67df5551fa0c782",
+        "pdfPages": 164,
+        "ocrUrl": "https://archive.org/download/Amazing_Stories_v27n05_1953-06-07/Amazing_Stories_v27n05_1953-06-07_djvu.txt",
+        "contentsPdfPage": 3,
+        "imprintPdfPage": 3,
+        "originalVolume": 27,
+        "originalNumber": 5,
+        "issueDate": "1953-06/07",
+        "printedStoryStart": 4,
+        "visualReview": "核对目录图像、题名、作者、卷期及起页；未逐页校对小说正文或验证OCR准确性。"
+      }
     },
     {
       "work": "Before Eden",
@@ -1109,11 +1262,29 @@
       "sourceIds": [
         "uip",
         "ws-author",
-        "ws-before"
+        "ws-before",
+        "ia-before",
+        "upenn-amazing-renewals"
       ],
-      "result": "missing-transcription",
+      "result": "original-scan-present-transcription-page-missing",
       "publicImport": "not-cleared",
-      "note": "作者页链接为未创建条目；原刊扫描或其他可处理文本仍需另查。"
+      "note": "维基文库的具体转录页仍未创建，但已找到原刊PDF及OCR文件。目录与刊记图像确认1961年6月Vol.35 No.6，题名、作者及起页36；书目另记正文跨页，不能只截取36—46页而漏掉续页66。文件可获取性不作为公开收录许可结论。",
+      "previousResult": "missing-transcription",
+      "scanEvidence": {
+        "archiveIdentifier": "Amazing_Stories_v35n06_1961-06",
+        "pdfUrl": "https://archive.org/download/Amazing_Stories_v35n06_1961-06/Amazing_Stories_v35n06_1961-06.pdf",
+        "pdfBytes": 6697783,
+        "sha256": "fbfac29d764c53156610b24dcc062630c5a104cc0ab1124cf1713a92555ec429",
+        "pdfPages": 148,
+        "ocrUrl": "https://archive.org/download/Amazing_Stories_v35n06_1961-06/Amazing_Stories_v35n06_1961-06_djvu.txt",
+        "contentsPdfPage": 4,
+        "imprintPdfPage": 2,
+        "originalVolume": 35,
+        "originalNumber": 6,
+        "issueDate": "1961-06",
+        "printedStoryStart": 36,
+        "visualReview": "核对目录图像、题名、作者、卷期及起页；未逐页校对小说正文或验证OCR准确性。"
+      }
     },
     {
       "work": null,
@@ -1124,14 +1295,27 @@
       "result": "no-matching-author-in-this-query",
       "publicImport": "not-cleared",
       "note": "本次作者查询返回Arthur H. Clark（1841—1922），不是Arthur C. Clarke；不以该结果推断站内绝无其他相关条目。"
+    },
+    {
+      "work": "Improving the neighbourhood",
+      "language": "en",
+      "publication": "Nature 402, 19，1999-11-04，DOI 10.1038/46906",
+      "sourceIds": [
+        "nature-neighbourhood"
+      ],
+      "result": "publisher-subscription-access",
+      "publicImport": "not-cleared",
+      "note": "出版者页面明确显示订阅/机构访问，并标©Sir Arthur C. Clarke 1999；不是本轮确认的免费全文或开放许可来源。未绕过访问限制。"
     }
   ],
   "nextSteps": [
-    "优先为priority=1的12项确认可公开收录的正文依据；其中8项已找到出版方在豆瓣阅读提供的中文版本入口，另4项为拉玛系列，中文电子版来源继续核查。本轮尚未确认可直接公开导入的中文全文。",
+    "优先12项中已有9项找到出版方提供的中文版本入口；拉玛后三部的中文电子版继续核查。正文来源与公开再分发依据分别核定，本轮未确认可直接公开导入的全文。",
+    "原刊扫描已定位The Pacifist、Encounter in the Dawn和Before Eden，后续只针对选定作品逐页核对正文、续页与OCR，不能把整期未逐篇审查的内容批量导入。",
     "有来源文件后逐本登记原名、译者、ISBN/版权页、来源及许可范围，核对完整性与章节后再添加真实正文和metadata。",
     "太空漫游、拉玛、时间奥德赛分别分组；后三部拉玛和三部时间奥德赛保留合著者，不用同名短篇/节写本替代长篇。",
     "继续查明2061的1987/1988口径，以及Time's Eye电子书2003年和纸书2004年的发行先后证据。",
-    "Issue #5在实际新增作品并验证可访问前不按补充完成关闭。"
+    "Issue #5在实际新增作品并验证可访问前不按补充完成关闭。",
+    "如决定联系权利方，先明确原作与译本、全文公开托管/下载、语言、地域和期限，再向David Higham Associates及具体中文出版方核对许可范围；本轮未发送问询。"
   ],
   "chineseCollectionLeads": [
     {
@@ -1149,6 +1333,75 @@
       "matchedToEnglishCollection": false,
       "note": "平台介绍及目录显示18篇，不能仅凭同名就认定是1967年英文短篇集的完整译本。平台日期为2013-04，旧汇总为2013-03；具体版权页和选篇底本待核。",
       "publicRedistributionEvidence": null
+    },
+    {
+      "title": "阿瑟·克拉克科幻短篇全集（全三册）",
+      "provider": "读客文化",
+      "platform": "得到",
+      "date": "2021-03-01",
+      "sourceId": "dedao-collected-cn",
+      "reportedStoryCount": 104,
+      "volumes": [
+        "岗哨",
+        "星",
+        "爱这个宇宙"
+      ],
+      "matchedToEnglishCollection": false,
+      "relevantContents": [
+        {
+          "originalTitle": "The Pacifist",
+          "chineseTitleLead": "和平主义者",
+          "volume": 2
+        },
+        {
+          "originalTitle": "Encounter in the Dawn",
+          "chineseTitleLead": "相会于黎明",
+          "volume": 2
+        },
+        {
+          "originalTitle": "Before Eden",
+          "chineseTitleLead": "伊甸园之前",
+          "volume": 3
+        },
+        {
+          "originalTitle": "A Meeting with Medusa",
+          "chineseTitleLead": "与美杜莎相会",
+          "volume": 3
+        }
+      ],
+      "access": "出版方在得到提供购买、试读及会员入口；是否可读全文取决于平台权限。",
+      "note": "平台介绍称收录104篇，目录可见相关中文题名。未逐篇与英文底本校对，也未将“全集”宣传名视为覆盖作者全部短篇的证明；不将其中同名短篇当作长篇。",
+      "publicRedistributionEvidence": null
+    }
+  ],
+  "lastSourceReview": "2026-10-20",
+  "rightsInquiry": {
+    "agency": "David Higham Associates",
+    "representedAuthor": "Arthur C. Clarke",
+    "agent": "Georgia Glover",
+    "sourceIds": [
+      "dha-clarke",
+      "dha-about",
+      "dha-georgia",
+      "dha-permissions"
+    ],
+    "status": "not-contacted",
+    "grantReceived": false,
+    "scopeNote": "官网确认作者及遗产代理关系，可作为许可问询入口。Permissions页面说明主要针对引用/节选，并不表示其在线表单已涵盖公开Git仓库托管、全文转载或中文译本权利。未来问询须明确全文、语言、文件格式、公开下载/在线阅读、地域和期限，并另核具体译本权利。"
+  },
+  "sourceReviewRounds": [
+    {
+      "round": 1,
+      "date": "2026-10-20",
+      "commit": "ced18f2",
+      "result": "26项主书目、8项优先中文版本渠道、3篇英文短篇转录线索。"
+    },
+    {
+      "round": 2,
+      "date": "2026-10-20",
+      "baselineCommit": "ced18f2",
+      "result": "中文优先版本渠道增至9项；新增中文104篇合集入口；核实3份英文原刊PDF/OCR可获取，解决The Pacifist卷期差异；找到现任代理和许可问询渠道。",
+      "novelTextsAdded": 0
     }
   ]
 }
