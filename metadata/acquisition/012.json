@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": 1,
+  "authorId": "012",
+  "checkedOn": "2026-10-20",
+  "issue": "https://github.com/VeejaLiu/ScienceFictionCollection/issues/5",
+  "scope": "本轮覆盖原作者汇总的23项，补入时间奥德赛的两部续作，并将1953年同名短篇与1967年短篇集分开；共26项。不是克拉克全部著作或全部短篇的完整书目。",
+  "status": "bibliography-and-source-review",
+  "catalogSnapshot": {
+    "commit": "28417e0",
+    "registeredFiles": 1,
+    "existingBookId": "012-6f8d83cf5dbb",
+    "remoteMetadataChecked": true
+  },
+  "summary": {
+    "reviewedWorks": 26,
+    "present": 1,
+    "missing": 25,
+    "priority1": 12,
+    "editionDependentYears": 2,
+    "missingWorksReadyForPublicImport": 0,
+    "priority1WithChineseEditionCatalog": 8,
+    "chineseEditionMetadataRecords": 8,
+    "relatedChineseCollectionLeads": 1
+  },
+  "conventions": {
+    "priority": "0=已收录；1=代表作与太空漫游/拉玛系列优先；2=后续独立作品与中短篇；3=合集、相关资料及时间奥德赛后续。",
+    "publication": "长篇、文集以原文书版年为基准，中短篇以可核实的原文初刊年为基准；版次冲突不自动强定首发年。",
+    "chineseSearchTitles": "中文检索名主要沿用旧汇总；8个优先项另记出版方在豆瓣阅读提供的中文版本资料，属于平台元信息核对，不替代实物版权页与正文完整性核对。未核定译名的条目使用null。",
+    "sourceUse": "来源只支持书目、版次或获取渠道的相关事实；销售、试读、借阅、已有网络转录均不自动代表获准公开再分发。",
+    "catalogBoundary": "这里只记候选项；不在books/012.json创建无正文记录，不创建空小说文件，不改动现有ID、slug、workId或正文。"
+  },
+  "sources": [
+    {
+      "id": "sfe",
+      "label": "The Encyclopedia of Science Fiction：Clarke, Arthur C",
+      "url": "https://sf-encyclopedia.com/entry/clarke_arthur_c",
+      "kind": "bibliography",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "uip",
+      "label": "University of Illinois Press：Gary Westfahl 扩展书目",
+      "url": "https://www.press.uillinois.edu/books/?id=p083594",
+      "kind": "bibliography",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "foundation",
+      "label": "The Arthur C. Clarke Foundation：作者与作品",
+      "url": "https://clarkefoundation.org/arthur-c-clarke-biography/",
+      "kind": "author-bibliography",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-author",
+      "label": "Penguin Random House：Arthur C. Clarke",
+      "url": "https://www.penguinrandomhouse.com/authors/5058/arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-childhood",
+      "label": "Penguin Random House：Childhood's End",
+      "url": "https://www.penguinrandomhouse.com/books/28158/childhoods-end-by-arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-2001",
+      "label": "Penguin Random House：2001: A Space Odyssey",
+      "url": "https://www.penguinrandomhouse.com/books/538851/2001-a-space-odyssey-by-arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-2010",
+      "label": "Penguin Random House：2010: Odyssey Two",
+      "url": "https://www.penguinrandomhouse.com/books/28143/2010-odyssey-two-by-arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-2061",
+      "label": "Penguin Random House：2061: Odyssey Three",
+      "url": "https://www.penguinrandomhouse.com/books/28146/2061-odyssey-three-by-arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-3001",
+      "label": "Penguin Random House：3001 The Final Odyssey",
+      "url": "https://www.penguinrandomhouse.com/books/28148/3001-the-final-odyssey-by-arthur-c-clarke/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-rama-series",
+      "label": "Penguin Random House：Rama 系列",
+      "url": "https://www.penguinrandomhouse.com/series/A52/rama/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-rama-ii",
+      "label": "Penguin Random House：Rama II",
+      "url": "https://www.penguinrandomhouse.com/books/28175/rama-ii-by-arthur-c-clarke-and-genrty-lee/paperback/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-rama-garden",
+      "label": "Penguin Random House：The Garden of Rama",
+      "url": "https://www.penguinrandomhouse.com/books/28196/the-garden-of-rama-by-arthur-c-clarke-and-gentry-lee/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-rama-revealed",
+      "label": "Penguin Random House：Rama Revealed",
+      "url": "https://www.penguinrandomhouse.com/books/28176/rama-revealed-by-arthur-c-clarke-and-gentry-lee/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "hachette-city",
+      "label": "Hachette：The City and the Stars",
+      "url": "https://www.hachette.co.uk/titles/arthur-c-clarke/the-city-and-the-stars/9781857987638/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "hachette-city-history",
+      "label": "Hachette / Stephen Baxter：The City and the Stars 版本来历",
+      "url": "https://www.hachette.co.uk/sfx-book-club/2014/01/08/sf-masterwork-of-the-week-the-city-and-the-stars/",
+      "kind": "publisher-article",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-time-eye",
+      "label": "Penguin Random House：Time's Eye",
+      "url": "https://www.penguinrandomhouse.com/books/28207/times-eye-by-arthur-c-clarke-and-stephen-baxter/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-sunstorm",
+      "label": "Penguin Random House：Sunstorm",
+      "url": "https://www.penguinrandomhouse.com/books/28184/sunstorm-by-arthur-c-clarke-and-stephen-baxter/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "prh-firstborn",
+      "label": "Penguin Random House：Firstborn",
+      "url": "https://www.penguinrandomhouse.com/books/28164/firstborn-by-arthur-c-clarke-and-stephen-baxter/paperback/",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ol-2061",
+      "label": "Open Library：2061，美国精装版记录",
+      "url": "https://openlibrary.org/books/OL9529121M/2061",
+      "kind": "edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "wiki-2061",
+      "label": "Wikipedia：2061，1987年首发线索",
+      "url": "https://en.wikipedia.org/wiki/2061%3A_Odyssey_Three",
+      "kind": "secondary-lead",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ol-songs",
+      "label": "Open Library：The Songs of Distant Earth，1986年长篇",
+      "url": "https://openlibrary.org/books/OL2545014M/The_songs_of_distant_earth",
+      "kind": "edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "openroad-rosetta",
+      "label": "Open Road Media：RosettaBooks 书目",
+      "url": "https://openroadmedia.com/publisher/RosettaBooks",
+      "kind": "publisher-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "overdrive-fountains",
+      "label": "OverDrive：The Fountains of Paradise",
+      "url": "https://www.overdrive.com/media/196375/the-fountains-of-paradise",
+      "kind": "library-access",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ws-author",
+      "label": "英文维基文库：Arthur C. Clarke 作者页",
+      "url": "https://en.wikisource.org/wiki/Author:Arthur_C._Clarke",
+      "kind": "author-index",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ws-pacifist",
+      "label": "英文维基文库：The Pacifist，1956年10月",
+      "url": "https://en.wikisource.org/wiki/Fantastic_Universe/Volume_08/Number_3/The_Pacifist",
+      "kind": "transcription",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ws-encounter",
+      "label": "英文维基文库：Encounter in the Dawn，缺失条目",
+      "url": "https://en.wikisource.org/wiki/Amazing_Stories/Volume_27/Number_05/Encounter_in_the_Dawn",
+      "kind": "missing-transcription",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "ws-before",
+      "label": "英文维基文库：Before Eden，缺失条目",
+      "url": "https://en.wikisource.org/wiki/Amazing_Stories/Volume_35/Number_06/Before_Eden",
+      "kind": "missing-transcription",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "pg-search",
+      "label": "Project Gutenberg 作者查询：Arthur C. Clarke",
+      "url": "https://www.gutenberg.org/ebooks/authors/search/?query=arthur+c+clarke",
+      "kind": "catalog-search",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-childhood",
+      "label": "豆瓣阅读／读客文化：童年的终结",
+      "url": "https://read.douban.com/ebook/422239789/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-city",
+      "label": "豆瓣阅读／科幻世界：城市与群星",
+      "url": "https://read.douban.com/ebook/128014366/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-fountains",
+      "label": "豆瓣阅读／科幻世界：天堂的喷泉",
+      "url": "https://read.douban.com/ebook/128019714/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-songs",
+      "label": "豆瓣阅读／读客文化：遥远地球之歌",
+      "url": "https://read.douban.com/ebook/13311536/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-2001",
+      "label": "豆瓣阅读／读客文化：2001：太空漫游",
+      "url": "https://read.douban.com/ebook/111202668/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-2010",
+      "label": "豆瓣阅读／读客文化：2010：太空漫游",
+      "url": "https://read.douban.com/ebook/118109549/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-2061",
+      "label": "豆瓣阅读／读客文化：2061：太空漫游",
+      "url": "https://read.douban.com/ebook/118109463/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-3001",
+      "label": "豆瓣阅读／读客文化：3001：太空漫游",
+      "url": "https://read.douban.com/ebook/118109344/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    },
+    {
+      "id": "db-nine-billion-cn",
+      "label": "豆瓣阅读／读客文化：《神的九十亿个名字》中文18篇选集",
+      "url": "https://read.douban.com/ebook/13311329/",
+      "kind": "chinese-edition-catalog",
+      "checkedOn": "2026-10-20"
+    }
+  ],
+  "works": [
+    {
+      "key": "prelude-to-space",
+      "chineseSearchTitle": "太空序曲",
+      "originalTitle": "Prelude to Space",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1951,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "present",
+      "priority": 0,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "原文书版年；现有中文正文的具体译本及对应英文修订版未在本轮重新核定。",
+      "catalogId": "012-6f8d83cf5dbb",
+      "path": "[1951]《太空序曲》.txt"
+    },
+    {
+      "key": "sands-of-mars",
+      "chineseSearchTitle": "火星之沙",
+      "originalTitle": "The Sands of Mars",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1951,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ]
+    },
+    {
+      "key": "islands-in-the-sky",
+      "chineseSearchTitle": "空中列岛",
+      "originalTitle": "Islands in the Sky",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1952,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ]
+    },
+    {
+      "key": "childhoods-end",
+      "chineseSearchTitle": "童年的终结",
+      "originalTitle": "Childhood's End",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1953,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-childhood",
+        "db-childhood"
+      ],
+      "note": "出版社当前页面列出的是后出版本，不能将2001年版次日期替代原作书版年。",
+      "chineseEditionLeads": [
+        {
+          "title": "童年的终结",
+          "publisher": "江苏凤凰文艺出版社",
+          "date": "2018-09",
+          "translators": [
+            "于大卫"
+          ],
+          "isbn": "9787539983493",
+          "provider": "读客文化",
+          "sourceId": "db-childhood",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "earthlight",
+      "chineseSearchTitle": "地光／地球光",
+      "originalTitle": "Earthlight",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1955,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "此处为1955年扩写长篇；1951年期刊中篇另行区分。中文名为检索用别名，须按实际译本确认。"
+    },
+    {
+      "key": "city-and-the-stars",
+      "chineseSearchTitle": "城市与群星",
+      "originalTitle": "The City and the Stars",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1956,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "hachette-city",
+        "hachette-city-history",
+        "db-city"
+      ],
+      "note": "不要与1948年中篇及1953年书版 Against the Fall of Night 合并为同一文本版本。",
+      "chineseEditionLeads": [
+        {
+          "title": "城市与群星",
+          "publisher": "四川科学技术出版社",
+          "date": "2018-11",
+          "translators": [
+            "周晓贤"
+          ],
+          "isbn": "9787536491359",
+          "provider": "科幻世界",
+          "sourceId": "db-city",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "deep-range-novel",
+      "chineseSearchTitle": "深海牧场",
+      "originalTitle": "The Deep Range",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1957,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "长篇为1957年；1954年同名短篇及中文短篇集中的译文不能代替本长篇。"
+    },
+    {
+      "key": "fall-of-moondust",
+      "chineseSearchTitle": "月海沉船／月球历险记",
+      "originalTitle": "A Fall of Moondust",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1961,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "中文检索名保留旧汇总的两种译名；未指定某一中文译本。"
+    },
+    {
+      "key": "dolphin-island",
+      "chineseSearchTitle": "海豚岛",
+      "originalTitle": "Dolphin Island",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1963,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "作者条目和学术书目均列1963年；旧汇总的1962年修正为1963年。SFE的Dolphins主题条目仍有1962年异说，本轮未采用该主题条目的年份。"
+    },
+    {
+      "key": "nine-billion-collection",
+      "chineseSearchTitle": "神的九十亿个名字（英文短篇集）",
+      "originalTitle": "The Nine Billion Names of God: The Best Short Stories of Arthur C. Clarke",
+      "kind": "collection",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1967,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 3,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "db-nine-billion-cn"
+      ],
+      "note": "此处为1967年英文短篇集；不是1953年同名短篇。旧汇总所指2013年中文书的选篇对应关系仍需核对。 已找到读客文化在豆瓣阅读提供的18篇中文选集，另记于chineseCollectionLeads，未视为1967年英文集的确定译本。"
+    },
+    {
+      "key": "2001-space-odyssey",
+      "chineseSearchTitle": "2001：太空漫游",
+      "originalTitle": "2001: A Space Odyssey",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1968,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-2001",
+        "db-2001"
+      ],
+      "series": {
+        "key": "space-odyssey",
+        "sequence": 1
+      },
+      "note": "小说署名 Arthur C. Clarke；与 Stanley Kubrick 合作的电影剧本信息不能直接移作小说合著署名。",
+      "chineseEditionLeads": [
+        {
+          "title": "2001：太空漫游",
+          "publisher": "上海文艺出版社",
+          "date": "2019-04",
+          "translators": [
+            "郝明义"
+          ],
+          "isbn": "9787532170692",
+          "provider": "读客文化",
+          "sourceId": "db-2001",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "lost-worlds-of-2001",
+      "chineseSearchTitle": "2001失落的世界",
+      "originalTitle": "The Lost Worlds of 2001",
+      "kind": "mixed-fiction-nonfiction",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1972,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 3,
+      "sourceIds": [
+        "uip"
+      ],
+      "note": "包含电影创作记录及未采用的虚构片段；作为相关资料候选，不登记为太空漫游系列的第五部长篇。"
+    },
+    {
+      "key": "rendezvous-with-rama",
+      "chineseSearchTitle": "与拉玛相会",
+      "originalTitle": "Rendezvous with Rama",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1973,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-rama-series"
+      ],
+      "series": {
+        "key": "rama",
+        "sequence": 1
+      },
+      "note": "第一部作者为 Clarke；后三部的 Gentry Lee 合著信息另记。"
+    },
+    {
+      "key": "meeting-with-medusa",
+      "chineseSearchTitle": "会见梅杜莎",
+      "originalTitle": "A Meeting with Medusa",
+      "kind": "novella",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1971,
+        "status": "verified",
+        "basis": "original-publication"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "sfe",
+        "uip"
+      ],
+      "note": "1971年12月刊出；1972年获星云奖不是其初刊年。"
+    },
+    {
+      "key": "fountains-of-paradise",
+      "chineseSearchTitle": "天堂的喷泉",
+      "originalTitle": "The Fountains of Paradise",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1979,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "overdrive-fountains",
+        "db-fountains"
+      ],
+      "note": "OverDrive 是借阅/版本入口；其中2001年发行信息是后出版本，不是原作初版年，也不是正文再分发许可。",
+      "chineseEditionLeads": [
+        {
+          "title": "天堂的喷泉",
+          "publisher": "四川科学技术出版社",
+          "date": "2018-11",
+          "translators": [
+            "陈经华",
+            "江昭明"
+          ],
+          "isbn": "9787536491335",
+          "provider": "科幻世界",
+          "sourceId": "db-fountains",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "2010-odyssey-two",
+      "chineseSearchTitle": "2010：太空漫游",
+      "originalTitle": "2010: Odyssey Two",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1982,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-2010",
+        "db-2010"
+      ],
+      "series": {
+        "key": "space-odyssey",
+        "sequence": 2
+      },
+      "chineseEditionLeads": [
+        {
+          "title": "2010：太空漫游",
+          "publisher": "上海文艺出版社",
+          "date": "2019-04",
+          "translators": [
+            "张启阳"
+          ],
+          "isbn": "9787532170708",
+          "provider": "读客文化",
+          "sourceId": "db-2010",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "songs-of-distant-earth-novel",
+      "chineseSearchTitle": "遥远地球之歌",
+      "originalTitle": "The Songs of Distant Earth",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1986,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "ol-songs",
+        "openroad-rosetta",
+        "db-songs"
+      ],
+      "note": "此处为1986年长篇；1958年同名短篇、1981年电影梗概和1996年英语改写读物需要分别识别。",
+      "chineseEditionLeads": [
+        {
+          "title": "遥远地球之歌",
+          "publisher": "江苏文艺出版社",
+          "date": "2013-05",
+          "translators": [
+            "高天羽"
+          ],
+          "isbn": "9787539955681",
+          "provider": "读客文化",
+          "sourceId": "db-songs",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "2061-odyssey-three",
+      "chineseSearchTitle": "2061：太空漫游",
+      "originalTitle": "2061: Odyssey Three",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": null,
+        "status": "edition-dependent",
+        "basis": "original-language-book",
+        "editionEvidence": [
+          {
+            "year": 1988,
+            "format": "print",
+            "sourceIds": [
+              "sfe",
+              "ol-2061"
+            ]
+          },
+          {
+            "year": 1987,
+            "format": "reported-earlier-publication",
+            "sourceIds": [
+              "wiki-2061"
+            ],
+            "status": "unresolved"
+          }
+        ]
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-2061",
+        "ol-2061",
+        "wiki-2061",
+        "db-2061"
+      ],
+      "series": {
+        "key": "space-odyssey",
+        "sequence": 3
+      },
+      "note": "1988年英美书版可核；存在1987年12月首发的二手说法，Open Library同页也混有1987年作品年及1988年版次。未取得能统一两种口径的第一版发行证据，最早发表年留空。",
+      "chineseEditionLeads": [
+        {
+          "title": "2061：太空漫游",
+          "publisher": "上海文艺出版社",
+          "date": "2019-04",
+          "translators": [
+            "张启阳"
+          ],
+          "isbn": "9787532170791",
+          "provider": "读客文化",
+          "sourceId": "db-2061",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "rama-ii",
+      "chineseSearchTitle": "拉玛2号",
+      "originalTitle": "Rama II",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Gentry Lee"
+      ],
+      "publication": {
+        "year": 1989,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-rama-ii",
+        "prh-rama-series"
+      ],
+      "series": {
+        "key": "rama",
+        "sequence": 2
+      },
+      "note": "PRH产品页标题虽只显示Clarke，SFE、学术书目及系列/作者资料支持两人合著，后续入库必须保留Gentry Lee。"
+    },
+    {
+      "key": "garden-of-rama",
+      "chineseSearchTitle": "拉玛迷境",
+      "originalTitle": "The Garden of Rama",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Gentry Lee"
+      ],
+      "publication": {
+        "year": 1991,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-rama-garden"
+      ],
+      "series": {
+        "key": "rama",
+        "sequence": 3
+      },
+      "note": "中文名沿用旧汇总作为检索名；原名是单数 Garden。"
+    },
+    {
+      "key": "rama-revealed",
+      "chineseSearchTitle": "拉玛真相",
+      "originalTitle": "Rama Revealed",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Gentry Lee"
+      ],
+      "publication": {
+        "year": 1993,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-rama-revealed"
+      ],
+      "series": {
+        "key": "rama",
+        "sequence": 4
+      }
+    },
+    {
+      "key": "3001-final-odyssey",
+      "chineseSearchTitle": "3001：太空漫游",
+      "originalTitle": "3001: The Final Odyssey",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1997,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 1,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-3001",
+        "db-3001"
+      ],
+      "series": {
+        "key": "space-odyssey",
+        "sequence": 4
+      },
+      "chineseEditionLeads": [
+        {
+          "title": "3001：太空漫游",
+          "publisher": "上海文艺出版社",
+          "date": "2019-04",
+          "translators": [
+            "钟慧元",
+            "叶李华"
+          ],
+          "isbn": "9787532170807",
+          "provider": "读客文化",
+          "sourceId": "db-3001",
+          "verification": "platform-metadata-only",
+          "textAcquired": false,
+          "publicRedistributionEvidence": null
+        }
+      ]
+    },
+    {
+      "key": "times-eye",
+      "chineseSearchTitle": "时间之眼",
+      "originalTitle": "Time's Eye",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Stephen Baxter"
+      ],
+      "publication": {
+        "year": null,
+        "status": "edition-dependent",
+        "basis": "original-language-book",
+        "editionEvidence": [
+          {
+            "year": 2004,
+            "format": "print",
+            "sourceIds": [
+              "sfe",
+              "uip"
+            ]
+          },
+          {
+            "date": "2003-12-16",
+            "format": "ebook",
+            "sourceIds": [
+              "prh-time-eye"
+            ],
+            "status": "publisher-reported"
+          }
+        ]
+      },
+      "catalogStatus": "missing",
+      "priority": 3,
+      "sourceIds": [
+        "sfe",
+        "uip",
+        "prh-time-eye"
+      ],
+      "series": {
+        "key": "a-time-odyssey",
+        "sequence": 1
+      },
+      "note": "SFE及学术书目列2004年纸书；PRH另列2003-12-16电子书。保留两种版次日期，不将旧汇总的2003年简单改判为错误，也不未经核定认定全球首发年。"
+    },
+    {
+      "key": "sunstorm",
+      "chineseSearchTitle": null,
+      "originalTitle": "Sunstorm",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Stephen Baxter"
+      ],
+      "publication": {
+        "year": 2005,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 3,
+      "sourceIds": [
+        "sfe",
+        "prh-sunstorm"
+      ],
+      "series": {
+        "key": "a-time-odyssey",
+        "sequence": 2
+      },
+      "note": "PRH列2005-03-29电子书；UI Press书目列2007年版本，此处不采用该后出版本年作为最早书版年。中文译名待具体译本确认。"
+    },
+    {
+      "key": "firstborn",
+      "chineseSearchTitle": null,
+      "originalTitle": "Firstborn",
+      "kind": "novel",
+      "authors": [
+        "Arthur C. Clarke",
+        "Stephen Baxter"
+      ],
+      "publication": {
+        "year": 2007,
+        "status": "verified",
+        "basis": "original-language-book"
+      },
+      "catalogStatus": "missing",
+      "priority": 3,
+      "sourceIds": [
+        "sfe",
+        "prh-firstborn"
+      ],
+      "series": {
+        "key": "a-time-odyssey",
+        "sequence": 3
+      },
+      "note": "PRH列2007-12-26电子书及2008-10-28平装本；按2007年书版记录，不将2008年平装年作首版年。中文译名待具体译本确认。"
+    },
+    {
+      "key": "nine-billion-short-story",
+      "chineseSearchTitle": "神的九十亿个名字（短篇）",
+      "originalTitle": "The Nine Billion Names of God",
+      "kind": "short-story",
+      "authors": [
+        "Arthur C. Clarke"
+      ],
+      "publication": {
+        "year": 1953,
+        "status": "verified",
+        "basis": "original-publication"
+      },
+      "catalogStatus": "missing",
+      "priority": 2,
+      "sourceIds": [
+        "uip"
+      ],
+      "note": "发表于Frederik Pohl编的 Star Science Fiction Stories；与1967年同名短篇集分开。"
+    }
+  ],
+  "textSourceChecks": [
+    {
+      "work": "The Pacifist",
+      "language": "en",
+      "publication": "Fantastic Universe，1956年10月",
+      "sourceIds": [
+        "ws-author",
+        "ws-pacifist"
+      ],
+      "result": "transcription-present",
+      "publicImport": "not-cleared",
+      "note": "具体作品页存在并显示英文转录。UI Press列原刊为6:3，维基文库页面路径为8:3，卷期指向有差异，需回到原刊扫描确认。作者页笼统标注部分作品为美国公版，本作品页未查见独立许可结论；版本完整性、版权/续展证据及适用地域仍待核。本轮未下载正文或创建中文翻译。"
+    },
+    {
+      "work": "Encounter in the Dawn",
+      "language": "en",
+      "publication": "Amazing Stories，1953年6—7月",
+      "sourceIds": [
+        "uip",
+        "ws-author",
+        "ws-encounter"
+      ],
+      "result": "missing-transcription",
+      "publicImport": "not-cleared",
+      "note": "作者页有题名，但点击进入创建页面，提示条目尚不存在；不能把作者索引当成已取得正文。"
+    },
+    {
+      "work": "Before Eden",
+      "language": "en",
+      "publication": "Amazing Stories，1961年6月",
+      "sourceIds": [
+        "uip",
+        "ws-author",
+        "ws-before"
+      ],
+      "result": "missing-transcription",
+      "publicImport": "not-cleared",
+      "note": "作者页链接为未创建条目；原刊扫描或其他可处理文本仍需另查。"
+    },
+    {
+      "work": null,
+      "language": "en",
+      "sourceIds": [
+        "pg-search"
+      ],
+      "result": "no-matching-author-in-this-query",
+      "publicImport": "not-cleared",
+      "note": "本次作者查询返回Arthur H. Clark（1841—1922），不是Arthur C. Clarke；不以该结果推断站内绝无其他相关条目。"
+    }
+  ],
+  "nextSteps": [
+    "优先为priority=1的12项确认可公开收录的正文依据；其中8项已找到出版方在豆瓣阅读提供的中文版本入口，另4项为拉玛系列，中文电子版来源继续核查。本轮尚未确认可直接公开导入的中文全文。",
+    "有来源文件后逐本登记原名、译者、ISBN/版权页、来源及许可范围，核对完整性与章节后再添加真实正文和metadata。",
+    "太空漫游、拉玛、时间奥德赛分别分组；后三部拉玛和三部时间奥德赛保留合著者，不用同名短篇/节写本替代长篇。",
+    "继续查明2061的1987/1988口径，以及Time's Eye电子书2003年和纸书2004年的发行先后证据。",
+    "Issue #5在实际新增作品并验证可访问前不按补充完成关闭。"
+  ],
+  "chineseCollectionLeads": [
+    {
+      "title": "神的九十亿个名字",
+      "publisher": "江苏文艺出版社",
+      "date": "2013-04",
+      "translators": [
+        "邹运旗"
+      ],
+      "isbn": "9787539958774",
+      "provider": "读客文化",
+      "sourceId": "db-nine-billion-cn",
+      "reportedStoryCount": 18,
+      "possibleWorkKey": "nine-billion-collection",
+      "matchedToEnglishCollection": false,
+      "note": "平台介绍及目录显示18篇，不能仅凭同名就认定是1967年英文短篇集的完整译本。平台日期为2013-04，旧汇总为2013-03；具体版权页和选篇底本待核。",
+      "publicRedistributionEvidence": null
+    }
+  ]
+}
