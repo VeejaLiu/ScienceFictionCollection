@@ -82,7 +82,7 @@
       "size": 387238,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-12385229.webp",
+      "cover": "covers/works/isaac-asimov/我-机器人/reference-edition.webp",
       "slug": "我-机器人",
       "coverStyle": "full",
       "coverSource": {
@@ -207,7 +207,7 @@
       "size": 1292714,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-12190145.webp",
+      "cover": "covers/works/isaac-asimov/永恒的终结/reference-edition.webp",
       "slug": "永恒的终结",
       "coverStyle": "full",
       "coverSource": {
@@ -344,7 +344,7 @@
       "size": 452507,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-6603614.webp",
+      "cover": "covers/works/isaac-asimov/九个明天/reference-edition.webp",
       "slug": "九个明天",
       "coverStyle": "full",
       "coverSource": {
@@ -397,7 +397,7 @@
       "size": 407741,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-7263642.webp",
+      "cover": "covers/works/isaac-asimov/奇妙的航程/reference-edition.webp",
       "slug": "奇妙的航程",
       "coverStyle": "full",
       "coverSource": {
@@ -450,7 +450,7 @@
       "size": 543858,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-10651147.webp",
+      "cover": "covers/works/isaac-asimov/神们自己/reference-edition.webp",
       "slug": "神们自己",
       "coverStyle": "full",
       "coverSource": {
@@ -587,7 +587,7 @@
       "size": 765486,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-9300703.webp",
+      "cover": "covers/works/isaac-asimov/复仇女神/reference-edition.webp",
       "slug": "复仇女神",
       "coverStyle": "full",
       "coverSource": {
@@ -616,7 +616,7 @@
       "size": 435459,
       "language": "zh-CN",
       "series": "基地系列/1-基地三部曲",
-      "cover": "covers/editions/openlibrary-9302242.webp",
+      "cover": "covers/works/isaac-asimov/基地/reference-edition.webp",
       "slug": "基地",
       "coverStyle": "full",
       "coverSource": {
@@ -633,7 +633,7 @@
       "size": 504549,
       "language": "zh-CN",
       "series": "基地系列/1-基地三部曲",
-      "cover": "covers/editions/openlibrary-9300695.webp",
+      "cover": "covers/works/isaac-asimov/基地与帝国/reference-edition.webp",
       "slug": "基地与帝国",
       "coverStyle": "full",
       "coverSource": {
@@ -650,7 +650,7 @@
       "size": 466827,
       "language": "zh-CN",
       "series": "基地系列/1-基地三部曲",
-      "cover": "covers/editions/openlibrary-9261324.webp",
+      "cover": "covers/works/isaac-asimov/第二基地/reference-edition.webp",
       "slug": "第二基地",
       "coverStyle": "full",
       "coverSource": {
@@ -667,7 +667,7 @@
       "size": 865777,
       "language": "zh-CN",
       "series": "基地系列/2-基地后传",
-      "cover": "covers/editions/openlibrary-14615973.webp",
+      "cover": "covers/works/isaac-asimov/基地边缘/reference-edition.webp",
       "slug": "基地边缘",
       "coverStyle": "full",
       "coverSource": {
@@ -684,7 +684,7 @@
       "size": 852567,
       "language": "zh-CN",
       "series": "基地系列/2-基地后传",
-      "cover": "covers/editions/openlibrary-9304027.webp",
+      "cover": "covers/works/isaac-asimov/基地与地球/reference-edition.webp",
       "slug": "基地与地球",
       "coverStyle": "full",
       "coverSource": {
@@ -701,7 +701,7 @@
       "size": 781756,
       "language": "zh-CN",
       "series": "基地系列/3-基地前传",
-      "cover": "covers/editions/openlibrary-12816973.webp",
+      "cover": "covers/works/isaac-asimov/基地前奏/reference-edition.webp",
       "slug": "基地前奏",
       "coverStyle": "full",
       "coverSource": {
@@ -718,7 +718,7 @@
       "size": 675654,
       "language": "zh-CN",
       "series": "基地系列/3-基地前传",
-      "cover": "covers/editions/openlibrary-9300894.webp",
+      "cover": "covers/works/isaac-asimov/迈向基地/reference-edition.webp",
       "slug": "迈向基地",
       "coverStyle": "full",
       "coverSource": {
@@ -735,7 +735,7 @@
       "size": 434979,
       "language": "zh-CN",
       "series": "机器人系列",
-      "cover": "covers/editions/openlibrary-13790511.webp",
+      "cover": "covers/works/isaac-asimov/钢穴/reference-edition.webp",
       "slug": "钢穴",
       "coverStyle": "full",
       "coverSource": {
@@ -752,7 +752,7 @@
       "size": 413765,
       "language": "zh-CN",
       "series": "机器人系列",
-      "cover": "covers/editions/openlibrary-6542967.webp",
+      "cover": "covers/works/isaac-asimov/裸阳/reference-edition.webp",
       "slug": "裸阳",
       "coverStyle": "full",
       "coverSource": {
@@ -769,7 +769,7 @@
       "size": 209526,
       "language": "zh-CN",
       "series": "机器人系列",
-      "cover": "covers/editions/openlibrary-14372309.webp",
+      "cover": "covers/works/isaac-asimov/曙光中的机器人/reference-edition.webp",
       "slug": "曙光中的机器人",
       "coverStyle": "full",
       "coverSource": {
@@ -786,7 +786,7 @@
       "size": 233384,
       "language": "zh-CN",
       "series": "机器人系列",
-      "cover": "covers/editions/openlibrary-9302088.webp",
+      "cover": "covers/works/isaac-asimov/机器人与帝国/reference-edition.webp",
       "slug": "机器人与帝国",
       "coverStyle": "full",
       "coverSource": {
@@ -803,7 +803,7 @@
       "size": 433046,
       "language": "zh-CN",
       "series": "银河帝国系列",
-      "cover": "covers/editions/openlibrary-13440807.webp",
+      "cover": "covers/works/isaac-asimov/繁星若尘/reference-edition.webp",
       "slug": "繁星若尘",
       "coverStyle": "full",
       "coverSource": {
@@ -820,7 +820,7 @@
       "size": 399776,
       "language": "zh-CN",
       "series": "银河帝国系列",
-      "cover": "covers/editions/openlibrary-14616014.webp",
+      "cover": "covers/works/isaac-asimov/星空暗流/reference-edition.webp",
       "slug": "星空暗流",
       "coverStyle": "full",
       "coverSource": {
@@ -837,7 +837,7 @@
       "size": 433247,
       "language": "zh-CN",
       "series": "银河帝国系列",
-      "cover": "covers/editions/openlibrary-6550102.webp",
+      "cover": "covers/works/isaac-asimov/苍穹微石/reference-edition.webp",
       "slug": "苍穹微石",
       "coverStyle": "full",
       "coverSource": {

@@ -77,7 +77,7 @@
     },
     {
       "bookId": "014-fb59edc6acb5",
-      "cover": "covers/editions/014-fb59edc6acb5.webp",
+      "cover": "covers/works/h-g-wells/the-time-machine/1895-reference-edition.webp",
       "sourceSha256": "d428edde0c1f1bf85f8063fa31cc84df286b1ad3979f6f0388904e5fa1571434",
       "sourceBytes": 260671,
       "sha256": "aed152fb5f6d7e9e82d29984ec5fd81d7e6a9e8dcdd7516e0fe9b015044d21d9",
@@ -99,7 +99,7 @@
     },
     {
       "bookId": "014-d8d2c55938c8",
-      "cover": "covers/editions/014-d8d2c55938c8.webp",
+      "cover": "covers/works/h-g-wells/the-invisible-man/1897-reference-edition.webp",
       "sourceSha256": "d22eabaa9ce84fd9f22bcbf22dd140d4fd581004b6711101abd13b7e42aa4bb1",
       "sourceBytes": 96885,
       "sha256": "d1b7c23b26df5dce9dce585f7bb6568863c44e0be08be9c0a8e3e80eb1b48f90",
@@ -121,7 +121,7 @@
     },
     {
       "bookId": "014-063672849e20",
-      "cover": "covers/editions/014-063672849e20.webp",
+      "cover": "covers/works/h-g-wells/the-war-of-the-worlds/1898-reference-edition.webp",
       "sourceSha256": "335674a6fa8d7644d97c578824f74b066f56cb3f27d308817b233efc2e35a495",
       "sourceBytes": 68957,
       "sha256": "8b84048da3f69124cf9959cd833a4e3cf5b20c3b2b3f024065d71d45f096ec6e",
@@ -143,7 +143,7 @@
     },
     {
       "bookId": "015-5fc56e5cd516",
-      "cover": "covers/embedded/015-5fc56e5cd516.webp",
+      "cover": "covers/works/olaf-stapledon/last-and-first-men/en-epub-cover.webp",
       "sourceSha256": "377c93b01a9c6993bc7524929455e2495013742db7f3c799bd263cc9311b0a22",
       "sourceBytes": 28625,
       "sha256": "cb4c3a1346a871c57d89c0e8272eadbc60365ebd049a86f567075b30410fc5a9",
@@ -165,7 +165,7 @@
     },
     {
       "bookId": "016-076cfe90dbd5",
-      "cover": "covers/periodicals/space_science_fiction_v01n06_1953-05_unksc-cape1736.webp",
+      "cover": "covers/works/philip-k-dick/second-variety/1953-05-original-magazine.webp",
       "sourceSha256": "67fc68e3c0f91a5c6cfca0dc858d4a00d01a4e1c50495edcefe657486df9168b",
       "sourceBytes": 1657129,
       "sha256": "d8169298546ea276aa057309c18acc2bfeb8df6aa550237b446ccf93ad76de49",
@@ -187,7 +187,7 @@
     },
     {
       "bookId": "016-a8df1ce8b762",
-      "cover": "covers/periodicals/space_science_fiction_v02n02_1953-09_unksc-cape1736.webp",
+      "cover": "covers/works/philip-k-dick/the-variable-man/1953-09-original-magazine.webp",
       "sourceSha256": "793bb8e6c12561a2f55b01ca909d7db38fe0484595b6026dbf36d98642a196f2",
       "sourceBytes": 1537656,
       "sha256": "d20373518b5832d97c765197b923e8136f6a04494a31e6a8de4c5a9bcad82e94",
@@ -209,7 +209,7 @@
     },
     {
       "bookId": "012-c804f7f52d7c",
-      "cover": "covers/periodicals/fantastic_universe_v06n03_1956-10.webp",
+      "cover": "covers/works/arthur-c-clarke/the-pacifist/1956-10-original-magazine.webp",
       "sourceSha256": "bce8def3578ca08fd22c6ab84f4146475a4db4fa8232154d3527081b1af53ed3",
       "sourceBytes": 877003,
       "sha256": "b1c69acd5fab8bba5c4220afdc110fd74a7808e11a114c82bb206789d5fa83f0",
@@ -231,7 +231,7 @@
     },
     {
       "bookId": "012-ec25bfc244c9",
-      "cover": "covers/periodicals/amazing_stories_v27n05_1953-06-07.webp",
+      "cover": "covers/works/arthur-c-clarke/encounter-in-the-dawn/1953-06-07-original-magazine.webp",
       "sourceSha256": "7168f662883b912ec435ece88f7ea726f3f2e2a124181f1977b51998479816f6",
       "sourceBytes": 1562309,
       "sha256": "df6047a5088ed5185aee849b2c5fbf7dd4629e3894a284f83ac980e32ca7c29c",
@@ -253,7 +253,7 @@
     },
     {
       "bookId": "012-88c2a35057c1",
-      "cover": "covers/periodicals/amazing_stories_v35n06_1961-06.webp",
+      "cover": "covers/works/arthur-c-clarke/before-eden/1961-06-original-magazine.webp",
       "sourceSha256": "e4d89773645aa1771203bc2193ee0ff5e906f96212da2871b48eb7f53e0140b7",
       "sourceBytes": 1316431,
       "sha256": "ad9c93f55d4f4f4fa63b72f8abec77ef98f23ba2108bda8831775c8239c29b92",

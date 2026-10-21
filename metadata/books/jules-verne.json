@@ -10,7 +10,7 @@
       "size": 969540,
       "language": "zh-CN",
       "series": "01-三部曲",
-      "cover": "covers/editions/openlibrary-9242564.webp",
+      "cover": "covers/works/jules-verne/格兰特船长的儿女/reference-edition.webp",
       "slug": "格兰特船长的儿女",
       "coverStyle": "full",
       "coverSource": {
@@ -27,7 +27,7 @@
       "size": 736534,
       "language": "zh-CN",
       "series": "01-三部曲",
-      "cover": "covers/editions/openlibrary-10817535.webp",
+      "cover": "covers/works/jules-verne/海底两万里/reference-edition.webp",
       "slug": "海底两万里",
       "coverStyle": "full",
       "coverSource": {
@@ -44,7 +44,7 @@
       "size": 970756,
       "language": "zh-CN",
       "series": "01-三部曲",
-      "cover": "covers/editions/openlibrary-11712880.webp",
+      "cover": "covers/works/jules-verne/神秘岛/reference-edition.webp",
       "slug": "神秘岛",
       "coverStyle": "full",
       "coverSource": {
@@ -61,7 +61,7 @@
       "size": 276463,
       "language": "zh-CN",
       "series": "02-大炮俱乐部三部曲",
-      "cover": "covers/editions/openlibrary-5943556.webp",
+      "cover": "covers/works/jules-verne/从地球到月球/reference-edition.webp",
       "slug": "从地球到月球",
       "coverStyle": "full",
       "coverSource": {
@@ -78,7 +78,7 @@
       "size": 329719,
       "language": "zh-CN",
       "series": "02-大炮俱乐部三部曲",
-      "cover": "covers/editions/openlibrary-2002974.webp",
+      "cover": "covers/works/jules-verne/环绕月球/reference-edition.webp",
       "slug": "环绕月球",
       "coverStyle": "full",
       "coverSource": {
@@ -107,7 +107,7 @@
       "size": 534814,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-8179189.webp",
+      "cover": "covers/works/jules-verne/气球上的五星期/reference-edition.webp",
       "slug": "气球上的五星期",
       "coverStyle": "full",
       "coverSource": {
@@ -124,7 +124,7 @@
       "size": 344583,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-5890987.webp",
+      "cover": "covers/works/jules-verne/地心游记/reference-edition.webp",
       "slug": "地心游记",
       "coverStyle": "full",
       "coverSource": {
@@ -151,7 +151,7 @@
       "size": 726101,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-117993.webp",
+      "cover": "covers/works/jules-verne/哈特拉斯船长历险记/reference-edition.webp",
       "slug": "哈特拉斯船长历险记",
       "coverStyle": "full",
       "coverSource": {
@@ -168,7 +168,7 @@
       "size": 423597,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-13022431.webp",
+      "cover": "covers/works/jules-verne/八十天环游地球/reference-edition.webp",
       "slug": "八十天环游地球",
       "coverStyle": "full",
       "coverSource": {
@@ -185,7 +185,7 @@
       "size": 611955,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-5901332.webp",
+      "cover": "covers/works/jules-verne/太阳系历险记/reference-edition.webp",
       "slug": "太阳系历险记",
       "coverStyle": "full",
       "coverSource": {
@@ -202,7 +202,7 @@
       "size": 501713,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-2808101.webp",
+      "cover": "covers/works/jules-verne/大木筏/reference-edition.webp",
       "slug": "大木筏",
       "coverStyle": "full",
       "coverSource": {
@@ -219,7 +219,7 @@
       "size": 197577,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/embedded/004-18c5d736e8e9.webp",
+      "cover": "covers/works/jules-verne/大木筏/上册-zh-cn-epub-cover.webp",
       "slug": "大木筏-上册",
       "coverStyle": "full",
       "coverSource": {
@@ -236,7 +236,7 @@
       "size": 268608,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-2500029.webp",
+      "cover": "covers/works/jules-verne/绿光/reference-edition.webp",
       "slug": "绿光",
       "coverStyle": "full",
       "coverSource": {
@@ -253,7 +253,7 @@
       "size": 310378,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-5782692.webp",
+      "cover": "covers/works/jules-verne/鲁滨逊学校/reference-edition.webp",
       "slug": "鲁滨逊学校",
       "coverStyle": "full",
       "coverSource": {
@@ -282,7 +282,7 @@
       "size": 255927,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-858137.webp",
+      "cover": "covers/works/jules-verne/喀尔巴阡古堡/reference-edition.webp",
       "slug": "喀尔巴阡古堡",
       "coverStyle": "full",
       "coverSource": {
@@ -311,7 +311,7 @@
       "size": 681637,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-5447615.webp",
+      "cover": "covers/works/jules-verne/机器岛/reference-edition.webp",
       "slug": "机器岛",
       "coverStyle": "full",
       "coverSource": {
@@ -340,7 +340,7 @@
       "size": 306890,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-6134957.webp",
+      "cover": "covers/works/jules-verne/大海入侵/reference-edition.webp",
       "slug": "大海入侵",
       "coverStyle": "full",
       "coverSource": {
@@ -357,7 +357,7 @@
       "size": 631720,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-2639903.webp",
+      "cover": "covers/works/jules-verne/金火山/reference-edition.webp",
       "slug": "金火山",
       "coverStyle": "full",
       "coverSource": {

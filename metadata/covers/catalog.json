@@ -86,7 +86,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12951674.webp",
+      "asset": "covers/works/liu-cixin/超新星纪元/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "1d159763bcb7fda562129ba608558b9f21ebfdcde2d436c1776a3201ae6c9bcd",
       "sourceSha256": "6c8f8534da2ca471f76dc3602a0b16e3e27f81644e7973390c2e10d68f6a1990",
@@ -95,7 +95,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 11914,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-cfd761fe0618",
@@ -127,7 +129,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12951674.webp",
+      "asset": "covers/works/liu-cixin/超新星纪元/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "1d159763bcb7fda562129ba608558b9f21ebfdcde2d436c1776a3201ae6c9bcd",
       "sourceSha256": "6c8f8534da2ca471f76dc3602a0b16e3e27f81644e7973390c2e10d68f6a1990",
@@ -136,7 +138,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 11914,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-f76c68ac54be",
@@ -586,7 +590,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-13082817.webp",
+      "asset": "covers/works/liu-cixin/球状闪电/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "d5e9e33cfe0e4ccc9f1f5d68e6c055b7219c6efa57f2190d97e292233c5f479e",
       "sourceSha256": "1fd0360ef18b4a820c71d073ecef1faffc40c06ad5134f4eac563e0320e83d48",
@@ -595,7 +599,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 21792,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-92e295f60fa9",
@@ -843,7 +849,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-10246550.webp",
+      "asset": "covers/works/liu-cixin/三体/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "888c9bc288b5b1dceeb4d0810e596622f31f44e8ecacab8022a0b5fb706427bd",
       "sourceSha256": "606ce249d56a7c5b49b4b0e0ef3abe92a1ddeff7a061fd830b4d16572f781978",
@@ -852,7 +858,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 22144,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-1cc6117b4eb2",
@@ -884,7 +892,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6977799.webp",
+      "asset": "covers/works/liu-cixin/三体2黑暗森林/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "19e4d763f999d31031b89c715fd7ea5dec13ec51956dffffa83c5a103199cd33",
       "sourceSha256": "667de7925c130fb63924bda668883a63a878ca5d41fe96a1566275074dbbb7a0",
@@ -893,7 +901,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 17628,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-1d1b433417fb",
@@ -997,7 +1007,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9245889.webp",
+      "asset": "covers/works/liu-cixin/三体3死神永生/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "5924241f458028e666023094135584ae66d651813cd7a30a073ae24af348fc36",
       "sourceSha256": "cb38dd355b5802846b3e704ff9203cea15e30ec2ba14c3f7f3d785104a6e01e8",
@@ -1006,7 +1016,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 15900,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "001-311b35f4d7d9",
@@ -1110,7 +1122,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-11481354.webp",
+      "asset": "covers/works/frank-herbert/沙丘/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "da49d5f54030a548c1f2e868fb6f0aa1b96b71fc43133fbe67861b1dd520e407",
       "sourceSha256": "89fa3dc3afb7674080b5df83ff8613c34a19fba93bd246239b143858583f4b40",
@@ -1119,7 +1131,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 33584,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "002-e0fa17128c55",
@@ -1151,7 +1165,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6781122.webp",
+      "asset": "covers/works/frank-herbert/沙丘救世主/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "8eb94bb18b62c3073dec012707c7da0289520d4da62895eafc07cd611fdd4a3a",
       "sourceSha256": "4f37c9800fbe3c993d4fddd49759ae222aa908caa3fb0b0d87fe94fee545720a",
@@ -1160,7 +1174,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 19116,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "002-a7924b4f8d6b",
@@ -1192,7 +1208,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6976407.webp",
+      "asset": "covers/works/frank-herbert/沙丘之子/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e7f615280cddb323f99684e145192381c77faaa86702a451b4029615c04957a8",
       "sourceSha256": "5a64fb35305df4441f85fa249686cc470eaa60d8158071ca1164463a1642c49a",
@@ -1201,7 +1217,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 15334,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-56c9cc89a7d5",
@@ -1251,7 +1269,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12385229.webp",
+      "asset": "covers/works/isaac-asimov/我-机器人/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "3acac605be5fc4f670ff2fe675e723bfe578e05427ba2379aa07d58668ea5384",
       "sourceSha256": "f87031886e836c60b8ce74e64304df601fc59ea797c7032ff25517d924fa1783",
@@ -1260,7 +1278,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 13880,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-90ae25f96f5c",
@@ -1292,7 +1312,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12190145.webp",
+      "asset": "covers/works/isaac-asimov/永恒的终结/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "4c0acff2f7eb8dfcb50f15615a20e60ef028ef8be1f6d8ddfc2a1ab701eb5764",
       "sourceSha256": "44bd132098d46ceae6db756f6e56032f165b1866dd2728cf081e3c392d7e3397",
@@ -1301,7 +1321,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 32066,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-3e9572f4e8e0",
@@ -1330,7 +1352,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-10651147.webp",
+      "asset": "covers/works/isaac-asimov/神们自己/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "0a9bfb145ad0066cfb26ad2da5ee8dede6cbc24881783ea0d70385204cec1e91",
       "sourceSha256": "6a28e2f84cfe1d19a7e0a301ce5b41615a408dab49a265a9b4517431438d10a1",
@@ -1339,7 +1361,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 25482,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-060ad2b3335a",
@@ -1404,7 +1428,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6603614.webp",
+      "asset": "covers/works/isaac-asimov/九个明天/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "c5e5b8fdd1bd9f40c82bd4113c5d3e6bb76a6f4abe068c61bdec43b608fa95c6",
       "sourceSha256": "3098d2f39f18684c29d556484663c860d0d56e4b99557838f5612468ab5263fb",
@@ -1413,7 +1437,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 24078,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-6aff04ca5dd1",
@@ -1625,7 +1651,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9302242.webp",
+      "asset": "covers/works/isaac-asimov/基地/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "526ac9ed965b6e299c76d7c5b6d66aaa3156a01f5e8e25fa24b2851e3f435274",
       "sourceSha256": "7e5d8301fb33ba888b68df2fd44938b79b8923a774169864f99893ac8053aa92",
@@ -1634,7 +1660,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 30920,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-c80af254b6d7",
@@ -1666,7 +1694,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9300695.webp",
+      "asset": "covers/works/isaac-asimov/基地与帝国/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "f7a30207e7ddc02b2626231d6805ec967162bcf1d7a82e56e4f46e7e2f9aad26",
       "sourceSha256": "8b9bd7365a0e575a8feb267a758aa0a9782431f993c967c41334b1e6a0e075bc",
@@ -1675,7 +1703,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 16342,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-d0f3152e00e5",
@@ -1707,7 +1737,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9261324.webp",
+      "asset": "covers/works/isaac-asimov/第二基地/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e683a9961d17836ede49093fcb3fddc22581118b3e9b3bfe182204f2ae8ab015",
       "sourceSha256": "255b69bc26f639c08044edb3dceb1b4d23080ffdc3dfb7c4821087159ef4fd78",
@@ -1716,7 +1746,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 22782,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-660f1855cd60",
@@ -1748,7 +1780,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-14615973.webp",
+      "asset": "covers/works/isaac-asimov/基地边缘/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "4f4c92b7d2d6aae5be6b8a2dc66e82ce4c68c3a563c7f3ea3907667ce07784ee",
       "sourceSha256": "1cefcb65ecd11e1d1a31b9ac40ab3d0f49b41a13326368ef06577dab41dde5b2",
@@ -1757,7 +1789,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 25292,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-e9eb52277dad",
@@ -1789,7 +1823,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9304027.webp",
+      "asset": "covers/works/isaac-asimov/基地与地球/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "d7dd3a988181320cc1f950ae0181aa5bedc054204287c893ab3a5e793b6cf8b5",
       "sourceSha256": "97bfa3a8e9635037aae97607c4a07a603df9d732e369303cf6ce8441a476c696",
@@ -1798,7 +1832,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 14518,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-6d93eb7f289d",
@@ -1830,7 +1866,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12816973.webp",
+      "asset": "covers/works/isaac-asimov/基地前奏/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "05a91b0b11dd5b37e30353dfdb42379993f5955846d93fb08379a27c82cf6372",
       "sourceSha256": "cb2657e9dd3a6fc41199d9d1eb44e006df7e830cd0fc0c9e4e2d581acea54158",
@@ -1839,7 +1875,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 23328,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-31ab9e78032a",
@@ -1871,7 +1909,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9300894.webp",
+      "asset": "covers/works/isaac-asimov/迈向基地/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "6e2f1c7c65c8078ce1181e6811539c76db13cabaecce68fad5bd81d38acba364",
       "sourceSha256": "d1c806df39c2297793dc5b5e8aea4d99f4c9278252037e448c9ead5dc30ef62a",
@@ -1880,7 +1918,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 21900,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-9b69547a959d",
@@ -1912,7 +1952,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9300703.webp",
+      "asset": "covers/works/isaac-asimov/复仇女神/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "ed5e6c2b42ac1670b4accb6ddd107c5ce5999b64206e119504e13ccd29224c42",
       "sourceSha256": "5608b28647b1076182e47c29381069004f76157d96e59889d6f14fd2ecd085a3",
@@ -1921,7 +1961,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 15916,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-4f77650b0ee0",
@@ -1968,7 +2010,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-7263642.webp",
+      "asset": "covers/works/isaac-asimov/奇妙的航程/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "a7081b88d0cbc055413df46e6bb6c65cf68247de1cf5f8e42e1d5f7d050bf329",
       "sourceSha256": "d07c640eca53dbd191497ba023c626e1a767c8a274b847778dce6eec8a078760",
@@ -1977,7 +2019,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 7434,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-d7b09e284aa8",
@@ -2207,7 +2251,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-13790511.webp",
+      "asset": "covers/works/isaac-asimov/钢穴/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e28a6ecc181d423f6c21717d70a3a7becbedfffb7bf3b806159f8bf48ea7c764",
       "sourceSha256": "35abb6669fa21dac9d86cbc5fbbded93e025cf78bb34f451f763830925c31d41",
@@ -2216,7 +2260,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 20454,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-bda7a2c7cc93",
@@ -2248,7 +2294,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6542967.webp",
+      "asset": "covers/works/isaac-asimov/裸阳/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "5e3e65445c7a73007747bab584e00158034c85394331a65717af070f6a0f3ab9",
       "sourceSha256": "72d202b60d5806c58549f8bb9708c2c0651e5a8a656029d8ddbb517d4af8f949",
@@ -2257,7 +2303,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 25796,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-595b209bbd9f",
@@ -2289,7 +2337,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-14372309.webp",
+      "asset": "covers/works/isaac-asimov/曙光中的机器人/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "0840cc72a8df0d0b398404c1e989f986f7f12e5376d18e933c6c20f36fd09711",
       "sourceSha256": "96be2cde9af76a5a1d672f08b77a0fa0db99fafd7c48c5bb8397016dc4385806",
@@ -2298,7 +2346,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 14612,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-aeb42dfd9a7c",
@@ -2330,7 +2380,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9302088.webp",
+      "asset": "covers/works/isaac-asimov/机器人与帝国/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "871c5f5118f866a0c0d645595c6abcc26101370342cafc8912d217e03662ea8d",
       "sourceSha256": "91fe59c8e4d62b3afdd71dee7bf59c3960bb5451d630263b4d235703adb66154",
@@ -2339,7 +2389,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 31706,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-56c7988ae747",
@@ -2657,7 +2709,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-13440807.webp",
+      "asset": "covers/works/isaac-asimov/繁星若尘/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "190838c6ce502fa0727c289fe5819963fe5c8a0d82d321a06654bcd2b6f694ec",
       "sourceSha256": "466cb979aba99774faabfe4a62de51b0952b8a252f23ca4c0182427d9c7d51de",
@@ -2666,7 +2718,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 15360,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-862576093bd2",
@@ -2698,7 +2752,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-14616014.webp",
+      "asset": "covers/works/isaac-asimov/星空暗流/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "3b166f9b23c3a13a1f890fad5b92ff6210ed55f9465f90796a6f74dbfa65d3bc",
       "sourceSha256": "855b838c90bcd1a791c4fef626ec8e9d9b1f07e69e4805e720652a82c3e6001b",
@@ -2707,7 +2761,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 20632,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-dfc0e996e04f",
@@ -2739,7 +2795,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6550102.webp",
+      "asset": "covers/works/isaac-asimov/苍穹微石/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "fdb30423bbccd4c0bab3f25d5ceebabbe6c89cb8aba473f20968f8464faa8af7",
       "sourceSha256": "ec9b506ba3469811b15e79cc6ee3609699de2181e08e558a943fd905a0063964",
@@ -2748,7 +2804,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 23224,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "003-57c2dd69e22e",
@@ -2834,7 +2892,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9242564.webp",
+      "asset": "covers/works/jules-verne/格兰特船长的儿女/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "161f87249944f75241bd582d5f4efd8a14bc78c9360b5332b057931c586391e6",
       "sourceSha256": "d408f5b7569754729732983f79efe219f2b889607b118338f6f84f3b8405574b",
@@ -2843,7 +2901,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 25572,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-b8d9c33cdfd7",
@@ -2875,7 +2935,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-10817535.webp",
+      "asset": "covers/works/jules-verne/海底两万里/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "a2ca56301d8639d199519a41f70f018b30a2de24f2def3d3effe76aeaee44821",
       "sourceSha256": "59075dd44822157ecd6fb321f505b58fac1e84c84dc53a3dc2659264405459ee",
@@ -2884,7 +2944,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 31060,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-35eb934a2114",
@@ -2916,7 +2978,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-11712880.webp",
+      "asset": "covers/works/jules-verne/神秘岛/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "8eb666bfee7d63c75e90b92e5be09b0f03ad010054a906a7a7e0289cf815e26a",
       "sourceSha256": "6f137f10760f2529bfe4928e971a29da54df62af1997339856437afa88318776",
@@ -2925,7 +2987,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 9850,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-0e44571d26f3",
@@ -2954,7 +3018,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-5943556.webp",
+      "asset": "covers/works/jules-verne/从地球到月球/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "6c9a3692ae450eaaf40913b07119349d6e9266de52c4047b8185e7e33dba2b25",
       "sourceSha256": "04a32613b3f0b46e6c340d09961d1a0abeb962e8f09fc9c042e65c957509082b",
@@ -2963,7 +3027,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 22650,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-b4db44acd4ac",
@@ -2992,7 +3058,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-2002974.webp",
+      "asset": "covers/works/jules-verne/环绕月球/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "22e720856f16d52c8f6f031274627fb6d34412286f569ae00b1a7a87bad98fc7",
       "sourceSha256": "365b70ff776d36d3dffde560b30a45b9e5f33ab9cacbaf4a9c5e46b87c8d90ab",
@@ -3001,7 +3067,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 18196,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-bcbfc12c67a3",
@@ -3048,7 +3116,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-8179189.webp",
+      "asset": "covers/works/jules-verne/气球上的五星期/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "29a566b00b617cc7caebbc6e102af7e031b6a5c42bc88b8476496640de1fbb38",
       "sourceSha256": "0f0cf4b696ad071ea1f90760ecdc4ee08fa8755603213068ad01a1d4c693046f",
@@ -3057,7 +3125,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 7526,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-48b4714b7d62",
@@ -3086,7 +3156,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-5890987.webp",
+      "asset": "covers/works/jules-verne/地心游记/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "4d614c14ab0217a4444ca4161297efaa1188e1ea2bb37554e9206750063c1df0",
       "sourceSha256": "a8761bef0b3922292d68ba27b12092ac1ba6a5b88778c54daa803d31a307f699",
@@ -3095,7 +3165,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 12470,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-fe5da386976f",
@@ -3127,7 +3199,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-117993.webp",
+      "asset": "covers/works/jules-verne/哈特拉斯船长历险记/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "d30da4ef5ef689602a8b46386b17964afeb9064afa5e459a77ac96f4f6472add",
       "sourceSha256": "64eea1d77d6eb274cf4c96e72382ef9731d6066ec8e87fb6ea0fed396ba61195",
@@ -3136,7 +3208,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 25302,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-0e42b3763308",
@@ -3170,7 +3244,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-13022431.webp",
+      "asset": "covers/works/jules-verne/八十天环游地球/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "4dafe1372bbf0f5c0d86aee256c6fa23f6a408778831f7d382b72e3d71eb66a3",
       "sourceSha256": "e803805da812d875cf182bddbfb318156741cee4062fea49b6dfa70c3e30a3b8",
@@ -3179,7 +3253,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 13906,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-69c7e22bfa84",
@@ -3208,7 +3284,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-5901332.webp",
+      "asset": "covers/works/jules-verne/太阳系历险记/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "93f45c3f5eae465091a605c07daa93b549630eab8591ff7670be22c2860e2814",
       "sourceSha256": "b27173beaee98575f984228fd5adb4916567c8f83c3dfa25f5a3ccfd2b5f1fe0",
@@ -3217,7 +3293,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 11094,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-731541c082c6",
@@ -3246,7 +3324,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-5782692.webp",
+      "asset": "covers/works/jules-verne/鲁滨逊学校/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "83d242b252d3e5c06f9f68dad8b2cbd6498b845b664ce861970a1cc50bfbd813",
       "sourceSha256": "e8a41d41a114ad0fa7e5d5decd2037e73666c0c8ce84afadefdff508ac47a9cb",
@@ -3255,7 +3333,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 13332,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-42cbf5d9170b",
@@ -3318,7 +3398,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-2500029.webp",
+      "asset": "covers/works/jules-verne/绿光/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "030590d0dd8820189a64dedc802392eefeba489644e88422434816f5f9de85bf",
       "sourceSha256": "5e8c5047dfcfceb6d793559620ba3a0223d8c3d0d3c2743d1c0d286faed8619f",
@@ -3327,7 +3407,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 4100,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-b0d170dc43ae",
@@ -3377,7 +3459,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-2639903.webp",
+      "asset": "covers/works/jules-verne/金火山/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "43bbf528773496301bd37a04ad80529960ceb5d960dd6b7e5a14eeba4d16e2b4",
       "sourceSha256": "e8de75cc76afef71b15375e45be96894be8790d7c3e86f9e38d6f54e59c2eaf1",
@@ -3386,7 +3468,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 29024,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-49e73de2fe9a",
@@ -3433,7 +3517,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-858137.webp",
+      "asset": "covers/works/jules-verne/喀尔巴阡古堡/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e6836394b666e025e148b2d762a65e30859c1071d047ced61d71f3da14ed7dfc",
       "sourceSha256": "7d59bc87090cbaf60647f70770fc3ddf913a235a8b05648a5ba4d95b76c2f911",
@@ -3442,7 +3526,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 24728,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-1be16808db67",
@@ -3492,7 +3578,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-5447615.webp",
+      "asset": "covers/works/jules-verne/机器岛/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "ec793de27ccd72f7ca059211b684f901394b2442348b435a043b1f918305994e",
       "sourceSha256": "5bf6b08b7058df7298823a33c654cb8ffc9aa491b1b49eb9bfc9bf4d374cb1d9",
@@ -3501,7 +3587,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 1522,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-00e3e38d5613",
@@ -3533,7 +3621,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-2808101.webp",
+      "asset": "covers/works/jules-verne/大木筏/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "26f2b1702b657af0827f2479a633d839e3e871926395ad3946dc6a14a5d980fd",
       "sourceSha256": "2b49a4ddfb308c884f6b8090a4acfa297453f97f4a009256f23fd414858fccfa",
@@ -3542,7 +3630,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 23278,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-18c5d736e8e9",
@@ -3559,7 +3649,7 @@
           "https://openlibrary.org/search.json?author=Jules+Verne&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/004-18c5d736e8e9.webp",
+      "asset": "covers/works/jules-verne/大木筏/上册-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "004 - Jules Gabriel Verne(儒勒·加布里埃尔·凡尔纳)/[1881]《大木筏》上册.epub",
@@ -3574,7 +3664,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 7596,
+      "assetVersion": "上册-zh-cn-epub-cover"
     },
     {
       "bookId": "004-905c77365512",
@@ -3603,7 +3695,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-6134957.webp",
+      "asset": "covers/works/jules-verne/大海入侵/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "1bcd096e0bf9ce7a817709372333661603569b0b196f7f66160bdd77660b2856",
       "sourceSha256": "f5a27afb917e5f9d58c9674347f96a9ab348ef351dca145d8221012dfd6822de",
@@ -3612,7 +3704,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 13614,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "004-7356988b1177",
@@ -3664,7 +3758,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12356249.webp",
+      "asset": "covers/works/mary-shelley/弗兰肯斯坦/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "65c5ab9e2cf7045e6e4847063c2565e88d2e9d4798adb93b00b83811edb4ae71",
       "sourceSha256": "dd99c1c76454ed284f4c762de74f763338218da73edc534c1794379e4f5c27bd",
@@ -3673,7 +3767,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 18244,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "006-86680bf42245",
@@ -4014,7 +4110,7 @@
           "https://openlibrary.org/search.json?author=Ray+Bradbury&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/006-cdb0b306923b.webp",
+      "asset": "covers/works/ray-bradbury/火星纪事/zh-tw-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1950]《火星纪事》.epub",
@@ -4029,7 +4125,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 19614,
+      "assetVersion": "zh-tw-epub-cover"
     },
     {
       "bookId": "006-9f173cd1be71",
@@ -4046,7 +4144,7 @@
           "https://openlibrary.org/search.json?author=Ray+Bradbury&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/006-9f173cd1be71.webp",
+      "asset": "covers/works/ray-bradbury/图案人/zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "006 - Ray Douglas Bradbury(雷·道格拉斯·布拉德伯里)/[1951]《图案人》.epub",
@@ -4061,7 +4159,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 57196,
+      "assetVersion": "zh-cn-epub-cover"
     },
     {
       "bookId": "006-64c8f7df2710",
@@ -4093,7 +4193,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12971854.webp",
+      "asset": "covers/works/ray-bradbury/华氏451度/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e2109be0f9545ad309c388d47dfc8ffb20440fcab6dde6357549a78f23ea828a",
       "sourceSha256": "f77eefcba43b9dc1d8793be525085ceeaa84f9dd7d8f41223dc1effd18b684d7",
@@ -4102,7 +4202,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 31182,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "007-936a59a9494a",
@@ -4134,7 +4236,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9317226.webp",
+      "asset": "covers/works/orson-scott-card/安德的游戏/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "cb4e41603fa82d88bd3b5362e063aa1b4561bff488d05b979515b3c1e8de24b8",
       "sourceSha256": "c51e97926b00d0cec1088d84c36ffc15d2395eebc57efa877af94f9cff2e0668",
@@ -4143,7 +4245,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 21978,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "007-ea10556baf6b",
@@ -4160,7 +4264,7 @@
           "https://openlibrary.org/search.json?author=Orson+Scott+Card&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/007-ea10556baf6b.webp",
+      "asset": "covers/works/orson-scott-card/死者代言人/zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1986]《死者代言人》.epub",
@@ -4175,7 +4279,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 24872,
+      "assetVersion": "zh-cn-epub-cover"
     },
     {
       "bookId": "007-4e84a529f3ad",
@@ -4207,7 +4313,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-14532814.webp",
+      "asset": "covers/works/orson-scott-card/死者代言人/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "97cdba96d3db1b89481aca93bc3918369cbfcd3a84deb3c363f316f23797c7fd",
       "sourceSha256": "e9002c63c711dc023d104872393f69274f9a5b167001dec842c95d7be4aec703",
@@ -4216,7 +4322,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 14564,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "007-6f8dbb15af20",
@@ -4233,7 +4341,7 @@
           "https://openlibrary.org/search.json?author=Orson+Scott+Card&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/007-6f8dbb15af20.webp",
+      "asset": "covers/works/orson-scott-card/外星屠异/zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "007 - Orson Scott Card(奥森·斯科特·卡德)/[1991]《外星屠异》.epub",
@@ -4248,7 +4356,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 80782,
+      "assetVersion": "zh-cn-epub-cover"
     },
     {
       "bookId": "007-16d22c629445",
@@ -4280,7 +4390,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-12009325.webp",
+      "asset": "covers/works/orson-scott-card/安德的影子/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "569a229944f2d06057308e89ec6527a5ceaea8a452a2bb5eb837ecbe2509302f",
       "sourceSha256": "40bf933973f0e12c0bf0548dae262f3fabbca8b52f8bc4fca9640a374266fc0c",
@@ -4289,7 +4399,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 12474,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "007-33923738e773",
@@ -4321,7 +4433,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-9317130.webp",
+      "asset": "covers/works/orson-scott-card/霸主的影子/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "9172da242ae55d7e093bd0c4a19e41ce7854c34622f8d745605394061d67c145",
       "sourceSha256": "68540815c30c44f041d4d4c7225993a09ebb24bed9f5bea8e492c38ec03cab25",
@@ -4330,7 +4442,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 13042,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "008-e555921c75ef",
@@ -4434,7 +4548,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-1995296.webp",
+      "asset": "covers/works/ted-chiang/商人和炼金术士之门/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "5f6df0abfaa251ec1fc4e12282400e010ce0d07319fd0cec4cd875492f2f32bf",
       "sourceSha256": "044ef93a854228f8ef226fbd1942562fc75458473facf9dbc9d89bc0083cd2c6",
@@ -4443,7 +4557,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 35692,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "008-57aa881fd943",
@@ -4493,7 +4609,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-8022362.webp",
+      "asset": "covers/works/ted-chiang/软件体的生命周期/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e4b0b1ebfea6a2f81c35c888657b954e56e6c19461aa83513a43d136ab149aca",
       "sourceSha256": "ca6bd557d56e39d9be4ef7081a22004bb6864c61d2951dc5494e380a13457b65",
@@ -4502,7 +4618,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 5298,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "009-52d576553a22",
@@ -5095,7 +5213,7 @@
           "https://openlibrary.org/search.json?author=Andy+Weir&fields=key%2Ctitle%2Cauthor_name%2Ccover_i%2Ceditions%2Ceditions.key%2Ceditions.title%2Ceditions.language%2Ceditions.cover_i%2Ceditions.isbn%2Ceditions.publisher&lang=zh&limit=1000"
         ]
       },
-      "asset": "covers/embedded/011-f00713b822e3.webp",
+      "asset": "covers/works/andy-weir/挽救计划/zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "011 - Andy Weir(安迪·威尔)/[2021]《挽救计划》.epub",
@@ -5110,7 +5228,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 75354,
+      "assetVersion": "zh-cn-epub-cover"
     },
     {
       "bookId": "012-6f8d83cf5dbb",
@@ -5142,7 +5262,7 @@
         "editionMatch": "reference-edition",
         "rights": "Publisher cover artwork; source listing is not an open-license grant."
       },
-      "asset": "covers/editions/openlibrary-207371.webp",
+      "asset": "covers/works/arthur-c-clarke/太空序曲/reference-edition.webp",
       "review": "Author/work correspondence and image reviewed; reference edition, not proof of matching the text edition.",
       "sha256": "e6624d4a86ce15d53049ee4fd1ee25e35ec44c8fb7a7c564909964c20fc11d79",
       "sourceSha256": "384be401741b7ecf291b9b5ac1115a02dd633e18a896072073e5350743411d68",
@@ -5151,7 +5271,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 26366,
+      "assetVersion": "reference-edition"
     },
     {
       "bookId": "012-0adb36efb819",
@@ -5160,7 +5282,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-c983a66bb98a.webp",
+      "asset": "covers/works/arthur-c-clarke/2061-太空漫游/2019-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
@@ -5176,7 +5298,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 71722,
+      "assetVersion": "2019-zh-cn-epub-cover"
     },
     {
       "bookId": "014-fb59edc6acb5",
@@ -5185,7 +5309,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/editions/014-fb59edc6acb5.webp",
+      "asset": "covers/works/h-g-wells/the-time-machine/1895-reference-edition.webp",
       "source": {
         "kind": "publication-reference",
         "provider": "Project Gutenberg",
@@ -5216,7 +5340,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1895-reference-edition"
     },
     {
       "bookId": "014-d8d2c55938c8",
@@ -5225,7 +5350,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/editions/014-d8d2c55938c8.webp",
+      "asset": "covers/works/h-g-wells/the-invisible-man/1897-reference-edition.webp",
       "source": {
         "kind": "publication-reference",
         "provider": "Wikimedia Commons",
@@ -5255,7 +5380,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1897-reference-edition"
     },
     {
       "bookId": "014-063672849e20",
@@ -5264,7 +5390,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/editions/014-063672849e20.webp",
+      "asset": "covers/works/h-g-wells/the-war-of-the-worlds/1898-reference-edition.webp",
       "source": {
         "kind": "publication-reference",
         "provider": "Wikimedia Commons",
@@ -5294,7 +5420,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1898-reference-edition"
     },
     {
       "bookId": "015-5fc56e5cd516",
@@ -5303,7 +5430,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/015-5fc56e5cd516.webp",
+      "asset": "covers/works/olaf-stapledon/last-and-first-men/en-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "015 - Olaf Stapledon(奥拉夫·斯塔普尔顿)/[1930]《Last and First Men》.en.epub",
@@ -5332,7 +5459,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "en-epub-cover"
     },
     {
       "bookId": "016-076cfe90dbd5",
@@ -5341,7 +5469,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/periodicals/space_science_fiction_v01n06_1953-05_unksc-cape1736.webp",
+      "asset": "covers/works/philip-k-dick/second-variety/1953-05-original-magazine.webp",
       "source": {
         "kind": "original-periodical-cover",
         "provider": "Internet Archive",
@@ -5376,7 +5504,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1953-05-original-magazine"
     },
     {
       "bookId": "016-a8df1ce8b762",
@@ -5385,7 +5514,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/periodicals/space_science_fiction_v02n02_1953-09_unksc-cape1736.webp",
+      "asset": "covers/works/philip-k-dick/the-variable-man/1953-09-original-magazine.webp",
       "source": {
         "kind": "original-periodical-cover",
         "provider": "Internet Archive",
@@ -5420,7 +5549,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1953-09-original-magazine"
     },
     {
       "bookId": "012-c804f7f52d7c",
@@ -5429,7 +5559,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/periodicals/fantastic_universe_v06n03_1956-10.webp",
+      "asset": "covers/works/arthur-c-clarke/the-pacifist/1956-10-original-magazine.webp",
       "source": {
         "kind": "original-periodical-cover",
         "provider": "Internet Archive",
@@ -5464,7 +5594,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1956-10-original-magazine"
     },
     {
       "bookId": "012-ec25bfc244c9",
@@ -5473,7 +5604,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/periodicals/amazing_stories_v27n05_1953-06-07.webp",
+      "asset": "covers/works/arthur-c-clarke/encounter-in-the-dawn/1953-06-07-original-magazine.webp",
       "source": {
         "kind": "original-periodical-cover",
         "provider": "Internet Archive",
@@ -5508,7 +5639,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1953-06-07-original-magazine"
     },
     {
       "bookId": "012-88c2a35057c1",
@@ -5517,7 +5649,7 @@
       "status": "reference-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/periodicals/amazing_stories_v35n06_1961-06.webp",
+      "asset": "covers/works/arthur-c-clarke/before-eden/1961-06-original-magazine.webp",
       "source": {
         "kind": "original-periodical-cover",
         "provider": "Internet Archive",
@@ -5552,7 +5684,8 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
+      "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。",
+      "assetVersion": "1961-06-original-magazine"
     },
     {
       "bookId": "012-d539f49f2c6b",
@@ -5561,7 +5694,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-d539f49f2c6b.webp",
+      "asset": "covers/works/arthur-c-clarke/2001-太空漫游/2019-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1968]《2001：太空漫游》.epub",
@@ -5577,7 +5710,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 86142,
+      "assetVersion": "2019-zh-cn-epub-cover"
     },
     {
       "bookId": "012-c28f9e19543e",
@@ -5586,7 +5721,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-c28f9e19543e.webp",
+      "asset": "covers/works/arthur-c-clarke/2010-太空漫游/2019-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1982]《2010：太空漫游》.epub",
@@ -5602,7 +5737,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 85034,
+      "assetVersion": "2019-zh-cn-epub-cover"
     },
     {
       "bookId": "012-c983a66bb98a",
@@ -5611,7 +5748,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-c983a66bb98a.webp",
+      "asset": "covers/works/arthur-c-clarke/2061-太空漫游/2019-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
@@ -5627,7 +5764,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 71722,
+      "assetVersion": "2019-zh-cn-epub-cover"
     },
     {
       "bookId": "012-bfae6d156e5e",
@@ -5636,7 +5775,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-bfae6d156e5e.webp",
+      "asset": "covers/works/arthur-c-clarke/3001-太空漫游/2019-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1997]《3001：太空漫游》.epub",
@@ -5652,7 +5791,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 90696,
+      "assetVersion": "2019-zh-cn-epub-cover"
     },
     {
       "bookId": "017-bda371f795c2",
@@ -5661,7 +5802,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/017-bda371f795c2.webp",
+      "asset": "covers/works/ray-nayler/海中山/2026-zh-cn-epub-cover.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "017 - Ray Nayler(雷·内勒)/[2022]《海中山》.epub",
@@ -5676,7 +5817,9 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "bytes": 20584,
+      "assetVersion": "2026-zh-cn-epub-cover"
     },
     {
       "bookId": "018-ca7701582aeb",
@@ -5684,7 +5827,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/018-ca7701582aeb.webp",
+      "asset": "covers/journals/science-fiction-world/2026/issue-06-zh-cn-epub.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第6期）.epub",
@@ -5700,7 +5843,9 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "periodicalId": "018"
+      "periodicalId": "018",
+      "bytes": 92412,
+      "assetVersion": "issue-06-zh-cn-epub"
     },
     {
       "bookId": "018-521ad1f3a823",
@@ -5708,7 +5853,7 @@
       "status": "embedded-cover",
       "fallback": "generated",
       "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/018-521ad1f3a823.webp",
+      "asset": "covers/journals/science-fiction-world/2026/issue-05-zh-cn-epub.webp",
       "source": {
         "kind": "epub-embedded",
         "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第5期）.epub",
@@ -5724,7 +5869,9 @@
         "maxHeight": 900,
         "quality": 78
       },
-      "periodicalId": "018"
+      "periodicalId": "018",
+      "bytes": 119700,
+      "assetVersion": "issue-05-zh-cn-epub"
     }
   ],
   "summary": {
@@ -5739,11 +5886,18 @@
     "individualRemainingTitleQueries": 149,
     "novelBodiesReadForResearch": false
   },
-  "compression": {
+  "lastUpdatedOn": "2026-10-21",
+  "storage": {
+    "layout": "works/<author-slug>/<work-slug>/<version>.webp; journals/<periodical-slug>/<year>/issue-<number>-<version>.webp",
+    "assetCount": 76,
+    "referencedFileCount": 78,
+    "imageBytes": 2405550,
+    "unusedImageFiles": 0,
+    "format": "webp"
+  },
+  "historicalCompressionBatch": {
     "inputImageBytes": 17275790,
     "outputImageBytes": 1905316,
     "savedPercent": 89.0
-  },
-  "lastUpdatedOn": "2026-10-21",
-  "lastUpdated": "2026-10-21"
+  }
 }

@@ -70,7 +70,7 @@ ID保留在文件内容中，用于关联作者、作品、封面和阅读进度
 | `size` | 文件字节数，由同步脚本通过 stat 获取 |
 | `language` | 正文语言标记，例如 `zh-CN`；不表示已翻译正文 |
 | `series` | 系列分组显示名称，可用 `/` 表示层级 |
-| `cover` | 封面路径，例如 `covers/three-body.webp`；未设置时为 `null` |
+| `cover` | 封面路径，例如 `covers/works/liu-cixin/三体/reference-edition.webp；未设置时为 `null` |
 | `coverSource` | 可选：封面出处 `{ "label": "Open Library", "url": "https://…" }`，在阅读页提供链接 |
 | `coverStyle` | 可选：`full`（默认）展示完整封面；`artwork` 为无文字插画，由页面叠加书名和本地化作者名 |
 | `publication` | 可选：创作日期、初刊日期、当前收录版本的年份与出处；字段按已查明事实填写，未确认日期为 `null`，不把创作年当作发表年 |
@@ -113,7 +113,7 @@ python3 metadata/sync.py
 
 《被遗忘的世界》已按原作归入柯南·道尔目录；原作《失落的世界》发表于1912年，本地中文节写者、译者及该节写本的发表年仍待考。移动时保留已有文件 ID、workId 和 slug，因此 ID 前缀不一定等于当前作者编号。新增柯南·道尔头像的公版来源及摘要见 [头像来源记录](avatars/sources.json)。
 
-三张三体系列封面是本项目生成的无文字几何示例图，书名和作者名由页面从 metadata 显示，不是出版社版本封面；生成源 SVG 与说明在 `covers/`。网页引用图片统一为 metadata 内的 WebP。头像最长边 160 像素，封面不超过 600 × 900 像素。
+封面按 `covers/works/<作者slug>/<作品名称slug>/<版本>.webp` 整理，期刊封面按 `covers/journals/<刊物slug>/<年份>/issue-<期号>-<版本>.webp` 整理。来源编号与图片摘要保留在清单中。没有实际封面的作品由阅读器即时绘制替代图；旧的未引用示例WebP、SVG及配套生成脚本已清理。网页引用图片统一为metadata内的WebP，头像最长边160像素，封面不超过600×900像素。
 
 Web 项目执行 `pnpm metadata:prepare` 或重新启动、构建后，会同步 metadata 与引用图片。列表和静态构建不需要正文文件；读者打开某本书的阅读页时，浏览器自动从内容仓库加载这一本正文，无需再次点击；目录和构建不会加载正文。新增正文须先推送到小说仓库，原始文件链接才可访问。
 

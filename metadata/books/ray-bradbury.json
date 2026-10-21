@@ -118,7 +118,7 @@
       "size": 260252,
       "language": "zh-TW",
       "series": "",
-      "cover": "covers/embedded/006-cdb0b306923b.webp",
+      "cover": "covers/works/ray-bradbury/火星纪事/zh-tw-epub-cover.webp",
       "slug": "火星纪事",
       "coverStyle": "full",
       "coverSource": {
@@ -159,7 +159,7 @@
       "size": 323682,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/embedded/006-9f173cd1be71.webp",
+      "cover": "covers/works/ray-bradbury/图案人/zh-cn-epub-cover.webp",
       "slug": "图案人",
       "coverStyle": "full",
       "coverSource": {
@@ -224,7 +224,7 @@
       "size": 72177,
       "language": "zh-CN",
       "series": "",
-      "cover": "covers/editions/openlibrary-12971854.webp",
+      "cover": "covers/works/ray-bradbury/华氏451度/reference-edition.webp",
       "slug": "华氏451度",
       "coverStyle": "full",
       "coverSource": {

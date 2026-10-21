@@ -1,0 +1,979 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "scope": "只整理封面图片与对应元信息，不读取或修改小说正文。",
+  "summary": {
+    "movedImages": 76,
+    "removedUnusedImages": 6,
+    "retiredSupportFiles": 2,
+    "sharedImageReferences": 2
+  },
+  "moves": [
+    {
+      "from": "covers/editions/openlibrary-12951674.webp",
+      "to": "covers/works/liu-cixin/超新星纪元/reference-edition.webp",
+      "owner": "liu-cixin",
+      "work": "超新星纪元",
+      "version": "reference-edition",
+      "sha256": "1d159763bcb7fda562129ba608558b9f21ebfdcde2d436c1776a3201ae6c9bcd",
+      "bytes": 11914,
+      "bookIds": [
+        "001-cfd761fe0618",
+        "001-4edbc7e5d622"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-13082817.webp",
+      "to": "covers/works/liu-cixin/球状闪电/reference-edition.webp",
+      "owner": "liu-cixin",
+      "work": "球状闪电",
+      "version": "reference-edition",
+      "sha256": "d5e9e33cfe0e4ccc9f1f5d68e6c055b7219c6efa57f2190d97e292233c5f479e",
+      "bytes": 21792,
+      "bookIds": [
+        "001-b54a0ca8421e"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-10246550.webp",
+      "to": "covers/works/liu-cixin/三体/reference-edition.webp",
+      "owner": "liu-cixin",
+      "work": "三体",
+      "version": "reference-edition",
+      "sha256": "888c9bc288b5b1dceeb4d0810e596622f31f44e8ecacab8022a0b5fb706427bd",
+      "bytes": 22144,
+      "bookIds": [
+        "001-fb5f8fedc262"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6977799.webp",
+      "to": "covers/works/liu-cixin/三体2黑暗森林/reference-edition.webp",
+      "owner": "liu-cixin",
+      "work": "三体2黑暗森林",
+      "version": "reference-edition",
+      "sha256": "19e4d763f999d31031b89c715fd7ea5dec13ec51956dffffa83c5a103199cd33",
+      "bytes": 17628,
+      "bookIds": [
+        "001-1cc6117b4eb2"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9245889.webp",
+      "to": "covers/works/liu-cixin/三体3死神永生/reference-edition.webp",
+      "owner": "liu-cixin",
+      "work": "三体3死神永生",
+      "version": "reference-edition",
+      "sha256": "5924241f458028e666023094135584ae66d651813cd7a30a073ae24af348fc36",
+      "bytes": 15900,
+      "bookIds": [
+        "001-62e5a1b0fc92"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-11481354.webp",
+      "to": "covers/works/frank-herbert/沙丘/reference-edition.webp",
+      "owner": "frank-herbert",
+      "work": "沙丘",
+      "version": "reference-edition",
+      "sha256": "da49d5f54030a548c1f2e868fb6f0aa1b96b71fc43133fbe67861b1dd520e407",
+      "bytes": 33584,
+      "bookIds": [
+        "002-c634acbc92b2"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6781122.webp",
+      "to": "covers/works/frank-herbert/沙丘救世主/reference-edition.webp",
+      "owner": "frank-herbert",
+      "work": "沙丘救世主",
+      "version": "reference-edition",
+      "sha256": "8eb94bb18b62c3073dec012707c7da0289520d4da62895eafc07cd611fdd4a3a",
+      "bytes": 19116,
+      "bookIds": [
+        "002-e0fa17128c55"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6976407.webp",
+      "to": "covers/works/frank-herbert/沙丘之子/reference-edition.webp",
+      "owner": "frank-herbert",
+      "work": "沙丘之子",
+      "version": "reference-edition",
+      "sha256": "e7f615280cddb323f99684e145192381c77faaa86702a451b4029615c04957a8",
+      "bytes": 15334,
+      "bookIds": [
+        "002-a7924b4f8d6b"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12385229.webp",
+      "to": "covers/works/isaac-asimov/我-机器人/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "我-机器人",
+      "version": "reference-edition",
+      "sha256": "3acac605be5fc4f670ff2fe675e723bfe578e05427ba2379aa07d58668ea5384",
+      "bytes": 13880,
+      "bookIds": [
+        "003-c764e2c115c6"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12190145.webp",
+      "to": "covers/works/isaac-asimov/永恒的终结/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "永恒的终结",
+      "version": "reference-edition",
+      "sha256": "4c0acff2f7eb8dfcb50f15615a20e60ef028ef8be1f6d8ddfc2a1ab701eb5764",
+      "bytes": 32066,
+      "bookIds": [
+        "003-90ae25f96f5c"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6603614.webp",
+      "to": "covers/works/isaac-asimov/九个明天/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "九个明天",
+      "version": "reference-edition",
+      "sha256": "c5e5b8fdd1bd9f40c82bd4113c5d3e6bb76a6f4abe068c61bdec43b608fa95c6",
+      "bytes": 24078,
+      "bookIds": [
+        "003-ac40c88a9458"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-7263642.webp",
+      "to": "covers/works/isaac-asimov/奇妙的航程/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "奇妙的航程",
+      "version": "reference-edition",
+      "sha256": "a7081b88d0cbc055413df46e6bb6c65cf68247de1cf5f8e42e1d5f7d050bf329",
+      "bytes": 7434,
+      "bookIds": [
+        "003-137b964ba4a3"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-10651147.webp",
+      "to": "covers/works/isaac-asimov/神们自己/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "神们自己",
+      "version": "reference-edition",
+      "sha256": "0a9bfb145ad0066cfb26ad2da5ee8dede6cbc24881783ea0d70385204cec1e91",
+      "bytes": 25482,
+      "bookIds": [
+        "003-3e9572f4e8e0"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9300703.webp",
+      "to": "covers/works/isaac-asimov/复仇女神/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "复仇女神",
+      "version": "reference-edition",
+      "sha256": "ed5e6c2b42ac1670b4accb6ddd107c5ce5999b64206e119504e13ccd29224c42",
+      "bytes": 15916,
+      "bookIds": [
+        "003-9b69547a959d"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9302242.webp",
+      "to": "covers/works/isaac-asimov/基地/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "基地",
+      "version": "reference-edition",
+      "sha256": "526ac9ed965b6e299c76d7c5b6d66aaa3156a01f5e8e25fa24b2851e3f435274",
+      "bytes": 30920,
+      "bookIds": [
+        "003-c80df81daf9e"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9300695.webp",
+      "to": "covers/works/isaac-asimov/基地与帝国/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "基地与帝国",
+      "version": "reference-edition",
+      "sha256": "f7a30207e7ddc02b2626231d6805ec967162bcf1d7a82e56e4f46e7e2f9aad26",
+      "bytes": 16342,
+      "bookIds": [
+        "003-c80af254b6d7"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9261324.webp",
+      "to": "covers/works/isaac-asimov/第二基地/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "第二基地",
+      "version": "reference-edition",
+      "sha256": "e683a9961d17836ede49093fcb3fddc22581118b3e9b3bfe182204f2ae8ab015",
+      "bytes": 22782,
+      "bookIds": [
+        "003-d0f3152e00e5"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-14615973.webp",
+      "to": "covers/works/isaac-asimov/基地边缘/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "基地边缘",
+      "version": "reference-edition",
+      "sha256": "4f4c92b7d2d6aae5be6b8a2dc66e82ce4c68c3a563c7f3ea3907667ce07784ee",
+      "bytes": 25292,
+      "bookIds": [
+        "003-660f1855cd60"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9304027.webp",
+      "to": "covers/works/isaac-asimov/基地与地球/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "基地与地球",
+      "version": "reference-edition",
+      "sha256": "d7dd3a988181320cc1f950ae0181aa5bedc054204287c893ab3a5e793b6cf8b5",
+      "bytes": 14518,
+      "bookIds": [
+        "003-e9eb52277dad"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12816973.webp",
+      "to": "covers/works/isaac-asimov/基地前奏/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "基地前奏",
+      "version": "reference-edition",
+      "sha256": "05a91b0b11dd5b37e30353dfdb42379993f5955846d93fb08379a27c82cf6372",
+      "bytes": 23328,
+      "bookIds": [
+        "003-6d93eb7f289d"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9300894.webp",
+      "to": "covers/works/isaac-asimov/迈向基地/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "迈向基地",
+      "version": "reference-edition",
+      "sha256": "6e2f1c7c65c8078ce1181e6811539c76db13cabaecce68fad5bd81d38acba364",
+      "bytes": 21900,
+      "bookIds": [
+        "003-31ab9e78032a"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-13790511.webp",
+      "to": "covers/works/isaac-asimov/钢穴/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "钢穴",
+      "version": "reference-edition",
+      "sha256": "e28a6ecc181d423f6c21717d70a3a7becbedfffb7bf3b806159f8bf48ea7c764",
+      "bytes": 20454,
+      "bookIds": [
+        "003-948f59c15c36"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6542967.webp",
+      "to": "covers/works/isaac-asimov/裸阳/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "裸阳",
+      "version": "reference-edition",
+      "sha256": "5e3e65445c7a73007747bab584e00158034c85394331a65717af070f6a0f3ab9",
+      "bytes": 25796,
+      "bookIds": [
+        "003-bda7a2c7cc93"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-14372309.webp",
+      "to": "covers/works/isaac-asimov/曙光中的机器人/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "曙光中的机器人",
+      "version": "reference-edition",
+      "sha256": "0840cc72a8df0d0b398404c1e989f986f7f12e5376d18e933c6c20f36fd09711",
+      "bytes": 14612,
+      "bookIds": [
+        "003-595b209bbd9f"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9302088.webp",
+      "to": "covers/works/isaac-asimov/机器人与帝国/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "机器人与帝国",
+      "version": "reference-edition",
+      "sha256": "871c5f5118f866a0c0d645595c6abcc26101370342cafc8912d217e03662ea8d",
+      "bytes": 31706,
+      "bookIds": [
+        "003-aeb42dfd9a7c"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-13440807.webp",
+      "to": "covers/works/isaac-asimov/繁星若尘/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "繁星若尘",
+      "version": "reference-edition",
+      "sha256": "190838c6ce502fa0727c289fe5819963fe5c8a0d82d321a06654bcd2b6f694ec",
+      "bytes": 15360,
+      "bookIds": [
+        "003-7265b6f85bb0"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-14616014.webp",
+      "to": "covers/works/isaac-asimov/星空暗流/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "星空暗流",
+      "version": "reference-edition",
+      "sha256": "3b166f9b23c3a13a1f890fad5b92ff6210ed55f9465f90796a6f74dbfa65d3bc",
+      "bytes": 20632,
+      "bookIds": [
+        "003-862576093bd2"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6550102.webp",
+      "to": "covers/works/isaac-asimov/苍穹微石/reference-edition.webp",
+      "owner": "isaac-asimov",
+      "work": "苍穹微石",
+      "version": "reference-edition",
+      "sha256": "fdb30423bbccd4c0bab3f25d5ceebabbe6c89cb8aba473f20968f8464faa8af7",
+      "bytes": 23224,
+      "bookIds": [
+        "003-dfc0e996e04f"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9242564.webp",
+      "to": "covers/works/jules-verne/格兰特船长的儿女/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "格兰特船长的儿女",
+      "version": "reference-edition",
+      "sha256": "161f87249944f75241bd582d5f4efd8a14bc78c9360b5332b057931c586391e6",
+      "bytes": 25572,
+      "bookIds": [
+        "004-753ae3035c4c"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-10817535.webp",
+      "to": "covers/works/jules-verne/海底两万里/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "海底两万里",
+      "version": "reference-edition",
+      "sha256": "a2ca56301d8639d199519a41f70f018b30a2de24f2def3d3effe76aeaee44821",
+      "bytes": 31060,
+      "bookIds": [
+        "004-b8d9c33cdfd7"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-11712880.webp",
+      "to": "covers/works/jules-verne/神秘岛/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "神秘岛",
+      "version": "reference-edition",
+      "sha256": "8eb666bfee7d63c75e90b92e5be09b0f03ad010054a906a7a7e0289cf815e26a",
+      "bytes": 9850,
+      "bookIds": [
+        "004-35eb934a2114"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-5943556.webp",
+      "to": "covers/works/jules-verne/从地球到月球/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "从地球到月球",
+      "version": "reference-edition",
+      "sha256": "6c9a3692ae450eaaf40913b07119349d6e9266de52c4047b8185e7e33dba2b25",
+      "bytes": 22650,
+      "bookIds": [
+        "004-0e44571d26f3"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-2002974.webp",
+      "to": "covers/works/jules-verne/环绕月球/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "环绕月球",
+      "version": "reference-edition",
+      "sha256": "22e720856f16d52c8f6f031274627fb6d34412286f569ae00b1a7a87bad98fc7",
+      "bytes": 18196,
+      "bookIds": [
+        "004-b4db44acd4ac"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-8179189.webp",
+      "to": "covers/works/jules-verne/气球上的五星期/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "气球上的五星期",
+      "version": "reference-edition",
+      "sha256": "29a566b00b617cc7caebbc6e102af7e031b6a5c42bc88b8476496640de1fbb38",
+      "bytes": 7526,
+      "bookIds": [
+        "004-2ba7305649e6"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-5890987.webp",
+      "to": "covers/works/jules-verne/地心游记/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "地心游记",
+      "version": "reference-edition",
+      "sha256": "4d614c14ab0217a4444ca4161297efaa1188e1ea2bb37554e9206750063c1df0",
+      "bytes": 12470,
+      "bookIds": [
+        "004-48b4714b7d62"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-117993.webp",
+      "to": "covers/works/jules-verne/哈特拉斯船长历险记/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "哈特拉斯船长历险记",
+      "version": "reference-edition",
+      "sha256": "d30da4ef5ef689602a8b46386b17964afeb9064afa5e459a77ac96f4f6472add",
+      "bytes": 25302,
+      "bookIds": [
+        "004-fe5da386976f"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-13022431.webp",
+      "to": "covers/works/jules-verne/八十天环游地球/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "八十天环游地球",
+      "version": "reference-edition",
+      "sha256": "4dafe1372bbf0f5c0d86aee256c6fa23f6a408778831f7d382b72e3d71eb66a3",
+      "bytes": 13906,
+      "bookIds": [
+        "004-0e42b3763308"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-5901332.webp",
+      "to": "covers/works/jules-verne/太阳系历险记/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "太阳系历险记",
+      "version": "reference-edition",
+      "sha256": "93f45c3f5eae465091a605c07daa93b549630eab8591ff7670be22c2860e2814",
+      "bytes": 11094,
+      "bookIds": [
+        "004-69c7e22bfa84"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-2808101.webp",
+      "to": "covers/works/jules-verne/大木筏/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "大木筏",
+      "version": "reference-edition",
+      "sha256": "26f2b1702b657af0827f2479a633d839e3e871926395ad3946dc6a14a5d980fd",
+      "bytes": 23278,
+      "bookIds": [
+        "004-00e3e38d5613"
+      ]
+    },
+    {
+      "from": "covers/embedded/004-18c5d736e8e9.webp",
+      "to": "covers/works/jules-verne/大木筏/上册-zh-cn-epub-cover.webp",
+      "owner": "jules-verne",
+      "work": "大木筏",
+      "version": "上册-zh-cn-epub-cover",
+      "sha256": "b4894cb72e2eba4351f7467d4bd2c2773c052e28420a3438faf18ad33912c977",
+      "bytes": 7596,
+      "bookIds": [
+        "004-18c5d736e8e9"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-2500029.webp",
+      "to": "covers/works/jules-verne/绿光/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "绿光",
+      "version": "reference-edition",
+      "sha256": "030590d0dd8820189a64dedc802392eefeba489644e88422434816f5f9de85bf",
+      "bytes": 4100,
+      "bookIds": [
+        "004-0e51f23ac21b"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-5782692.webp",
+      "to": "covers/works/jules-verne/鲁滨逊学校/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "鲁滨逊学校",
+      "version": "reference-edition",
+      "sha256": "83d242b252d3e5c06f9f68dad8b2cbd6498b845b664ce861970a1cc50bfbd813",
+      "bytes": 13332,
+      "bookIds": [
+        "004-731541c082c6"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-858137.webp",
+      "to": "covers/works/jules-verne/喀尔巴阡古堡/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "喀尔巴阡古堡",
+      "version": "reference-edition",
+      "sha256": "e6836394b666e025e148b2d762a65e30859c1071d047ced61d71f3da14ed7dfc",
+      "bytes": 24728,
+      "bookIds": [
+        "004-119af2b662ec"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-5447615.webp",
+      "to": "covers/works/jules-verne/机器岛/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "机器岛",
+      "version": "reference-edition",
+      "sha256": "ec793de27ccd72f7ca059211b684f901394b2442348b435a043b1f918305994e",
+      "bytes": 1522,
+      "bookIds": [
+        "004-1b1367c3b4fb"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-6134957.webp",
+      "to": "covers/works/jules-verne/大海入侵/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "大海入侵",
+      "version": "reference-edition",
+      "sha256": "1bcd096e0bf9ce7a817709372333661603569b0b196f7f66160bdd77660b2856",
+      "bytes": 13614,
+      "bookIds": [
+        "004-905c77365512"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-2639903.webp",
+      "to": "covers/works/jules-verne/金火山/reference-edition.webp",
+      "owner": "jules-verne",
+      "work": "金火山",
+      "version": "reference-edition",
+      "sha256": "43bbf528773496301bd37a04ad80529960ceb5d960dd6b7e5a14eeba4d16e2b4",
+      "bytes": 29024,
+      "bookIds": [
+        "004-5cb2e8058999"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12356249.webp",
+      "to": "covers/works/mary-shelley/弗兰肯斯坦/reference-edition.webp",
+      "owner": "mary-shelley",
+      "work": "弗兰肯斯坦",
+      "version": "reference-edition",
+      "sha256": "65c5ab9e2cf7045e6e4847063c2565e88d2e9d4798adb93b00b83811edb4ae71",
+      "bytes": 18244,
+      "bookIds": [
+        "005-75babcff9dfd"
+      ]
+    },
+    {
+      "from": "covers/embedded/006-cdb0b306923b.webp",
+      "to": "covers/works/ray-bradbury/火星纪事/zh-tw-epub-cover.webp",
+      "owner": "ray-bradbury",
+      "work": "火星纪事",
+      "version": "zh-tw-epub-cover",
+      "sha256": "90b44f39c07afed449c9c2b711bbb5dea3fb4be624ab42831b049a6eedc1d288",
+      "bytes": 19614,
+      "bookIds": [
+        "006-cdb0b306923b"
+      ]
+    },
+    {
+      "from": "covers/embedded/006-9f173cd1be71.webp",
+      "to": "covers/works/ray-bradbury/图案人/zh-cn-epub-cover.webp",
+      "owner": "ray-bradbury",
+      "work": "图案人",
+      "version": "zh-cn-epub-cover",
+      "sha256": "992190e10d418d1386675557581d9c24c7f0463bb98f8278bfa7bf76e67452d5",
+      "bytes": 57196,
+      "bookIds": [
+        "006-9f173cd1be71"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12971854.webp",
+      "to": "covers/works/ray-bradbury/华氏451度/reference-edition.webp",
+      "owner": "ray-bradbury",
+      "work": "华氏451度",
+      "version": "reference-edition",
+      "sha256": "e2109be0f9545ad309c388d47dfc8ffb20440fcab6dde6357549a78f23ea828a",
+      "bytes": 31182,
+      "bookIds": [
+        "006-64c8f7df2710"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9317226.webp",
+      "to": "covers/works/orson-scott-card/安德的游戏/reference-edition.webp",
+      "owner": "orson-scott-card",
+      "work": "安德的游戏",
+      "version": "reference-edition",
+      "sha256": "cb4e41603fa82d88bd3b5362e063aa1b4561bff488d05b979515b3c1e8de24b8",
+      "bytes": 21978,
+      "bookIds": [
+        "007-936a59a9494a"
+      ]
+    },
+    {
+      "from": "covers/embedded/007-ea10556baf6b.webp",
+      "to": "covers/works/orson-scott-card/死者代言人/zh-cn-epub-cover.webp",
+      "owner": "orson-scott-card",
+      "work": "死者代言人",
+      "version": "zh-cn-epub-cover",
+      "sha256": "cf05750dea40be9658706c75918410dad8180ac3745337d845d1716422220a6b",
+      "bytes": 24872,
+      "bookIds": [
+        "007-ea10556baf6b"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-14532814.webp",
+      "to": "covers/works/orson-scott-card/死者代言人/reference-edition.webp",
+      "owner": "orson-scott-card",
+      "work": "死者代言人",
+      "version": "reference-edition",
+      "sha256": "97cdba96d3db1b89481aca93bc3918369cbfcd3a84deb3c363f316f23797c7fd",
+      "bytes": 14564,
+      "bookIds": [
+        "007-4e84a529f3ad"
+      ]
+    },
+    {
+      "from": "covers/embedded/007-6f8dbb15af20.webp",
+      "to": "covers/works/orson-scott-card/外星屠异/zh-cn-epub-cover.webp",
+      "owner": "orson-scott-card",
+      "work": "外星屠异",
+      "version": "zh-cn-epub-cover",
+      "sha256": "4247c38bc6a9e1e642b682f12334eb56a086b07cfb0412bf8f04299993594fb5",
+      "bytes": 80782,
+      "bookIds": [
+        "007-6f8dbb15af20"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-12009325.webp",
+      "to": "covers/works/orson-scott-card/安德的影子/reference-edition.webp",
+      "owner": "orson-scott-card",
+      "work": "安德的影子",
+      "version": "reference-edition",
+      "sha256": "569a229944f2d06057308e89ec6527a5ceaea8a452a2bb5eb837ecbe2509302f",
+      "bytes": 12474,
+      "bookIds": [
+        "007-16d22c629445"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-9317130.webp",
+      "to": "covers/works/orson-scott-card/霸主的影子/reference-edition.webp",
+      "owner": "orson-scott-card",
+      "work": "霸主的影子",
+      "version": "reference-edition",
+      "sha256": "9172da242ae55d7e093bd0c4a19e41ce7854c34622f8d745605394061d67c145",
+      "bytes": 13042,
+      "bookIds": [
+        "007-33923738e773"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-1995296.webp",
+      "to": "covers/works/ted-chiang/商人和炼金术士之门/reference-edition.webp",
+      "owner": "ted-chiang",
+      "work": "商人和炼金术士之门",
+      "version": "reference-edition",
+      "sha256": "5f6df0abfaa251ec1fc4e12282400e010ce0d07319fd0cec4cd875492f2f32bf",
+      "bytes": 35692,
+      "bookIds": [
+        "008-a6b833cc168f"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-8022362.webp",
+      "to": "covers/works/ted-chiang/软件体的生命周期/reference-edition.webp",
+      "owner": "ted-chiang",
+      "work": "软件体的生命周期",
+      "version": "reference-edition",
+      "sha256": "e4b0b1ebfea6a2f81c35c888657b954e56e6c19461aa83513a43d136ab149aca",
+      "bytes": 5298,
+      "bookIds": [
+        "008-df10fea40889"
+      ]
+    },
+    {
+      "from": "covers/embedded/011-f00713b822e3.webp",
+      "to": "covers/works/andy-weir/挽救计划/zh-cn-epub-cover.webp",
+      "owner": "andy-weir",
+      "work": "挽救计划",
+      "version": "zh-cn-epub-cover",
+      "sha256": "536dffa60c270f2a242a1ccdfda430abea5ae041d3b34632fd4ddd7193f4bfd7",
+      "bytes": 75354,
+      "bookIds": [
+        "011-f00713b822e3"
+      ]
+    },
+    {
+      "from": "covers/editions/openlibrary-207371.webp",
+      "to": "covers/works/arthur-c-clarke/太空序曲/reference-edition.webp",
+      "owner": "arthur-c-clarke",
+      "work": "太空序曲",
+      "version": "reference-edition",
+      "sha256": "e6624d4a86ce15d53049ee4fd1ee25e35ec44c8fb7a7c564909964c20fc11d79",
+      "bytes": 26366,
+      "bookIds": [
+        "012-6f8d83cf5dbb"
+      ]
+    },
+    {
+      "from": "covers/periodicals/amazing_stories_v27n05_1953-06-07.webp",
+      "to": "covers/works/arthur-c-clarke/encounter-in-the-dawn/1953-06-07-original-magazine.webp",
+      "owner": "arthur-c-clarke",
+      "work": "encounter-in-the-dawn",
+      "version": "1953-06-07-original-magazine",
+      "sha256": "df6047a5088ed5185aee849b2c5fbf7dd4629e3894a284f83ac980e32ca7c29c",
+      "bytes": 80232,
+      "bookIds": [
+        "012-ec25bfc244c9"
+      ]
+    },
+    {
+      "from": "covers/periodicals/fantastic_universe_v06n03_1956-10.webp",
+      "to": "covers/works/arthur-c-clarke/the-pacifist/1956-10-original-magazine.webp",
+      "owner": "arthur-c-clarke",
+      "work": "the-pacifist",
+      "version": "1956-10-original-magazine",
+      "sha256": "b1c69acd5fab8bba5c4220afdc110fd74a7808e11a114c82bb206789d5fa83f0",
+      "bytes": 58286,
+      "bookIds": [
+        "012-c804f7f52d7c"
+      ]
+    },
+    {
+      "from": "covers/periodicals/amazing_stories_v35n06_1961-06.webp",
+      "to": "covers/works/arthur-c-clarke/before-eden/1961-06-original-magazine.webp",
+      "owner": "arthur-c-clarke",
+      "work": "before-eden",
+      "version": "1961-06-original-magazine",
+      "sha256": "ad9c93f55d4f4f4fa63b72f8abec77ef98f23ba2108bda8831775c8239c29b92",
+      "bytes": 76198,
+      "bookIds": [
+        "012-88c2a35057c1"
+      ]
+    },
+    {
+      "from": "covers/embedded/012-d539f49f2c6b.webp",
+      "to": "covers/works/arthur-c-clarke/2001-太空漫游/2019-zh-cn-epub-cover.webp",
+      "owner": "arthur-c-clarke",
+      "work": "2001-太空漫游",
+      "version": "2019-zh-cn-epub-cover",
+      "sha256": "f7579cd78b8b66e701c08ddf8d89c6af91d7f3d34f0b479b93ffd5e0ac7fcea2",
+      "bytes": 86142,
+      "bookIds": [
+        "012-d539f49f2c6b"
+      ]
+    },
+    {
+      "from": "covers/embedded/012-c28f9e19543e.webp",
+      "to": "covers/works/arthur-c-clarke/2010-太空漫游/2019-zh-cn-epub-cover.webp",
+      "owner": "arthur-c-clarke",
+      "work": "2010-太空漫游",
+      "version": "2019-zh-cn-epub-cover",
+      "sha256": "b768e97a83f1212a8ef7e68f02222b6658f4e61ad86cf81aec0f7fb2d0212e78",
+      "bytes": 85034,
+      "bookIds": [
+        "012-c28f9e19543e"
+      ]
+    },
+    {
+      "from": "covers/embedded/012-bfae6d156e5e.webp",
+      "to": "covers/works/arthur-c-clarke/3001-太空漫游/2019-zh-cn-epub-cover.webp",
+      "owner": "arthur-c-clarke",
+      "work": "3001-太空漫游",
+      "version": "2019-zh-cn-epub-cover",
+      "sha256": "2108ad1aedb2568aadd8338a63f04f7e3482b31e6d03f14389d056b34c4e3283",
+      "bytes": 90696,
+      "bookIds": [
+        "012-bfae6d156e5e"
+      ]
+    },
+    {
+      "from": "covers/embedded/012-c983a66bb98a.webp",
+      "to": "covers/works/arthur-c-clarke/2061-太空漫游/2019-zh-cn-epub-cover.webp",
+      "owner": "arthur-c-clarke",
+      "work": "2061-太空漫游",
+      "version": "2019-zh-cn-epub-cover",
+      "sha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
+      "bytes": 71722,
+      "bookIds": [
+        "012-c983a66bb98a",
+        "012-0adb36efb819"
+      ]
+    },
+    {
+      "from": "covers/editions/014-fb59edc6acb5.webp",
+      "to": "covers/works/h-g-wells/the-time-machine/1895-reference-edition.webp",
+      "owner": "h-g-wells",
+      "work": "the-time-machine",
+      "version": "1895-reference-edition",
+      "sha256": "aed152fb5f6d7e9e82d29984ec5fd81d7e6a9e8dcdd7516e0fe9b015044d21d9",
+      "bytes": 85368,
+      "bookIds": [
+        "014-fb59edc6acb5"
+      ]
+    },
+    {
+      "from": "covers/editions/014-d8d2c55938c8.webp",
+      "to": "covers/works/h-g-wells/the-invisible-man/1897-reference-edition.webp",
+      "owner": "h-g-wells",
+      "work": "the-invisible-man",
+      "version": "1897-reference-edition",
+      "sha256": "d1b7c23b26df5dce9dce585f7bb6568863c44e0be08be9c0a8e3e80eb1b48f90",
+      "bytes": 49616,
+      "bookIds": [
+        "014-d8d2c55938c8"
+      ]
+    },
+    {
+      "from": "covers/editions/014-063672849e20.webp",
+      "to": "covers/works/h-g-wells/the-war-of-the-worlds/1898-reference-edition.webp",
+      "owner": "h-g-wells",
+      "work": "the-war-of-the-worlds",
+      "version": "1898-reference-edition",
+      "sha256": "8b84048da3f69124cf9959cd833a4e3cf5b20c3b2b3f024065d71d45f096ec6e",
+      "bytes": 29194,
+      "bookIds": [
+        "014-063672849e20"
+      ]
+    },
+    {
+      "from": "covers/embedded/015-5fc56e5cd516.webp",
+      "to": "covers/works/olaf-stapledon/last-and-first-men/en-epub-cover.webp",
+      "owner": "olaf-stapledon",
+      "work": "last-and-first-men",
+      "version": "en-epub-cover",
+      "sha256": "cb4c3a1346a871c57d89c0e8272eadbc60365ebd049a86f567075b30410fc5a9",
+      "bytes": 16910,
+      "bookIds": [
+        "015-5fc56e5cd516"
+      ]
+    },
+    {
+      "from": "covers/periodicals/space_science_fiction_v01n06_1953-05_unksc-cape1736.webp",
+      "to": "covers/works/philip-k-dick/second-variety/1953-05-original-magazine.webp",
+      "owner": "philip-k-dick",
+      "work": "second-variety",
+      "version": "1953-05-original-magazine",
+      "sha256": "d8169298546ea276aa057309c18acc2bfeb8df6aa550237b446ccf93ad76de49",
+      "bytes": 70210,
+      "bookIds": [
+        "016-076cfe90dbd5"
+      ]
+    },
+    {
+      "from": "covers/periodicals/space_science_fiction_v02n02_1953-09_unksc-cape1736.webp",
+      "to": "covers/works/philip-k-dick/the-variable-man/1953-09-original-magazine.webp",
+      "owner": "philip-k-dick",
+      "work": "the-variable-man",
+      "version": "1953-09-original-magazine",
+      "sha256": "d20373518b5832d97c765197b923e8136f6a04494a31e6a8de4c5a9bcad82e94",
+      "bytes": 58634,
+      "bookIds": [
+        "016-a8df1ce8b762"
+      ]
+    },
+    {
+      "from": "covers/embedded/017-bda371f795c2.webp",
+      "to": "covers/works/ray-nayler/海中山/2026-zh-cn-epub-cover.webp",
+      "owner": "ray-nayler",
+      "work": "海中山",
+      "version": "2026-zh-cn-epub-cover",
+      "sha256": "1ab106b664ac9f897c522599e3e0e22cc639643f11eb04069a967aaed8a270a7",
+      "bytes": 20584,
+      "bookIds": [
+        "017-bda371f795c2"
+      ]
+    },
+    {
+      "from": "covers/embedded/018-521ad1f3a823.webp",
+      "to": "covers/journals/science-fiction-world/2026/issue-05-zh-cn-epub.webp",
+      "owner": "science-fiction-world",
+      "work": "2026",
+      "version": "issue-05-zh-cn-epub",
+      "sha256": "a2ccd9eb26a7af611da2c013a549f2764e454a0895ec5784d8f9b0189eeb3465",
+      "bytes": 119700,
+      "bookIds": [
+        "018-521ad1f3a823"
+      ]
+    },
+    {
+      "from": "covers/embedded/018-ca7701582aeb.webp",
+      "to": "covers/journals/science-fiction-world/2026/issue-06-zh-cn-epub.webp",
+      "owner": "science-fiction-world",
+      "work": "2026",
+      "version": "issue-06-zh-cn-epub",
+      "sha256": "0316f7d407d726def69de9d85279dcc5e3ee1f928f724ab68a50816791ce046c",
+      "bytes": 92412,
+      "bookIds": [
+        "018-ca7701582aeb"
+      ]
+    }
+  ],
+  "removed": [
+    {
+      "path": "covers/dark-forest.svg",
+      "sha256": "32caf88ac617066d0836aa6a390cb31df79e26805fc30b194968e2b2e627a62f",
+      "bytes": 2910,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    },
+    {
+      "path": "covers/three-body.svg",
+      "sha256": "b808dcdf8347397339455e4c7ee224365f1f83c1fc6ffdca334a99782d1d3422",
+      "bytes": 2910,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    },
+    {
+      "path": "covers/three-body.webp",
+      "sha256": "28c523b26fa195cfc35e83b03cb2e49326199262abc03de6ca7cd0d2208d2ccc",
+      "bytes": 9248,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    },
+    {
+      "path": "covers/deaths-end.svg",
+      "sha256": "bd17b94ab423eb80e9de20c16fafc79a303d22fef5323d15dfb4f11d8ca83686",
+      "bytes": 2910,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    },
+    {
+      "path": "covers/deaths-end.webp",
+      "sha256": "17d54782b766d010e82efd4aaa623b64d991d61f93bb11f3f055c84c55a05f51",
+      "bytes": 7058,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    },
+    {
+      "path": "covers/dark-forest.webp",
+      "sha256": "89ec5cdfbccb29fab651a7f1c3c67aeee0f22cab44fe3f1b45fca079619f024d",
+      "bytes": 6994,
+      "reason": "未被任何现有作品或期刊分期的cover字段引用的旧示例图片或SVG源文件。"
+    }
+  ],
+  "retiredSupportFiles": [
+    {
+      "path": "metadata/covers/sources.json",
+      "sha256": "af3ef6355762293943456490bd5d9530c31add808b023fa2fceb17ab7fce9a72",
+      "reason": "仅服务已移除的旧示例封面，现有阅读器的无封面绘制逻辑不依赖此文件。"
+    },
+    {
+      "path": "ScienceFictionCollection-Web/scripts/generate-example-covers.mjs",
+      "sha256": "c9439204ba74d87a9b82245e94c0247c7509dbe162660f09dca93982da49c349",
+      "reason": "仅服务已移除的旧示例封面，现有阅读器的无封面绘制逻辑不依赖此文件。"
+    }
+  ],
+  "preservation": "在用图片仅移动并重命名，未重编码；来源编号、原图摘要、现有图片摘要、版本匹配与权利说明继续保留在covers/catalog.json中。",
+  "historicalPathNote": "本记录的from和removed路径是迁移前路径，不表示文件仍应存在。"
+}
