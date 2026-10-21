@@ -26,7 +26,7 @@
 ## 元信息与图片
 
 - `metadata/authors.json`：作者 ID、slug、真实目录、多语言姓名、简介和资料来源。
-- `metadata/books/<作者 ID>.json`：文件 ID、作品 `workId`、slug、正文路径、语言、格式、系列和封面。
+- `metadata/books/<作者slug>.json`：文件 ID、作品 `workId`、slug、正文路径、语言、格式、系列和封面。
 - `metadata/avatars/`、`metadata/covers/`：WebP 头像和封面；头像最长边 160 像素，封面不超过 600 × 900 像素。
 - [封面整理清单](../metadata/covers/catalog.json)：全部 211 条记录的检索结果，已为 61 条记录整理封面，其中 6 张来自对应 EPUB；未确认的使用生成式封面。清单保留来源、版本说明及图片摘要。
 
@@ -40,7 +40,7 @@ python3 metadata/sync.py --check
 python3 script.py
 ```
 
-同步脚本只读取文件名、路径和文件大小，保留已有元信息字段；移动文件时先更新 `path`，保留文件 ID、作品 `workId` 和 slug。新增作者或翻译版本的字段说明见 [metadata/README.md](../metadata/README.md)。
+作者清单由 `authors.json` 的 `booksFile` 明确指定，例如 `books/liu-cixin.json`；ID保留在JSON内容中。同步脚本只读取文件名、路径和文件大小，保留已有元信息字段；移动文件时先更新 `path`，保留文件 ID、作品 `workId` 和 slug。新增作者或翻译版本的字段说明见 [metadata/README.md](../metadata/README.md)。
 
 README 首页与完整作品目录由 `script.py` 自动生成；本说明文档单独维护。
 

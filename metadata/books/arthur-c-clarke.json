@@ -69,7 +69,7 @@
           "续页提示",
           "相邻作品正文"
         ],
-        "acquisitionReview": "acquisition/012.json#englishImportReview"
+        "acquisitionReview": "acquisition/arthur-c-clarke.json#englishImportReview"
       },
       "rights": {
         "status": "public-domain-US-supported",
@@ -143,7 +143,7 @@
           "续页提示",
           "相邻作品正文"
         ],
-        "acquisitionReview": "acquisition/012.json#englishImportReview"
+        "acquisitionReview": "acquisition/arthur-c-clarke.json#englishImportReview"
       },
       "rights": {
         "status": "public-domain-US-supported",
@@ -225,7 +225,7 @@
           "续页提示",
           "相邻作品正文"
         ],
-        "acquisitionReview": "acquisition/012.json#englishImportReview"
+        "acquisitionReview": "acquisition/arthur-c-clarke.json#englishImportReview"
       },
       "rights": {
         "status": "public-domain-US-supported",
@@ -488,7 +488,7 @@
         "firstPublicationDate": null,
         "editionYear": null,
         "note": "原有书目保留1988年书版与1987年首发线索的差异，最早发表年未定；用户提供电子版的译者和纸本版次未核实。EPUB内2014-12-13为打包元数据日期，不作为原作或译本首发年。",
-        "acquisitionReview": "acquisition/012.json#2061-odyssey-three"
+        "acquisitionReview": "acquisition/arthur-c-clarke.json#2061-odyssey-three"
       },
       "editionNote": "用户提供的中文TXT，已转换为UTF-8并清理下载站推广；译者、ISBN和纸本底本未核定。与新版EPUB按同一作品关联，未认定译文逐段一致。",
       "textSource": {
@@ -500,7 +500,7 @@
         "sourceBytes": 242515,
         "textSha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
         "textBytes": 356271,
-        "acquisitionReview": "acquisition/012.json#userProvidedImportReview",
+        "acquisitionReview": "acquisition/arthur-c-clarke.json#userProvidedImportReview",
         "sourceEncoding": "gb18030",
         "encoding": "utf-8",
         "normalization": "GB18030转换为UTF-8，移除2行下载站推广，换行统一为LF并清理文末多余空行；其余文字和标点保留。",

@@ -28,7 +28,7 @@ def main():
     owners = authors + periodicals
 
     def manifest_for(owner):
-        relative = owner.get('issuesFile') if owner.get('kind') == 'periodical' else f"books/{owner['id']}.json"
+        relative = owner.get('issuesFile') if owner.get('kind') == 'periodical' else owner.get('booksFile')
         if not isinstance(relative, str) or '\\' in relative or Path(relative).is_absolute() or '..' in Path(relative).parts:
             raise SystemExit('目录清单必须是 metadata 内的相对路径。')
         return metadata / relative

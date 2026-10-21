@@ -41,7 +41,7 @@
     "publication": "长篇、文集以原文书版年为基准，中短篇以可核实的原文初刊年为基准；版次冲突不自动强定首发年。",
     "chineseSearchTitles": "中文检索名主要沿用旧汇总；9个优先项另记出版方在豆瓣阅读提供的中文版本资料，属于平台元信息核对，不替代实物版权页与正文完整性核对。未核定译名的条目使用null。",
     "sourceUse": "来源只支持书目、版次或获取渠道的相关事实；销售、试读、借阅、已有网络转录均不自动代表获准公开再分发。",
-    "catalogBoundary": "这里只记候选项；不在books/012.json创建无正文记录，不创建空小说文件，不改动现有ID、slug、workId或正文。"
+    "catalogBoundary": "这里只记候选项；不在books/arthur-c-clarke.json创建无正文记录，不创建空小说文件，不改动现有ID、slug、workId或正文。"
   },
   "sources": [
     {
@@ -2479,7 +2479,7 @@
       "sourceBytes": 242515,
       "textSha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
       "textBytes": 356271,
-      "acquisitionReview": "acquisition/012.json#userProvidedImportReview",
+      "acquisitionReview": "acquisition/arthur-c-clarke.json#userProvidedImportReview",
       "sourceEncoding": "gb18030",
       "encoding": "utf-8",
       "normalization": "GB18030转换为UTF-8，移除2行下载站推广，换行统一为LF并清理文末多余空行；其余文字和标点保留。",

@@ -788,7 +788,7 @@
       ],
       "localTextImport": {
         "importedOn": "2026-10-19",
-        "metadataRecord": "../books/001.json",
+        "metadataRecord": "../books/liu-cixin.json",
         "sourceKind": "user-provided-pdf-extraction",
         "sourcePageCount": 37,
         "textSha256": "4cd08ba779d803651ccd7b75a5488eead8548e1465fc4894a55916d95ee78ca6",
