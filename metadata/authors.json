@@ -286,6 +286,80 @@
           "url": "https://www.arthur-conan-doyle.com/wiki/The_Lost_World"
         }
       ]
+    },
+    {
+      "id": "014",
+      "directory": "014 - Herbert George Wells(赫伯特·乔治·威尔斯)",
+      "name": "赫伯特·乔治·威尔斯",
+      "names": {
+        "zh-CN": "赫伯特·乔治·威尔斯",
+        "zh-TW": "赫伯特·喬治·威爾斯",
+        "en": "H. G. Wells"
+      },
+      "avatar": "avatars/014.webp",
+      "slug": "h-g-wells",
+      "bio": {
+        "zh-CN": "英国作家，代表作包括《时间机器》《世界大战》和《隐身人》，以科学设想探讨未来社会与人类处境。",
+        "en": "British author whose scientific romances include The Time Machine, The War of the Worlds, and The Invisible Man."
+      },
+      "sources": [
+        {
+          "label": "Project Gutenberg: H. G. Wells and original English works",
+          "url": "https://www.gutenberg.org/ebooks/author/30"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "directory": "015 - Olaf Stapledon(奥拉夫·斯塔普尔顿)",
+      "name": "奥拉夫·斯塔普尔顿",
+      "names": {
+        "zh-CN": "奥拉夫·斯塔普尔顿",
+        "zh-TW": "奧拉夫·斯塔普爾頓",
+        "en": "Olaf Stapledon"
+      },
+      "avatar": "avatars/015.webp",
+      "slug": "olaf-stapledon",
+      "bio": {
+        "zh-CN": "英国哲学家与科幻作家，《最后与最初的人》和《造星主》以漫长时间尺度描写人类、文明与宇宙的演化。",
+        "en": "British philosopher and science fiction author of Last and First Men and Star Maker, exploring humanity and civilization across vast spans of time."
+      },
+      "sources": [
+        {
+          "label": "Project Gutenberg: Last and First Men",
+          "url": "https://www.gutenberg.org/ebooks/79003"
+        },
+        {
+          "label": "SFE: Olaf Stapledon",
+          "url": "https://sf-encyclopedia.com/entry/stapledon_olaf"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "directory": "016 - Philip Kindred Dick(菲利普·K.迪克)",
+      "name": "菲利普·K.迪克",
+      "names": {
+        "zh-CN": "菲利普·K.迪克",
+        "zh-TW": "菲利普·K.狄克",
+        "en": "Philip K. Dick"
+      },
+      "avatar": "avatars/016.webp",
+      "slug": "philip-k-dick",
+      "bio": {
+        "zh-CN": "美国科幻作家，作品常通过机器、替身和不稳定的现实，追问身份、记忆与人的处境。",
+        "en": "American science fiction author whose stories explore identity, artificial beings, memory, and unstable realities."
+      },
+      "sources": [
+        {
+          "label": "Project Gutenberg: Philip K. Dick",
+          "url": "https://www.gutenberg.org/ebooks/author/33399"
+        },
+        {
+          "label": "Philip K. Dick bibliography: Second Variety",
+          "url": "https://www.philipdick.com/mirror/websites/pkdweb/short_stories/Second%20Variety.htm"
+        }
+      ]
     }
   ]
 }

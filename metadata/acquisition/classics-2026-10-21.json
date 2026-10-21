@@ -1,0 +1,671 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-21",
+  "scope": "经典名家扩充首批：3位新增作者、6部英文作品。其他代表作保留为候选，不创建无正文书页。",
+  "status": "first-batch-imported",
+  "summary": {
+    "authorsAdded": 3,
+    "worksAdded": 6,
+    "txtFilesAdded": 5,
+    "epubFilesAdded": 1,
+    "baselineAuthors": 13,
+    "baselineBookFiles": 214,
+    "newBookFiles": 6
+  },
+  "records": [
+    {
+      "formatDifferences": [
+        {
+          "paragraphIndex": 52,
+          "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+        },
+        {
+          "paragraphIndex": 200,
+          "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+        }
+      ],
+      "slug": "time-machine",
+      "title": "The Time Machine",
+      "gutenbergId": 35,
+      "year": 1895,
+      "paragraphCount": 306,
+      "headingCount": 17,
+      "headings": [
+        "I. Introduction",
+        "II. The Machine",
+        "III. The Time Traveller Returns",
+        "IV. Time Travelling",
+        "V. In the Golden Age",
+        "VI. The Sunset of Mankind",
+        "VII. A Sudden Shock",
+        "VIII. Explanation",
+        "IX. The Morlocks",
+        "X. When Night Came",
+        "XI. The Palace of Green Porcelain",
+        "XII. In the Darkness",
+        "XIII. The Trap of the White Sphinx",
+        "XIV. The Further Vision",
+        "XV. The Time Traveller’s Return",
+        "XVI. After the Story",
+        "Epilogue"
+      ],
+      "textSha256": "f0bc21ac4e9ac715efc586dab598eebdafc362f90abb6df8b2038fd90d504280",
+      "bytes": 180915,
+      "wordCount": 32383,
+      "proseSha256": "4e0bb57dc1e1b069eb915b5612abcbf170e7495147640a3f72e5b8cd91bdda9a",
+      "plainTextComparisonMismatches": [],
+      "completeNarrativeAlphanumericSha256": "25ae8b36238ef7fa5d7f687f19bc62117980e77cd2857983fa1f06f63065648f",
+      "completeNarrativeComparedToTxt": true,
+      "authorId": "014",
+      "bookId": "014-fb59edc6acb5",
+      "path": "014 - Herbert George Wells(赫伯特·乔治·威尔斯)/[1895]《The Time Machine》.en.txt",
+      "status": "imported",
+      "language": "en",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/35",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1895,
+        "firstPublicationDate": "1895",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/35",
+        "editionYear": null,
+        "note": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。"
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 35",
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "importedOn": "2026-10-21",
+        "textSha256": "f0bc21ac4e9ac715efc586dab598eebdafc362f90abb6df8b2038fd90d504280",
+        "textBytes": 180915,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/35/pg35.txt",
+        "sourceTxtSha256": "2892e919000e17c83e1dac51b30f4675db50536b644d7579fe8a89bb399a9bdc",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/35/pg35-images.html",
+        "sourceHtmlSha256": "c2749206d5faf4213d6a0c204d5ae1419d8642f34ca0b32d10f793278b80b584",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 306,
+        "headingCount": 17,
+        "completeNarrativeAlphanumericSha256": "25ae8b36238ef7fa5d7f687f19bc62117980e77cd2857983fa1f06f63065648f",
+        "formatDifferences": [
+          {
+            "paragraphIndex": 52,
+            "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+          },
+          {
+            "paragraphIndex": 200,
+            "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+          }
+        ],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "format": "txt"
+    },
+    {
+      "formatDifferences": [],
+      "slug": "war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "gutenbergId": 36,
+      "year": 1898,
+      "paragraphCount": 883,
+      "headingCount": 29,
+      "headings": [
+        "BOOK ONE THE COMING OF THE MARTIANS",
+        "I. THE EVE OF THE WAR.",
+        "II. THE FALLING STAR.",
+        "III. ON HORSELL COMMON.",
+        "IV. THE CYLINDER OPENS.",
+        "V. THE HEAT-RAY.",
+        "VI. THE HEAT-RAY IN THE CHOBHAM ROAD.",
+        "VII. HOW I REACHED HOME.",
+        "VIII. FRIDAY NIGHT.",
+        "IX. THE FIGHTING BEGINS.",
+        "X. IN THE STORM.",
+        "XI. AT THE WINDOW.",
+        "XII. WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERTON.",
+        "XIII. HOW I FELL IN WITH THE CURATE.",
+        "XIV. IN LONDON.",
+        "XV. WHAT HAD HAPPENED IN SURREY.",
+        "XVI. THE EXODUS FROM LONDON.",
+        "XVII. THE “THUNDER CHILD”.",
+        "BOOK TWO THE EARTH UNDER THE MARTIANS.",
+        "I. UNDER FOOT.",
+        "II. WHAT WE SAW FROM THE RUINED HOUSE.",
+        "III. THE DAYS OF IMPRISONMENT.",
+        "IV. THE DEATH OF THE CURATE.",
+        "V. THE STILLNESS.",
+        "VI. THE WORK OF FIFTEEN DAYS.",
+        "VII. THE MAN ON PUTNEY HILL.",
+        "VIII. DEAD LONDON.",
+        "IX. WRECKAGE.",
+        "X. THE EPILOGUE."
+      ],
+      "textSha256": "fd571bd755abfc18cb771031f005bb149a4b0e8f6d129dc6870734d6416d6de7",
+      "bytes": 339438,
+      "wordCount": 59930,
+      "proseSha256": "36f85fa46762d4e354bd6daca71b15dc98b2e0eb0d8bf88dd36b8376acd73da2",
+      "plainTextComparisonMismatches": [],
+      "completeNarrativeAlphanumericSha256": "2452c1d2ecebadb243f8f5ca30b28413a5df8ab2fba5030f6d35668905a39357",
+      "completeNarrativeComparedToTxt": true,
+      "authorId": "014",
+      "bookId": "014-063672849e20",
+      "path": "014 - Herbert George Wells(赫伯特·乔治·威尔斯)/[1898]《The War of the Worlds》.en.txt",
+      "status": "imported",
+      "language": "en",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/36",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1898,
+        "firstPublicationDate": "1897",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/36",
+        "editionYear": null,
+        "note": "1897年连载，1898年书版；文件名1898采用原作书版年。此数字转录的具体纸本底本未核定。",
+        "serialPublicationYear": 1897
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 36",
+        "url": "https://www.gutenberg.org/ebooks/36",
+        "importedOn": "2026-10-21",
+        "textSha256": "fd571bd755abfc18cb771031f005bb149a4b0e8f6d129dc6870734d6416d6de7",
+        "textBytes": 339438,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/36/pg36.txt",
+        "sourceTxtSha256": "8417469e3ab664749f7b36ebb85799075818207b0380b54c27d07d592a44117d",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/36/pg36-images.html",
+        "sourceHtmlSha256": "19fb1057177e49aba22a928c3c8ae6b9fd6557d950cc8520ff0fb3e6627a65af",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 883,
+        "headingCount": 29,
+        "completeNarrativeAlphanumericSha256": "2452c1d2ecebadb243f8f5ca30b28413a5df8ab2fba5030f6d35668905a39357",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "format": "txt"
+    },
+    {
+      "formatDifferences": [],
+      "slug": "invisible-man",
+      "title": "The Invisible Man",
+      "gutenbergId": 5230,
+      "year": 1897,
+      "paragraphCount": 1110,
+      "headingCount": 29,
+      "headings": [
+        "CHAPTER I. THE STRANGE MAN’S ARRIVAL",
+        "CHAPTER II. MR. TEDDY HENFREY’S FIRST IMPRESSIONS",
+        "CHAPTER III. THE THOUSAND AND ONE BOTTLES",
+        "CHAPTER IV. MR. CUSS INTERVIEWS THE STRANGER",
+        "CHAPTER V. THE BURGLARY AT THE VICARAGE",
+        "CHAPTER VI. THE FURNITURE THAT WENT MAD",
+        "CHAPTER VII. THE UNVEILING OF THE STRANGER",
+        "CHAPTER VIII. IN TRANSIT",
+        "CHAPTER IX. MR. THOMAS MARVEL",
+        "CHAPTER X. MR. MARVEL’S VISIT TO IPING",
+        "CHAPTER XI. IN THE “COACH AND HORSES”",
+        "CHAPTER XII. THE INVISIBLE MAN LOSES HIS TEMPER",
+        "CHAPTER XIII. MR. MARVEL DISCUSSES HIS RESIGNATION",
+        "CHAPTER XIV. AT PORT STOWE",
+        "CHAPTER XV. THE MAN WHO WAS RUNNING",
+        "CHAPTER XVI. IN THE “JOLLY CRICKETERS”",
+        "CHAPTER XVII. DR. KEMP’S VISITOR",
+        "CHAPTER XVIII. THE INVISIBLE MAN SLEEPS",
+        "CHAPTER XIX. CERTAIN FIRST PRINCIPLES",
+        "CHAPTER XX. AT THE HOUSE IN GREAT PORTLAND STREET",
+        "CHAPTER XXI. IN OXFORD STREET",
+        "CHAPTER XXII. IN THE EMPORIUM",
+        "CHAPTER XXIII. IN DRURY LANE",
+        "CHAPTER XXIV. THE PLAN THAT FAILED",
+        "CHAPTER XXV. THE HUNTING OF THE INVISIBLE MAN",
+        "CHAPTER XXVI. THE WICKSTEED MURDER",
+        "CHAPTER XXVII. THE SIEGE OF KEMP’S HOUSE",
+        "CHAPTER XXVIII. THE HUNTER HUNTED",
+        "THE EPILOGUE"
+      ],
+      "textSha256": "bc3289fbaaa82399dceb7e437df71d5547c125f516208922a89d5b928a9c009a",
+      "bytes": 279492,
+      "wordCount": 48345,
+      "proseSha256": "feb48b8af5c90b340771c229f9da1ee6fd16689fa7b50dc8600e37a8bece0957",
+      "plainTextComparisonMismatches": [],
+      "completeNarrativeAlphanumericSha256": "886b1d34702e3c91cade4c204ae04fec00a202057f12440536edba3236bc0a18",
+      "completeNarrativeComparedToTxt": true,
+      "authorId": "014",
+      "bookId": "014-d8d2c55938c8",
+      "path": "014 - Herbert George Wells(赫伯特·乔治·威尔斯)/[1897]《The Invisible Man》.en.txt",
+      "status": "imported",
+      "language": "en",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/5230",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1897,
+        "firstPublicationDate": "1897",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/5230",
+        "editionYear": null,
+        "note": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。"
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 5230",
+        "url": "https://www.gutenberg.org/ebooks/5230",
+        "importedOn": "2026-10-21",
+        "textSha256": "bc3289fbaaa82399dceb7e437df71d5547c125f516208922a89d5b928a9c009a",
+        "textBytes": 279492,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/5230/pg5230.txt",
+        "sourceTxtSha256": "28c70e3809ce945efbe5f8681532916a2c4253fee5cca6e1a191707af22280d3",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/5230/pg5230-images.html",
+        "sourceHtmlSha256": "0779dbdbe9dca4a258a117c43eec3fdf274576c6d0b969275502f9a4468810be",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 1110,
+        "headingCount": 29,
+        "completeNarrativeAlphanumericSha256": "886b1d34702e3c91cade4c204ae04fec00a202057f12440536edba3236bc0a18",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "format": "txt"
+    },
+    {
+      "formatDifferences": [],
+      "slug": "second-variety",
+      "title": "Second Variety",
+      "gutenbergId": 32032,
+      "year": 1953,
+      "paragraphCount": 781,
+      "headingCount": 0,
+      "headings": [],
+      "textSha256": "aacffa058073da03d787e7ada38d21356933482ef3d20d0584e4dc92740620a1",
+      "bytes": 90616,
+      "wordCount": 15305,
+      "proseSha256": "40e6af785fdea543a5b489ca53a3ae3b717df8d2909c41f026b99f28401b1011",
+      "plainTextComparisonMismatches": [],
+      "completeNarrativeAlphanumericSha256": "735f01b202c9aa8cb96b22afe6e518fa0e4b91b0a52052e0b70896cdd9aad55c",
+      "completeNarrativeComparedToTxt": true,
+      "authorId": "016",
+      "bookId": "016-076cfe90dbd5",
+      "path": "016 - Philip Kindred Dick(菲利普·K.迪克)/[1953]《Second Variety》.en.txt",
+      "status": "imported",
+      "language": "en",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/32032",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-magazine-edition",
+        "originalBookYear": null,
+        "firstPublicationDate": "1953-05",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/32032",
+        "editionYear": null,
+        "note": "所收英文转录来自Space Science Fiction的1953年刊本；不与1957年同名合集混同。",
+        "editionDate": "1953-05"
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 32032",
+        "url": "https://www.gutenberg.org/ebooks/32032",
+        "importedOn": "2026-10-21",
+        "textSha256": "aacffa058073da03d787e7ada38d21356933482ef3d20d0584e4dc92740620a1",
+        "textBytes": 90616,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/32032/pg32032.txt",
+        "sourceTxtSha256": "1deb05b5a08ff0454ffe285d999ed8fd6c281c6a480667162afe6848766f99d0",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/32032/pg32032-images.html",
+        "sourceHtmlSha256": "87ab9a49ff3c90782edfecc71a8f62f4892425ce9fa0c266aaf1e76a4e461269",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 781,
+        "headingCount": 0,
+        "completeNarrativeAlphanumericSha256": "735f01b202c9aa8cb96b22afe6e518fa0e4b91b0a52052e0b70896cdd9aad55c",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "format": "txt"
+    },
+    {
+      "formatDifferences": [],
+      "slug": "variable-man",
+      "title": "The Variable Man",
+      "gutenbergId": 32154,
+      "year": 1953,
+      "paragraphCount": 883,
+      "headingCount": 3,
+      "headings": [
+        "II",
+        "III",
+        "IV"
+      ],
+      "textSha256": "43004fe071223761f99527d90dedba4e1513c111765ae3ba9cfa9ceb260e7cc1",
+      "bytes": 150131,
+      "wordCount": 25033,
+      "proseSha256": "aaccee5fc97306c1480c7b632b3b9fc01d5a01b0f255513c5d2522b06343ccf8",
+      "plainTextComparisonMismatches": [],
+      "completeNarrativeAlphanumericSha256": "ddaeb8f41224c899f7b17b0b9723d646b73b516ae6e29f80dfa044395eec9171",
+      "completeNarrativeComparedToTxt": true,
+      "authorId": "016",
+      "bookId": "016-a8df1ce8b762",
+      "path": "016 - Philip Kindred Dick(菲利普·K.迪克)/[1953]《The Variable Man》.en.txt",
+      "status": "imported",
+      "language": "en",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/32154",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-magazine-edition",
+        "originalBookYear": null,
+        "firstPublicationDate": null,
+        "sourceUrl": "https://www.gutenberg.org/ebooks/32154",
+        "editionYear": null,
+        "note": "本文件对应美国Space Science Fiction 1953年9月版。另有英国版1953年7月线索，未将美国版月份标作全球首发日期；原作年份均为1953。",
+        "editionDate": "1953-09"
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 32154",
+        "url": "https://www.gutenberg.org/ebooks/32154",
+        "importedOn": "2026-10-21",
+        "textSha256": "43004fe071223761f99527d90dedba4e1513c111765ae3ba9cfa9ceb260e7cc1",
+        "textBytes": 150131,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/32154/pg32154.txt",
+        "sourceTxtSha256": "bbdf63a1f122510fa421f38d270eb376a7e348185c59a6f252e877c980b646d3",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/32154/pg32154-images.html",
+        "sourceHtmlSha256": "76f7c3223fbc4f3f1f6a8f520138d2c8692de2a9ee57f525262eb39be1590583",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 883,
+        "headingCount": 3,
+        "completeNarrativeAlphanumericSha256": "ddaeb8f41224c899f7b17b0b9723d646b73b516ae6e29f80dfa044395eec9171",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "format": "txt"
+    },
+    {
+      "slug": "last-and-first-men",
+      "title": "Last and First Men",
+      "gutenbergId": 79003,
+      "format": "epub",
+      "year": 1930,
+      "bytes": 415137,
+      "textSha256": "1e335ea4679b79130f8ec17178d00552d7246d37ea81d9e3cf164dc9a0497951",
+      "mainChapterCount": 16,
+      "chapterHeadings": [
+        "I Balkan Europe",
+        "II Europe’s Downfall",
+        "III America and China",
+        "IV An Americanized Planet",
+        "V The Fall of the First Men",
+        "VI Transition",
+        "VII The Rise of the Second Men",
+        "VIII The Martians",
+        "IX Earth and Mars",
+        "X The Third Men in the Wilderness",
+        "XI Man Remakes Himself",
+        "XII The Last Terrestrials",
+        "XIII Humanity on Venus",
+        "XIV Neptune",
+        "XV The Last Men",
+        "XVI The Last of Man"
+      ],
+      "proseParagraphsComparedToHtml": 760,
+      "proseMatchedInOrder": true,
+      "diagramImageCount": 4,
+      "timeScaleCount": 5,
+      "spineDocuments": 7,
+      "navigationLinksChecked": 75,
+      "embeddedResourceLinksChecked": 97,
+      "language": "en",
+      "retainsSourceLicense": true,
+      "authorId": "015",
+      "bookId": "015-5fc56e5cd516",
+      "path": "015 - Olaf Stapledon(奥拉夫·斯塔普尔顿)/[1930]《Last and First Men》.en.epub",
+      "status": "imported",
+      "rightsStatus": "public-domain-US-supported",
+      "gutenbergCatalogUrl": "https://www.gutenberg.org/ebooks/79003",
+      "rightsScope": [
+        "US"
+      ],
+      "globalPublicDomain": false,
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1930,
+        "firstPublicationDate": "1930",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/79003",
+        "editionYear": null,
+        "note": "原作书版年1930；PG目录另列Penguin后出印本信息，数字版发布于2026-07-02。保留完整16章、序言、引言和时间尺度图；不是MIT Press 2026年节写版。"
+      },
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 79003",
+        "url": "https://www.gutenberg.org/ebooks/79003",
+        "importedOn": "2026-10-21",
+        "textSha256": "1e335ea4679b79130f8ec17178d00552d7246d37ea81d9e3cf164dc9a0497951",
+        "textBytes": 415137,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "验证EPUB容器、16章及序言/引言、760段正文顺序、75个目录链接和97个嵌入资源引用，保留4张时间尺度图（共5个尺度）。源文件及内含许可逐字节保留。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003.txt",
+        "sourceTxtSha256": "696322ceaa13f157e8e6ed26a25195a8165a047747d668c71d850c3129421df5",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003-images.html",
+        "sourceHtmlSha256": "379a2625ce3720697784e13f100124783133487bd836663955efac0f5a397ba6",
+        "sourceEpubUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003-images-3.epub",
+        "sourceEpubSha256": "1e335ea4679b79130f8ec17178d00552d7246d37ea81d9e3cf164dc9a0497951",
+        "redistributionMode": "verbatim-source-ebook-with-full-license",
+        "diagramImages": 4,
+        "timeScales": 5
+      }
+    }
+  ],
+  "pending": [
+    {
+      "author": "Robert A. Heinlein",
+      "nameZh": "罗伯特·海因莱因",
+      "works": [
+        {
+          "title": "The Moon Is a Harsh Mistress",
+          "searchTitleZh": "严厉的月亮"
+        },
+        {
+          "title": "Stranger in a Strange Land",
+          "searchTitleZh": "异乡异客"
+        },
+        {
+          "title": "Starship Troopers",
+          "searchTitleZh": "星船伞兵"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.heinleinsociety.org/books-and-stories/"
+      ],
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false,
+      "note": "已定位作者/出版方入口，未取得本项目全文公开托管依据；销售、试读入口不作为授权。"
+    },
+    {
+      "author": "Ursula K. Le Guin",
+      "nameZh": "厄休拉·勒古恩",
+      "works": [
+        {
+          "title": "The Left Hand of Darkness",
+          "searchTitleZh": "黑暗的左手"
+        },
+        {
+          "title": "The Dispossessed",
+          "searchTitleZh": "一无所有"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ursulakleguin.com/hainish-novels-and-stories"
+      ],
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false,
+      "note": "已定位作者/出版方入口，未取得本项目全文公开托管依据；销售、试读入口不作为授权。"
+    },
+    {
+      "author": "Stanisław Lem",
+      "nameZh": "斯坦尼斯瓦夫·莱姆",
+      "works": [
+        {
+          "title": "Solaris",
+          "searchTitleZh": "索拉里斯星"
+        },
+        {
+          "title": "The Cyberiad",
+          "searchTitleZh": "机器人大师"
+        }
+      ],
+      "sourceUrls": [
+        "https://english.lem.pl/works/novels/solaris"
+      ],
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false,
+      "note": "已定位作者/出版方入口，未取得本项目全文公开托管依据；销售、试读入口不作为授权。"
+    },
+    {
+      "author": "William Gibson",
+      "nameZh": "威廉·吉布森",
+      "works": [
+        {
+          "title": "Neuromancer",
+          "searchTitleZh": "神经漫游者"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.penguinrandomhouse.com/books/538861/neuromancer-by-william-gibson/"
+      ],
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false,
+      "note": "已定位作者/出版方入口，未取得本项目全文公开托管依据；销售、试读入口不作为授权。"
+    },
+    {
+      "author": "Douglas Adams",
+      "nameZh": "道格拉斯·亚当斯",
+      "works": [
+        {
+          "title": "The Hitchhiker's Guide to the Galaxy",
+          "searchTitleZh": "银河系搭车客指南"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.penguinrandomhouse.com/books/671/the-hitchhikers-guide-to-the-galaxy-25th-anniversary-edition-by-douglas-adams/9781400052929/"
+      ],
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false,
+      "note": "已定位作者/出版方入口，未取得本项目全文公开托管依据；销售、试读入口不作为授权。"
+    },
+    {
+      "author": "Philip K. Dick",
+      "nameZh": "菲利普·K.迪克",
+      "works": [
+        {
+          "title": "Ubik",
+          "searchTitleZh": "尤比克"
+        },
+        {
+          "title": "Do Androids Dream of Electric Sheep?",
+          "searchTitleZh": "仿生人会梦见电子羊吗？"
+        },
+        {
+          "title": "The Man in the High Castle",
+          "searchTitleZh": "高堡奇人"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gutenberg.org/ebooks/author/33399"
+      ],
+      "note": "早期短篇的公版依据不涵盖这些长篇；这3项保留为选书候选，未在本轮逐项核对版本。",
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false
+    },
+    {
+      "author": "Olaf Stapledon",
+      "nameZh": "奥拉夫·斯塔普尔顿",
+      "works": [
+        {
+          "title": "Star Maker",
+          "searchTitleZh": "造星主"
+        }
+      ],
+      "sourceUrls": [
+        "https://sf-encyclopedia.com/entry/stapledon_olaf"
+      ],
+      "note": "不能由Last and First Men的美国公版状态外推本书。",
+      "status": "pending-source-and-rights-review",
+      "publicImport": "not-cleared",
+      "textImported": false
+    }
+  ],
+  "sourcePolicy": {
+    "copyrightScope": [
+      "US"
+    ],
+    "globalPublicDomain": false,
+    "gutenbergLicense": "https://www.gutenberg.org/policy/license.html",
+    "copyrightDuration": "https://www.copyright.gov/circs/circ15a.pdf",
+    "noRightsOutreach": true,
+    "noMachineTranslation": true,
+    "noNewIntroductionsCopied": true
+  },
+  "rejectedSources": [
+    {
+      "url": "https://standardebooks.org/ebooks/olaf-stapledon/last-and-first-men/downloads/olaf-stapledon_last-and-first-men.epub",
+      "reason": "本轮响应为XHTML而不是EPUB，文件头/ZIP检验失败；没有使用或登记为已取得电子书。"
+    },
+    {
+      "url": "https://mitpress.mit.edu/9780262054621/last-and-first-men/",
+      "reason": "2026年此版明确为abridged edition，不能替代完整原著；没有复制其新导读或正文。"
+    }
+  ],
+  "temporaryDownloadsRetained": false
+}

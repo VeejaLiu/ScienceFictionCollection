@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "authorId": "014",
+  "books": [
+    {
+      "id": "014-fb59edc6acb5",
+      "path": "[1895]《The Time Machine》.en.txt",
+      "title": "The Time Machine",
+      "format": "txt",
+      "size": 180915,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "the-time-machine",
+      "workId": "014-fb59edc6acb5",
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1895,
+        "firstPublicationDate": "1895",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/35",
+        "editionYear": null,
+        "note": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。"
+      },
+      "editionNote": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 35",
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "importedOn": "2026-10-21",
+        "textSha256": "f0bc21ac4e9ac715efc586dab598eebdafc362f90abb6df8b2038fd90d504280",
+        "textBytes": 180915,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/35/pg35.txt",
+        "sourceTxtSha256": "2892e919000e17c83e1dac51b30f4675db50536b644d7579fe8a89bb399a9bdc",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/35/pg35-images.html",
+        "sourceHtmlSha256": "c2749206d5faf4213d6a0c204d5ae1419d8642f34ca0b32d10f793278b80b584",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 306,
+        "headingCount": 17,
+        "completeNarrativeAlphanumericSha256": "25ae8b36238ef7fa5d7f687f19bc62117980e77cd2857983fa1f06f63065648f",
+        "formatDifferences": [
+          {
+            "paragraphIndex": 52,
+            "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+          },
+          {
+            "paragraphIndex": 200,
+            "difference": "The PG HTML and TXT place the word full differently; retained the TXT reading without mixing editions."
+          }
+        ],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡作品目录和实际文件的美国公版说明；威尔斯及斯塔普尔顿原作的发表年份另作交叉核对。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/35",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
+        "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      },
+      "chapterTitleCorrections": [
+        {
+          "prefix": "Epilogue",
+          "title": "Epilogue"
+        }
+      ]
+    },
+    {
+      "id": "014-d8d2c55938c8",
+      "path": "[1897]《The Invisible Man》.en.txt",
+      "title": "The Invisible Man",
+      "format": "txt",
+      "size": 279492,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "the-invisible-man",
+      "workId": "014-d8d2c55938c8",
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1897,
+        "firstPublicationDate": "1897",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/5230",
+        "editionYear": null,
+        "note": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。"
+      },
+      "editionNote": "文件名年份指原作书版年，所收为所列古登堡数字版本；未将数字版本发布日期或具体纸本版次当作原作年份。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 5230",
+        "url": "https://www.gutenberg.org/ebooks/5230",
+        "importedOn": "2026-10-21",
+        "textSha256": "bc3289fbaaa82399dceb7e437df71d5547c125f516208922a89d5b928a9c009a",
+        "textBytes": 279492,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/5230/pg5230.txt",
+        "sourceTxtSha256": "28c70e3809ce945efbe5f8681532916a2c4253fee5cca6e1a191707af22280d3",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/5230/pg5230-images.html",
+        "sourceHtmlSha256": "0779dbdbe9dca4a258a117c43eec3fdf274576c6d0b969275502f9a4468810be",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 1110,
+        "headingCount": 29,
+        "completeNarrativeAlphanumericSha256": "886b1d34702e3c91cade4c204ae04fec00a202057f12440536edba3236bc0a18",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡作品目录和实际文件的美国公版说明；威尔斯及斯塔普尔顿原作的发表年份另作交叉核对。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/5230",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
+        "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      },
+      "chapterTitleCorrections": [
+        {
+          "prefix": "THE EPILOGUE",
+          "title": "THE EPILOGUE"
+        }
+      ]
+    },
+    {
+      "id": "014-063672849e20",
+      "path": "[1898]《The War of the Worlds》.en.txt",
+      "title": "The War of the Worlds",
+      "format": "txt",
+      "size": 339438,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "the-war-of-the-worlds",
+      "workId": "014-063672849e20",
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1898,
+        "firstPublicationDate": "1897",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/36",
+        "editionYear": null,
+        "note": "1897年连载，1898年书版；文件名1898采用原作书版年。此数字转录的具体纸本底本未核定。",
+        "serialPublicationYear": 1897
+      },
+      "editionNote": "1897年连载，1898年书版；文件名1898采用原作书版年。此数字转录的具体纸本底本未核定。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 36",
+        "url": "https://www.gutenberg.org/ebooks/36",
+        "importedOn": "2026-10-21",
+        "textSha256": "fd571bd755abfc18cb771031f005bb149a4b0e8f6d129dc6870734d6416d6de7",
+        "textBytes": 339438,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/36/pg36.txt",
+        "sourceTxtSha256": "8417469e3ab664749f7b36ebb85799075818207b0380b54c27d07d592a44117d",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/36/pg36-images.html",
+        "sourceHtmlSha256": "19fb1057177e49aba22a928c3c8ae6b9fd6557d950cc8520ff0fb3e6627a65af",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 883,
+        "headingCount": 29,
+        "completeNarrativeAlphanumericSha256": "2452c1d2ecebadb243f8f5ca30b28413a5df8ab2fba5030f6d35668905a39357",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡作品目录和实际文件的美国公版说明；威尔斯及斯塔普尔顿原作的发表年份另作交叉核对。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/36",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
+        "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      }
+    }
+  ]
+}

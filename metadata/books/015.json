@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "authorId": "015",
+  "books": [
+    {
+      "id": "015-5fc56e5cd516",
+      "path": "[1930]《Last and First Men》.en.epub",
+      "title": "Last and First Men",
+      "format": "epub",
+      "size": 415137,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "last-and-first-men",
+      "workId": "015-5fc56e5cd516",
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1930,
+        "firstPublicationDate": "1930",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/79003",
+        "editionYear": null,
+        "note": "原作书版年1930；PG目录另列Penguin后出印本信息，数字版发布于2026-07-02。保留完整16章、序言、引言和时间尺度图；不是MIT Press 2026年节写版。"
+      },
+      "editionNote": "原作书版年1930；PG目录另列Penguin后出印本信息，数字版发布于2026-07-02。保留完整16章、序言、引言和时间尺度图；不是MIT Press 2026年节写版。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 79003",
+        "url": "https://www.gutenberg.org/ebooks/79003",
+        "importedOn": "2026-10-21",
+        "textSha256": "1e335ea4679b79130f8ec17178d00552d7246d37ea81d9e3cf164dc9a0497951",
+        "textBytes": 415137,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "验证EPUB容器、16章及序言/引言、760段正文顺序、75个目录链接和97个嵌入资源引用，保留4张时间尺度图（共5个尺度）。源文件及内含许可逐字节保留。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003.txt",
+        "sourceTxtSha256": "696322ceaa13f157e8e6ed26a25195a8165a047747d668c71d850c3129421df5",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003-images.html",
+        "sourceHtmlSha256": "379a2625ce3720697784e13f100124783133487bd836663955efac0f5a397ba6",
+        "sourceEpubUrl": "https://www.gutenberg.org/cache/epub/79003/pg79003-images-3.epub",
+        "sourceEpubSha256": "1e335ea4679b79130f8ec17178d00552d7246d37ea81d9e3cf164dc9a0497951",
+        "redistributionMode": "verbatim-source-ebook-with-full-license",
+        "diagramImages": 4,
+        "timeScales": 5
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡作品目录和实际文件的美国公版说明；威尔斯及斯塔普尔顿原作的发表年份另作交叉核对。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/79003",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列完整英文EPUB及内含原作时间尺度图在美国的来源公版依据；不涵盖未经核查的译文、新导读或其他地区。",
+        "redistribution": "原样保留源EPUB、来源署名及完整古登堡许可；没有修改或删除其许可。"
+      }
+    }
+  ]
+}

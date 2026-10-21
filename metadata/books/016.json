@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "authorId": "016",
+  "books": [
+    {
+      "id": "016-076cfe90dbd5",
+      "path": "[1953]《Second Variety》.en.txt",
+      "title": "Second Variety",
+      "format": "txt",
+      "size": 90616,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "second-variety",
+      "workId": "016-076cfe90dbd5",
+      "publication": {
+        "yearBasis": "original-magazine-edition",
+        "originalBookYear": null,
+        "firstPublicationDate": "1953-05",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/32032",
+        "editionYear": null,
+        "note": "所收英文转录来自Space Science Fiction的1953年刊本；不与1957年同名合集混同。",
+        "editionDate": "1953-05"
+      },
+      "editionNote": "所收英文转录来自Space Science Fiction的1953年刊本；不与1957年同名合集混同。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 32032",
+        "url": "https://www.gutenberg.org/ebooks/32032",
+        "importedOn": "2026-10-21",
+        "textSha256": "aacffa058073da03d787e7ada38d21356933482ef3d20d0584e4dc92740620a1",
+        "textBytes": 90616,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/32032/pg32032.txt",
+        "sourceTxtSha256": "1deb05b5a08ff0454ffe285d999ed8fd6c281c6a480667162afe6848766f99d0",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/32032/pg32032-images.html",
+        "sourceHtmlSha256": "87ab9a49ff3c90782edfecc71a8f62f4892425ce9fa0c266aaf1e76a4e461269",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 781,
+        "headingCount": 0,
+        "completeNarrativeAlphanumericSha256": "735f01b202c9aa8cb96b22afe6e518fa0e4b91b0a52052e0b70896cdd9aad55c",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡目录明确标美国公版，实际文件附有针对本1953年刊本的未续展研究说明；本项目依该数字版本的清权结论收录，不扩展到作者其他作品。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/32032",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
+        "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      }
+    },
+    {
+      "id": "016-a8df1ce8b762",
+      "path": "[1953]《The Variable Man》.en.txt",
+      "title": "The Variable Man",
+      "format": "txt",
+      "size": 150131,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "variable-man",
+      "workId": "016-a8df1ce8b762",
+      "publication": {
+        "yearBasis": "original-magazine-edition",
+        "originalBookYear": null,
+        "firstPublicationDate": null,
+        "sourceUrl": "https://www.gutenberg.org/ebooks/32154",
+        "editionYear": null,
+        "note": "本文件对应美国Space Science Fiction 1953年9月版。另有英国版1953年7月线索，未将美国版月份标作全球首发日期；原作年份均为1953。",
+        "editionDate": "1953-09"
+      },
+      "editionNote": "本文件对应美国Space Science Fiction 1953年9月版。另有英国版1953年7月线索，未将美国版月份标作全球首发日期；原作年份均为1953。",
+      "textSource": {
+        "kind": "public-domain-digital-edition",
+        "label": "Project Gutenberg ebook 32154",
+        "url": "https://www.gutenberg.org/ebooks/32154",
+        "importedOn": "2026-10-21",
+        "textSha256": "43004fe071223761f99527d90dedba4e1513c111765ae3ba9cfa9ceb260e7cc1",
+        "textBytes": 150131,
+        "acquisitionReview": "acquisition/classics-2026-10-21.json",
+        "review": "对照同站HTML和TXT核查章节及首尾；全部叙事段落逐一顺序匹配，并验证整段正文的字母数字序列一致。不是逐页原刊影像校勘。",
+        "sourceTextUrl": "https://www.gutenberg.org/cache/epub/32154/pg32154.txt",
+        "sourceTxtSha256": "bbdf63a1f122510fa421f38d270eb376a7e348185c59a6f252e877c980b646d3",
+        "sourceHtmlUrl": "https://www.gutenberg.org/cache/epub/32154/pg32154-images.html",
+        "sourceHtmlSha256": "76f7c3223fbc4f3f1f6a8f520138d2c8692de2a9ee57f525262eb39be1590583",
+        "redistributionMode": "unbranded-plain-text-with-external-source-acknowledgment",
+        "paragraphCount": 883,
+        "headingCount": 3,
+        "completeNarrativeAlphanumericSha256": "ddaeb8f41224c899f7b17b0b9723d646b73b516ae6e29f80dfa044395eec9171",
+        "formatDifferences": [],
+        "excluded": [
+          "古登堡页首页尾和许可包装（来源另在metadata中致谢）",
+          "重复印刷目录",
+          "图片占位及编辑宣传导语"
+        ],
+        "normalization": "从正文结构提取章节标题、正文段落与场景分隔；仅归一化段内空白，不改写用词。"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "globalPublicDomain": false,
+        "reviewedOn": "2026-10-21",
+        "basis": "古登堡目录明确标美国公版，实际文件附有针对本1953年刊本的未续展研究说明；本项目依该数字版本的清权结论收录，不扩展到作者其他作品。",
+        "sourceUrls": [
+          "https://www.gutenberg.org/ebooks/32154",
+          "https://www.gutenberg.org/policy/license.html",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ],
+        "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
+        "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      },
+      "chapterTitleCorrections": [
+        {
+          "prefix": "The Variable Man",
+          "title": "The Variable Man"
+        }
+      ]
+    }
+  ]
+}

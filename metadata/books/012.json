@@ -18,6 +18,221 @@
         "url": "https://openlibrary.org/books/OL10682435M"
       },
       "workId": "012-6f8d83cf5dbb"
+    },
+    {
+      "id": "012-ec25bfc244c9",
+      "path": "[1953]《Encounter in the Dawn》.en.txt",
+      "title": "Encounter in the Dawn",
+      "format": "txt",
+      "size": 24689,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "encounter-in-the-dawn",
+      "workId": "012-ec25bfc244c9",
+      "publication": {
+        "yearBasis": "first-publication",
+        "firstPublicationDate": "1953-06/07",
+        "editionYear": 1953,
+        "sourceUrl": "https://archive.org/details/Amazing_Stories_v27n05_1953-06-07",
+        "note": "Amazing Stories, Vol.27, No.5，原刊英文正文；印刷页4—16。"
+      },
+      "editionNote": "原刊英文文字校对版。正文排除编辑导语、插图及相邻作品；格式规范化，保留原刊可辨拼写。",
+      "textSource": {
+        "kind": "original-magazine-scan",
+        "label": "Amazing Stories 1953-06/07",
+        "url": "https://archive.org/details/Amazing_Stories_v27n05_1953-06-07",
+        "sourcePdfUrl": "https://archive.org/download/Amazing_Stories_v27n05_1953-06-07/Amazing_Stories_v27n05_1953-06-07.pdf",
+        "sourcePdfSha256": "4368db8a65b21c55e5c60521dc8fc3615a0468168c399a1ed67df5551fa0c782",
+        "sourcePdfPages": 164,
+        "printedPageRanges": [
+          [
+            4,
+            16
+          ]
+        ],
+        "pdfPageRanges": [
+          [
+            4,
+            16
+          ]
+        ],
+        "ocrUrl": "https://archive.org/download/Amazing_Stories_v27n05_1953-06-07/Amazing_Stories_v27n05_1953-06-07_djvu.txt",
+        "ocrSha256": "9a8b00ddc81ff5f36efc6077b9c21e53435eeeb448494e8d13db6f9df450c9eb",
+        "importedOn": "2026-10-21",
+        "textSha256": "58cfdf0e10026b33b2094ef5e9ca8f93266fe14373dfa1f9a2251cc4ebb37b80",
+        "review": "逐页对照相关扫描图像，检查正文首尾、双栏顺序、跨页衔接和续页；修正OCR错字、合并断行断词、统一引号及空白。保留可辨的原刊用词和拼写，不混入后出版本。",
+        "excluded": [
+          "插图及漫画",
+          "编辑导语/作者介绍",
+          "页眉页脚和页码",
+          "续页提示",
+          "相邻作品正文"
+        ],
+        "acquisitionReview": "acquisition/012.json#englishImportReview"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "basis": "美国原刊首发、1964年前作品的续展规则、UPenn完整有效续展汇总及逐篇初刊书目交叉判断；不是权利人授予的许可。",
+        "reviewedOn": "2026-10-21",
+        "globalPublicDomain": false,
+        "scope": "仅评价此原刊英文文字在美国的状态；不涵盖译文、插图、后出修订文字或其他地区。",
+        "sourceUrls": [
+          "https://onlinebooks.library.upenn.edu/webbin/cinfo/amazingstories",
+          "https://www.press.uillinois.edu/books/?id=p083594",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/circs/circ38b.pdf"
+        ]
+      }
+    },
+    {
+      "id": "012-c804f7f52d7c",
+      "path": "[1956]《The Pacifist》.en.txt",
+      "title": "The Pacifist",
+      "format": "txt",
+      "size": 21934,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "the-pacifist",
+      "workId": "012-c804f7f52d7c",
+      "publication": {
+        "yearBasis": "first-publication",
+        "firstPublicationDate": "1956-10",
+        "editionYear": 1956,
+        "sourceUrl": "https://archive.org/details/Fantastic_Universe_v06n03_1956-10",
+        "note": "Fantastic Universe, Vol.6, No.3，原刊英文正文；印刷页4—12。"
+      },
+      "editionNote": "原刊英文文字校对版。正文排除编辑导语、插图及相邻作品；格式规范化，保留原刊可辨拼写。",
+      "textSource": {
+        "kind": "original-magazine-scan",
+        "label": "Fantastic Universe 1956-10",
+        "url": "https://archive.org/details/Fantastic_Universe_v06n03_1956-10",
+        "sourcePdfUrl": "https://archive.org/download/Fantastic_Universe_v06n03_1956-10/Fantastic_Universe_v06n03_1956-10.pdf",
+        "sourcePdfSha256": "46ff034bd2754f9a7c969fde20a5adb3440554396d53f36b74338309b10c977d",
+        "sourcePdfPages": 132,
+        "printedPageRanges": [
+          [
+            4,
+            12
+          ]
+        ],
+        "pdfPageRanges": [
+          [
+            6,
+            14
+          ]
+        ],
+        "ocrUrl": "https://archive.org/download/Fantastic_Universe_v06n03_1956-10/Fantastic_Universe_v06n03_1956-10_djvu.txt",
+        "ocrSha256": "af8059484eaa348fdecee4d18bcd773f6b4e68311c509943ec1e5f50df884c75",
+        "importedOn": "2026-10-21",
+        "textSha256": "8dbb6719ffd24c7b4643fad7809766730c4fbb806ff3bc365960b2ba239455b4",
+        "review": "逐页对照相关扫描图像，检查正文首尾、双栏顺序、跨页衔接和续页；修正OCR错字、合并断行断词、统一引号及空白。保留可辨的原刊用词和拼写，不混入后出版本。",
+        "excluded": [
+          "插图及漫画",
+          "编辑导语/作者介绍",
+          "页眉页脚和页码",
+          "续页提示",
+          "相邻作品正文"
+        ],
+        "acquisitionReview": "acquisition/012.json#englishImportReview"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "basis": "美国原刊首发、1964年前作品的续展规则、UPenn完整有效续展汇总及逐篇初刊书目交叉判断；不是权利人授予的许可。",
+        "reviewedOn": "2026-10-21",
+        "globalPublicDomain": false,
+        "scope": "仅评价此原刊英文文字在美国的状态；不涵盖译文、插图、后出修订文字或其他地区。",
+        "sourceUrls": [
+          "https://onlinebooks.library.upenn.edu/webbin/cinfo/fantasticuniv",
+          "https://www.press.uillinois.edu/books/?id=p083594",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/circs/circ38b.pdf"
+        ]
+      }
+    },
+    {
+      "id": "012-88c2a35057c1",
+      "path": "[1961]《Before Eden》.en.txt",
+      "title": "Before Eden",
+      "format": "txt",
+      "size": 24269,
+      "language": "en",
+      "series": "",
+      "cover": null,
+      "slug": "before-eden",
+      "workId": "012-88c2a35057c1",
+      "publication": {
+        "yearBasis": "first-publication",
+        "firstPublicationDate": "1961-06",
+        "editionYear": 1961,
+        "sourceUrl": "https://archive.org/details/Amazing_Stories_v35n06_1961-06",
+        "note": "Amazing Stories, Vol.35, No.6，原刊英文正文；印刷页36—46,66。"
+      },
+      "editionNote": "原刊英文文字校对版。正文排除编辑导语、插图及相邻作品；格式规范化，保留原刊可辨拼写。",
+      "textSource": {
+        "kind": "original-magazine-scan",
+        "label": "Amazing Stories 1961-06",
+        "url": "https://archive.org/details/Amazing_Stories_v35n06_1961-06",
+        "sourcePdfUrl": "https://archive.org/download/Amazing_Stories_v35n06_1961-06/Amazing_Stories_v35n06_1961-06.pdf",
+        "sourcePdfSha256": "fbfac29d764c53156610b24dcc062630c5a104cc0ab1124cf1713a92555ec429",
+        "sourcePdfPages": 148,
+        "printedPageRanges": [
+          [
+            36,
+            46
+          ],
+          [
+            66,
+            66
+          ]
+        ],
+        "pdfPageRanges": [
+          [
+            36,
+            46
+          ],
+          [
+            66,
+            66
+          ]
+        ],
+        "ocrUrl": "https://archive.org/download/Amazing_Stories_v35n06_1961-06/Amazing_Stories_v35n06_1961-06_djvu.txt",
+        "ocrSha256": "d9153cc3415b937f8e6766d402da578573d01b5dc55e3aa8fdf42a4a73feb3e1",
+        "importedOn": "2026-10-21",
+        "textSha256": "6e0388866e0f462da4e6608264cdd2b3a75e392aa61c68cd8f524db915c05566",
+        "review": "逐页对照相关扫描图像，检查正文首尾、双栏顺序、跨页衔接和续页；修正OCR错字、合并断行断词、统一引号及空白。保留可辨的原刊用词和拼写，不混入后出版本。",
+        "excluded": [
+          "插图及漫画",
+          "编辑导语/作者介绍",
+          "页眉页脚和页码",
+          "续页提示",
+          "相邻作品正文"
+        ],
+        "acquisitionReview": "acquisition/012.json#englishImportReview"
+      },
+      "rights": {
+        "status": "public-domain-US-supported",
+        "jurisdictions": [
+          "US"
+        ],
+        "basis": "美国原刊首发、1964年前作品的续展规则、UPenn完整有效续展汇总及逐篇初刊书目交叉判断；不是权利人授予的许可。",
+        "reviewedOn": "2026-10-21",
+        "globalPublicDomain": false,
+        "scope": "仅评价此原刊英文文字在美国的状态；不涵盖译文、插图、后出修订文字或其他地区。",
+        "sourceUrls": [
+          "https://onlinebooks.library.upenn.edu/webbin/cinfo/amazingstories",
+          "https://www.press.uillinois.edu/books/?id=p083594",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/circs/circ38b.pdf"
+        ]
+      }
     }
   ]
 }

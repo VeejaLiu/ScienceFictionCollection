@@ -19,6 +19,9 @@
 - [011 - Andy Weir(安迪·威尔)](#011---andy-weir安迪威尔)
 - [012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)](#012---arthur-charles-clarke亚瑟查理斯克拉克)
 - [013 - Arthur Conan Doyle(亚瑟·柯南·道尔)](#013---arthur-conan-doyle亚瑟柯南道尔)
+- [014 - Herbert George Wells(赫伯特·乔治·威尔斯)](#014---herbert-george-wells赫伯特乔治威尔斯)
+- [015 - Olaf Stapledon(奥拉夫·斯塔普尔顿)](#015---olaf-stapledon奥拉夫斯塔普尔顿)
+- [016 - Philip Kindred Dick(菲利普·K.迪克)](#016---philip-kindred-dick菲利普k迪克)
 
 ## 作品
 
@@ -256,7 +259,19 @@
 ### 011 - Andy Weir(安迪·威尔)
 - [2021]《挽救计划》.epub _[676.92KB]_
 ### 012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)
-- 0-亚瑟·克拉克汇总.md _[14.41KB]_
+- 0-亚瑟·克拉克汇总.md _[25.4KB]_
 - [1951]《太空序曲》.txt _[294.38KB]_
+- [1953]《Encounter in the Dawn》.en.txt _[24.69KB]_
+- [1956]《The Pacifist》.en.txt _[21.93KB]_
+- [1961]《Before Eden》.en.txt _[24.27KB]_
 ### 013 - Arthur Conan Doyle(亚瑟·柯南·道尔)
 - 被遗忘的世界.txt _[21.7KB]_
+### 014 - Herbert George Wells(赫伯特·乔治·威尔斯)
+- [1895]《The Time Machine》.en.txt _[180.91KB]_
+- [1897]《The Invisible Man》.en.txt _[279.49KB]_
+- [1898]《The War of the Worlds》.en.txt _[339.44KB]_
+### 015 - Olaf Stapledon(奥拉夫·斯塔普尔顿)
+- [1930]《Last and First Men》.en.epub _[415.14KB]_
+### 016 - Philip Kindred Dick(菲利普·K.迪克)
+- [1953]《Second Variety》.en.txt _[90.62KB]_
+- [1953]《The Variable Man》.en.txt _[150.13KB]_

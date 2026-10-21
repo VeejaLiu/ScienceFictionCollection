@@ -17,6 +17,69 @@
         "maxHeight": 160,
         "quality": 80
       }
+    },
+    {
+      "authorId": "014",
+      "asset": "avatars/014.webp",
+      "kind": "generated-monogram",
+      "creator": "This project",
+      "initials": "HG",
+      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
+      "sha256": "61a2740033847ff71bd5438e6e111bc613ea1ff52cb464cebf4ac1aa13ba40cc",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 85
+      },
+      "generation": {
+        "background": "#f4ecd8",
+        "foreground": "#795c3e",
+        "font": "Pillow default scalable font",
+        "fontSize": 58
+      }
+    },
+    {
+      "authorId": "015",
+      "asset": "avatars/015.webp",
+      "kind": "generated-monogram",
+      "creator": "This project",
+      "initials": "OS",
+      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
+      "sha256": "3ca4bbb492ce04828ec566d3d2f925f3648373a6dc8abdc2d6fbc4752637a979",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 85
+      },
+      "generation": {
+        "background": "#f4ecd8",
+        "foreground": "#795c3e",
+        "font": "Pillow default scalable font",
+        "fontSize": 58
+      }
+    },
+    {
+      "authorId": "016",
+      "asset": "avatars/016.webp",
+      "kind": "generated-monogram",
+      "creator": "This project",
+      "initials": "PK",
+      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
+      "sha256": "f9b92a7a393b200147fc714341c927345ee050680050262960ce645090b7afa0",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 85
+      },
+      "generation": {
+        "background": "#f4ecd8",
+        "foreground": "#795c3e",
+        "font": "Pillow default scalable font",
+        "fontSize": 58
+      }
     }
   ]
 }

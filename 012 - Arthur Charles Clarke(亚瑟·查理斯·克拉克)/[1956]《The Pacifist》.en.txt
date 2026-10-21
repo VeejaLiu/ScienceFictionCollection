@@ -1,0 +1,164 @@
+The Pacifist
+Arthur C. Clarke
+
+I got to the "White Hart" late that evening, and when I arrived everyone was crowded into the corner under the dartboard. All except Drew, that is: he had not deserted his post, but was sitting behind the bar reading the collected T. S. Eliot. He broke off from "The Confidential Clerk" long enough to hand me a beer and to tell me what was going on.
+
+"Eric's brought in some kind of games machine — it's beaten everybody so far. Sam's trying his luck with it now."
+
+At that moment a roar of laughter announced that Sam had been no luckier than the rest, and I pushed my way through the crowd to see what was happening.
+
+On the table lay a flat metal box the size of a checker-board, and divided into squares in a similar way. At the corner of each square was a two-way switch and a little neon lamp: the whole affair was plugged into the light socket (thus plunging the dartboard into darkness) and Eric Rodgers was looking round for a new victim.
+
+"What does the thing do?" I asked.
+
+"It's a modification of naughts and crosses — what the Americans call Tic-Tac-Toe. Shannon showed it to me when I was over at Bell Labs. What you have to do is to complete a path from one side of the board to the other — call it North to South — by turning these switches. Imagine the thing forms a grid of streets, if you like, and these neons are the traffic lights. You and the machine take turns making moves. The machine tries to block your path by building one of its own in the East-West direction — the little neons light up to tell you which way it wants to make a move. Neither track need be a straight line: you can zig-zag as much as you like. All that matters is that the path must be continuous, and the one to get across the board first wins."
+
+"Meaning the machine, I suppose?"
+
+"Well, it's never been beaten yet."
+
+"Can't you force a draw, by blocking the machine's path so that at least you don't lose?"
+
+"That's what we're trying; like to have a go?"
+
+Two minutes later I joined the other unsuccessful contestants. The machine had dodged all my barriers and established its own track from East to West. I wasn't convinced that it was unbeatable, but the game was clearly a good deal more complicated than it looked.
+
+Eric glanced round his audience when I had retired. No one else seemed in a hurry to move forward.
+
+"Ha!" he said. "The very man. What about you, Purvis? You've not had a shot yet."
+
+Harry Purvis was standing at the back of the crowd, with a far-off look in his eye. He jolted back to earth as Eric addressed him, but didn't answer the question directly.
+
+"Fascinating things, these electronic computers," he mused. "I suppose I shouldn't tell you this, but your gadget reminds me of what happened to Project Clausewitz. A curious story, and one very expensive to the American taxpayer."
+
+"Look," said John Wyndham anxiously. "Before you start, be a good sport and let us get our glasses filled. Draw!"
+
+This important matter having been attended to, we gathered round Harry. Only Charlie Willis still remained with the machine, hopefully trying his luck.
+
+"As you all know," began Harry, "Science with a capital S is a big thing in the military world these days. The weapons side — rockets, atom bombs and so on — is only part of it, though that's all the public knows about. Much more fascinating, in my opinion, is the operational research angle. You might say that's concerned with brains rather than brute force. I once heard it defined as how to win wars without actually fighting, and that's not a bad description.
+
+"Now you all know about the big electronic computers that cropped up like mushrooms in the 1950's. Most of them were built to deal with mathematical problems, but when you think about it you'll realize that War itself is a mathematical problem. It's such a complicated one that human brains can't handle it — there are far too many variables. Even the greatest strategist cannot see the picture as a whole: the Hitlers and Napoleons always make a mistake in the end.
+
+"But a machine — that would be a different matter. A number of bright people realized this after the end of the war. The techniques that had been worked out in the building of ENIAC and the other big computers could revolutionize strategy.
+
+"Hence Project Clausewitz. Don't ask me how I got to know about it, or press me for too many details. All that matters is that a good many megabucks worth of electronic equipment, and some of the best scientific brains in the United States, went into a certain cavern in the Kentucky Hills. They're still there, but things haven't turned out exactly as they expected.
+
+"Now I don't know what experience you have of high-ranking military officers, but there's one type you've all come across in fiction. That's the pompous, conservative, stick-in-the-mud careerist who's got to the top by sheer pressure from beneath, who does everything by rules and regulations and regards civilians as, at the best, unfriendly neutrals. I'll let you into a secret: he actually exists. He's not very common nowadays, but he's still around and sometimes it's not possible to find a safe job for him. When that happens, he's worth his weight in plutonium to the Other Side.
+
+"Such a character, it seems, was General Smith. No, of course that wasn't his real name! His father was a Senator, and although lots of people in the Pentagon had tried hard enough, the old man's influence had prevented the General from being put in charge of something harmless, like the coast defense of Wyoming. Instead, by miraculous misfortune, he had been made the officer responsible for Project Clausewitz.
+
+"Of course, he was only concerned with the administrative, not the scientific, aspects of the work. All might yet have been well had the General been content to let the scientists get on with their work while he concentrated on saluting smartness, the coefficient of reflection of barrack floors, and similar matters of military importance. Unfortunately, he didn't.
+
+"The General had led a sheltered existence. He had, if I may borrow from Wilde (everybody else does) been a man of peace, except in his domestic life. He had never met scientists before, and the shock was considerable. So perhaps it is not fair to blame him for everything that happened.
+
+"It was a considerable time before he realized the aims and objects of Project Clausewitz, and when he did he was quite disturbed. This may have made him feel even less friendly towards his scientific staff, for despite anything I may have said the General was not entirely a fool. He was intelligent enough to understand that, if the Project succeeded, there might be more ex-generals around than even the combined boards of management of American industry could comfortably absorb.
+
+"But let's leave the General for a minute and have a look at the scientists. There were about fifty of them, as well as a couple of hundred technicians. They'd all been carefully screened by the F.B.I., so probably not more than one or two were active members of the Communist Party. Though there was a lot of talk of sabotage later, for once in a while the comrades were completely innocent. Besides, what happened certainly wasn't sabotage in any generally accepted meaning of the word . . .
+
+"The man who had really designed the computer was a quiet little mathematical genius who had been swept out of college into the Kentucky hills and the world of Security and Priorities before he'd really realized what had happened. He wasn't called Dr. Milquetoast, but he should have been and that's what I'll christen him.
+
+"To complete our cast of characters, I'd better say something about Karl. At this stage in the business, Karl was only half-built. Like all big computers, most of him consisted of vast banks of memory units which could receive and store information until it was needed. The creative part of Karl's brain — the analyzers and integrators — took this information and operated on it, to produce answers to the questions he was asked. Given all the relevant facts, Karl would produce the right answers. The problem, of course, was to see that Karl did have all the facts — he couldn't be expected to get the right results from inaccurate or insufficient information.
+
+"It was Dr. Milquetoast's responsibility to design Karl's brain. Yes, I know that's a crudely anthropomorphic way of looking at it, but no one can deny that these big computers have personalities. It's hard to put it more accurately without getting technical, so I'll simply say that little Milquetoast had to create the extremely complex circuits that enabled Karl to think in the way he was supposed to do.
+
+"So here are our three protagonists — General Smith, pining for the days of Custer; Dr. Milquetoast, lost in the fascinating scientific intricasies of his job; and Karl, fifty tons of electronic gear, not yet animated by the currents that would soon be coursing through him.
+
+"Soon — but not soon enough for General Smith. Let's not be too hard on the General: someone had probably put the pressure on him, when it became obvious that the Project was falling behind schedule. He called Dr. Milquetoast into his office.
+
+"The interview lasted more than thirty minutes, and the doctor said less than thirty words. Most of the time the General was making pointed remarks about production times, deadlines and bottlenecks. He seemed to be under the impression that building Karl differed in no important particular from the assembly of the current model Ford: it was just a question of putting the bits together. Dr. Milquetoast was not the sort of man to explain the error, even if the General had given him the opportunity. He left, smarting under a considerable sense of injustice.
+
+"A week later, it was obvious that the creation of Karl was falling still further behind schedule. Milquetoast was doing his best, and there was no one who could do better. Problems of a complexity totally beyond the General's comprehension had to be met and mastered. They were mastered, but it took time, and time was in short supply.
+
+"At his first interview, the General had tried to be as nice as he could, and had succeeded in being merely rude. This time, he tried to be rude, with results that I leave to your imagination. He practically insinuated that Milquetoast and his colleagues, by falling behind their deadlines, were guilty of un-American inactivity.
+
+"From this moment onwards, two things started to happen. Relations between the Army and the scientists grew steadily worse; and Dr. Milquetoast, for the first time, began to give serious thought to the wider implications of his work. He had always been too busy, too engaged upon the immediate problems of his task, to consider his social responsibilities. He was still too busy now, but that didn't stop him pausing for reflection. "Here am I," he told himself, "one of the best pure mathematicians in the world — and what am I doing? What's happened to my thesis on Diophantine equations? When am I going to have another smack at the prime number theorem? In short, when am I going to do some real work again?"
+
+"He could have resigned, but that didn't occur to him. In any case, far down beneath that mild and diffident exterior was a stubborn streak. Dr. Milquetoast continued to work, even more energetically than before. The construction of Karl proceeded slowly but steadily: the final connexions in his myriad-celled brain were soldered: the thousands of circuits were checked and tested by the mechanics.
+
+"And one circuit, indistinguishably interwoven among its multitude of companions, leading to a set of memory cells apparently identical with all the others, was tested by Dr. Milquetoast alone, for no one else knew that it existed.
+
+"The great day came. To Kentucky, by devious routes, came very important personages. A whole constellation of multi-starred generals arrived from the Pentagon. Even the Navy had been invited.
+
+"Proudly, General Smith led the visitors from cavern to cavern, from memory banks to selector networks to matrix analyzers to input tables — and finally to the rows of electric typewriters on which Karl would print the results of his deliberations. The General knew his way around quite well: at least, he got most of the names right. He even managed to give the impression, to those who knew no better, that he was largely responsible for Karl.
+
+" 'Now,' said the General cheerfully. 'Let's give him some work to do. Anyone like to set him a few sums?'
+
+"At the word 'sums' the mathematicians winced, but the General was unaware of his faux pas. The assembled brass thought for a while: then someone said daringly, 'What's 9 multiplied by itself twenty times?'
+
+"One of the technicians, with an audible sniff, punched a few keys. There was a rattle of gunfire from an electric typewriter, and before anyone could blink twice the answer had appeared — all twenty digits of it."
+
+(I've looked it up since: for anyone who wants to know it's: — 12157665459056928801
+
+But let's get back to Harry and his tale.)
+
+"For the next fifteen minutes Karl was bombarded with similar trivialities. The visitors were impressed, though there was no reason to suppose that they'd have spotted it if all the answers had been completely wrong.
+
+"The General gave a modest cough. Simple arithmetic was as far as he could go, and Karl had barely begun to warm up. 'I'll now hand you over,' he said, 'to Captain Winkler.'
+
+"Captain Winkler was an intense young Harvard graduate whom the General distrusted, rightly suspecting him to be more a scientist than a military man. But he was the only officer who really understood what Karl was supposed to do, or could explain exactly how he set about doing it. He looked, the General thought grumpily, like a damned schoolmaster as he started to lecture the visitors.
+
+"The tactical problem that had been set up was a complicated one, but the answer was already known to everybody except Karl. It was a battle that had been fought and finished almost a century before, and when Captain Winkler concluded his introduction, a general from Boston whispered to his aide, 'I'll bet some damn Southerner has fixed it so that Lee wins this time.' Everyone had to admit, however, that the problem was an excellent way of testing Karl's capabilities.
+
+"The punched tapes disappeared into the capacious memory units: patterns of lights flickered and flashed across the registers; mysterious things happened in all directions.
+
+" 'This problem,' said Captain Winkler primly, 'will take about five minutes to evaluate.'
+
+"As if in deliberate contradiction, one of the typewriters promptly started to chatter. A strip of paper shot out of the feed, and Captain Winkler, looking rather puzzled at Karl's unexpected alacrity, read the message. His lower jaw immediately dropped six inches, and he stood staring at the paper as if unable to believe his eyes.
+
+" 'What is it, man?' barked the General.
+
+"Captain Winkler swallowed hard, but appeared to have lost the power of speech. With a snort of impatience, the General snatched the paper from him. Then it was his turn to stand paralyzed, but unlike his subordinate he also turned a most beautiful red. For a moment he looked like some tropical fish strangling out of water: then, not without a slight scuffle, the enigmatic message was captured by the five-star general who outranked everybody in the room.
+
+"His reaction was totally different. He promptly doubled up with laughter.
+
+"The minor officers were left in a state of infuriating suspense for quite ten minutes. But finally the news filtered down through colonels to captains to lieutenants, until at last there wasn't a G.I. in the establishment who did not know the wonderful news.
+
+"Karl had told General Smith that he was a pompous baboon. That was all.
+
+"Even though everybody agreed with Karl, the matter could hardly be allowed to rest there. Something, obviously, had gone wrong. Something — or someone — had diverted Karl's attention from the Battle of Gettysburg.
+
+" 'Where,' roared General Smith, finally recovering his voice, 'is Dr. Milquetoast?'
+
+"He was no longer present. He had slipped quietly out of the room, having witnessed his great moment. Retribution would come later, of course, but it was worth it.
+
+"The frantic technicians cleared the circuits and started running tests. They gave Karl an elaborate series of multiplications and divisions to perform — the computer's equivalent of 'The quick brown fox jumps over the lazy dog.' Everything seemed to be functioning perfectly. So they put in a very simple tactical problem, which a Lieutenant J.G. could solve in his sleep:
+
+"Said Karl: 'Go jump in a lake, General.'
+
+"It was then that General Smith realized that he was confronted with something outside the scope of Standard Operating Procedure. He was faced with mechanical mutiny, no less.
+
+"It took several hours of tests to discover exactly what had happened. Somewhere tucked away in Karl's capacious memory units was a superb collection of insults, lovingly assembled by Dr. Milquetoast. He had punched on tape, or recorded in patterns of electrical impulses, everything he would like to have said to the General himself. But that was not all he had done: that would have been too easy, not worthy of his genius. He had also installed what could only be called a censor circuit — he had given Karl the power of discrimination. Before solving it, Karl examined every problem fed to him. If it was concerned with pure mathematics, he co-operated and dealt with it properly. But if it was a military problem — out came one of the insults. After twenty times, he had not repeated himself once, and the WACs had already had to be sent out of the room.
+
+"It must be confessed that after a while the technicians were almost as interested in discovering what indignity Karl would next heap upon General Smith, as they were in finding the fault in the circuits — the electronic nigger, as it were, in the mechanical woodpile. He had begun with mere insults and surprising geneological surmises, but had swiftly passed on to detailed instructions the mildest of which would have been highly prejudicial to the General's dignity, while the more imaginative would have seriously imperilled his physical integrity. The fact that all these messages, as they emerged from the typewriters, were immediately classified TOP SECRET was small consolation to the recipient. He knew with a glum certainty that this would be the worst-kept secret of the cold war, and that it was time he looked round for a civilian occupation.
+
+"And there, gentlemen," concluded Purvis, "the situation remains. The engineers are still trying to unravel the circuits that Dr. Milquetoast installed, and no doubt it's only a matter of time before they succeed. But meanwhile Karl remains an unyielding pacifist. He's perfectly happy playing with the theory of numbers, computing tables of powers, and handling arithmetical problems generally. Do you remember the famous toast 'Here's to pure mathematics — may it never be of any use to anybody' ? Karl would have seconded that. . . .
+
+"As soon as anyone attempts to slip a fast one across him, he goes on strike. And because he's got such a wonderful memory, he can't be fooled. He has half the great battles of the world stored up in his circuits, and can recognize at once any variations on them. Though attempts were made to disguise tactical exercises as problems in mathematics, he could spot the subterfuge right away. And out would come another billet doux for the General.
+
+"As for Dr. Milquetoast, no one could do much about him because he promptly had a nervous breakdown. It was suspiciously well timed, but he could certainly claim to have earned it. When last heard of he was teaching matrix algebra at a theological college in Denver. He swears he's forgotten everything that had ever happened while he was working on Karl. Maybe he was even telling the truth . . ."
+
+There was a sudden shout from the back of the room.
+
+"I've won!" cried Charles Willis. "Come and see!"
+
+We all crowded under the dartboard. It seemed true enough. Charlie had established a zig-zag but continuous track from one side of the checker-board to the other, despite the obstacles the machine had tried to put in his way.
+
+"Show us how you did it," said Eric Rodgers.
+
+Charlie looked embarrassed.
+
+"I've forgotten," he said. "I didn't make a note of all the moves."
+
+A sarcastic voice broke in from the background.
+
+"But I did," said John Christopher. "You were cheating — you made two moves at once."
+
+After that, I am sorry to say, there was some disorder, and Drew had to threaten violence before peace was restored. I don't know who really won the squabble, and I don't think it matters. For I'm inclined to agree with what Purvis remarked as he picked up the robot checker-board and examined its wiring.
+
+"You see," he said, "this little gadget is only a simple-minded cousin of Karl's— and look what it's done already. All these machines are beginning to make us look like fools. Before long they'll start to disobey us without any Milquetoast interfering with their circuits. And then they'll start ordering us about — they're logical, after all."
+
+He sighed. "When that happens, there won't be a thing that we can do about it. We'll just have to say to the dinosaurs: 'Move over a bit — here comes homo sap!' And the vacuum tube shall inherit the earth."
+
+There was no time for further pessimistic philosophy, for the door opened and Police Constable Wilkins stuck his head in. "Where's the owner of CGC 571?" he asked testily. "Oh — it's you, Mr. Purvis. Your rear light's out."
+
+Harry looked at me sadly, then shrugged his shoulders in resignation. "You see," he said, "it's started already." And he went out into the night.
