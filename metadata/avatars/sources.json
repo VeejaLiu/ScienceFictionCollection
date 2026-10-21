@@ -80,6 +80,48 @@
         "font": "Pillow default scalable font",
         "fontSize": 58
       }
+    },
+    {
+      "authorId": "017",
+      "asset": "avatars/017.webp",
+      "kind": "generated-monogram",
+      "creator": "This project",
+      "initials": "RN",
+      "rights": "本项目生成的姓名或机构缩写占位图，不是肖像或官方标志。",
+      "sha256": "32262947c1e4fa8701d3ba1b1e91e9d239df8ac166543ed521b25963a255556c",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 85
+      },
+      "generation": {
+        "background": "#f4ecd8",
+        "foreground": "#795c3e",
+        "font": "Pillow default scalable font",
+        "fontSize": 58
+      }
+    },
+    {
+      "authorId": "018",
+      "asset": "avatars/018.webp",
+      "kind": "generated-monogram",
+      "creator": "This project",
+      "initials": "SFW",
+      "rights": "本项目生成的姓名或机构缩写占位图，不是肖像或官方标志。",
+      "sha256": "67c6bb1b126862db909c534a348d0976cbe5dccfd2e1824bd586d9f4c5d2f5ed",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 160,
+        "maxHeight": 160,
+        "quality": 85
+      },
+      "generation": {
+        "background": "#f4ecd8",
+        "foreground": "#795c3e",
+        "font": "Pillow default scalable font",
+        "fontSize": 43
+      }
     }
   ]
 }

@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "scope": "本轮最终收录的8个文件：太空漫游4部EPUB及2061的TXT、海中山、科幻世界2026年第5和第6期；下载目录的源文件不修改。旧版2061独立EPUB按用户要求不收录。",
+  "policy": "仅移除可明确识别的下载来源推广段落、推广元数据、二维码及有下载站水印的封面；保留正文、出版信息、署名、序言和附录。正文中叙事或评论提到广告、下载、微信等用词不据此删除。",
+  "files": [
+    {
+      "bookId": "012-d539f49f2c6b",
+      "title": "2001：太空漫游",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1968]《2001：太空漫游》.epub",
+      "beforeBytes": 2790401,
+      "afterBytes": 2790401,
+      "beforeSha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a",
+      "afterSha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a",
+      "changed": false,
+      "removed": {
+        "promotionalResourceFiles": 0
+      },
+      "changedDocuments": [],
+      "postAdCleanupSha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a"
+    },
+    {
+      "bookId": "012-c28f9e19543e",
+      "title": "2010：太空漫游",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1982]《2010：太空漫游》.epub",
+      "beforeBytes": 2037254,
+      "afterBytes": 2037254,
+      "beforeSha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576",
+      "afterSha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576",
+      "changed": false,
+      "removed": {
+        "promotionalResourceFiles": 0
+      },
+      "changedDocuments": [],
+      "postAdCleanupSha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576"
+    },
+    {
+      "bookId": "012-bfae6d156e5e",
+      "title": "3001：太空漫游",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1997]《3001：太空漫游》.epub",
+      "beforeBytes": 2054635,
+      "afterBytes": 2054635,
+      "beforeSha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404",
+      "afterSha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404",
+      "changed": false,
+      "removed": {
+        "promotionalResourceFiles": 0
+      },
+      "changedDocuments": [],
+      "postAdCleanupSha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404"
+    },
+    {
+      "bookId": "012-0adb36efb819",
+      "title": "2061：太空漫游",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.txt",
+      "beforeBytes": 360024,
+      "afterBytes": 356271,
+      "beforeSha256": "4f368add0b86a9b04fd82e75c61f451c94b77b736bb9c89cc5da9517780e97f3",
+      "afterSha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
+      "changed": true,
+      "removed": {
+        "promotionalTextLines": 2,
+        "watermarkedWebCoversReplaced": 1
+      },
+      "changedDocuments": [],
+      "postAdCleanupSha256": "5af3a84cf2b90e14527044f13178cf39837a71f7e72b533be0b0ff22957ba5a1",
+      "lineEndings": "LF",
+      "trailingBlankLinesNormalized": true
+    },
+    {
+      "bookId": "012-c983a66bb98a",
+      "title": "2061：太空漫游",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
+      "beforeBytes": 2016210,
+      "afterBytes": 2016210,
+      "beforeSha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e",
+      "afterSha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e",
+      "changed": false,
+      "removed": {
+        "promotionalResourceFiles": 0
+      },
+      "changedDocuments": [],
+      "postAdCleanupSha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e"
+    },
+    {
+      "bookId": "017-bda371f795c2",
+      "title": "海中山",
+      "path": "017 - Ray Nayler(雷·内勒)/[2022]《海中山》.epub",
+      "beforeBytes": 1512843,
+      "afterBytes": 764179,
+      "beforeSha256": "cdd2a23062b2e92beab5642e95cc0438d699347d8bdcfc3be2ac69edb1090766",
+      "afterSha256": "417aa82694506c82cbcd9d35b489d75c29cb9bf61d11f3a1df0453192b8cbe8c",
+      "changed": true,
+      "removed": {
+        "promotionalParagraphs": 1,
+        "promotionalImages": 1,
+        "promotionalMetadata": 1,
+        "promotionalResourceFiles": 1
+      },
+      "changedDocuments": [
+        "EPUB/xhtml/cop1_1"
+      ],
+      "postAdCleanupSha256": "50a5d3e977bb798d0844cc3a8e1317dacc64850dd9e85c79f7ad83ddf850fa93",
+      "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+    },
+    {
+      "bookId": "018-521ad1f3a823",
+      "title": "科幻世界（2026年第5期）",
+      "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第5期）.epub",
+      "beforeBytes": 5980539,
+      "afterBytes": 5230911,
+      "beforeSha256": "ec3b07227552ecd95eed6cc54b57a1f2fd112c31dd60c24e0986ea503405822a",
+      "afterSha256": "ccf8da9f3b24834f9f0a426fcf3e422966ad164f1f0f7b25e6ca95c7da1ccfa4",
+      "changed": true,
+      "removed": {
+        "promotionalParagraphs": 1,
+        "promotionalImages": 1,
+        "promotionalMetadata": 1,
+        "promotionalResourceFiles": 1
+      },
+      "changedDocuments": [
+        "EPUB/xhtml/Copyright.xhtml"
+      ],
+      "postAdCleanupSha256": "3b3f5f2bdb64dc3e6725b50d9cd497f574c4107075b5105d41cebfd322983bb5",
+      "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+    },
+    {
+      "bookId": "018-ca7701582aeb",
+      "title": "科幻世界（2026年第6期）",
+      "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第6期）.epub",
+      "beforeBytes": 4855981,
+      "afterBytes": 4106356,
+      "beforeSha256": "bb1833561d691589aade13b6f878b76c0a3639f0c8b890e76aaf49f901ffa285",
+      "afterSha256": "80d4722f8ea82aa8a0644e779d1ee2e5511e38fe68aae05a9941ea1c2f6bb84b",
+      "changed": true,
+      "removed": {
+        "promotionalParagraphs": 1,
+        "promotionalImages": 1,
+        "promotionalMetadata": 1,
+        "promotionalResourceFiles": 1
+      },
+      "changedDocuments": [
+        "EPUB/xhtml/Copyright.xhtml"
+      ],
+      "postAdCleanupSha256": "042da34a9c721347d30c1326cb69a51a53541c6e2586dbfa8819c9b40c257872",
+      "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+    }
+  ],
+  "totals": {
+    "promotionalTextLines": 2,
+    "watermarkedWebCoversReplaced": 1,
+    "promotionalParagraphs": 3,
+    "promotionalImages": 3,
+    "promotionalMetadata": 3,
+    "promotionalResourceFiles": 3
+  }
+}

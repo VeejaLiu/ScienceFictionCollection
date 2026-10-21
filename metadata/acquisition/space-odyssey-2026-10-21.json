@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "source": {
+    "kind": "user-provided-file",
+    "originalFilename": "太空漫游四部曲.epub",
+    "bytes": 9249819,
+    "sha256": "031c3f54c9421085b52450b9dee19a96225b9fd3ef68c067693f9c66406888b4",
+    "title": "太空漫游四部曲",
+    "publisher": "上海文艺出版社",
+    "collectionIsbn": "9787532170814",
+    "packagePublicationDate": "2019-05-31T16:00:00+00:00"
+  },
+  "method": "按原NCX中四个书名锚点切分XHTML顶层节点，移除合集首页及尾部重复目录，重建每部独立OPF、NCX和EPUB3导航。将旧Kindle排版属性转换为CSS，正文及图像内容不改写。",
+  "editionNotes": "译者对应关系结合合集署名与既有2019年中文书目核对；合集ISBN不当作各单本ISBN。2061的1987/1988首发差异继续留待核定。",
+  "excludedPackaging": {
+    "leadingCombinedTocElements": 258,
+    "trailingCombinedTocStart": "OEBPS/text00008.html child 606",
+    "calibreBookmarks": true
+  },
+  "books": [
+    {
+      "number": "2001",
+      "title": "2001：太空漫游",
+      "originalTitle": "2001: A Space Odyssey",
+      "originalYear": 1968,
+      "translators": [
+        "郝明义"
+      ],
+      "id": "012-d539f49f2c6b",
+      "path": "太空漫游/[1968]《2001：太空漫游》.epub",
+      "bytes": 2790401,
+      "sha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a",
+      "cover": "covers/embedded/012-d539f49f2c6b.webp",
+      "sourceCoverEntry": "OEBPS/Image00009.jpg",
+      "sourceCoverSha256": "6085c372ec200dd637cd6132cea814479a517e58d1a5eb6f0b7266cc1b674e8a",
+      "coverSha256": "f7579cd78b8b66e701c08ddf8d89c6af91d7f3d34f0b479b93ffd5e0ac7fcea2",
+      "sourceRanges": [
+        {
+          "sourceDocument": "OEBPS/text00000.html",
+          "firstChildInclusive": 258,
+          "lastChildExclusive": 983
+        },
+        {
+          "sourceDocument": "OEBPS/text00001.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 702
+        }
+      ],
+      "chapterCount": 47,
+      "navigationEntries": 59,
+      "spineDocuments": 2,
+      "imageCount": 10,
+      "checkedResourceAndNavigationLinks": 131,
+      "bodyTextCharacters": 125858,
+      "bodyTextSha256ByDocument": [
+        "84e34d024cfde110c255e24aa0a145951a40f2275cec5b92bc35bc2a6d82454b",
+        "32b9fa1f41f327f6c74866dfb11ec5967c960bc1fa4cbed68abc278c3a7ff6cd"
+      ],
+      "bodyTextPreserved": true,
+      "sourceImageBytesPreserved": true
+    },
+    {
+      "number": "2010",
+      "title": "2010：太空漫游",
+      "originalTitle": "2010: Odyssey Two",
+      "originalYear": 1982,
+      "translators": [
+        "张启阳"
+      ],
+      "id": "012-c28f9e19543e",
+      "path": "太空漫游/[1982]《2010：太空漫游》.epub",
+      "bytes": 2037254,
+      "sha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576",
+      "cover": "covers/embedded/012-c28f9e19543e.webp",
+      "sourceCoverEntry": "OEBPS/Image00004.jpg",
+      "sourceCoverSha256": "92258d43cca9bf86ae5582d3b7d20005128b10e492e6a976ce955970223dda59",
+      "coverSha256": "b768e97a83f1212a8ef7e68f02222b6658f4e61ad86cf81aec0f7fb2d0212e78",
+      "sourceRanges": [
+        {
+          "sourceDocument": "OEBPS/text00001.html",
+          "firstChildInclusive": 702,
+          "lastChildExclusive": 760
+        },
+        {
+          "sourceDocument": "OEBPS/text00002.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 861
+        },
+        {
+          "sourceDocument": "OEBPS/text00003.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 710
+        },
+        {
+          "sourceDocument": "OEBPS/text00004.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 665
+        }
+      ],
+      "chapterCount": 55,
+      "navigationEntries": 70,
+      "spineDocuments": 4,
+      "imageCount": 6,
+      "checkedResourceAndNavigationLinks": 151,
+      "bodyTextCharacters": 154182,
+      "bodyTextSha256ByDocument": [
+        "b9989059e31091fd23971b25d28d87c3407559022361920ed89e7bf5f2bd6285",
+        "841e1360e5f4855f2596528528af4bbd6d3ac0c82717c9a6b9f0fef4acf154af",
+        "03d13825db7c3fe39dd88a950bb7b8a0583b89a6170027903e116be841bb0e60",
+        "3e3b372ddb48e3f221122c937e2638ccffc8497c4fbf6474232fe3d630bd4cd7"
+      ],
+      "bodyTextPreserved": true,
+      "sourceImageBytesPreserved": true
+    },
+    {
+      "number": "2061",
+      "title": "2061：太空漫游",
+      "originalTitle": "2061: Odyssey Three",
+      "originalYear": null,
+      "translators": [
+        "张启阳"
+      ],
+      "id": "012-c983a66bb98a",
+      "path": "太空漫游/《2061：太空漫游》.epub",
+      "bytes": 2016210,
+      "sha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e",
+      "cover": "covers/embedded/012-c983a66bb98a.webp",
+      "sourceCoverEntry": "OEBPS/Image00024.jpg",
+      "sourceCoverSha256": "2a7b79b188b08c737b54369e33d2188fd6dd2c8a107645d66a8532a76793cf26",
+      "coverSha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
+      "sourceRanges": [
+        {
+          "sourceDocument": "OEBPS/text00004.html",
+          "firstChildInclusive": 665,
+          "lastChildExclusive": 691
+        },
+        {
+          "sourceDocument": "OEBPS/text00005.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 884
+        },
+        {
+          "sourceDocument": "OEBPS/text00006.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 855
+        }
+      ],
+      "chapterCount": 60,
+      "navigationEntries": 75,
+      "spineDocuments": 3,
+      "imageCount": 6,
+      "checkedResourceAndNavigationLinks": 160,
+      "bodyTextCharacters": 118097,
+      "bodyTextSha256ByDocument": [
+        "d359a2156d4fd7d214372ae1bcc0cee556b46b476337fb468302421acba2acee",
+        "7ca6ada2c8fed10a41800b11cdf25a50cd3be9ada76eba6c9299ebe031bbbf5b",
+        "afdc4b48b4e044e465285a80fa5cf7eac34985d413eaae969aa58899e0530126"
+      ],
+      "bodyTextPreserved": true,
+      "sourceImageBytesPreserved": true,
+      "workId": "012-0adb36efb819"
+    },
+    {
+      "number": "3001",
+      "title": "3001：太空漫游",
+      "originalTitle": "3001: The Final Odyssey",
+      "originalYear": 1997,
+      "translators": [
+        "钟慧元",
+        "叶李华"
+      ],
+      "id": "012-bfae6d156e5e",
+      "path": "太空漫游/[1997]《3001：太空漫游》.epub",
+      "bytes": 2054635,
+      "sha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404",
+      "cover": "covers/embedded/012-bfae6d156e5e.webp",
+      "sourceCoverEntry": "OEBPS/Image00006.jpg",
+      "sourceCoverSha256": "28d5aca125d0b081a7ad511e75e2d5fb2da34e35065e88b1c4af564ba6cc0869",
+      "coverSha256": "2108ad1aedb2568aadd8338a63f04f7e3482b31e6d03f14389d056b34c4e3283",
+      "sourceRanges": [
+        {
+          "sourceDocument": "OEBPS/text00006.html",
+          "firstChildInclusive": 855,
+          "lastChildExclusive": 887
+        },
+        {
+          "sourceDocument": "OEBPS/text00007.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 967
+        },
+        {
+          "sourceDocument": "OEBPS/text00008.html",
+          "firstChildInclusive": 0,
+          "lastChildExclusive": 606
+        }
+      ],
+      "chapterCount": 40,
+      "navigationEntries": 53,
+      "spineDocuments": 3,
+      "imageCount": 6,
+      "checkedResourceAndNavigationLinks": 116,
+      "bodyTextCharacters": 109681,
+      "bodyTextSha256ByDocument": [
+        "076beeabcd216ea0089e48c8470d0df0e3298a22c19c5360f2b84be783a04a52",
+        "6154736bab3f04470f82046dbb2a85e400ee9621fd8cc40599413af63d8d46c6",
+        "054dc565227312ab696cb7840057478fb9e7ba1b8256649c6ade1d3bbff2478c"
+      ],
+      "bodyTextPreserved": true,
+      "sourceImageBytesPreserved": true
+    }
+  ],
+  "partitionVerification": {
+    "sourceContentElements": 7091,
+    "eachElementIncludedExactlyOnce": true,
+    "chapterCountTotal": 202,
+    "bodyTextCharacters": 507818
+  },
+  "retainedVersionsNote": "按用户最终选择，2061保留经清理的原TXT及本合集拆分的新版EPUB，旧版独立EPUB不收录。"
+}

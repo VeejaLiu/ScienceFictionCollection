@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-21",
+  "epubCheckVersion": "5.4.0",
+  "files": [
+    {
+      "bookId": "012-d539f49f2c6b",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1968]《2001：太空漫游》.epub",
+      "sha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a",
+      "bytes": 2790401,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "012-c28f9e19543e",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1982]《2010：太空漫游》.epub",
+      "sha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576",
+      "bytes": 2037254,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "012-bfae6d156e5e",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1997]《3001：太空漫游》.epub",
+      "sha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404",
+      "bytes": 2054635,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "012-c983a66bb98a",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
+      "sha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e",
+      "bytes": 2016210,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "012-0adb36efb819",
+      "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.txt",
+      "sha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
+      "bytes": 356271,
+      "adsAbsent": true,
+      "encoding": "utf-8",
+      "chapterHeadingCount": 60,
+      "sourceTextPreservedAfterDeclaredNormalization": true,
+      "lineEndings": "LF"
+    },
+    {
+      "bookId": "017-bda371f795c2",
+      "path": "017 - Ray Nayler(雷·内勒)/[2022]《海中山》.epub",
+      "sha256": "417aa82694506c82cbcd9d35b489d75c29cb9bf61d11f3a1df0453192b8cbe8c",
+      "bytes": 764179,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "018-521ad1f3a823",
+      "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第5期）.epub",
+      "sha256": "ccf8da9f3b24834f9f0a426fcf3e422966ad164f1f0f7b25e6ca95c7da1ccfa4",
+      "bytes": 5230911,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "bookId": "018-ca7701582aeb",
+      "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第6期）.epub",
+      "sha256": "80d4722f8ea82aa8a0644e779d1ee2e5511e38fe68aae05a9941ea1c2f6bb84b",
+      "bytes": 4106356,
+      "adsAbsent": true,
+      "fatals": 0,
+      "errors": 0,
+      "warnings": 0
+    }
+  ]
+}

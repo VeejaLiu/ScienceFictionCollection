@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "authorId": "017",
+  "books": [
+    {
+      "id": "017-bda371f795c2",
+      "path": "[2022]《海中山》.epub",
+      "title": "海中山",
+      "format": "epub",
+      "size": 764179,
+      "language": "zh-CN",
+      "series": "",
+      "cover": "covers/embedded/017-bda371f795c2.webp",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供 EPUB 内置封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/017%20-%20Ray%20Nayler%28%E9%9B%B7%C2%B7%E5%86%85%E5%8B%92%29/%5B2022%5D%E3%80%8A%E6%B5%B7%E4%B8%AD%E5%B1%B1%E3%80%8B.epub"
+      },
+      "slug": "海中山",
+      "workId": "017-bda371f795c2",
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 2022,
+        "firstPublicationDate": "2022-10-04",
+        "sourceUrl": "https://us.macmillan.com/books/9780374605964/themountaininthesea/",
+        "editionYear": 2026,
+        "editionDate": "2026-06",
+        "publisher": "江苏凤凰文艺出版社·湛庐文化",
+        "isbn": "9787580809360",
+        "editionSource": "用户提供EPUB内的版权信息页",
+        "note": "2022为原作首发年；2026年6月为文件内登记的本中文版本出版信息，分别记录。译者未在所核版权页中列明。"
+      },
+      "editionNote": "用户提供的原样EPUB；保留内含封面、目录、插图及署名。",
+      "textSource": {
+        "kind": "user-provided-file",
+        "label": "用户提供的本地EPUB",
+        "originalFilename": "海中山（美雷·内勒，江苏凤凰文艺出版社·湛庐文化，2026年06月）.epub",
+        "sourceSha256": "cdd2a23062b2e92beab5642e95cc0438d699347d8bdcfc3be2ac69edb1090766",
+        "sourceBytes": 1512843,
+        "textSha256": "417aa82694506c82cbcd9d35b489d75c29cb9bf61d11f3a1df0453192b8cbe8c",
+        "textBytes": 764179,
+        "importedOn": "2026-10-21",
+        "normalization": "移除下载来源推广段落、二维码及推广元数据后重新打包；其余内容保留。",
+        "spineDocuments": 64,
+        "navigationEntries": 61,
+        "review": "验证ZIP完整性、OPF清单、阅读顺序及NCX目录目标；核对文件内版权信息页，未与纸书逐页校勘。 已按用户要求清理来源广告，当前文件不再与原始EPUB逐字节一致。 另规范EPUB3导航、JPEG资源名及脚注引用；逐文档验证文字不变。",
+        "acquisitionReview": "acquisition/user-provided-2026-10-21.json",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": true,
+          "removed": {
+            "promotionalParagraphs": 1,
+            "promotionalImages": 1,
+            "promotionalMetadata": 1,
+            "promotionalResourceFiles": 1
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        },
+        "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+      },
+      "originalTitle": "The Mountain in the Sea"
+    }
+  ]
+}

@@ -22,6 +22,8 @@
 - [赫伯特·乔治·威尔斯 · H. G. Wells](014%20-%20Herbert%20George%20Wells%28%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E4%B9%94%E6%B2%BB%C2%B7%E5%A8%81%E5%B0%94%E6%96%AF%29/)
 - [奥拉夫·斯塔普尔顿 · Olaf Stapledon](015%20-%20Olaf%20Stapledon%28%E5%A5%A5%E6%8B%89%E5%A4%AB%C2%B7%E6%96%AF%E5%A1%94%E6%99%AE%E5%B0%94%E9%A1%BF%29/)
 - [菲利普·K.迪克 · Philip K. Dick](016%20-%20Philip%20Kindred%20Dick%28%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7K.%E8%BF%AA%E5%85%8B%29/)
+- [雷·内勒 · Ray Nayler](017%20-%20Ray%20Nayler%28%E9%9B%B7%C2%B7%E5%86%85%E5%8B%92%29/)
+- [科幻世界杂志社 · Science Fiction World](018%20-%20Science%20Fiction%20World%28%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E6%9D%82%E5%BF%97%E7%A4%BE%29/)
 
 ## 作品
 
@@ -259,7 +261,13 @@
 ### 011 - Andy Weir(安迪·威尔)
 - [2021]《挽救计划》.epub _[676.92KB]_
 ### 012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)
-- 0-亚瑟·克拉克汇总.md _[25.4KB]_
+- 太空漫游
+  - [1968]《2001：太空漫游》.epub _[2.79MB]_
+  - [1982]《2010：太空漫游》.epub _[2.04MB]_
+  - [1997]《3001：太空漫游》.epub _[2.05MB]_
+  - 《2061：太空漫游》.epub _[2.02MB]_
+  - 《2061：太空漫游》.txt _[356.27KB]_
+- 0-亚瑟·克拉克汇总.md _[27.47KB]_
 - [1951]《太空序曲》.txt _[294.38KB]_
 - [1953]《Encounter in the Dawn》.en.txt _[24.69KB]_
 - [1956]《The Pacifist》.en.txt _[21.93KB]_
@@ -275,6 +283,12 @@
 ### 016 - Philip Kindred Dick(菲利普·K.迪克)
 - [1953]《Second Variety》.en.txt _[90.62KB]_
 - [1953]《The Variable Man》.en.txt _[150.13KB]_
+### 017 - Ray Nayler(雷·内勒)
+- [2022]《海中山》.epub _[764.18KB]_
+### 018 - Science Fiction World(科幻世界杂志社)
+- 2026
+  - 《科幻世界》（2026年第5期）.epub _[5.23MB]_
+  - 《科幻世界》（2026年第6期）.epub _[4.11MB]_
 
 ## 更多
 

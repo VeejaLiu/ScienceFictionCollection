@@ -5152,16 +5152,213 @@
         "maxHeight": 900,
         "quality": 78
       }
+    },
+    {
+      "bookId": "012-0adb36efb819",
+      "authorId": "012",
+      "title": "2061：太空漫游",
+      "status": "reference-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-c983a66bb98a.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00024.jpg",
+        "editionMatch": "reference-edition",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "原配封面含下载站水印，改用用户提供2019年合集同作品的无下载站水印参考封面；不据此认定译本相同。",
+      "sha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
+      "sourceSha256": "2a7b79b188b08c737b54369e33d2188fd6dd2c8a107645d66a8532a76793cf26",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "012-d539f49f2c6b",
+      "authorId": "012",
+      "title": "2001：太空漫游",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-d539f49f2c6b.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1968]《2001：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00009.jpg",
+        "editionMatch": "exact-split-book",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "来自用户提供合集内该部独立封面；对应单本书名已目视核对。",
+      "sha256": "f7579cd78b8b66e701c08ddf8d89c6af91d7f3d34f0b479b93ffd5e0ac7fcea2",
+      "sourceSha256": "6085c372ec200dd637cd6132cea814479a517e58d1a5eb6f0b7266cc1b674e8a",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "012-c28f9e19543e",
+      "authorId": "012",
+      "title": "2010：太空漫游",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-c28f9e19543e.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1982]《2010：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00004.jpg",
+        "editionMatch": "exact-split-book",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "来自用户提供合集内该部独立封面；对应单本书名已目视核对。",
+      "sha256": "b768e97a83f1212a8ef7e68f02222b6658f4e61ad86cf81aec0f7fb2d0212e78",
+      "sourceSha256": "92258d43cca9bf86ae5582d3b7d20005128b10e492e6a976ce955970223dda59",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "012-c983a66bb98a",
+      "authorId": "012",
+      "title": "2061：太空漫游",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-c983a66bb98a.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00024.jpg",
+        "editionMatch": "exact-split-book",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "来自用户提供合集内该部独立封面；对应单本书名已目视核对。",
+      "sha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
+      "sourceSha256": "2a7b79b188b08c737b54369e33d2188fd6dd2c8a107645d66a8532a76793cf26",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "012-bfae6d156e5e",
+      "authorId": "012",
+      "title": "3001：太空漫游",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-bfae6d156e5e.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/[1997]《3001：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00006.jpg",
+        "editionMatch": "exact-split-book",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "来自用户提供合集内该部独立封面；对应单本书名已目视核对。",
+      "sha256": "2108ad1aedb2568aadd8338a63f04f7e3482b31e6d03f14389d056b34c4e3283",
+      "sourceSha256": "28d5aca125d0b081a7ad511e75e2d5fb2da34e35065e88b1c4af564ba6cc0869",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "017-bda371f795c2",
+      "authorId": "017",
+      "title": "海中山",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/017-bda371f795c2.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "017 - Ray Nayler(雷·内勒)/[2022]《海中山》.epub",
+        "archiveEntry": "EPUB/images/cover.jpg",
+        "editionMatch": "exact-file",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "sha256": "1ab106b664ac9f897c522599e3e0e22cc639643f11eb04069a967aaed8a270a7",
+      "sourceSha256": "07c8c4a12caa9aae97c8a345a0cc8d7f64ee69d6816f0f83c996c98a5089ba70",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "018-ca7701582aeb",
+      "authorId": "018",
+      "title": "科幻世界（2026年第6期）",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/018-ca7701582aeb.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第6期）.epub",
+        "archiveEntry": "EPUB/images/cover.jpg",
+        "editionMatch": "exact-file",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "sha256": "0316f7d407d726def69de9d85279dcc5e3ee1f928f724ab68a50816791ce046c",
+      "sourceSha256": "bcf3801639f334061940d96bc9398a7b784c76981b0e0bdf22190fb2bbacee44",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
+      "bookId": "018-521ad1f3a823",
+      "authorId": "018",
+      "title": "科幻世界（2026年第5期）",
+      "status": "embedded-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/018-521ad1f3a823.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "018 - Science Fiction World(科幻世界杂志社)/2026/《科幻世界》（2026年第5期）.epub",
+        "archiveEntry": "EPUB/images/cover.jpg",
+        "editionMatch": "exact-file",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "sha256": "a2ccd9eb26a7af611da2c013a549f2764e454a0895ec5784d8f9b0189eeb3465",
+      "sourceSha256": "e7006c5278c47c100d4a2d8d6fbf9fbcef77a6e7d4845d7e3d1d2461fc9ee1d0",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
     }
   ],
   "summary": {
-    "totalRecords": 211,
+    "totalRecords": 219,
     "byStatus": {
       "no-verified-cover": 147,
-      "reference-cover": 55,
+      "reference-cover": 56,
       "needs-edition-review": 2,
       "candidate-unavailable": 1,
-      "embedded-cover": 6
+      "embedded-cover": 13
     },
     "individualRemainingTitleQueries": 149,
     "novelBodiesReadForResearch": false
@@ -5170,5 +5367,6 @@
     "inputImageBytes": 9870124,
     "outputImageBytes": 1380668,
     "savedPercent": 86
-  }
+  },
+  "lastUpdated": "2026-10-21"
 }

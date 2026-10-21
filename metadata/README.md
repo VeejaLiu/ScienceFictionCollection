@@ -103,7 +103,17 @@ Web 项目执行 `pnpm metadata:prepare` 或重新启动、构建后，会同步
 
 同日英文原著专项核查保存于 `englishEditionSources`：核实9项出版社电子版，另记Rama II待验证链接；新增1951年《太空序曲》初版及1948年Against the Fall of Night原刊扫描，摘要及图像核查结果见 `textSourceChecks`。累计定位5份英文早期扫描；排除古登堡同名异作者作品，未导入英文正文。
 
-第五轮已按原刊完整范围校对并加入3篇英文短篇：The Pacifist、Encounter in the Dawn、Before Eden。逐篇完整性与美国公版判断保存于 `englishImportReview`，原始扫描/正文摘要、页段及地域限制见 `books/012.json` 的 `textSource` 和 `rights`。这3篇在26项主书目之外，克拉克目录现有4份正文；前述“未导入”属于早期轮次的历史状态。两部长篇扫描及出版社销售电子版仍未导入。
+第五轮已按原刊完整范围校对并加入3篇英文短篇：The Pacifist、Encounter in the Dawn、Before Eden。逐篇完整性与美国公版判断保存于 `englishImportReview`，原始扫描/正文摘要、页段及地域限制见 `books/012.json` 的 `textSource` 和 `rights`。这3篇在26项主书目之外，该轮完成时克拉克目录共有4份正文；前述“未导入”属于早期轮次的历史状态。两部长篇扫描及出版社销售电子版仍未导入。
+
+同日另收录用户提供的太空漫游四部曲：从2019年合集拆成4份独立EPUB，分别保留47、55、60、40章及其序言、附录和彩插，共202章。7091个源正文元素各归属一部，文字序列和原图字节保持不变；目录和资源引用逐项验证。按用户最终选择，《2061》另保留清理后的TXT，旧版独立EPUB不收录；TXT与新版EPUB共用 `workId`，未认定两种译文逐段一致。克拉克目录现有9份正文，26项主书目中5项已收录、21项待补。《2061》的首发年份沿用1987/1988待核结论，未加年份文件名前缀；详见 [拆分记录](acquisition/space-odyssey-2026-10-21.json)、`acquisition/012.json` 的 `userProvidedImportReview` 及 `books/012.json` 的 `textSource`。
+
+## 本轮用户提供的小说与期刊：2026年10月21日
+
+《海中山》归入雷·内勒（Ray Nayler）目录，原作2022年与文件所载中文版本2026年6月分别登记；不将中文出版年月作为原作首发年。内含版权信息页列ISBN 9787580809360，译者未在所核页面中列明，未推测补填。
+
+《科幻世界》2026年第5、6期归入“科幻世界杂志社”机构目录，按年份和期号保存整期，使用 `kind: "organization"` 标明出版机构；作品记录另标 `contentType: "periodical"`。保留各篇原有署名，不将杂志社视为所有文章的个人作者，也不将整期期刊拆成无可靠署名的小说记录。原始来源、书目和目录核对见 [用户文件收录记录](acquisition/user-provided-2026-10-21.json)。
+
+本轮最终新增7组作品、8份文件，其中7份EPUB和1份TXT。按用户要求清理明确的下载站推广、Telegram文字/二维码及推广元数据；不删除正文中讨论广告或社交软件的叙事和评论。保留版权信息、作者译者署名、序言、附录和插图，源下载文件未修改。清理记录见 [ad-cleanup-2026-10-21.json](acquisition/ad-cleanup-2026-10-21.json)；另规范3份原文件的EPUB导航、JPEG资源名和脚注链接，逐文档验证清理后的文字不变，见 [兼容性记录](acquisition/epub-compatibility-2026-10-21.json)。
 
 ## 经典名家扩充：2026年10月21日
 

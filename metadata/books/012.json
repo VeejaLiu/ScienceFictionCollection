@@ -233,6 +233,274 @@
           "https://www.copyright.gov/circs/circ38b.pdf"
         ]
       }
+    },
+    {
+      "id": "012-d539f49f2c6b",
+      "path": "太空漫游/[1968]《2001：太空漫游》.epub",
+      "title": "2001：太空漫游",
+      "originalTitle": "2001: A Space Odyssey",
+      "format": "epub",
+      "size": 2790401,
+      "language": "zh-CN",
+      "series": "太空漫游",
+      "cover": "covers/embedded/012-d539f49f2c6b.webp",
+      "slug": "2001-太空漫游",
+      "workId": "012-d539f49f2c6b",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供四部曲合集内的对应单本封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/012%20-%20Arthur%20Charles%20Clarke%28%E4%BA%9A%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%29/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8/%5B1968%5D%E3%80%8A2001%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8%E3%80%8B.epub"
+      },
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1968,
+        "firstPublicationDate": "1968",
+        "editionYear": 2019,
+        "publisher": "上海文艺出版社",
+        "collectionIsbn": "9787532170814",
+        "translators": [
+          "郝明义"
+        ],
+        "note": "2019年合集拆分电子版；合集ISBN不作为单本ISBN。文件名前缀为原作年份，非本中文电子版年份。"
+      },
+      "editionNote": "从用户提供的《太空漫游四部曲》拆分，保留本部正文、序言、附录和彩插，重建独立目录。",
+      "textSource": {
+        "kind": "user-provided-collection-split",
+        "label": "用户提供的太空漫游四部曲.epub",
+        "originalFilename": "太空漫游四部曲.epub",
+        "sourceSha256": "031c3f54c9421085b52450b9dee19a96225b9fd3ef68c067693f9c66406888b4",
+        "sourceBytes": 9249819,
+        "importedOn": "2026-10-21",
+        "textSha256": "ea10ed915b816b10882ce4713741a81a3e245cb0d6355f7cea11872215cd982a",
+        "textBytes": 2790401,
+        "acquisitionReview": "acquisition/space-odyssey-2026-10-21.json",
+        "chapterCount": 47,
+        "navigationEntries": 59,
+        "imageCount": 10,
+        "review": "按书名锚点切分；202章合计7091个正文元素各归属一部，文字序列和原图字节保持不变；目录与资源引用逐项校验。",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": false,
+          "removed": {
+            "promotionalResourceFiles": 0
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        }
+      }
+    },
+    {
+      "id": "012-c28f9e19543e",
+      "path": "太空漫游/[1982]《2010：太空漫游》.epub",
+      "title": "2010：太空漫游",
+      "originalTitle": "2010: Odyssey Two",
+      "format": "epub",
+      "size": 2037254,
+      "language": "zh-CN",
+      "series": "太空漫游",
+      "cover": "covers/embedded/012-c28f9e19543e.webp",
+      "slug": "2010-太空漫游",
+      "workId": "012-c28f9e19543e",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供四部曲合集内的对应单本封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/012%20-%20Arthur%20Charles%20Clarke%28%E4%BA%9A%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%29/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8/%5B1982%5D%E3%80%8A2010%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8%E3%80%8B.epub"
+      },
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1982,
+        "firstPublicationDate": "1982",
+        "editionYear": 2019,
+        "publisher": "上海文艺出版社",
+        "collectionIsbn": "9787532170814",
+        "translators": [
+          "张启阳"
+        ],
+        "note": "2019年合集拆分电子版；合集ISBN不作为单本ISBN。文件名前缀为原作年份，非本中文电子版年份。"
+      },
+      "editionNote": "从用户提供的《太空漫游四部曲》拆分，保留本部正文、序言、附录和彩插，重建独立目录。",
+      "textSource": {
+        "kind": "user-provided-collection-split",
+        "label": "用户提供的太空漫游四部曲.epub",
+        "originalFilename": "太空漫游四部曲.epub",
+        "sourceSha256": "031c3f54c9421085b52450b9dee19a96225b9fd3ef68c067693f9c66406888b4",
+        "sourceBytes": 9249819,
+        "importedOn": "2026-10-21",
+        "textSha256": "725f38fc349c2a4d91f85ab9e1fc8845805201565da935009bbf96620dbbe576",
+        "textBytes": 2037254,
+        "acquisitionReview": "acquisition/space-odyssey-2026-10-21.json",
+        "chapterCount": 55,
+        "navigationEntries": 70,
+        "imageCount": 6,
+        "review": "按书名锚点切分；202章合计7091个正文元素各归属一部，文字序列和原图字节保持不变；目录与资源引用逐项校验。",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": false,
+          "removed": {
+            "promotionalResourceFiles": 0
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        }
+      }
+    },
+    {
+      "id": "012-bfae6d156e5e",
+      "path": "太空漫游/[1997]《3001：太空漫游》.epub",
+      "title": "3001：太空漫游",
+      "originalTitle": "3001: The Final Odyssey",
+      "format": "epub",
+      "size": 2054635,
+      "language": "zh-CN",
+      "series": "太空漫游",
+      "cover": "covers/embedded/012-bfae6d156e5e.webp",
+      "slug": "3001-太空漫游",
+      "workId": "012-bfae6d156e5e",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供四部曲合集内的对应单本封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/012%20-%20Arthur%20Charles%20Clarke%28%E4%BA%9A%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%29/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8/%5B1997%5D%E3%80%8A3001%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8%E3%80%8B.epub"
+      },
+      "publication": {
+        "yearBasis": "original-book",
+        "originalBookYear": 1997,
+        "firstPublicationDate": "1997",
+        "editionYear": 2019,
+        "publisher": "上海文艺出版社",
+        "collectionIsbn": "9787532170814",
+        "translators": [
+          "钟慧元",
+          "叶李华"
+        ],
+        "note": "2019年合集拆分电子版；合集ISBN不作为单本ISBN。文件名前缀为原作年份，非本中文电子版年份。"
+      },
+      "editionNote": "从用户提供的《太空漫游四部曲》拆分，保留本部正文、序言、附录和彩插，重建独立目录。",
+      "textSource": {
+        "kind": "user-provided-collection-split",
+        "label": "用户提供的太空漫游四部曲.epub",
+        "originalFilename": "太空漫游四部曲.epub",
+        "sourceSha256": "031c3f54c9421085b52450b9dee19a96225b9fd3ef68c067693f9c66406888b4",
+        "sourceBytes": 9249819,
+        "importedOn": "2026-10-21",
+        "textSha256": "8ffc95f7556a72134ddd05aa6c833b87f880515279e94d5556de182e33ea5404",
+        "textBytes": 2054635,
+        "acquisitionReview": "acquisition/space-odyssey-2026-10-21.json",
+        "chapterCount": 40,
+        "navigationEntries": 53,
+        "imageCount": 6,
+        "review": "按书名锚点切分；202章合计7091个正文元素各归属一部，文字序列和原图字节保持不变；目录与资源引用逐项校验。",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": false,
+          "removed": {
+            "promotionalResourceFiles": 0
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        }
+      }
+    },
+    {
+      "id": "012-c983a66bb98a",
+      "path": "太空漫游/《2061：太空漫游》.epub",
+      "title": "2061：太空漫游",
+      "originalTitle": "2061: Odyssey Three",
+      "format": "epub",
+      "size": 2016210,
+      "language": "zh-CN",
+      "series": "太空漫游",
+      "cover": "covers/embedded/012-c983a66bb98a.webp",
+      "slug": "2061-太空漫游-epub",
+      "workId": "012-0adb36efb819",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供四部曲合集内的对应单本封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/012%20-%20Arthur%20Charles%20Clarke%28%E4%BA%9A%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%29/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8/%E3%80%8A2061%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8%E3%80%8B.epub"
+      },
+      "publication": {
+        "yearBasis": "unresolved-first-publication",
+        "originalBookYear": null,
+        "firstPublicationDate": null,
+        "editionYear": 2019,
+        "publisher": "上海文艺出版社",
+        "collectionIsbn": "9787532170814",
+        "translators": [
+          "张启阳"
+        ],
+        "note": "2019年合集拆分电子版；合集ISBN不作为单本ISBN。原作1987/1988首发口径仍待核，文件名不加原作年份。"
+      },
+      "editionNote": "从用户提供的《太空漫游四部曲》拆分，保留本部正文、序言、附录和彩插，重建独立目录。",
+      "textSource": {
+        "kind": "user-provided-collection-split",
+        "label": "用户提供的太空漫游四部曲.epub",
+        "originalFilename": "太空漫游四部曲.epub",
+        "sourceSha256": "031c3f54c9421085b52450b9dee19a96225b9fd3ef68c067693f9c66406888b4",
+        "sourceBytes": 9249819,
+        "importedOn": "2026-10-21",
+        "textSha256": "5a1d61d483bdc650354c746e2256b9b8ee2e8efcb777f25c7a7a974cb227e07e",
+        "textBytes": 2016210,
+        "acquisitionReview": "acquisition/space-odyssey-2026-10-21.json",
+        "chapterCount": 60,
+        "navigationEntries": 75,
+        "imageCount": 6,
+        "review": "按书名锚点切分；202章合计7091个正文元素各归属一部，文字序列和原图字节保持不变；目录与资源引用逐项校验。",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": false,
+          "removed": {
+            "promotionalResourceFiles": 0
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        }
+      }
+    },
+    {
+      "id": "012-0adb36efb819",
+      "path": "太空漫游/《2061：太空漫游》.txt",
+      "title": "2061：太空漫游",
+      "originalTitle": "2061: Odyssey Three",
+      "format": "txt",
+      "size": 356271,
+      "language": "zh-CN",
+      "series": "太空漫游",
+      "cover": "covers/embedded/012-c983a66bb98a.webp",
+      "slug": "2061-太空漫游",
+      "workId": "012-0adb36efb819",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "2019年合集参考封面（本文件译本未核定）",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/012%20-%20Arthur%20Charles%20Clarke%28%E4%BA%9A%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B%29/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8/%E3%80%8A2061%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8%E3%80%8B.epub"
+      },
+      "publication": {
+        "yearBasis": "unresolved-first-publication",
+        "firstPublicationDate": null,
+        "editionYear": null,
+        "note": "原有书目保留1988年书版与1987年首发线索的差异，最早发表年未定；用户提供电子版的译者和纸本版次未核实。EPUB内2014-12-13为打包元数据日期，不作为原作或译本首发年。",
+        "acquisitionReview": "acquisition/012.json#2061-odyssey-three"
+      },
+      "editionNote": "用户提供的中文TXT，已转换为UTF-8并清理下载站推广；译者、ISBN和纸本底本未核定。与新版EPUB按同一作品关联，未认定译文逐段一致。",
+      "textSource": {
+        "kind": "user-provided-file",
+        "label": "用户提供的本地文件",
+        "originalFilename": "《2061：太空漫游》_qinkan.net.txt",
+        "importedOn": "2026-10-21",
+        "sourceSha256": "d9ebc63c4d009e2a6388d935275b016dcd935e78e6c16eae82560823a682b414",
+        "sourceBytes": 242515,
+        "textSha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
+        "textBytes": 356271,
+        "acquisitionReview": "acquisition/012.json#userProvidedImportReview",
+        "sourceEncoding": "gb18030",
+        "encoding": "utf-8",
+        "normalization": "GB18030转换为UTF-8，移除2行下载站推广，换行统一为LF并清理文末多余空行；其余文字和标点保留。",
+        "chapterHeadingCount": 60,
+        "review": "核对60个章节标题及首末章，未与纸本或EPUB逐段校勘。 已按用户要求清理来源广告，当前文件不再与原始EPUB逐字节一致。",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": true,
+          "removed": {
+            "promotionalTextLines": 2
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        },
+        "coverReview": "原配封面含下载站水印，改用用户提供2019年合集同作品的无下载站水印参考封面；不据此认定译本相同。"
+      }
     }
   ]
 }

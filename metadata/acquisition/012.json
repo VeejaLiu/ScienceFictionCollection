@@ -4,7 +4,7 @@
   "checkedOn": "2026-10-20",
   "issue": "https://github.com/VeejaLiu/ScienceFictionCollection/issues/5",
   "scope": "本轮覆盖原作者汇总的23项，补入时间奥德赛的两部续作，并将1953年同名短篇与1967年短篇集分开；共26项。不是克拉克全部著作或全部短篇的完整书目。",
-  "status": "partial-import-completed-US-basis",
+  "status": "partial-import-with-user-provided-files",
   "catalogSnapshot": {
     "commit": "28417e0",
     "registeredFiles": 1,
@@ -13,12 +13,12 @@
   },
   "summary": {
     "reviewedWorks": 26,
-    "present": 1,
-    "missing": 25,
-    "priority1": 12,
+    "present": 5,
+    "missing": 21,
+    "priority1": 8,
     "editionDependentYears": 2,
     "missingWorksReadyForPublicImport": 0,
-    "priority1WithChineseEditionCatalog": 9,
+    "priority1WithChineseEditionCatalog": 5,
     "chineseEditionMetadataRecords": 9,
     "relatedChineseCollectionLeads": 2,
     "additionalEnglishOriginalScansLocated": 3,
@@ -30,9 +30,11 @@
     "englishOriginalScansLocatedThisRound": 2,
     "englishOriginalScansLocatedTotal": 5,
     "englishSourcesClearedThisRound": 3,
-    "catalogRegisteredFiles": 4,
+    "catalogRegisteredFiles": 9,
     "englishOriginalStoriesImported": 3,
-    "additionalWorksImported": 3
+    "additionalWorksImported": 3,
+    "userProvidedChineseWorksImported": 4,
+    "userProvidedChineseFilesImported": 5
   },
   "conventions": {
     "priority": "0=已收录；1=代表作与太空漫游/拉玛系列优先；2=后续独立作品与中短篇；3=合集、相关资料及时间奥德赛后续。",
@@ -837,8 +839,8 @@
         "status": "verified",
         "basis": "original-language-book"
       },
-      "catalogStatus": "missing",
-      "priority": 1,
+      "catalogStatus": "present",
+      "priority": 0,
       "sourceIds": [
         "sfe",
         "uip",
@@ -849,7 +851,7 @@
         "key": "space-odyssey",
         "sequence": 1
       },
-      "note": "小说署名 Arthur C. Clarke；与 Stanley Kubrick 合作的电影剧本信息不能直接移作小说合著署名。",
+      "note": "小说署名 Arthur C. Clarke；与 Stanley Kubrick 合作的电影剧本信息不能直接移作小说合著署名。 2026年10月21日收录用户提供2019年四部曲合集的对应拆分EPUB，保留序言、附录和彩插。",
       "chineseEditionLeads": [
         {
           "title": "2001：太空漫游",
@@ -865,7 +867,18 @@
           "textAcquired": false,
           "publicRedistributionEvidence": null
         }
-      ]
+      ],
+      "importedOn": "2026-10-21",
+      "catalogId": "012-d539f49f2c6b",
+      "path": "太空漫游/[1968]《2001：太空漫游》.epub",
+      "catalogIds": [
+        "012-d539f49f2c6b"
+      ],
+      "paths": [
+        "太空漫游/[1968]《2001：太空漫游》.epub"
+      ],
+      "workId": "012-d539f49f2c6b",
+      "importSource": "user-provided-collection-split"
     },
     {
       "key": "lost-worlds-of-2001",
@@ -1004,8 +1017,8 @@
         "status": "verified",
         "basis": "original-language-book"
       },
-      "catalogStatus": "missing",
-      "priority": 1,
+      "catalogStatus": "present",
+      "priority": 0,
       "sourceIds": [
         "sfe",
         "uip",
@@ -1031,7 +1044,19 @@
           "textAcquired": false,
           "publicRedistributionEvidence": null
         }
-      ]
+      ],
+      "importedOn": "2026-10-21",
+      "catalogId": "012-c28f9e19543e",
+      "path": "太空漫游/[1982]《2010：太空漫游》.epub",
+      "catalogIds": [
+        "012-c28f9e19543e"
+      ],
+      "paths": [
+        "太空漫游/[1982]《2010：太空漫游》.epub"
+      ],
+      "workId": "012-c28f9e19543e",
+      "importSource": "user-provided-collection-split",
+      "note": " 2026年10月21日收录用户提供2019年四部曲合集的对应拆分EPUB，保留序言、附录和彩插。"
     },
     {
       "key": "songs-of-distant-earth-novel",
@@ -1104,8 +1129,8 @@
           }
         ]
       },
-      "catalogStatus": "missing",
-      "priority": 1,
+      "catalogStatus": "present",
+      "priority": 0,
       "sourceIds": [
         "sfe",
         "uip",
@@ -1118,7 +1143,7 @@
         "key": "space-odyssey",
         "sequence": 3
       },
-      "note": "1988年英美书版可核；存在1987年12月首发的二手说法，Open Library同页也混有1987年作品年及1988年版次。未取得能统一两种口径的第一版发行证据，最早发表年留空。",
+      "note": "1988年英美书版可核；1987年最早首发线索仍待核。按用户最终选择，保留经广告清理的TXT及2019年合集拆分EPUB；旧版独立EPUB不收录，两个保留版本的译文未逐段比对。",
       "chineseEditionLeads": [
         {
           "title": "2061：太空漫游",
@@ -1134,7 +1159,20 @@
           "textAcquired": false,
           "publicRedistributionEvidence": null
         }
-      ]
+      ],
+      "catalogId": "012-0adb36efb819",
+      "path": "太空漫游/《2061：太空漫游》.txt",
+      "catalogIds": [
+        "012-0adb36efb819",
+        "012-c983a66bb98a"
+      ],
+      "paths": [
+        "太空漫游/《2061：太空漫游》.txt",
+        "太空漫游/《2061：太空漫游》.epub"
+      ],
+      "workId": "012-0adb36efb819",
+      "importedOn": "2026-10-21",
+      "importSource": "user-provided-file-and-collection-split"
     },
     {
       "key": "rama-ii",
@@ -1230,8 +1268,8 @@
         "status": "verified",
         "basis": "original-language-book"
       },
-      "catalogStatus": "missing",
-      "priority": 1,
+      "catalogStatus": "present",
+      "priority": 0,
       "sourceIds": [
         "sfe",
         "uip",
@@ -1258,7 +1296,19 @@
           "textAcquired": false,
           "publicRedistributionEvidence": null
         }
-      ]
+      ],
+      "importedOn": "2026-10-21",
+      "catalogId": "012-bfae6d156e5e",
+      "path": "太空漫游/[1997]《3001：太空漫游》.epub",
+      "catalogIds": [
+        "012-bfae6d156e5e"
+      ],
+      "paths": [
+        "太空漫游/[1997]《3001：太空漫游》.epub"
+      ],
+      "workId": "012-bfae6d156e5e",
+      "importSource": "user-provided-collection-split",
+      "note": " 2026年10月21日收录用户提供2019年四部曲合集的对应拆分EPUB，保留序言、附录和彩插。"
     },
     {
       "key": "times-eye",
@@ -1583,7 +1633,7 @@
     }
   ],
   "nextSteps": [
-    "优先12项中已有9项找到出版方提供的中文版本入口；拉玛后三部的中文电子版继续核查。正文来源与公开再分发依据分别核定，本轮未确认可直接公开导入的全文。",
+    "太空漫游四部曲已由用户提供合集拆分收录，2061另保留清理后的TXT；待补优先8项中有5项找到出版方中文版本入口，其他作品逐项核定。",
     "The Pacifist、Encounter in the Dawn、Before Eden已按原刊页段校对并导入英文TXT；后续作品继续逐篇检查完整性与权利，不据此批量导入整期。",
     "有来源文件后逐本登记原名、译者、ISBN/版权页、来源及许可范围，核对完整性与章节后再添加真实正文和metadata。",
     "太空漫游、拉玛、时间奥德赛分别分组；后三部拉玛和三部时间奥德赛保留合著者，不用同名短篇/节写本替代长篇。",
@@ -1708,6 +1758,16 @@
         "US"
       ],
       "globalPublicDomain": false
+    },
+    {
+      "round": 6,
+      "date": "2026-10-21",
+      "result": "按用户最终要求收录太空漫游四部曲的4份独立EPUB及2061的TXT，舍弃旧版2061独立EPUB；合计4部作品、5份文件。四部曲合计202章，7091个源正文元素各归属一部；主书目5项已收录、21项待补，克拉克目录9份正文文件。",
+      "newWorksAdded": 4,
+      "filesAdded": 5,
+      "sourceKind": "user-provided-files-and-collection-split",
+      "review": "acquisition/space-odyssey-2026-10-21.json",
+      "adCleanup": "acquisition/ad-cleanup-2026-10-21.json"
     }
   ],
   "chineseSourceChecks": [
@@ -2395,5 +2455,48 @@
       "usco-investigation"
     ],
     "temporaryFilesRetained": false
-  }
+  },
+  "lastCatalogUpdate": "2026-10-21",
+  "userProvidedImportReview": {
+    "date": "2026-10-21",
+    "workKey": "2061-odyssey-three",
+    "catalogIds": [
+      "012-0adb36efb819",
+      "012-c983a66bb98a"
+    ],
+    "workId": "012-0adb36efb819",
+    "formats": [
+      "txt",
+      "epub"
+    ],
+    "retainedVersions": "用户最终要求保留TXT，仅使用2019年合集拆分的新版EPUB；旧版独立EPUB不收录。",
+    "txtSource": {
+      "kind": "user-provided-file",
+      "label": "用户提供的本地文件",
+      "originalFilename": "《2061：太空漫游》_qinkan.net.txt",
+      "importedOn": "2026-10-21",
+      "sourceSha256": "d9ebc63c4d009e2a6388d935275b016dcd935e78e6c16eae82560823a682b414",
+      "sourceBytes": 242515,
+      "textSha256": "19fa6eafac65f59791e902ed2f42c12d51af623e3bc5dc880d199921d81c460c",
+      "textBytes": 356271,
+      "acquisitionReview": "acquisition/012.json#userProvidedImportReview",
+      "sourceEncoding": "gb18030",
+      "encoding": "utf-8",
+      "normalization": "GB18030转换为UTF-8，移除2行下载站推广，换行统一为LF并清理文末多余空行；其余文字和标点保留。",
+      "chapterHeadingCount": 60,
+      "adCleanup": {
+        "reviewedOn": "2026-10-21",
+        "changed": true,
+        "removed": {
+          "promotionalTextLines": 2
+        },
+        "review": "acquisition/ad-cleanup-2026-10-21.json"
+      }
+    },
+    "epubReview": "acquisition/space-odyssey-2026-10-21.json",
+    "adCleanup": "acquisition/ad-cleanup-2026-10-21.json",
+    "publication": "沿用1987/1988待核结论，未添加原作年份文件名前缀。",
+    "editionComparison": "两个保留版本均有60章，未认定译文逐段相同。"
+  },
+  "collectionSplitReview": "acquisition/space-odyssey-2026-10-21.json"
 }

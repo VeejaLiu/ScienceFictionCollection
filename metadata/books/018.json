@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "authorId": "018",
+  "books": [
+    {
+      "id": "018-521ad1f3a823",
+      "path": "2026/《科幻世界》（2026年第5期）.epub",
+      "title": "科幻世界（2026年第5期）",
+      "format": "epub",
+      "size": 5230911,
+      "language": "zh-CN",
+      "series": "科幻世界/2026年",
+      "cover": "covers/embedded/018-521ad1f3a823.webp",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供 EPUB 内置封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/018%20-%20Science%20Fiction%20World%28%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E6%9D%82%E5%BF%97%E7%A4%BE%29/2026/%E3%80%8A%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E3%80%8B%EF%BC%882026%E5%B9%B4%E7%AC%AC5%E6%9C%9F%EF%BC%89.epub"
+      },
+      "slug": "科幻世界-2026-5",
+      "workId": "018-521ad1f3a823",
+      "contentType": "periodical",
+      "publication": {
+        "kind": "periodical-issue",
+        "yearBasis": "issue-publication",
+        "firstPublicationDate": "2026-05",
+        "editionYear": 2026,
+        "issueYear": 2026,
+        "issueNumber": 5,
+        "publisher": "四川科幻世界杂志社",
+        "source": "用户提供EPUB内的书名与版权信息页",
+        "note": "按期刊整期收录；杂志社为出版机构，不作为各篇作品的个人作者。"
+      },
+      "editionNote": "整期杂志保留，按2026年第5期登记；清理下载来源推广，不将各篇小说统一署名给杂志社。",
+      "textSource": {
+        "kind": "user-provided-file",
+        "label": "用户提供的本地EPUB",
+        "originalFilename": "科幻世界（2026年第5期）.epub",
+        "sourceSha256": "ec3b07227552ecd95eed6cc54b57a1f2fd112c31dd60c24e0986ea503405822a",
+        "sourceBytes": 5980539,
+        "textSha256": "ccf8da9f3b24834f9f0a426fcf3e422966ad164f1f0f7b25e6ca95c7da1ccfa4",
+        "textBytes": 5230911,
+        "importedOn": "2026-10-21",
+        "spineDocuments": 16,
+        "navigationEntries": 14,
+        "review": "验证ZIP、阅读顺序及目录；保留整期文章署名，未与纸书逐页校勘。 已按用户要求清理来源广告，当前文件不再与原始EPUB逐字节一致。 另规范EPUB3导航、JPEG资源名及脚注引用；逐文档验证文字不变。",
+        "acquisitionReview": "acquisition/user-provided-2026-10-21.json",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": true,
+          "removed": {
+            "promotionalParagraphs": 1,
+            "promotionalImages": 1,
+            "promotionalMetadata": 1,
+            "promotionalResourceFiles": 1
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        },
+        "normalization": "移除下载来源推广段落、二维码及推广元数据后重新打包；其余内容保留。",
+        "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+      }
+    },
+    {
+      "id": "018-ca7701582aeb",
+      "path": "2026/《科幻世界》（2026年第6期）.epub",
+      "title": "科幻世界（2026年第6期）",
+      "format": "epub",
+      "size": 4106356,
+      "language": "zh-CN",
+      "series": "科幻世界/2026年",
+      "cover": "covers/embedded/018-ca7701582aeb.webp",
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "用户提供 EPUB 内置封面",
+        "url": "https://github.com/VeejaLiu/ScienceFictionCollection/blob/master/018%20-%20Science%20Fiction%20World%28%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E6%9D%82%E5%BF%97%E7%A4%BE%29/2026/%E3%80%8A%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E3%80%8B%EF%BC%882026%E5%B9%B4%E7%AC%AC6%E6%9C%9F%EF%BC%89.epub"
+      },
+      "slug": "科幻世界-2026-6",
+      "workId": "018-ca7701582aeb",
+      "publication": {
+        "kind": "periodical-issue",
+        "yearBasis": "issue-publication",
+        "firstPublicationDate": "2026-06",
+        "editionYear": 2026,
+        "issueYear": 2026,
+        "issueNumber": 6,
+        "publisher": "四川科幻世界杂志社",
+        "source": "用户提供EPUB内的书名与版权信息页",
+        "note": "按期刊整期收录；杂志社为出版机构，不作为各篇作品的个人作者。"
+      },
+      "editionNote": "整期杂志原样保留，按2026年第6期登记；不将各篇小说统一署名给杂志社。",
+      "textSource": {
+        "kind": "user-provided-file",
+        "label": "用户提供的本地EPUB",
+        "originalFilename": "科幻世界（2026年第6期）.epub",
+        "sourceSha256": "bb1833561d691589aade13b6f878b76c0a3639f0c8b890e76aaf49f901ffa285",
+        "sourceBytes": 4855981,
+        "textSha256": "80d4722f8ea82aa8a0644e779d1ee2e5511e38fe68aae05a9941ea1c2f6bb84b",
+        "textBytes": 4106356,
+        "importedOn": "2026-10-21",
+        "normalization": "移除下载来源推广段落、二维码及推广元数据后重新打包；其余内容保留。",
+        "spineDocuments": 23,
+        "navigationEntries": 13,
+        "review": "验证ZIP完整性、OPF清单、阅读顺序及NCX目录目标；核对文件内版权信息页，未与纸书逐页校勘。 已按用户要求清理来源广告，当前文件不再与原始EPUB逐字节一致。 另规范EPUB3导航、JPEG资源名及脚注引用；逐文档验证文字不变。",
+        "acquisitionReview": "acquisition/user-provided-2026-10-21.json",
+        "adCleanup": {
+          "reviewedOn": "2026-10-21",
+          "changed": true,
+          "removed": {
+            "promotionalParagraphs": 1,
+            "promotionalImages": 1,
+            "promotionalMetadata": 1,
+            "promotionalResourceFiles": 1
+          },
+          "review": "acquisition/ad-cleanup-2026-10-21.json"
+        },
+        "compatibilityReview": "acquisition/epub-compatibility-2026-10-21.json"
+      },
+      "contentType": "periodical"
+    }
+  ]
+}
