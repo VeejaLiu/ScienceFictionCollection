@@ -10,7 +10,7 @@
       "size": 90616,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/periodicals/space_science_fiction_v01n06_1953-05_unksc-cape1736.webp",
       "slug": "second-variety",
       "workId": "016-076cfe90dbd5",
       "publication": {
@@ -63,6 +63,11 @@
         ],
         "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
         "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Space Science Fiction · 1953-05 原刊封面",
+        "url": "https://archive.org/details/Space_Science_Fiction_v01n06_1953-05_UnkSc-cape1736"
       }
     },
     {
@@ -73,7 +78,7 @@
       "size": 150131,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/periodicals/space_science_fiction_v02n02_1953-09_unksc-cape1736.webp",
       "slug": "variable-man",
       "workId": "016-a8df1ce8b762",
       "publication": {
@@ -132,7 +137,12 @@
           "prefix": "The Variable Man",
           "title": "The Variable Man"
         }
-      ]
+      ],
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Space Science Fiction · 1953-09 原刊封面",
+        "url": "https://archive.org/details/Space_Science_Fiction_v02n02_1953-09_UnkSc-cape1736"
+      }
     }
   ]
 }
