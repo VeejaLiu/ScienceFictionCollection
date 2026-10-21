@@ -10,7 +10,7 @@
       "size": 180915,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/editions/014-fb59edc6acb5.webp",
       "slug": "the-time-machine",
       "workId": "014-fb59edc6acb5",
       "publication": {
@@ -77,7 +77,12 @@
           "prefix": "Epilogue",
           "title": "Epilogue"
         }
-      ]
+      ],
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "1895年英文版封面",
+        "url": "https://www.gutenberg.org/ebooks/35"
+      }
     },
     {
       "id": "014-d8d2c55938c8",
@@ -87,7 +92,7 @@
       "size": 279492,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/editions/014-d8d2c55938c8.webp",
       "slug": "the-invisible-man",
       "workId": "014-d8d2c55938c8",
       "publication": {
@@ -145,7 +150,12 @@
           "prefix": "THE EPILOGUE",
           "title": "THE EPILOGUE"
         }
-      ]
+      ],
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "1897年Pearson版封面",
+        "url": "https://commons.wikimedia.org/wiki/File:Wells_-_The_Invisible_Man_-_Pearson_cover_1897.jpg"
+      }
     },
     {
       "id": "014-063672849e20",
@@ -155,7 +165,7 @@
       "size": 339438,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/editions/014-063672849e20.webp",
       "slug": "the-war-of-the-worlds",
       "workId": "014-063672849e20",
       "publication": {
@@ -208,6 +218,11 @@
         ],
         "scope": "仅针对所列英文数字版本在美国的收录依据；不适用于未经核查的译本、新导读、插图或其他地区。",
         "redistribution": "依据古登堡许可1.C及说明，正文中去除古登堡包装和商标引用；在来源记录中保留带链接的致谢。"
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "1898年英文版封面",
+        "url": "https://commons.wikimedia.org/wiki/File:The_War_of_the_Worlds_by_H._G._Wells_(US_book_cover,_1898).jpg"
       }
     }
   ]

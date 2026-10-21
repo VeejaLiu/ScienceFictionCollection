@@ -10,7 +10,7 @@
       "size": 415137,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/embedded/015-5fc56e5cd516.webp",
       "slug": "last-and-first-men",
       "workId": "015-5fc56e5cd516",
       "publication": {
@@ -56,6 +56,11 @@
         ],
         "scope": "仅针对所列完整英文EPUB及内含原作时间尺度图在美国的来源公版依据；不涵盖未经核查的译文、新导读或其他地区。",
         "redistribution": "原样保留源EPUB、来源署名及完整古登堡许可；没有修改或删除其许可。"
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "当前EPUB内嵌出版封面",
+        "url": "https://www.gutenberg.org/ebooks/79003"
       }
     }
   ]

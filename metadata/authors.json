@@ -296,7 +296,7 @@
         "zh-TW": "赫伯特·喬治·威爾斯",
         "en": "H. G. Wells"
       },
-      "avatar": "avatars/014.webp",
+      "avatar": "avatars/014-portrait.webp",
       "slug": "h-g-wells",
       "bio": {
         "zh-CN": "英国作家，代表作包括《时间机器》《世界大战》和《隐身人》，以科学设想探讨未来社会与人类处境。",
@@ -306,6 +306,10 @@
         {
           "label": "Project Gutenberg: H. G. Wells and original English works",
           "url": "https://www.gutenberg.org/ebooks/author/30"
+        },
+        {
+          "label": "头像：Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:H.G._Wells_by_Beresford_(cropped).jpg"
         }
       ]
     },
@@ -318,7 +322,7 @@
         "zh-TW": "奧拉夫·斯塔普爾頓",
         "en": "Olaf Stapledon"
       },
-      "avatar": "avatars/015.webp",
+      "avatar": "avatars/015-portrait.webp",
       "slug": "olaf-stapledon",
       "bio": {
         "zh-CN": "英国哲学家与科幻作家，《最后与最初的人》和《造星主》以漫长时间尺度描写人类、文明与宇宙的演化。",
@@ -332,6 +336,10 @@
         {
           "label": "SFE: Olaf Stapledon",
           "url": "https://sf-encyclopedia.com/entry/stapledon_olaf"
+        },
+        {
+          "label": "头像：利物浦大学档案馆",
+          "url": "https://digitalheritagelab.liverpool.ac.uk/olaf-stapledon-archive-1"
         }
       ]
     },
@@ -344,7 +352,7 @@
         "zh-TW": "菲利普·K.狄克",
         "en": "Philip K. Dick"
       },
-      "avatar": "avatars/016.webp",
+      "avatar": "avatars/016-portrait.webp",
       "slug": "philip-k-dick",
       "bio": {
         "zh-CN": "美国科幻作家，作品常通过机器、替身和不稳定的现实，追问身份、记忆与人的处境。",
@@ -358,6 +366,10 @@
         {
           "label": "Philip K. Dick bibliography: Second Variety",
           "url": "https://www.philipdick.com/mirror/websites/pkdweb/short_stories/Second%20Variety.htm"
+        },
+        {
+          "label": "头像：Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight)_(cropped).jpg"
         }
       ]
     },

@@ -20,66 +20,96 @@
     },
     {
       "authorId": "014",
-      "asset": "avatars/014.webp",
-      "kind": "generated-monogram",
-      "creator": "This project",
-      "initials": "HG",
-      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
-      "sha256": "61a2740033847ff71bd5438e6e111bc613ea1ff52cb464cebf4ac1aa13ba40cc",
+      "asset": "avatars/014-portrait.webp",
+      "kind": "reference-portrait",
+      "creator": "George Charles Beresford",
+      "created": "1920",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:H.G._Wells_by_Beresford_(cropped).jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/9/98/H.G._Wells_by_Beresford_%28cropped%29.jpg",
+      "rights": "Commons标为公版；原作1920年，摄影者1938年去世。来源页另记NPG对复制品的部分地域主张，不宣称全球无争议。",
+      "checkedOn": "2026-10-21",
+      "sourceSha256": "c567ff3718936f297db0b7ac04a9bebd385327fb32e1bbad770a56e34d834439",
+      "sourceBytes": 234990,
+      "sha256": "4c91198e7d55d1b2848315aa742ed6f433c5c2bf026fae3b4bb2869f2c245c9f",
+      "bytes": 3074,
+      "sourceDimensions": [
+        415,
+        582
+      ],
+      "dimensions": [
+        114,
+        160
+      ],
       "encoding": {
         "format": "webp",
         "maxWidth": 160,
         "maxHeight": 160,
         "quality": 85
       },
-      "generation": {
-        "background": "#f4ecd8",
-        "foreground": "#795c3e",
-        "font": "Pillow default scalable font",
-        "fontSize": 58
-      }
+      "review": "已查看原图并确认人物；仅按比例缩小并转为WebP，不绘制、不生成替代人像。",
+      "replaces": "avatars/014.webp"
     },
     {
       "authorId": "015",
-      "asset": "avatars/015.webp",
-      "kind": "generated-monogram",
-      "creator": "This project",
-      "initials": "OS",
-      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
-      "sha256": "3ca4bbb492ce04828ec566d3d2f925f3648373a6dc8abdc2d6fbc4752637a979",
+      "asset": "avatars/015-portrait.webp",
+      "kind": "reference-portrait",
+      "creator": "Photographer not identified; University of Liverpool Special Collections and Archives",
+      "created": null,
+      "sourcePage": "https://digitalheritagelab.liverpool.ac.uk/olaf-stapledon-archive-1",
+      "sourceImage": "https://static.quartexcollections.com/liverpool/media-file/bfa2e353-fd3c-45f8-8f11-264cd6f51ce7-original.jpg",
+      "rights": "大学作者档案页明确标注William Olaf Stapledon肖像，用于小尺寸作者识别并链接致谢；未见单独开放许可，不标成公版。",
+      "checkedOn": "2026-10-21",
+      "sourceSha256": "d641194abf64cd5c7fb3330ba2d0d5de3553d72db80a5fe8214ef302663f4a8b",
+      "sourceBytes": 84942,
+      "sha256": "a9522483e89942b1b3c011013e96ccb72edffbd0181443d6f4a9fee148365833",
+      "bytes": 2428,
+      "sourceDimensions": [
+        691,
+        905
+      ],
+      "dimensions": [
+        122,
+        160
+      ],
       "encoding": {
         "format": "webp",
         "maxWidth": 160,
         "maxHeight": 160,
         "quality": 85
       },
-      "generation": {
-        "background": "#f4ecd8",
-        "foreground": "#795c3e",
-        "font": "Pillow default scalable font",
-        "fontSize": 58
-      }
+      "review": "已查看原图并确认人物；仅按比例缩小并转为WebP，不绘制、不生成替代人像。",
+      "replaces": "avatars/015.webp"
     },
     {
       "authorId": "016",
-      "asset": "avatars/016.webp",
-      "kind": "generated-monogram",
-      "creator": "This project",
-      "initials": "PK",
-      "rights": "本项目生成的姓名缩写占位图，不是作者肖像；未使用第三方照片。",
-      "sha256": "f9b92a7a393b200147fc714341c927345ee050680050262960ce645090b7afa0",
+      "asset": "avatars/016-portrait.webp",
+      "kind": "reference-portrait",
+      "creator": "Arthur Knight",
+      "created": "1962 or earlier",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philip_K_Dick_in_early_1960s_(photo_by_Arthur_Knight)_(cropped).jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Philip_K_Dick_in_early_1960s_%28photo_by_Arthur_Knight%29_%28cropped%29.jpg",
+      "rights": "Commons记此照首次刊于1962年The Man in the High Castle护封背面、无单独版权声明，标为美国公版；不外推其他地域。",
+      "checkedOn": "2026-10-21",
+      "sourceSha256": "f28da6229d52ff28a4bfa99fcd1a620de0da5cc97163323bf049e4fccc547c9b",
+      "sourceBytes": 1427890,
+      "sha256": "7371be19823771a71a0c427247c56f4195173d86191c4e145b73cfae9124b062",
+      "bytes": 4414,
+      "sourceDimensions": [
+        3074,
+        4000
+      ],
+      "dimensions": [
+        123,
+        160
+      ],
       "encoding": {
         "format": "webp",
         "maxWidth": 160,
         "maxHeight": 160,
         "quality": 85
       },
-      "generation": {
-        "background": "#f4ecd8",
-        "foreground": "#795c3e",
-        "font": "Pillow default scalable font",
-        "fontSize": 58
-      }
+      "review": "已查看原图并确认人物；仅按比例缩小并转为WebP，不绘制、不生成替代人像。",
+      "replaces": "avatars/016.webp"
     },
     {
       "authorId": "017",

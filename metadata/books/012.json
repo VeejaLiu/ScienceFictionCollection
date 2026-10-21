@@ -27,7 +27,7 @@
       "size": 24689,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/periodicals/amazing_stories_v27n05_1953-06-07.webp",
       "slug": "encounter-in-the-dawn",
       "workId": "012-ec25bfc244c9",
       "publication": {
@@ -86,6 +86,11 @@
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/circs/circ38b.pdf"
         ]
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Amazing Stories · 1953-06/07 原刊封面",
+        "url": "https://archive.org/details/Amazing_Stories_v27n05_1953-06-07"
       }
     },
     {
@@ -96,7 +101,7 @@
       "size": 21934,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/periodicals/fantastic_universe_v06n03_1956-10.webp",
       "slug": "the-pacifist",
       "workId": "012-c804f7f52d7c",
       "publication": {
@@ -155,6 +160,11 @@
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/circs/circ38b.pdf"
         ]
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Fantastic Universe · 1956-10 原刊封面",
+        "url": "https://archive.org/details/Fantastic_Universe_v06n03_1956-10"
       }
     },
     {
@@ -165,7 +175,7 @@
       "size": 24269,
       "language": "en",
       "series": "",
-      "cover": null,
+      "cover": "covers/periodicals/amazing_stories_v35n06_1961-06.webp",
       "slug": "before-eden",
       "workId": "012-88c2a35057c1",
       "publication": {
@@ -232,6 +242,11 @@
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/circs/circ38b.pdf"
         ]
+      },
+      "coverStyle": "full",
+      "coverSource": {
+        "label": "Amazing Stories · 1961-06 原刊封面",
+        "url": "https://archive.org/details/Amazing_Stories_v35n06_1961-06"
       }
     },
     {
