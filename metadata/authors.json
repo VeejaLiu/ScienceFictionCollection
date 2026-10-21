@@ -394,23 +394,6 @@
           "url": "https://us.macmillan.com/books/9780374605964/themountaininthesea/"
         }
       ]
-    },
-    {
-      "id": "018",
-      "directory": "018 - Science Fiction World(科幻世界杂志社)",
-      "name": "科幻世界杂志社",
-      "names": {
-        "zh-CN": "科幻世界杂志社",
-        "zh-TW": "科幻世界雜誌社",
-        "en": "Science Fiction World"
-      },
-      "slug": "science-fiction-world",
-      "bio": {
-        "zh-CN": "《科幻世界》期刊的出版机构。本书库按年份和期号保存整期电子版，文章署名保留在原文件中。",
-        "en": "Publisher of Science Fiction World. Issues are cataloged by year and number, with individual article credits preserved in the original EPUB."
-      },
-      "avatar": "avatars/018.webp",
-      "kind": "organization"
     }
   ]
 }

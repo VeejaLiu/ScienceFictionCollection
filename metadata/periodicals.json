@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "periodicals": [
+    {
+      "id": "018",
+      "directory": "018 - Science Fiction World(科幻世界杂志社)",
+      "name": "科幻世界",
+      "names": {
+        "zh-CN": "科幻世界",
+        "zh-TW": "科幻世界",
+        "en": "Science Fiction World"
+      },
+      "slug": "science-fiction-world",
+      "bio": {
+        "zh-CN": "《科幻世界》期刊，按年份与期号收录完整杂志，保留各篇文章的作者署名。",
+        "en": "Science Fiction World, cataloged by year and issue number. Complete issues retain their individual article credits."
+      },
+      "avatar": "avatars/018.webp",
+      "kind": "periodical",
+      "publisher": "四川科幻世界杂志社",
+      "issuesFile": "issues/science-fiction-world.json"
+    }
+  ]
+}

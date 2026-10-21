@@ -13,7 +13,7 @@
 | [ScienceFictionCollection](https://github.com/VeejaLiu/ScienceFictionCollection)（本仓库） | 作者与系列目录中的小说原文，以及 `metadata/` 中的姓名、简介、语言版本、头像和封面 |
 | [ScienceFictionCollection-Web](https://github.com/VeejaLiu/ScienceFictionCollection-Web) | 书架与列表、在线阅读、语言与版本切换、阅读进度、SEO 和 GitHub Pages 发布 |
 
-当前登记 **17 位作者及1个出版机构、226 组作品、228 个作品文件**。网页通过 metadata 中的 `directory`、`path` 绑定文件，内部 ID 保持稳定，对外使用可读的 slug。截至2026年10月18日，已逐项核对全部作品文件，累计修正30个年份标注、1个版本名称，并将误署名阿西莫夫的《被遗忘的世界》节写本按原作归入柯南·道尔目录；不同译本和版本均保留。[核对来源、年份口径及5个待核条目](../metadata/publication-years/verification.json) 单独登记，[本轮8项追查记录](../metadata/publication-years/follow-up-2026-10-18.json) 包括已查明事实和未决原因。
+当前登记 **17 位作者、1种期刊、224组小说作品、2期期刊、228个阅读文件**。网页通过 metadata 中的 `directory`、`path` 绑定文件，内部 ID 保持稳定，对外使用可读的 slug。截至2026年10月18日，已逐项核对全部作品文件，累计修正30个年份标注、1个版本名称，并将误署名阿西莫夫的《被遗忘的世界》节写本按原作归入柯南·道尔目录；不同译本和版本均保留。[核对来源、年份口径及5个待核条目](../metadata/publication-years/verification.json) 单独登记，[本轮8项追查记录](../metadata/publication-years/follow-up-2026-10-18.json) 包括已查明事实和未决原因。
 
 《创世纪》的空文件尚未补入正文：已登记[番茄小说官方合集目录](https://fanqienovel.com/page/7363514084773350462)及版权页，但平台篇目与2004—2005年原刊尚未比对，也未查到可再分发的开放许可文本。目录明确标注正文缺失；其余待核条目保留原状。
 
@@ -44,7 +44,7 @@ python3 script.py
 
 README 首页与完整作品目录由 `script.py` 自动生成；本说明文档单独维护。
 
-2026年10月21日新增的用户文件包括太空漫游四部曲拆分EPUB、《2061》TXT、《海中山》及《科幻世界》2026年第5、6期，新增7组作品、8份文件；来源、广告清理及完整性核对见 [元信息维护指南](../metadata/README.md#本轮用户提供的小说与期刊2026年10月21日)。期刊按出版机构、年份及期号登记，保留整期文章署名。
+2026年10月21日新增的用户文件包括太空漫游四部曲拆分EPUB、《2061》TXT、《海中山》及《科幻世界》2026年第5、6期，新增7组作品、8份文件；来源、广告清理及完整性核对见 [元信息维护指南](../metadata/README.md#本轮用户提供的小说与期刊2026年10月21日)。期刊在独立的“期刊”分类中按刊名、年份及期号登记，保留整期文章署名。
 
 Web 主分支更新后由 GitHub Actions 自动发布。仅修改本仓库元信息时，在 [Web 的 Pages 发布工作流](https://github.com/VeejaLiu/ScienceFictionCollection-Web/actions/workflows/pages.yml) 选择 **Run workflow** 即可重新构建网站；发布会读取本仓库 `master` 的 metadata，正文则在阅读时从本仓库按需获取。
 

@@ -133,7 +133,6 @@
       }
     },
     {
-      "authorId": "018",
       "asset": "avatars/018.webp",
       "kind": "generated-monogram",
       "creator": "This project",
@@ -151,7 +150,8 @@
         "foreground": "#795c3e",
         "font": "Pillow default scalable font",
         "fontSize": 43
-      }
+      },
+      "periodicalId": "018"
     }
   ]
 }

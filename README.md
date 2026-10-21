@@ -23,7 +23,10 @@
 - [奥拉夫·斯塔普尔顿 · Olaf Stapledon](015%20-%20Olaf%20Stapledon%28%E5%A5%A5%E6%8B%89%E5%A4%AB%C2%B7%E6%96%AF%E5%A1%94%E6%99%AE%E5%B0%94%E9%A1%BF%29/)
 - [菲利普·K.迪克 · Philip K. Dick](016%20-%20Philip%20Kindred%20Dick%28%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7K.%E8%BF%AA%E5%85%8B%29/)
 - [雷·内勒 · Ray Nayler](017%20-%20Ray%20Nayler%28%E9%9B%B7%C2%B7%E5%86%85%E5%8B%92%29/)
-- [科幻世界杂志社 · Science Fiction World](018%20-%20Science%20Fiction%20World%28%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E6%9D%82%E5%BF%97%E7%A4%BE%29/)
+
+## 期刊
+
+- [科幻世界](018%20-%20Science%20Fiction%20World%28%E7%A7%91%E5%B9%BB%E4%B8%96%E7%95%8C%E6%9D%82%E5%BF%97%E7%A4%BE%29/)
 
 ## 作品
 
@@ -285,7 +288,7 @@
 - [1953]《The Variable Man》.en.txt _[150.13KB]_
 ### 017 - Ray Nayler(雷·内勒)
 - [2022]《海中山》.epub _[764.18KB]_
-### 018 - Science Fiction World(科幻世界杂志社)
+### 期刊：科幻世界
 - 2026
   - 《科幻世界》（2026年第5期）.epub _[5.23MB]_
   - 《科幻世界》（2026年第6期）.epub _[4.11MB]_

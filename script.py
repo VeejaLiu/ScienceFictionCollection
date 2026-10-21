@@ -60,9 +60,23 @@ def add_books_from_directory(path, indent_level=0):
 
 
 def author_directories(root):
+    periodical_directories = {item['directory'] for item in periodical_records(root)}
     return sorted(path.name for path in root.iterdir()
                   if path.is_dir() and not path.is_symlink()
-                  and re.match(r'^\d{3} - .+', path.name))
+                  and re.match(r'^\d{3} - .+', path.name)
+                  and path.name not in periodical_directories)
+
+
+def periodical_records(root):
+    manifest = root / 'metadata' / 'periodicals.json'
+    return json.loads(manifest.read_text(encoding='utf-8'))['periodicals'] if manifest.exists() else []
+
+
+def periodical_index(root):
+    records = periodical_records(root)
+    if not records:
+        return ''
+    return '\n## 期刊\n\n' + ''.join(f"- [{item['name']}]({quote(item['directory'], safe='')}/)\n" for item in records)
 
 
 def generate_readme(root):
@@ -77,7 +91,7 @@ def generate_readme(root):
         if english and english != name:
             name += f' · {english}'
         markdown += f"- [{name}]({quote(directory, safe='')}/)\n"
-    markdown += '\n## 作品\n\n' + generate_work_list(root)
+    markdown += periodical_index(root) + '\n## 作品\n\n' + generate_work_list(root)
     return markdown + """
 ## 更多
 
@@ -96,7 +110,7 @@ def generate_catalog(root):
         anchor = re.sub(r'[^\w\s-]', '', author.lower()).strip()
         anchor = re.sub(r'\s+', '-', anchor)
         markdown += f"- [{author}](#{anchor})\n"
-    return markdown + '\n## 作品\n\n' + generate_work_list(root)
+    return markdown + periodical_index(root) + '\n## 作品\n\n' + generate_work_list(root)
 
 
 def generate_work_list(root):
@@ -104,6 +118,9 @@ def generate_work_list(root):
     for author in author_directories(root):
         markdown += f"### {author.rstrip()}\n"
         markdown += add_books_from_directory(root / author)
+    for periodical in periodical_records(root):
+        markdown += f"### 期刊：{periodical['name']}\n"
+        markdown += add_books_from_directory(root / periodical['directory'])
     return markdown
 
 

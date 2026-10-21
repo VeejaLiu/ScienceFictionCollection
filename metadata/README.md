@@ -2,15 +2,35 @@
 
 小说正文保留在仓库原有的作者、系列目录中。此目录集中维护作者和作品的展示信息，并通过明确路径绑定正文；Web 构建只读取 JSON 和图片，不批量读取正文。
 
+维护时先区分三类内容：**小说目录、期刊目录、来源与核对记录**。网站目录只使用前两类，来源记录不生成阅读页面。
+
+| 想做什么 | 从哪里开始 |
+| --- | --- |
+| 增补小说、语言或格式版本 | `authors.json` 查作者ID → `books/<作者ID>.json` |
+| 增补期刊 | `periodicals.json` 查刊物 → 其 `issuesFile` 指向的分期清单 |
+| 更换头像、封面 | `avatars/`、`covers/`，并登记各自的来源记录 |
+| 查版本、收录或清理经过 | `acquisition/` |
+| 查原作年份依据 | `publication-years/` |
+
 ```text
 metadata/
-  authors.json          作者目录、slug、多语言姓名、头像与简介
-  books/001.json        作者 001 的作品记录
-  books/002.json        作者 002 的作品记录
-  avatars/001.webp       作者头像
-  covers/               作品封面与来源记录
-  sync.py               根据文件名、目录和文件大小同步作品记录
+  authors.json                    作家注册表，不包含杂志社或期刊
+  books/                          各作者的小说与版本目录（既有稳定ID文件名）
+    012.json                      例：亚瑟·克拉克；名称与ID对应关系见 authors.json
+  periodicals.json                期刊注册表，保存刊名、出版机构及分期清单位置
+  issues/
+    science-fiction-world.json    《科幻世界》各期，文件名使用稳定的可读刊名
+  avatars/                        作者或刊物图标及来源记录
+  covers/                         封面图片、匹配清单及来源记录
+  acquisition/                    收录研究、拆分、清理、兼容性及导入记录
+  publication-years/              年份事实核对与历史审计记录
+  sync.py                         只根据文件名、路径和大小同步目录
 ```
+
+小说与期刊的显示名称可以调整；ID、公开slug和原文路径属于稳定引用，不为美化名称批量改动。已有 `books/012.json` 等文件继续按ID维护，避免历史记录失效；新增期刊清单采用 `issues/<刊物slug>.json`，不再占用作者清单。
+
+记录文件使用小写英文与连字符，独立任务按 `<用途或对象>-YYYY-MM-DD.json` 命名；持续维护的专题使用稳定名称。`acquisition/` 中的历史编号文件保留，由本说明和作品的 `textSource` 提供入口。封面文件按来源或作品ID命名，避免依赖会改变的中文标题。
+
 
 ## 作者
 
@@ -59,6 +79,14 @@ metadata/
 完整路径为 `作者.directory / 作品.path`。网页使用明确登记的 slug，例如 `/authors/liu-cixin/` 和 `/books/三体/`；内部仍通过稳定 id 关联。slug 允许中文、字母、数字和分隔用的连字符，不通过目录名猜测作者姓名或展示标题。
 
 第一版登记 211 个作品文件，同名作品的不同格式、版本分别保留。6 份作者汇总 Markdown 不计为小说作品；已有空 TXT 记录保留，但不会进入站点地图。
+
+## 期刊与分期
+
+`periodicals.json` 使用 `schemaVersion: 1` 和 `periodicals` 数组。每种刊物登记 `id`、`slug`、`name`、多语言 `names`、`publisher`、正文所在 `directory`、图标 `avatar`，并固定 `kind: "periodical"`。`issuesFile` 明确指向分期清单，例如 `issues/science-fiction-world.json`。
+
+分期清单使用 `periodicalId` 和 `issues`，不再用 `authorId`、`books` 表示期刊。各期继续使用稳定的文件 `id`、`workId`、阅读 `slug` 和 `path`；`contentType` 固定为 `periodical`，`publication.issueYear`、`publication.issueNumber` 分别使用整数年份和期号。排序读取这些数值，不解析标题字符串，也不把第6期直接推测为6月刊。已知出版月份另在来源信息中登记。
+
+网站设有独立“期刊”入口：先按年份从新到旧分组，同一年按期号从小到大排列。整期中的文章保留原作者署名；`publisher` 表示出版机构，不作为全期文章的统一作者。阅读网址与进度ID在本次分类迁移中保持稳定，旧刊物入口仍可访问。
 
 ## 维护
 
@@ -111,7 +139,7 @@ Web 项目执行 `pnpm metadata:prepare` 或重新启动、构建后，会同步
 
 《海中山》归入雷·内勒（Ray Nayler）目录，原作2022年与文件所载中文版本2026年6月分别登记；不将中文出版年月作为原作首发年。内含版权信息页列ISBN 9787580809360，译者未在所核页面中列明，未推测补填。
 
-《科幻世界》2026年第5、6期归入“科幻世界杂志社”机构目录，按年份和期号保存整期，使用 `kind: "organization"` 标明出版机构；作品记录另标 `contentType: "periodical"`。保留各篇原有署名，不将杂志社视为所有文章的个人作者，也不将整期期刊拆成无可靠署名的小说记录。原始来源、书目和目录核对见 [用户文件收录记录](acquisition/user-provided-2026-10-21.json)。
+《科幻世界》2026年第5、6期现归入独立期刊目录：刊物见 `periodicals.json`，各期见 `issues/science-fiction-world.json`；原文仍按年份和期号保存整期。此前的作者/出版机构混合登记已迁移，不再将期刊放在 `authors.json` 与 `books/` 中。保留各篇原有署名，不将杂志社视为所有文章的个人作者，也不将整期期刊拆成无可靠署名的小说记录。原始来源、书目和目录核对见 [用户文件收录记录](acquisition/user-provided-2026-10-21.json)。
 
 本轮最终新增7组作品、8份文件，其中7份EPUB和1份TXT。按用户要求清理明确的下载站推广、Telegram文字/二维码及推广元数据；不删除正文中讨论广告或社交软件的叙事和评论。保留版权信息、作者译者署名、序言、附录和插图，源下载文件未修改。清理记录见 [ad-cleanup-2026-10-21.json](acquisition/ad-cleanup-2026-10-21.json)；另规范3份原文件的EPUB导航、JPEG资源名和脚注链接，逐文档验证清理后的文字不变，见 [兼容性记录](acquisition/epub-compatibility-2026-10-21.json)。
 
@@ -138,7 +166,6 @@ Last and First Men使用古登堡79003原样EPUB，完整保留内含许可、�
 威尔斯3部作品使用历史英文出版参考封面，《Last and First Men》使用当前EPUB内嵌封面。迪克2篇和克拉克3篇短篇使用与正文对应卷期的原刊封面，`coverSource`明确标为“原刊封面”，不冒充独立单行本。所有9项已补入`covers/catalog.json`，其中的`checkedOn`保留原批量核查日期，`lastUpdatedOn`及新增条目记录本次更新日期。图片最长边按头像160像素、封面600×900像素压缩为WebP，出版参考封面不作为TXT纸本版次的认定。
 
 本次补齐范围、图像摘要和核查说明见[图像整理记录](acquisition/visual-assets-2026-10-21.json)。正文文件、作品ID、语言和阅读地址均保持原有记录；图像来源说明不改变正文收录依据，也不表示全部素材具有全球开放许可。
-
 
 ## 多语言正文版本
 

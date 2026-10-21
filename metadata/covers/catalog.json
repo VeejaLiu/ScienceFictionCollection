@@ -5154,6 +5154,31 @@
       }
     },
     {
+      "bookId": "012-0adb36efb819",
+      "authorId": "012",
+      "title": "2061：太空漫游",
+      "status": "reference-cover",
+      "fallback": "generated",
+      "checkedOn": "2026-10-21",
+      "asset": "covers/embedded/012-c983a66bb98a.webp",
+      "source": {
+        "kind": "epub-embedded",
+        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
+        "archiveEntry": "OEBPS/Image00024.jpg",
+        "editionMatch": "reference-edition",
+        "rights": "Existing EPUB artwork; no separate open license asserted."
+      },
+      "review": "原配封面含下载站水印，改用用户提供2019年合集同作品的无下载站水印参考封面；不据此认定译本相同。",
+      "sha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
+      "sourceSha256": "2a7b79b188b08c737b54369e33d2188fd6dd2c8a107645d66a8532a76793cf26",
+      "encoding": {
+        "format": "webp",
+        "maxWidth": 600,
+        "maxHeight": 900,
+        "quality": 78
+      }
+    },
+    {
       "bookId": "014-fb59edc6acb5",
       "authorId": "014",
       "title": "The Time Machine",
@@ -5530,31 +5555,6 @@
       "review": "已查看封面图像，核对作品、作者或对应原刊卷期；出版参考封面与正文纸本版次不混同。"
     },
     {
-      "bookId": "012-0adb36efb819",
-      "authorId": "012",
-      "title": "2061：太空漫游",
-      "status": "reference-cover",
-      "fallback": "generated",
-      "checkedOn": "2026-10-21",
-      "asset": "covers/embedded/012-c983a66bb98a.webp",
-      "source": {
-        "kind": "epub-embedded",
-        "path": "012 - Arthur Charles Clarke(亚瑟·查理斯·克拉克)/太空漫游/《2061：太空漫游》.epub",
-        "archiveEntry": "OEBPS/Image00024.jpg",
-        "editionMatch": "reference-edition",
-        "rights": "Existing EPUB artwork; no separate open license asserted."
-      },
-      "review": "原配封面含下载站水印，改用用户提供2019年合集同作品的无下载站水印参考封面；不据此认定译本相同。",
-      "sha256": "dbe2f915fc3651f54f8635c24a165aeab2c2189ce5a9dfe8ba76b0e76c3e5eb7",
-      "sourceSha256": "2a7b79b188b08c737b54369e33d2188fd6dd2c8a107645d66a8532a76793cf26",
-      "encoding": {
-        "format": "webp",
-        "maxWidth": 600,
-        "maxHeight": 900,
-        "quality": 78
-      }
-    },
-    {
       "bookId": "012-d539f49f2c6b",
       "authorId": "012",
       "title": "2001：太空漫游",
@@ -5680,7 +5680,6 @@
     },
     {
       "bookId": "018-ca7701582aeb",
-      "authorId": "018",
       "title": "科幻世界（2026年第6期）",
       "status": "embedded-cover",
       "fallback": "generated",
@@ -5700,11 +5699,11 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "periodicalId": "018"
     },
     {
       "bookId": "018-521ad1f3a823",
-      "authorId": "018",
       "title": "科幻世界（2026年第5期）",
       "status": "embedded-cover",
       "fallback": "generated",
@@ -5724,7 +5723,8 @@
         "maxWidth": 600,
         "maxHeight": 900,
         "quality": 78
-      }
+      },
+      "periodicalId": "018"
     }
   ],
   "summary": {
